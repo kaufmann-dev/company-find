@@ -215,6 +215,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -330,6 +334,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -445,6 +453,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -562,6 +574,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -677,6 +693,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -792,6 +812,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -909,6 +933,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -1024,6 +1052,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -1139,6 +1171,10 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": false,
+          "liquidity_checks": [],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "not applicable",
           "events": [
             {
               "date": "2027-01-15",
@@ -1266,6 +1302,8 @@
         "enterprise_value_m": 1633.9336243721325
       }
     ],
+    "unresolved_covenant_shortfall": false,
+    "return_status": "scenario assumptions apply",
     "base_mos": 0.2300368359287739,
     "probability_weighted_cashflow_irr_exit_discount_0": 0.1160688100405115,
     "weighted_average_scenario_irr_exit_discount_0": 0.06279873424360553,
@@ -1442,6 +1480,29 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": true,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 30.232537037181977,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1492,6 +1553,29 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": true,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 30.232537037181977,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1542,6 +1626,29 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 0,
           "financing_failed": true,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 30.232537037181977,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1592,6 +1699,47 @@
           "additional_revolver_draw_m": 18.293873115559524,
           "refinancing_required_m": 127.85687311555942,
           "financing_failed": true,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 30.232537037181977,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 25.345749688982806,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 20.40238582232954,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 15.424372223442177,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1660,6 +1808,47 @@
           "additional_revolver_draw_m": 23.516302832876747,
           "refinancing_required_m": 125.57445149029968,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 36.71293476320936,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 10.090590493846697,
+              "required_m": 15,
+              "shortfall_at_least_m": 4.9094095061533025
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 11.521124829048333,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.4788751709516674
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 12.997029027263665,
+              "required_m": 15,
+              "shortfall_at_least_m": 2.0029709727363354
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1726,6 +1915,47 @@
           "additional_revolver_draw_m": 23.516302832876747,
           "refinancing_required_m": 125.57445149029968,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 36.71293476320936,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 10.090590493846697,
+              "required_m": 15,
+              "shortfall_at_least_m": 4.9094095061533025
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 11.521124829048333,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.4788751709516674
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 12.997029027263665,
+              "required_m": 15,
+              "shortfall_at_least_m": 2.0029709727363354
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1792,6 +2022,47 @@
           "additional_revolver_draw_m": 23.516302832876747,
           "refinancing_required_m": 125.57445149029968,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 36.71293476320936,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 10.090590493846697,
+              "required_m": 15,
+              "shortfall_at_least_m": 4.9094095061533025
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 11.521124829048333,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.4788751709516674
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 12.997029027263665,
+              "required_m": 15,
+              "shortfall_at_least_m": 2.0029709727363354
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1858,6 +2129,47 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 96.23550780236386,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.81918696986301,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 35.09231156164382,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 36.71293476320936,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 38.427697081017584,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 40.23758481643829,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 42.092842414872685,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1927,6 +2239,47 @@
           "additional_revolver_draw_m": 22.716185238356164,
           "refinancing_required_m": 120.02679496775768,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.766412997260275,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 34.828441698630115,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 37.50136018786693,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 11.955629889310945,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.044370110689055
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 14.474750954366112,
+              "required_m": 15,
+              "shortfall_at_least_m": 0.5252490456338883
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 17.039241882434954,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -1993,6 +2346,47 @@
           "additional_revolver_draw_m": 22.716185238356164,
           "refinancing_required_m": 120.02679496775768,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.766412997260275,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 34.828441698630115,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 37.50136018786693,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 11.955629889310945,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.044370110689055
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 14.474750954366112,
+              "required_m": 15,
+              "shortfall_at_least_m": 0.5252490456338883
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 17.039241882434954,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -2059,6 +2453,47 @@
           "additional_revolver_draw_m": 22.716185238356164,
           "refinancing_required_m": 120.02679496775768,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.766412997260275,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 34.828441698630115,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 37.50136018786693,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 11.955629889310945,
+              "required_m": 15,
+              "shortfall_at_least_m": 3.044370110689055
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 14.474750954366112,
+              "required_m": 15,
+              "shortfall_at_least_m": 0.5252490456338883
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 17.039241882434954,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": true,
+          "return_status": "conditional on unmodeled covenant cure; no cure cost or dilution included",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -2125,6 +2560,47 @@
           "additional_revolver_draw_m": 0,
           "refinancing_required_m": 90.73456425204415,
           "financing_failed": false,
+          "liquidity_checks": [
+            {
+              "date": "2026-09-30",
+              "liquidity_upper_bound_m": 33.766412997260275,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2026-12-31",
+              "liquidity_upper_bound_m": 34.828441698630115,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-03-31",
+              "liquidity_upper_bound_m": 37.50136018786693,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-06-30",
+              "liquidity_upper_bound_m": 40.28010996320937,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-09-30",
+              "liquidity_upper_bound_m": 43.165677326027364,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            },
+            {
+              "date": "2027-12-31",
+              "liquidity_upper_bound_m": 46.096614551859076,
+              "required_m": 15,
+              "shortfall_at_least_m": 0
+            }
+          ],
+          "unresolved_covenant_shortfall": false,
+          "return_status": "scenario assumptions apply",
+          "covenant_scope": "Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.",
           "events": [
             {
               "date": "2026-10-01",
@@ -2219,6 +2695,8 @@
         "enterprise_value_m": 577.799427317855
       }
     ],
+    "unresolved_covenant_shortfall": true,
+    "return_status": "unconfirmed: aggregate returns include unpriced covenant cure",
     "base_mos": 0.5389547335775026,
     "probability_weighted_cashflow_irr_exit_discount_0": 0.27696293835619235,
     "weighted_average_scenario_irr_exit_discount_0": -0.16239508431256602,

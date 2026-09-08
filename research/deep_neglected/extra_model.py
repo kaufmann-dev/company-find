@@ -19,6 +19,7 @@ def custom_return(c,sc,recognition_discount=0,share_settlement=False):
  cash=model.excess_cash(c);debt=c['debt_m'];shares=c['shares_m']
  claims=c['senior_claims_m'];unused_revolver=24.5 if c['ticker']=='GRSD' else 0
  flows=[(start,-c['price'])];events=[];failed=False;peak_draw=0;totaldraw=0;refinance=0
+ liquidity_checks=[]
  # Daily integration permits exact acquisition settlement, dividend and refinancing dates.
  # No investment interest is imputed to cash; loans bear the scenario borrowing rate.
  today=start
@@ -63,6 +64,16 @@ def custom_return(c,sc,recognition_discount=0,share_settlement=False):
     if totaldraw+draw>unused_revolver+1e-8:
      failed=True;events.append(dict(date=today.isoformat(),type='cash need exceeds disclosed revolver availability',unfunded_m=totaldraw+draw-unused_revolver));break
     cash+=draw;debt+=draw;totaldraw+=draw;peak_draw=max(peak_draw,totaldraw)
+  if (c['ticker']=='GRSD' and today<dt.date(2028,2,28)
+      and today.month in (3,6,9,12) and nextday.month!=today.month):
+   # Credit agreement sections 1.1 and 9.15(b): Availability + Qualified
+   # Cash must be at least $15m at quarter end. Treating ALL modeled cash
+   # and undrawn commitments as eligible is an optimistic upper bound;
+   # controlled-account eligibility and other draw conditions are unknown.
+   # cash excludes the operating reserve, which must be restored here.
+   liquidity=cash+c.get('minimum_cash_m',0)+unused_revolver-totaldraw
+   liquidity_checks.append(dict(date=today.isoformat(),liquidity_upper_bound_m=liquidity,
+      required_m=15,shortfall_at_least_m=max(0,15-liquidity)))
   today=nextday
  horizon_ev=model.operating_value(sc,end)[0]
  other=sc.get('other_assets_m',c.get('other_assets_m',0))
@@ -72,7 +83,12 @@ def custom_return(c,sc,recognition_discount=0,share_settlement=False):
  if not failed and horizon_ev-debt-max(0,claims)<0:
   future=max(0,(horizon_ev-debt-max(0,claims))*(1-recognition_discount)+cash+other)
  flows.append((end,future/shares))
- return dict(annualized_return=model.xirr(flows),future_equity_per_share=future/shares,exit_recognition_discount=recognition_discount,future_operating_ev_m=horizon_ev,horizon_debt_m=debt,horizon_cash_m=cash,unpaid_claims_m=max(0,claims),horizon_shares_m=shares,additional_revolver_draw_m=peak_draw,refinancing_required_m=refinance,financing_failed=failed,events=events,cashflows=[dict(date=d.isoformat(),per_share=v) for d,v in flows])
+ covenant_shortfall=any(q['shortfall_at_least_m']>1e-8 for q in liquidity_checks)
+ return dict(annualized_return=model.xirr(flows),future_equity_per_share=future/shares,exit_recognition_discount=recognition_discount,future_operating_ev_m=horizon_ev,horizon_debt_m=debt,horizon_cash_m=cash,unpaid_claims_m=max(0,claims),horizon_shares_m=shares,additional_revolver_draw_m=peak_draw,refinancing_required_m=refinance,financing_failed=failed,
+   liquidity_checks=liquidity_checks,unresolved_covenant_shortfall=covenant_shortfall,
+   return_status=('conditional on unmodeled covenant cure; no cure cost or dilution included' if covenant_shortfall else 'scenario assumptions apply'),
+   covenant_scope=('Quarter-end liquidity upper bound only. Leverage, fixed-charge coverage, cash eligibility and replacement-loan terms remain unverified. A shortfall is a modeled funding dependency, not a reported breach or assumed total loss.' if c['ticker']=='GRSD' else 'not applicable'),
+   events=events,cashflows=[dict(date=d.isoformat(),per_share=v) for d,v in flows])
 
 def stresses(c):
  base=copy.deepcopy(c['scenarios']['base']);out=[]
@@ -122,6 +138,8 @@ def main():
    for row in model.forecast_years(sc):
     annual.append(dict(ticker=c['ticker'],scenario=name,year=row['year'],**model.operating(row),**{k:row.get(k,0) for k in ['corporate_cost','tax_rate','da','capex','delta_nwc','shares_m','dividend_per_share']}))
   result['adverse_stresses']=stresses(c)
+  result['unresolved_covenant_shortfall']=any(v['0']['unresolved_covenant_shortfall'] for v in result['dated_return_cases'].values())
+  result['return_status']='unconfirmed: aggregate returns include unpriced covenant cure' if result['unresolved_covenant_shortfall'] else 'scenario assumptions apply'
   result['base_mos']=1-c['price']/result['scenarios']['base']['fair_value_per_share']
   for discount in ['0','20','40']:
    cashflows={}

@@ -4,7 +4,7 @@ All monetary amounts USD millions unless per share. Forecast numbers are analyst
 
 | Ticker | Price  | Down/base/up today  | Weighted | Gap    | IRR weighted dated proceeds | Mean scenario IRR |
 | ------ | ------ | ------------------- | -------- | ------ | --------------------------- | ----------------- |
-| GRSD   | 1.92   | 0.00/4.16/11.21     | 3.55     | +85.2% | +27.7%                      | -16.2%            |
+| GRSD   | 1.92   | 0.00/4.16/11.21     | 3.55     | +85.2% | Unconfirmed                 | Unconfirmed       |
 | PDD    | 79.63  | 71.54/121.92/158.61 | 116.66   | +46.5% | +14.6%                      | +13.6%            |
 | STLA   | 5.42   | 0.00/7.25/20.45     | 7.72     | +42.5% | +20.7%                      | -10.5%            |
 | VIPS   | 13.02  | 7.14/19.22/24.03    | 17.16    | +31.9% | +13.2%                      | +10.4%            |
@@ -349,6 +349,8 @@ June principal debt $126.438 m exceeds balance-sheet amortized-cost borrowings $
 | Other assets, base                          | 0.00                  |
 | Current operating EV (reserve retained)     | 218.08                |
 | Conventional EV before minimum-cash reserve | 213.08                |
+
+**Financing correction:** the cash-settlement base path has only $10.09 m of quarter-end liquidity in June 2027, even assuming all cash and unused commitments qualify, below the $15 m covenant. The upside path also falls short. Returns below are conditional payoffs before an unmodeled cure, not financeable expected returns. A waiver, earlier refinancing or equity settlement is required under those assumptions; none is guaranteed. The reported June 2026 position was compliant. See the dated liquidity checks in research/deep_neglected/valuations.json and the correction in its research appendix.
 
 Observed financial history; source IDs below map directly to dated primary records. Capex histories can differ from modeled all-in investment where financial reporting separately classifies capitalized development, lease additions or cloud spend.
 
