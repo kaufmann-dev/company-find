@@ -1,0 +1,232 @@
+[
+  {
+    "id": "DN01",
+    "title": "Opera 2025 Form 20-F",
+    "publication_date": "2026-03-27",
+    "url": "https://opera.gcs-web.com/static-files/75f6e636-cfb9-4d76-a034-9219a8f1c930",
+    "section": "pp.25\u201326,36\u201346; notes 1,3,4,9\u201313,16,19",
+    "supports": "2023\u201325 history; ADS ratio; search renewal; parent control; OPay; development and leases",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN02",
+    "title": "Opera Q2 2026 results",
+    "publication_date": "2026-08-19",
+    "url": "https://investor.opera.com/news-releases/news-release-details/opera-reports-second-quarter-2026-results-beyond-high-end",
+    "section": "Business highlights; consolidated statements; non-IFRS reconciliation",
+    "supports": "H1 financials; June balance; July dividend; repurchases; 288m MAUs; 2026 guidance",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN03",
+    "title": "Opera Q1 2026 results",
+    "publication_date": "2026-04-28",
+    "url": "https://investor.opera.com/static-files/7df85f85-38b6-4d05-a90f-83580e7d06da",
+    "section": "Business highlights and statements",
+    "supports": "Query/advertising growth and user mix corroboration within issuer, not independent evidence",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN04",
+    "title": "Gambling.com / Grandstand 2025 Form 20-F",
+    "publication_date": "2026-03-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839799/000183979926000048/gamb-20251231.htm",
+    "section": "Items 3,5,15; notes 5,8,13\u201316,19\u201323",
+    "supports": "2023\u201325 history; control weaknesses; acquired growth; customers and capital commitments",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN05",
+    "title": "Grandstand Q2 2026 earnings release",
+    "publication_date": "2026-08-13",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839799/000183979926000138/gamb-q22026xpressrelease.htm",
+    "section": "Highlights, outlook and financial statements",
+    "supports": "2026 revenue/EBITDA guidance; current operations",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN06",
+    "title": "Grandstand H1 2026 Form 6-K financial report",
+    "publication_date": "2026-08-13",
+    "url": "https://grandstand.com/investors/media/document/e380013d-af9f-4fb0-aee0-e9204372f868/assets/d293d430-1bb9-4014-98c1-3cba4702ff92.pdf?disposition=inline",
+    "section": "pp.2\u20136,12,18\u201329,32\u201339,58\u201364; notes 4\u201316,25",
+    "supports": "Principal debt, cash, awards, acquisition claims, contracts, tax, litigation and NDCs",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN07",
+    "title": "Grandstand Q2 2026 management call transcript",
+    "publication_date": "2026-08-13",
+    "url": "https://grandstand.com/investors/media/document/f609d165-085f-481b-9e8e-39ab434073cc/assets/GRSD_Q2_2026_Transcript.pdf?disposition=inline",
+    "section": "pp.2\u20135,7,11",
+    "supports": "Management statements: 67% non-SEO marketing, 25% workforce reduction, $13m annual savings",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN08",
+    "title": "OpticOdds API technical documentation",
+    "publication_date": null,
+    "url": "https://developer.opticodds.com/docs/opticodds-for-prediction-market-makers",
+    "section": "Prediction-market integrations, streams and order books",
+    "supports": "Observable product functionality; does not establish paid customer relationships or data rights",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN09",
+    "title": "Sportradar Q2 2026 results",
+    "publication_date": "2026-08-03",
+    "url": "https://investors.sportradar.com/news-releases/news-release-details/sportradar-reports-second-quarter-2026-financial-results",
+    "section": "Revenue and Business Highlights",
+    "supports": "Competitor demand and competitive supply; prediction-market contracts; growth partly acquired",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN10",
+    "title": "Viatris Q2 2026 results",
+    "publication_date": "2026-08-06",
+    "url": "https://newsroom.viatris.com/2026-08-06-Viatris-Reports-Second-Quarter-2026-Financial-Results",
+    "section": "Outlook; cash-flow reconciliation",
+    "supports": "Global medicines role, actual versus adjusted cash flow",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN11",
+    "title": "Organon definitive Sun Pharma acquisition agreement",
+    "publication_date": "2026-04-26",
+    "url": "https://www.organon.com/news/sun-pharma-signs-definitive-agreement-to-acquire-organon/",
+    "section": "Transaction terms and conditions",
+    "supports": "Medicines role; $14 cash acquisition; expected early 2027 close",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN12",
+    "title": "Organon shareholder vote Form 8-K",
+    "publication_date": "2026-07-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821825/000119312526314587/d128953d8k.htm",
+    "section": "Item 5.07",
+    "supports": "Shareholder approval; transaction remains conditional",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN13",
+    "title": "Perrigo Q2 2026 results",
+    "publication_date": "2026-08-05",
+    "url": "https://investor.perrigo.com/2026-08-05-Perrigo-Reports-Second-Quarter-2026-Financial-Results-From-Continuing-Operations",
+    "section": "Core OTC operations; balance and cash-flow statements",
+    "supports": "Volumes/pricing falling, divestiture, debt and cash needs",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN14",
+    "title": "Criteo Q2 2026 results",
+    "publication_date": "2026-08-05",
+    "url": "https://criteo.investorroom.com/2026-08-05-CRITEO-REPORTS-SECOND-QUARTER-2026-RESULTS",
+    "section": "Business highlights; FY26 outlook; cash-flow statement",
+    "supports": "Ad-tech role; two client scope reductions; ex-TAC decline; capex",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN15",
+    "title": "Perion Q2 2026 results",
+    "publication_date": "2026-08-10",
+    "url": "https://perion.com/investors/press/perion-reports-second-quarter-2026-results/",
+    "section": "Results, liquidity and outlook",
+    "supports": "Ad-tech and search role; operating cash; acquisition-adjusted net cash",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN16",
+    "title": "Perion acquires PRN",
+    "publication_date": "2026-08-26",
+    "url": "https://perion.com/investors/press/perion-acquires-prn-a-leading-in-store-retail-media-company-with-exclusive-multi-year-partnerships-across-some-of-north-americas/",
+    "section": "Transaction terms",
+    "supports": "Up to $12m cash at closing; post-balance acquisition",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN17",
+    "title": "Western Union Q2 2026 results",
+    "publication_date": "2026-07-30",
+    "url": "https://ir.westernunion.com/news/archived-press-releases/press-release-details/2026/Western-Union-Reports-Second-Quarter-2026-Results/default.aspx",
+    "section": "Results, outlook, Intermex assumption",
+    "supports": "Remittance role; lower guidance and acquisition-alignment issue",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN18",
+    "title": "AMN Q2 2026 results",
+    "publication_date": "2026-08-06",
+    "url": "https://ir.amnhealthcare.com/2026-08-06-AMN-HEALTHCARE-ANNOUNCES-SECOND-QUARTER-2026-RESULTS",
+    "section": "Segment results; cash and Q3 outlook",
+    "supports": "Staffing role; temporary strike windfall; client deposits",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN19",
+    "title": "Pediatrix Q2 2026 results",
+    "publication_date": "2026-08-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/893949/000119312526331488/md-ex99_1.htm",
+    "section": "Operating results; cash and outlook",
+    "supports": "Physician-services role; profitability, debt and cash",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN20",
+    "title": "TE Connectivity Q3 FY2026 results",
+    "publication_date": "2026-07-22",
+    "url": "https://www.te.com/en/about-te/news-center/corporate-news/2026/2026-07-22-te-connectivity-delivers-results-above-guidance-with-14-sales-growth-and-19-eps-growth-in-third-quarter-of-fiscal-2026.html",
+    "section": "Results and segment discussion",
+    "supports": "Connector role and strong current operating conditions",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN21",
+    "title": "ICON Q2 2026 results",
+    "publication_date": "2026-07-29",
+    "url": "https://investor.iconplc.com/node/18466/pdf",
+    "section": "Results and outlook",
+    "supports": "Clinical research outsourcing; current revenue and adjusted earnings",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN22",
+    "title": "US Treasury daily yield curve",
+    "publication_date": "2026-09-04",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+    "section": "2026-09-04 row",
+    "supports": "Five-year 4.54%, ten-year 4.78%; nominal USD discount-rate anchor",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "DN23",
+    "title": "OpticOdds litigation opposition update",
+    "publication_date": "2026-08-05",
+    "url": "https://opticodds.com/blog/opticodds-litigation-update",
+    "section": "Issuer statement and link to proposed counterclaims filed August 4",
+    "supports": "Issuer disputes allegations and seeks counterclaims; allegations are not adjudicated facts",
+    "type": "primary",
+    "accessed": "2026-09-08"
+  }
+]

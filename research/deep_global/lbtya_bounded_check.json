@@ -1,0 +1,21 @@
+{
+  "price_A": 10.765,
+  "price_C": 10.48,
+  "price_B": null,
+  "market_cap_proxy_USD_m": 3628.6595961850003,
+  "shares_basic_m": 341.08756600000004,
+  "shares_date": "2026-07-17",
+  "B_price_assumption": "Aprice proxy because MassiveBsnapshotempty; nottruequotedBprice",
+  "post_purchase_holdco_cash_proxy_USD_m": 447.3399999999999,
+  "annual_owner_distribution_upper_proxy_USD_m": 261.03808000000004,
+  "fiveyear_PV_owner_distributions_USD_m": 989.5396999757841,
+  "shareholderloan_maturity_PV_USD_m": 700.0444652468307,
+  "cash_plus_fiveyear_and_loan_USD_m": 2136.9241652226146,
+  "per_basic_share_before_overhead": 6.265030972200887,
+  "notes": "Diagnostic notcompanyfairvalue. Assumesall90%VZ/Telenet2026FCFdistributeddespiteVZguidancezero,constantVMO2payout; noduplicationofunderlyingsubsidiarydebt becauseequitycashflows. EUR907.9m receivable due2030principal creditedseparatelyassumingremainsatparentafterJulytransaction; termsnotfullyresolved. Ignoresnegativeholdcocashcosts,SBC,27.3mRSU/PSUawards,capitalcalls forupperdiagnostic; alsoexcludesunvaluedoperatingresidual/growthassets so cannotconclude stockovervalued. No managementNAV or highermultipleused.",
+  "source_ids": [
+    "DG14",
+    "DG21",
+    "DG22"
+  ]
+}

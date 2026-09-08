@@ -1,0 +1,233 @@
+[
+  {
+    "ticker": "PDD",
+    "company": "PDD Holdings",
+    "country": "China/global;Caymanissuer",
+    "listing": "NasdaqADS",
+    "value_chain": "Commerce platforms",
+    "role": "Merchant advertising and transaction services supporting Pinduoduo and Temu.",
+    "dated_primary_source": "https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-second-quarter-2026-unaudited-financial",
+    "source_date": "2026-08-24",
+    "source_ids": [
+      "DG2"
+    ],
+    "mechanism": "Weakconsumption favors value; merchant monetization and low assetintensity sustain ownercash; cash/investments material.",
+    "decision": "Advance fullDCF. Modestgrowth supportsvaluegap aftercashfloat/claims; no plannedpayout limitsfiveyearreturns ifdiscountpersists.",
+    "current_price": 79.63,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "VIPS",
+    "company": "Vipshop",
+    "country": "China;Caymanissuer",
+    "listing": "NYSEADS",
+    "value_chain": "Off-price retail",
+    "role": "Branded off-price online retailer and Shan Shan outlets; netonlineorders182.4mQ2.",
+    "dated_primary_source": "https://ir.vip.com/news-releases/news-release-details/vipshop-reports-unaudited-second-quarter-2026-financial-results",
+    "source_date": "2026-08-25",
+    "source_ids": [
+      "DG4"
+    ],
+    "mechanism": "Discountedbranded inventory plus loyalrepeatcustomers; capitalreturns fromcashflow andREITassetmonetization.",
+    "decision": "Advance fullDCF. Flatbusinessvaluedaboveprice but tax/SBC/NCI claimsturnextremeheadlinecheapness into moderate gap.",
+    "current_price": 13.015,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "JD",
+    "company": "JD.com",
+    "country": "China;Caymanissuer",
+    "listing": "NasdaqADS/HK9618",
+    "value_chain": "Commerce and logistics",
+    "role": "First-partyretail, fulfillment/logistics and neweron-demand/fooddelivery operations.",
+    "dated_primary_source": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results",
+    "source_date": "2026-08-13",
+    "source_ids": [
+      "DG9"
+    ],
+    "mechanism": "Retailcash canfundreturn or subsidize newcustomeracquisition; deliverydensitylowersunitcost.",
+    "decision": "Reject priority:Q2JDRetailEBIT13.5bnRMB versusgroup4.5bn showslarge newbusinessburden. Need verified subsidyendbefore treatingretailprofitascashforcommon.",
+    "current_price": 27.625,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "BABA",
+    "company": "Alibaba",
+    "country": "China/global;Caymanissuer",
+    "listing": "NYSEADS/HK9988",
+    "value_chain": "Commerce and cloud",
+    "role": "Domestic/international commerce, AIcloudcompute, applications;Jun2026 reorganizedsegments.",
+    "dated_primary_source": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "source_date": "2026-08-20",
+    "source_ids": [
+      "DG8",
+      "DG18"
+    ],
+    "mechanism": "Ads andmerchantfees canfundcloudcapex; AI growthonlyvaluableifcustomerrevenue exceeds capitalcost.",
+    "decision": "Reject priority:Q2FCFoutflow44.67bnRMB,capexacceleration;Aug26HKD80bnnewshareplacing requiresnewcash/sharebridge. OldnetcashandEPSnotcurrentintrinsicvalue.",
+    "current_price": 112.27,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "BIDU",
+    "company": "Baidu",
+    "country": "China;Caymanissuer",
+    "listing": "NasdaqADS/HK9888",
+    "value_chain": "Search and cloud",
+    "role": "Search advertising, cloud/AI infrastructure and intelligentdriving.",
+    "dated_primary_source": "https://ir.baidu.com/static-files/e57ce78e-e47a-4c0c-8797-3cb11c8c9b0a",
+    "source_date": "2026-08-18",
+    "source_ids": [
+      "DG10"
+    ],
+    "mechanism": "Legacyadscash canfundnewcloudcapacity butcustomercompute spendmaynotcoverreplacementcapex.",
+    "decision": "Reject priority:Q2CFO3.436bnRMB versuscapex11.39bn,FCF\u22127.954bn; substantialcashconsumption andsalesdecline requireturnaround,notsimplelowP/E.",
+    "current_price": 91.47,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "QFIN",
+    "company": "QFIN Holdings",
+    "country": "China;Caymanissuer",
+    "listing": "NasdaqADS/HK3660",
+    "value_chain": "Consumer credit platforms",
+    "role": "Consumerloanorigination servicing andcredittechnology withriskbearing/capitallightproducts.",
+    "dated_primary_source": "https://ir.qifu.tech/news-releases/news-release-details/qfin-holdings-announces-second-quarter-and-interim-2026",
+    "source_date": "2026-08-25",
+    "source_ids": [
+      "DG11"
+    ],
+    "mechanism": "Cheapfunding andrepaymentperformance underpinfees/capitalrelease; fundingcontraction canreverseearningsquickly.",
+    "decision": "Reject unconfirmedcreditmodel:originations\u221225%,netincome401mvs880mpriorquarter,managementlateJuneliquidityshock. Headlinecashincludesrestricted/securitydeposits; cannotcapitalizetrailingEPS.",
+    "current_price": 8.865,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "FINV",
+    "company": "FinVolution",
+    "country": "China/Indonesia/Philippines;Caymanissuer",
+    "listing": "NYSEADS",
+    "value_chain": "Consumer credit platforms",
+    "role": "China and international consumer loan platform, guarantees and capital-light facilitation.",
+    "dated_primary_source": "https://ir.finvgroup.com/news-releases/news-release-details/finvolution-group-reports-second-quarter-2026-unaudited",
+    "source_date": "2026-08-27",
+    "source_ids": [
+      "DG12"
+    ],
+    "mechanism": "Loan runoff can release cash and buy back cheap ADS if credit losses are covered and funding persists.",
+    "decision": "Unconfirmed after bounded runoff test: cash and short investments RMB6.421bn versus liabilities9.333bn plus NCI0.109bn. Including all net receivables and restricted release, moderate extra credit haircuts and two years fixed-cost burn yield3.37USD/ADS versus3.40price. Liability expiry could add1.26/ADS, so this does not prove overvaluation; a conservative legal and remittable liquidation floor is not established.",
+    "current_price": 3.4,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "TIGO",
+    "company": "Millicom",
+    "country": "LatinAmerica;Luxembourgissuer",
+    "listing": "Nasdaqcommon",
+    "value_chain": "Telecommunications",
+    "role": "Fixed/mobileoperators acrossLatinAmerica, expandedColombia/Ecuador/Uruguay.",
+    "dated_primary_source": "https://www.globenewswire.com/news-release/2026/08/06/3340028/0/en/Millicom-Tigo-Q2-2026-Earnings-Release.html",
+    "source_date": "2026-08-06",
+    "source_ids": [
+      "DG13"
+    ],
+    "mechanism": "Mobiledata/FTTHpenetration andscaleacquisition efficiencies leadcash; householdaffordabilitylimitARPU.",
+    "decision": "Reject priority:noestablishedextremegap. Q2revenuereported+59% vsorganic4.3%,netleverage2.73;1.1bnEFCFguideismanagementforecastandacquisitionfundingmustalign.",
+    "current_price": 94.92,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "LBTYA",
+    "company": "Liberty Global",
+    "country": "Europe;Bermudaissuer",
+    "listing": "NasdaqcommonA",
+    "value_chain": "Telecommunications",
+    "role": "Europeanconvergednetworks:VMO2stakeandnow90%ZiggoGroup; networkandgrowthinvestments.",
+    "dated_primary_source": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000111/ex991lgq22026pressrelease.htm",
+    "source_date": "2026-07-24",
+    "source_ids": [
+      "DG14",
+      "DG21",
+      "DG22"
+    ],
+    "mechanism": "Fibercompetition/householdbudgets suppressARPU;spinoffcouldimproveallocation butownedcash/distributionsmustfundclaims.",
+    "decision": "Rejectpriority afterboundedcash/dividendDCF. PostJuly31purchasecashproxy0.447bn;2026guidanceVMO2\u00a3200mtotaldistributions,VZzero,Telenet\u20ac20mFCF. Fiveyearcashstreamsdo notcovermarketcapwithoutunvaluedresidualassets. NotfullSOTPpriceconclusion.",
+    "current_price": 10.765,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "LILAK",
+    "company": "Liberty Latin America",
+    "country": "LatinAmerica/Caribbean;Bermudaissuer",
+    "listing": "NasdaqcommonC",
+    "value_chain": "Telecommunications",
+    "role": "Fixed/mobileconnectivity andregionalsubsea/terrestrialnetworks.",
+    "dated_primary_source": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000129/ex991toform_llaq22026earni.htm",
+    "source_date": "2026-08-05",
+    "source_ids": [
+      "DG15"
+    ],
+    "mechanism": "Networkrestoration andIToutsourcingcanlowercost afterstorms, withpricing/creditresilienceimportant.",
+    "decision": "Rejectpriority:debt8.534bnUSD,H1adjFCF\u22126m;500mpreferred9%claimdistributedbeforecurrentpurchase. Newcommonholderdoesnotreceivethatpastdistribution; equityleveragednotnetcash.",
+    "current_price": 8.615,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:17:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "BTI",
+    "company": "British American Tobacco",
+    "country": "Global;UKissuer",
+    "listing": "NYSEADR/LSEBATS",
+    "value_chain": "Tobacco and nicotine",
+    "role": "Combustiblecigarettes andsmokelessnicotine,vaping/heated/modernoral.",
+    "dated_primary_source": "https://www.bat.com/media/press-releases/_2026/july/half-year-report-for-the-six-months-to-30-june-2026",
+    "source_date": "2026-07-30",
+    "source_ids": [
+      "DG16"
+    ],
+    "mechanism": "Pricing/mixoffsetcigarettevolumedecline;oraladoptionimprovesmixbuttax/regulatoryclaimscapturecash.",
+    "decision": "Rejectpriorityrelativegapnotquantified:adjustedH1EPS167.7p,smokeless19.8%revenue; Canadapaymentsclaim85%2026netincomeexcludingnewcategories. Strongcashbusiness,nofullDCFshowingextrememispricing.",
+    "current_price": 55.275,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  },
+  {
+    "ticker": "IMBBY",
+    "company": "Imperial Brands",
+    "country": "Global;UKissuer",
+    "listing": "OTCADR/LSEIMB",
+    "value_chain": "Tobacco and nicotine",
+    "role": "Tobacco/nicotinebrands anddistributionexposure.",
+    "dated_primary_source": "https://www.imperialbrandsplc.com/HY26",
+    "source_date": "2026-05-12",
+    "source_ids": [
+      "DG17"
+    ],
+    "mechanism": "Price/mix anddisciplinedmarketing convertdecliningvolumetoowner cashandbuybacks.",
+    "decision": "Rejectpriorityrelativegapnotquantified:FYFCFguide\u2265\u00a32.2bnaftersettlement/restructuring versusnetdebt\u00a310.518bn. Maturecashreturncasebutmaterialclaims; nojustified50%DCFgap established.",
+    "current_price": 33.51,
+    "price_currency": "USD",
+    "price_timestamp": "2026-09-08T15:18:00Z",
+    "evidence_status": "Investigateddatedprimaryrole/financialmechanism; onlyPDD/VIPSfullymodeled. Othersrejectedresearchpriority,nofullintrinsicvaluation."
+  }
+]

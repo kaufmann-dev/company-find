@@ -1,0 +1,3277 @@
+[
+  {
+    "ticker": "STLA",
+    "company": "Stellantis N.V.",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 5.415,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "shares_m": 2919.844252,
+    "basic_shares_m": 2900.941252,
+    "balance_date": "2026-06-30",
+    "cash_m": 36297.87892,
+    "minimum_cash_m": 13953.12,
+    "debt_m": 27506.25056,
+    "senior_claims_m": 11276.44648,
+    "other_assets_m": 8795.938166729982,
+    "debt_interest_rate": 0.043,
+    "status": "Conditional turnaround candidate; fails extreme-bargain hurdle after full reinvestment",
+    "accounting_notes": "NYSE ordinary common share, 1:1 with Euronext ordinary share, no ADR multiplier. Current basic plus Q2 incremental dilutive 18.903m awards. IFRS EBIT retains SBC, no addback/future award accretion. Industrial debt includes 2567m EUR leases; forecast capex includes estimated 850m EUR/year new lease/replacement obligations, growing with scale. Pension/OPEB recognized liabilities 4243m EUR deducted; 2025 plan assets of 967m EUR are not separately credited as unavailable to common holders. NCI 458m EUR deducted at book, an approximation. Hybrid principal 4997m EUR deducted once; annual 343.5025m EUR coupon reduces shareholder cash, not FCFF; coupons assumed unchanged; future reset risk remains unresolved. Captive cash 2480m and debt 28406m third-party carrying debt excluded from industrial bridge, captive equity valued by separate DDM. Remaining reset-charge cash is delta NWC, not a duplicate EBIT charge. Price/financial figures translated at frozen EURUSD 1.16276, prior-day close Sept 7; constant FX is assumption.",
+    "scenarios": {
+      "downside": {
+        "stub_adjustment_date": "2026-09-08",
+        "probability": 0.3,
+        "wacc": 0.13,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.08,
+        "other_assets_m": 4764.583525484773,
+        "horizon_other_assets_m": 6434.9177788102525,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 78277.0032,
+                "ebit_margin": 0.014,
+                "volume": 1650.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 47.440608,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 67248.2246,
+                "ebit_margin": -0.007,
+                "volume": 2690.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11339.23552,
+                "ebit_margin": 0.1,
+                "volume": 460.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.650512,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 18655.32144,
+                "ebit_margin": 0.075,
+                "volume": 955.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.534368,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1886.5781,
+                "ebit_margin": -0.02,
+                "volume": 55.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 465.104,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1976.692,
+            "tax_rate": 0.29,
+            "da": 7267.25,
+            "capex": 10348.564,
+            "delta_nwc": 2906.9,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": -1016.25224,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin.",
+            "stub_fcff_adjustment_m": -552.7092054794521,
+            "stub_nonoperating_distributions_m": -227.64818608695654
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 75525.447936,
+                "ebit_margin": 0.01675,
+                "volume": 1600.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 47.20340495999999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 66060.75595,
+                "ebit_margin": -0.004,
+                "volume": 2642.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11519.800520399998,
+                "ebit_margin": 0.09375,
+                "volume": 465.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.773764559999996,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 18724.0579974,
+                "ebit_margin": 0.0725,
+                "volume": 953.75,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.63203984,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1843.701325,
+                "ebit_margin": -0.015,
+                "volume": 53.75,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 467.42951999999997,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 2092.968,
+            "tax_rate": 0.29,
+            "da": 7092.836,
+            "capex": 10581.116,
+            "delta_nwc": 3139.452,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": -639.518,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 72799.45129956,
+                "ebit_margin": 0.0195,
+                "volume": 1550.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 46.9673879352,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 64873.2873,
+                "ebit_margin": -0.001,
+                "volume": 2595.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11701.887689915997,
+                "ebit_margin": 0.0875,
+                "volume": 470.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.89763338279999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 18793.015537337993,
+                "ebit_margin": 0.07,
+                "volume": 952.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.730200039199993,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1800.82455,
+                "ebit_margin": -0.01,
+                "volume": 52.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 469.7666675999999,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1976.692,
+            "tax_rate": 0.29,
+            "da": 6976.56,
+            "capex": 10232.288,
+            "delta_nwc": 2906.9,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 232.552,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 70098.826493286,
+                "ebit_margin": 0.02225,
+                "volume": 1500.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 46.732550995524,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 63685.81865,
+                "ebit_margin": 0.002000000000000001,
+                "volume": 2547.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11885.507736114147,
+                "ebit_margin": 0.08125,
+                "volume": 475.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.02212154971399,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 18862.19455122544,
+                "ebit_margin": 0.0675,
+                "volume": 951.25,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.828851039395992,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1757.947775,
+                "ebit_margin": -0.005000000000000001,
+                "volume": 51.25,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 472.11550093799985,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1744.14,
+            "tax_rate": 0.29,
+            "da": 6918.4220000000005,
+            "capex": 9883.460000000001,
+            "delta_nwc": 1976.692,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 406.966,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 67423.38794879224,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 46.49888824054637,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 62498.35,
+                "ebit_margin": 0.005,
+                "volume": 2500.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12070.671435582028,
+                "ebit_margin": 0.075,
+                "volume": 480.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.147232157462557,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 18931.595529863323,
+                "ebit_margin": 0.065,
+                "volume": 950.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.927995294592975,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1715.071,
+                "ebit_margin": 0.0,
+                "volume": 50.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 474.4760784426898,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1627.864,
+            "tax_rate": 0.29,
+            "da": 6860.284,
+            "capex": 9650.908,
+            "delta_nwc": 581.38,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 465.104,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 67086.27100904829,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 46.26639379934364,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 62248.3566,
+                "ebit_margin": 0.0054,
+                "volume": 2490.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12282.662602669434,
+                "ebit_margin": 0.075,
+                "volume": 486.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.272968318249866,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19066.308778054772,
+                "ebit_margin": 0.065,
+                "volume": 952.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.027635271065932,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1680.7695800000001,
+                "ebit_margin": 0.0,
+                "volume": 49.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 476.84845883490317,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1511.588,
+            "tax_rate": 0.29,
+            "da": 6860.284,
+            "capex": 9650.908,
+            "delta_nwc": 290.69,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 430.2212,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 66750.83965400305,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 46.03506183034693,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 61998.3632,
+                "ebit_margin": 0.0058000000000000005,
+                "volume": 2480.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12496.471914641828,
+                "ebit_margin": 0.075,
+                "volume": 492.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.399333159841117,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19201.895868839885,
+                "ebit_margin": 0.065,
+                "volume": 954.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.127773447421262,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1646.4681600000001,
+                "ebit_margin": 0.0,
+                "volume": 48.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 479.2327011290777,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1395.3120000000001,
+            "tax_rate": 0.29,
+            "da": 6883.5392,
+            "capex": 9709.046,
+            "delta_nwc": 0.0,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 453.4764,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 66417.08545573303,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 45.804886521195186,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 61748.3698,
+                "ebit_margin": 0.006200000000000001,
+                "volume": 2470.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12712.11225316888,
+                "ebit_margin": 0.075,
+                "volume": 498.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.52632982564032,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19338.3621728134,
+                "ebit_margin": 0.065,
+                "volume": 956.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.228412314658367,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1612.1667400000001,
+                "ebit_margin": 0.0,
+                "volume": 47.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 481.628864634723,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1337.174,
+            "tax_rate": 0.29,
+            "da": 6906.7944,
+            "capex": 9767.184,
+            "delta_nwc": 0.0,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 476.7316,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 66085.00002845436,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 45.57586208858921,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 61498.3764,
+                "ebit_margin": 0.0066,
+                "volume": 2460.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12929.596583283334,
+                "ebit_margin": 0.075,
+                "volume": 504.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.65396147476852,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19475.713092429927,
+                "ebit_margin": 0.065,
+                "volume": 958.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.32955437623166,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1577.86532,
+                "ebit_margin": 0.0,
+                "volume": 46.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 484.0370089578966,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1279.036,
+            "tax_rate": 0.29,
+            "da": 6930.0496,
+            "capex": 9825.322,
+            "delta_nwc": 0.0,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 499.9868,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 65754.57502831209,
+                "ebit_margin": 0.025,
+                "volume": 1450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 45.34798277814627,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 61248.383,
+                "ebit_margin": 0.007,
+                "volume": 2450.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.99934,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 13148.9379538926,
+                "ebit_margin": 0.075,
+                "volume": 510.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.782231282142355,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19613.9540621883,
+                "ebit_margin": 0.065,
+                "volume": 960.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.431202148112813,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 1543.5639,
+                "ebit_margin": 0.0,
+                "volume": 45.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.30142,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 486.457194002686,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1279.036,
+            "tax_rate": 0.29,
+            "da": 6953.3048,
+            "capex": 9883.460000000001,
+            "delta_nwc": 0.0,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 523.242,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          }
+        ]
+      },
+      "base": {
+        "stub_adjustment_date": "2026-09-08",
+        "probability": 0.5,
+        "wacc": 0.11,
+        "terminal_growth": 0.015,
+        "terminal_roic": 0.1,
+        "other_assets_m": 8795.938166729982,
+        "horizon_other_assets_m": 10685.6887497707,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 80174.62752,
+                "ebit_margin": 0.025,
+                "volume": 1690.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 47.440608,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 70144.65976,
+                "ebit_margin": 0.001,
+                "volume": 2780.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.231892,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11640.39036,
+                "ebit_margin": 0.115,
+                "volume": 470.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.766788000000002,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19257.631120000002,
+                "ebit_margin": 0.085,
+                "volume": 980.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.650644,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2092.968,
+                "ebit_margin": 0.0,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 34.8828,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 465.104,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1627.864,
+            "tax_rate": 0.27,
+            "da": 7325.388,
+            "capex": 9883.460000000001,
+            "delta_nwc": 2674.348,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": -551.14824,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin.",
+            "stub_fcff_adjustment_m": -552.7092054794521,
+            "stub_nonoperating_distributions_m": 60.514074782608695
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 83161.25099664,
+                "ebit_margin": 0.0325,
+                "volume": 1742.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 47.725251648,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 71150.90761296,
+                "ebit_margin": 0.00825,
+                "volume": 2797.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.433747136,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12030.71493888,
+                "ebit_margin": 0.11125,
+                "volume": 480.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.063989456,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19737.303340039998,
+                "ebit_margin": 0.08625000000000001,
+                "volume": 992.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.886451727999997,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2103.43284,
+                "ebit_margin": 0.005,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.057214,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 472.08055999999993,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1511.588,
+            "tax_rate": 0.27,
+            "da": 7383.526,
+            "capex": 9999.736,
+            "delta_nwc": 2400.853214639,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 174.41400000000002,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 86180.82766840897,
+                "ebit_margin": 0.04,
+                "volume": 1795.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.011603157888,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 72168.76617334272,
+                "ebit_margin": 0.0155,
+                "volume": 2815.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.637217113088003,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12428.73109144128,
+                "ebit_margin": 0.10750000000000001,
+                "volume": 490.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.364757329472,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 20225.71459447968,
+                "ebit_margin": 0.0875,
+                "volume": 1005.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.125089148736,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2113.9500041999995,
+                "ebit_margin": 0.01,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.23250006999999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 479.1617683999999,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1337.174,
+            "tax_rate": 0.27,
+            "da": 7441.664,
+            "capex": 10116.012,
+            "delta_nwc": 2114.7495758814484,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.232552,
+            "stub_dividend_per_share": 0.232552,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 406.966,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 89233.64545520328,
+                "ebit_margin": 0.0475,
+                "volume": 1847.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.29967277683533,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 73198.35681260434,
+                "ebit_margin": 0.02275,
+                "volume": 2832.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.842314849992704,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12834.567208712833,
+                "ebit_margin": 0.10375000000000001,
+                "volume": 500.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.669134417425667,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 20723.005547344943,
+                "ebit_margin": 0.08875,
+                "volume": 1017.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.36659021852083,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2124.5197542209994,
+                "ebit_margin": 0.015,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.40866257034999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 486.3491949259999,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1220.898,
+            "tax_rate": 0.27,
+            "da": 7557.9400000000005,
+            "capex": 10232.288,
+            "delta_nwc": 1828.6969504554818,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.24650512000000002,
+            "stub_dividend_per_share": 0.24650512000000002,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 546.4972,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 92319.99454564303,
+                "ebit_margin": 0.055,
+                "volume": 1900.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.589470813496334,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 74239.80210105905,
+                "ebit_margin": 0.03,
+                "volume": 2850.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.049053368792645,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 13248.353655521734,
+                "ebit_margin": 0.1,
+                "volume": 510.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.97716403043477,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 21229.31898017737,
+                "ebit_margin": 0.09,
+                "volume": 1030.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.61098930114308,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2135.142352992104,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.58570588320173,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 493.6444328498898,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1162.76,
+            "tax_rate": 0.27,
+            "da": 7674.216,
+            "capex": 10348.564,
+            "delta_nwc": 379.93590714230965,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.26129542720000004,
+            "stub_dividend_per_share": 0.26129542720000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 697.6560000000001,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 93362.72458930068,
+                "ebit_margin": 0.055,
+                "volume": 1910.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.88100763837732,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 74991.26519264198,
+                "ebit_margin": 0.03,
+                "volume": 2856.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.257445795742992,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 13565.067239380798,
+                "ebit_margin": 0.1,
+                "volume": 516.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.288889998799995,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 21734.370662012585,
+                "ebit_margin": 0.09,
+                "volume": 1042.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.8583211727568,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2145.8180647570643,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.76363441261774,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 501.0490993426381,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1186.0152,
+            "tax_rate": 0.27,
+            "da": 7790.492,
+            "capex": 10464.84,
+            "delta_nwc": 197.55290843944294,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.276973152832,
+            "stub_dividend_per_share": 0.276973152832,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 755.794,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 94414.64387367855,
+                "ebit_margin": 0.055,
+                "volume": 1920.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 49.174293684207576,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 75750.00034635575,
+                "ebit_margin": 0.03,
+                "volume": 2862.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.467505362108927,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 13887.474186326079,
+                "ebit_margin": 0.1,
+                "volume": 522.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.604356678785592,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 22248.486562278693,
+                "ebit_margin": 0.09,
+                "volume": 1054.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.10862102682988,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2156.5471550808497,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.94245258468082,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 508.5648358327776,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1209.2704,
+            "tax_rate": 0.27,
+            "da": 7906.768,
+            "capex": 10581.116,
+            "delta_nwc": 199.9066584087687,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.2935915420019201,
+            "stub_dividend_per_share": 0.2935915420019201,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 831.3734000000001,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 95475.82513138375,
+                "ebit_margin": 0.055,
+                "volume": 1930.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 49.46933944631283,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 76516.07582155665,
+                "ebit_margin": 0.03,
+                "volume": 2868.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.679245405005805,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 14215.665530315579,
+                "ebit_margin": 0.1,
+                "volume": 528.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.923608958931016,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 22771.811494775862,
+                "ebit_margin": 0.09,
+                "volume": 1066.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.361924479151842,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2167.3298908562538,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.12216484760423,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 516.1933083702693,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1232.5256,
+            "tax_rate": 0.27,
+            "da": 8023.044,
+            "capex": 10697.392,
+            "delta_nwc": 202.28881632792582,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.3112070345220353,
+            "stub_dividend_per_share": 0.3112070345220353,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 860.4424,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 96546.34163700195,
+                "ebit_margin": 0.055,
+                "volume": 1940.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 49.7661554829907,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 77289.56050433857,
+                "ebit_margin": 0.03,
+                "volume": 2874.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.892679368245854,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 14549.733670277994,
+                "ebit_margin": 0.1,
+                "volume": 534.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.246692266438195,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 23304.49244358799,
+                "ebit_margin": 0.09,
+                "volume": 1078.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.61826757290166,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2178.166540310535,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.30277567184225,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 523.9362079958233,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1255.7808,
+            "tax_rate": 0.27,
+            "da": 8139.32,
+            "capex": 10813.668,
+            "delta_nwc": 204.69973696908752,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.3298794565933574,
+            "stub_dividend_per_share": 0.3298794565933574,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 883.6976,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 97626.26721098287,
+                "ebit_margin": 0.055,
+                "volume": 1950.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 50.06475241588865,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 78070.52391319243,
+                "ebit_margin": 0.03,
+                "volume": 2880.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.107820803191817,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 14889.772389763142,
+                "ebit_margin": 0.1,
+                "volume": 540.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.57365257363545,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 23846.678594316367,
+                "ebit_margin": 0.09,
+                "volume": 1090.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.877686783776483,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2189.057373012087,
+                "ebit_margin": 0.02,
+                "volume": 60.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.484289550201446,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 531.7952511157606,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1279.036,
+            "tax_rate": 0.27,
+            "da": 8255.596,
+            "capex": 10929.944,
+            "delta_nwc": 207.13977966523552,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.349672223988959,
+            "stub_dividend_per_share": 0.349672223988959,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 912.7666,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          }
+        ]
+      },
+      "upside": {
+        "stub_adjustment_date": "2026-09-08",
+        "probability": 0.2,
+        "wacc": 0.1,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.13,
+        "other_assets_m": 13265.839560948807,
+        "horizon_other_assets_m": 17012.834249781154,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 81997.8352,
+                "ebit_margin": 0.033,
+                "volume": 1720.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 47.67316,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 71481.83376,
+                "ebit_margin": 0.006,
+                "volume": 2820.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.348168,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 11943.87072,
+                "ebit_margin": 0.12,
+                "volume": 480.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 24.883063999999997,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 19569.2508,
+                "ebit_margin": 0.09,
+                "volume": 990.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 19.76692,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2305.1717,
+                "ebit_margin": 0.02,
+                "volume": 65.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.46418,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 465.104,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1511.588,
+            "tax_rate": 0.27,
+            "da": 7325.388,
+            "capex": 10116.012,
+            "delta_nwc": 2674.348,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": -609.28624,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin.",
+            "stub_fcff_adjustment_m": -552.7092054794521,
+            "stub_nonoperating_distributions_m": 24.493792173913043
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 87305.52646859999,
+                "ebit_margin": 0.0435,
+                "volume": 1815.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.102218439999994,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 73741.68630762,
+                "ebit_margin": 0.01525,
+                "volume": 2877.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.626997848,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 12628.154979999998,
+                "ebit_margin": 0.12,
+                "volume": 500.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.256309959999996,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 20414.5337165,
+                "ebit_margin": 0.0925,
+                "volume": 1017.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.0634238,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2462.54399875,
+                "ebit_margin": 0.025,
+                "volume": 68.75,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 35.8188218,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 474.40608000000003,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1337.174,
+            "tax_rate": 0.27,
+            "da": 7441.664,
+            "capex": 10406.702,
+            "delta_nwc": 2729.613902860248,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 290.69,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 92702.11435538359,
+                "ebit_margin": 0.054,
+                "volume": 1910.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.53513840595999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 76042.60630940268,
+                "ebit_margin": 0.0245,
+                "volume": 2935.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.908894824327998,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 13330.280396887994,
+                "ebit_margin": 0.12,
+                "volume": 520.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 25.63515460939999,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 21280.772039065,
+                "ebit_margin": 0.095,
+                "volume": 1045.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.364375156999998,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2622.833226305,
+                "ebit_margin": 0.03,
+                "volume": 72.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.177010018000004,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 483.8942016,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1162.76,
+            "tax_rate": 0.27,
+            "da": 7557.9400000000005,
+            "capex": 10697.392,
+            "delta_nwc": 2451.81367328807,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.406966,
+            "stub_dividend_per_share": 0.406966,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 523.242,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 98188.7690764853,
+                "ebit_margin": 0.0645,
+                "volume": 2005.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 48.97195465161362,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 78385.22380718133,
+                "ebit_margin": 0.033749999999999995,
+                "volume": 2992.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.1938926673956,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 14050.628241412134,
+                "ebit_margin": 0.12,
+                "volume": 540.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.01968192854099,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 22168.40424122073,
+                "ebit_margin": 0.0975,
+                "volume": 1072.5,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.669840784354996,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2786.0819840112254,
+                "ebit_margin": 0.035,
+                "volume": 76.25,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.53878011818001,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 493.5720856320001,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1104.622,
+            "tax_rate": 0.27,
+            "da": 7790.492,
+            "capex": 10929.944,
+            "delta_nwc": 2174.2134180473868,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.43138396,
+            "stub_dividend_per_share": 0.43138396,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 755.794,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 103766.6747113041,
+                "ebit_margin": 0.075,
+                "volume": 2100.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 49.412702243478144,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 80770.1777345477,
+                "ebit_margin": 0.043,
+                "volume": 3050.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.48202548673695,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 14789.5872081827,
+                "ebit_margin": 0.12,
+                "volume": 560.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.409977157469108,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 23077.87723573235,
+                "ebit_margin": 0.1,
+                "volume": 1100.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 20.97988839612032,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 2952.333433548944,
+                "ebit_margin": 0.04,
+                "volume": 80.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 36.904167919361804,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 503.44352734464,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1104.622,
+            "tax_rate": 0.27,
+            "da": 8023.044,
+            "capex": 11278.772,
+            "delta_nwc": 734.0560811038284,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.45726699760000006,
+            "stub_dividend_per_share": 0.45726699760000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 930.208,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 105897.15278123389,
+                "ebit_margin": 0.074,
+                "volume": 2124.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 49.85741656366944,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 82408.30286710626,
+                "ebit_margin": 0.0424,
+                "volume": 3078.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.77332776709105,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 15359.910664898242,
+                "ebit_margin": 0.119,
+                "volume": 573.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 26.80612681483114,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 23892.5263021537,
+                "ebit_margin": 0.099,
+                "volume": 1122.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.29458672206212,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 3056.4031870815447,
+                "ebit_margin": 0.04,
+                "volume": 82.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 37.273209598555425,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 513.5123978915328,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1127.8772,
+            "tax_rate": 0.27,
+            "da": 8255.596,
+            "capex": 11511.324,
+            "delta_nwc": 395.0785762278532,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.484703017456,
+            "stub_dividend_per_share": 0.484703017456,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 1023.2288,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 108057.5743557708,
+                "ebit_margin": 0.073,
+                "volume": 2148.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 50.30613331274245,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 84072.69356107526,
+                "ebit_margin": 0.0418,
+                "volume": 3106.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.067834372529056,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 15944.01616819341,
+                "ebit_margin": 0.118,
+                "volume": 586.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.2082187170536,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 24726.422318189645,
+                "ebit_margin": 0.098,
+                "volume": 1144.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.61400552289305,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 3162.2591023414425,
+                "ebit_margin": 0.04,
+                "volume": 84.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 37.64594169454098,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 523.7826458493635,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1151.1324,
+            "tax_rate": 0.27,
+            "da": 8488.148,
+            "capex": 11743.876,
+            "delta_nwc": 401.92049632910766,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.5137851985033601,
+            "stub_dividend_per_share": 0.5137851985033601,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 1220.898,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 110248.3058492741,
+                "ebit_margin": 0.07200000000000001,
+                "volume": 2172.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 50.75888851255714,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 85763.72944566462,
+                "ebit_margin": 0.0412,
+                "volume": 3134.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.36558055062687,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 16542.188856687833,
+                "ebit_margin": 0.117,
+                "volume": 599.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.616341997809403,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 25579.959396288694,
+                "ebit_margin": 0.097,
+                "volume": 1166.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 21.938215605736442,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 3269.926495587829,
+                "ebit_margin": 0.04,
+                "volume": 86.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 38.02240111148638,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 534.2582987663508,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1174.3876,
+            "tax_rate": 0.27,
+            "da": 8720.7,
+            "capex": 11976.428,
+            "delta_nwc": 408.8715143137115,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.5446123104135617,
+            "stub_dividend_per_share": 0.5446123104135617,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 1302.2912000000001,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 112469.71784613763,
+                "ebit_margin": 0.07100000000000001,
+                "volume": 2196.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 51.21571850917014,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 87481.79532379407,
+                "ebit_margin": 0.0406,
+                "volume": 3162.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.666601936683765,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 17154.719322199246,
+                "ebit_margin": 0.116,
+                "volume": 612.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 28.030587127776545,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 26453.539141709116,
+                "ebit_margin": 0.096,
+                "volume": 1188.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 22.267288839822488,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 3379.4310107889105,
+                "ebit_margin": 0.04,
+                "volume": 88.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 38.40262512260125,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 544.9434647416778,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1197.6428,
+            "tax_rate": 0.27,
+            "da": 8953.252,
+            "capex": 12208.98,
+            "delta_nwc": 415.9333325325937,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.5772890490383754,
+            "stub_dividend_per_share": 0.5772890490383754,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 1383.6844,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "North America",
+                "revenue": 114722.18514617093,
+                "ebit_margin": 0.07,
+                "volume": 2220.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 51.67665997575267,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Enlarged Europe",
+                "revenue": 89227.28123997942,
+                "ebit_margin": 0.04,
+                "volume": 3190.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 27.97093455798728,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Middle East and Africa",
+                "revenue": 17781.903709183243,
+                "ebit_margin": 0.115,
+                "volume": 625.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 28.45104593469319,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "South America",
+                "revenue": 27347.57078862799,
+                "ebit_margin": 0.095,
+                "volume": 1210.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 22.601298172419824,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Asia Pacific",
+                "revenue": 3490.7986236444535,
+                "ebit_margin": 0.04,
+                "volume": 90.0,
+                "volume_unit": "thousand wholesale vehicles",
+                "price": 38.78665137382726,
+                "price_unit": "thousand USD industrial revenue per shipped vehicle, includes parts/mix"
+              },
+              {
+                "name": "Other industrial and eliminations",
+                "revenue": 555.8423340365114,
+                "ebit_margin": 0,
+                "volume": null,
+                "price": null
+              }
+            ],
+            "corporate_cost": 1220.898,
+            "tax_rate": 0.27,
+            "da": 9185.804,
+            "capex": 12441.532000000001,
+            "delta_nwc": 423.1076799203918,
+            "shares_m": 2919.844252,
+            "dividend_per_share": 0.611926391980678,
+            "stub_dividend_per_share": 0.611926391980678,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "preferred_dividend_m": 399.4109669,
+            "nonoperating_distributions_m": 1465.0776,
+            "notes": "Analyst forecast. Regional margins before corporate/restructuring reserve; all expensed R&D and SBC retained. Capex includes cash PP&E/capitalized R&D plus new lease investment. Delta NWC separately includes remaining 2025 reset cash; FY2026 full-year legacy cash EUR2bn; separate first-stub adjustment ensures September-December deducts entire EUR1.1bn remaining at June, conservatively ignoring possible July-August payments. Other reserve covers recurring restructuring; no future scarcity margin."
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "id": "DC1",
+        "title": "Massive synchronized cyclicals market capture",
+        "publication_date": "2026-09-08",
+        "url": "https://massive.com/docs/rest/stocks/snapshots/unified-snapshot",
+        "section": "GET /v3/snapshot, /v3/reference/tickers/STLA and ASIX; /stocks/v1/dividends and splits; C:EURUSD prior bar",
+        "supports": "11 intraday quotes; ordinary share classification; shares; no split records since2025; ASIX dividends; EURUSD close1.16276 Sept7. Raw response in market_capture.json.",
+        "source_type": "Primary market/industry data"
+      },
+      {
+        "id": "DC2",
+        "title": "Stellantis second-quarter 2026 results",
+        "publication_date": "2026-07-30",
+        "url": "https://www.stellantis.com/en/news/press-releases/2026/july/second-quarter-2026-financial-results",
+        "section": "Financial highlights and 2026 guidance",
+        "supports": "Q2/H1 operating results; Q2 industrialFCF1bn; 2026 capex+R&D6.5\u20137% revenue; positive industrialFCF2027 management expectation; tariffs and reset cash.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC3",
+        "title": "Stellantis June2026 interim report",
+        "publication_date": "2026-07-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000064/stellantisnv20260630semi-a.htm",
+        "section": "Results by segment pp22\u201339; liquidity pp40\u201346; notes10\u201313,18\u201319",
+        "supports": "Regional revenue/shipments/AOI; industrial net debt bridge; cash restrictions; pensions/OPEB; provisions; hybrid terms; basic/diluted shares and SBC.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC4",
+        "title": "Stellantis FY2025 annual report and20-F",
+        "publication_date": "2026-02-26",
+        "url": "https://www.stellantis.com/content/dam/stellantis-corporate/investors/financial-reports/Stellantis-NV-20251231-Annual-Report.pdf",
+        "section": "Results pp61\u201378; statements printedpp335\u2013338; notes19\u201320,30\u201331",
+        "supports": "2023\u201325 financial history, 2024\u201325 regional margins; industrial cashflow; lease cashouts pp460; pensionliabilities and planassets pp413\u2013414; SBCpp413.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC5",
+        "title": "Stellantis supplemental industrial and financial statements",
+        "publication_date": "2026-07-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000066/stellantisnv20260630supple.htm",
+        "section": "Income statement, financial position, cashflow by activity",
+        "supports": "H1 industrial revenue79141/EBIT1136/DA3142/CFO2557EURm; captive equity9340/NI206; industrial cash31217.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC6",
+        "title": "Stellantis FaSTLAne financial framework",
+        "publication_date": "2026-05-21",
+        "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-presents-fastlane-2030-financial-framework-and-targets-at-investor-day-2026",
+        "section": "Financial targets; Financial Services",
+        "supports": "Management190bn revenue/7%AOI/6bnIFCF2030; 6bn cost reduction2028; financeAOI>1.5bn2030; managed85bn includes unconsolidated JVs, not company assets.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC7",
+        "title": "Stellantis FaSTLAne industrial footprint and regional targets",
+        "publication_date": "2026-05-21",
+        "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-unveils-60-billion-euro-strategic-plan-to-accelerate-growth-and-profit",
+        "section": "Optimized Manufacturing Footprint; regional targets",
+        "supports": "Management Europe capacity reduction>800k, utilization60\u219280%; productprogram60bn includes R&D; Europe3\u20135%AOI/NA8\u201310%. Partnerships may require definitive agreements.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC8",
+        "title": "Stellantis strategic reset announcement",
+        "publication_date": "2026-02-06",
+        "url": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-resets-its-business-to-meet-customer-preferences-and-to-support-profitable-growth",
+        "section": "Reset charges and dividend",
+        "supports": "22.2bnH225charges,6.5bn associatedcashoverfouryears; BEVprogram and supplychain cancellations; 2026commondividend suspended.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC22",
+        "title": "ACEA EU H1 registrations",
+        "publication_date": "2026-07-23",
+        "url": "https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-h1-2026-battery-electric-20-7-market-share/",
+        "section": "New EU car registrations by power source",
+        "supports": "EUcarregistrations+5.7%;BEV20.7%/hybrid37.3%; aggregateindustrygrowthdoesnotprotectStellantismargins.",
+        "source_type": "Primary market/industry data"
+      },
+      {
+        "id": "DC23",
+        "title": "Federal Reserve FRED BEA vehicle sales table",
+        "publication_date": "2026-09-02",
+        "url": "https://fred.stlouisfed.org/release/tables?eid=44958&rid=93",
+        "section": "August2026 total light vehicles",
+        "supports": "BEAsourced lightvehicleSAAR16.764m; annualizedmonthly pace, notactualannualsales.",
+        "source_type": "Primary market/industry data"
+      },
+      {
+        "id": "DC24",
+        "title": "GM Q2 shareholder letter",
+        "publication_date": "2026-07-21",
+        "url": "https://news.gm.com/home.detail.html/Pages/news/us/en/2026/jul/0721-GM-letter-shareholders-Q2-2026.html",
+        "section": "North America operatingmargin",
+        "supports": "8.6%Q2NAadjustedEBITmargin; contemporaneouscompetitivebenchmark, notSTLAforecast.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC25",
+        "title": "Renault H1 results",
+        "publication_date": "2026-07-29",
+        "url": "https://media.renaultgroup.com/renault-group-delivers-robust-performance-confirms-its-2026-fy-guidance-and-rapidly-implements-futuready/?lang=eng",
+        "section": "Automotive/finance results",
+        "supports": "Automotive3.0%operatingmargin,group5.2%;reinforcesneedto separatefinance;2.1monthsorderbook.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC26",
+        "title": "Volkswagen H1 results",
+        "publication_date": "2026-07-24",
+        "url": "https://www.volkswagen-group.com/en/press-releases/volkswagen-group-stays-on-track-in-challenging-environment-and-expects-improved-margin-in-the-second-half-of-the-year-20542",
+        "section": "Results and outlook",
+        "supports": "Group3.8%operatingmargin and4\u20135.5%FYguide;competitive urbanEV70korders; efficientrivals competeaway savings.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC28",
+        "title": "Stellantis FY2025 financial presentation",
+        "publication_date": "2026-02-26",
+        "url": "https://www.stellantis.com/content/dam/stellantis-corporate/investors/events-and-presentations/presentations/Stellantis-FY2025-Financial-Results-Presentation.pdf",
+        "section": "Slide10 industrial AOI to cash flow",
+        "supports": "IndustrialAOI/DA2024\u201325; broadcapitalmetricincludesinvestmentssoseparatefromcashPP&Ecapex.",
+        "source_type": "Primary company disclosure"
+      }
+    ],
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 220394.18144000001,
+        "ebit": 26017.91776,
+        "cfo": 20876.193040000002,
+        "capex": 10610.185,
+        "sbc": 219.76164,
+        "da": 8777.67524,
+        "source_ids": [
+          "DC4"
+        ],
+        "perimeter": "Consolidated group; not directly comparable to industrial forecast. Converted at frozen EURUSD for arithmetic only; source values in EUR.",
+        "reported_currency": "EUR",
+        "reported_revenue": 189544,
+        "reported_ebit": 22376,
+        "reported_cfo": 17954,
+        "reported_capex": 9125
+      },
+      {
+        "year": 2024,
+        "revenue": 182411.46328,
+        "ebit": 4287.09612,
+        "cfo": 1784.8366,
+        "capex": 12600.83012,
+        "sbc": 52.3242,
+        "da": 8402.10376,
+        "source_ids": [
+          "DC4"
+        ],
+        "perimeter": "Consolidated group; not directly comparable to industrial forecast. Converted at frozen EURUSD for arithmetic only; source values in EUR.",
+        "reported_currency": "EUR",
+        "reported_revenue": 156878,
+        "reported_ebit": 3687,
+        "reported_cfo": 1535,
+        "reported_capex": 10837
+      },
+      {
+        "year": 2025,
+        "revenue": 178492.96208,
+        "ebit": -30527.10104,
+        "cfo": -5406.834,
+        "capex": 10629.95192,
+        "sbc": 84.88148,
+        "da": 8117.22756,
+        "source_ids": [
+          "DC4"
+        ],
+        "perimeter": "Consolidated group; not directly comparable to industrial forecast. Converted at frozen EURUSD for arithmetic only; source values in EUR.",
+        "reported_currency": "EUR",
+        "reported_revenue": 153508,
+        "reported_ebit": -26254,
+        "reported_cfo": -4650,
+        "reported_capex": 9142
+      }
+    ],
+    "industrial_history_eur_m": [
+      {
+        "year": 2024,
+        "adjusted_operating_income": 8160,
+        "da": 7180,
+        "cfo": 6744,
+        "capex_including_payable_changes": 10761,
+        "industrial_fcf": -6045
+      },
+      {
+        "year": 2025,
+        "adjusted_operating_income": -782,
+        "da": 6893,
+        "cfo": 5050,
+        "capex_including_payable_changes": 9090,
+        "industrial_fcf": -4525
+      },
+      {
+        "year": "H1 2026",
+        "revenue": 79141,
+        "ebit": 1136,
+        "adjusted_operating_income": 1482,
+        "da": 3142,
+        "cfo": 2557,
+        "capex_including_payable_changes": 3066,
+        "industrial_fcf": -921
+      }
+    ],
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  },
+  {
+    "ticker": "ASIX",
+    "company": "AdvanSix Inc.",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 17.37,
+    "price_timestamp": "2026-09-08T15:34:00Z",
+    "shares_m": 27.556902,
+    "basic_shares_m": 27.001186,
+    "balance_date": "2026-06-30",
+    "cash_m": 7.217,
+    "minimum_cash_m": 10,
+    "debt_m": 277.139,
+    "senior_claims_m": 0,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0.065,
+    "status": "Modelled rejection: cheap-looking assets, insufficient normalized cash after replacement spend",
+    "accounting_notes": "Current basic shares plus Q2 dilutive awards 0.555716m. Keep GAAP SBC inside EBIT; no addback/additional future dilution. Revolver debt 275m June plus 2.139m finance lease liability last disclosed Dec25, conservatively not reduced for H126 principal; small stale input. Operating lease liability 148.941m excluded because rent remains expense. Capital spending includes 1m/year finance lease renewal. Defined benefit plan overfunded at December2025; no pension surplus credited to common holders. 12.2m supplier finance retained in working capital. Capitalized-interest share remains inside capex conservatively. Base annual 2026 dividend .64 but only .16 assumed after Sept8 (Sept1 already paid).",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 1533.599,
+        "ebit": 69.55,
+        "da": 73.01,
+        "cfo": 117.55,
+        "capex": 107.377,
+        "sbc": 8.313,
+        "source_ids": [
+          "DC10"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 1517.557,
+        "ebit": 58.913,
+        "da": 76.176,
+        "cfo": 135.413,
+        "capex": 133.722,
+        "sbc": 7.854,
+        "source_ids": [
+          "DC10"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 1522.233,
+        "ebit": 60.19,
+        "da": 79.74,
+        "cfo": 122.863,
+        "capex": 116.445,
+        "sbc": 6.821,
+        "source_ids": [
+          "DC10"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "DC1",
+        "title": "Massive synchronized cyclicals market capture",
+        "publication_date": "2026-09-08",
+        "url": "https://massive.com/docs/rest/stocks/snapshots/unified-snapshot",
+        "section": "GET /v3/snapshot, /v3/reference/tickers/STLA and ASIX; /stocks/v1/dividends and splits; C:EURUSD prior bar",
+        "supports": "11 intraday quotes; ordinary share classification; shares; no split records since2025; ASIX dividends; EURUSD close1.16276 Sept7. Raw response in market_capture.json.",
+        "source_type": "Primary market/industry data"
+      },
+      {
+        "id": "DC9",
+        "title": "AdvanSix Q2 results",
+        "publication_date": "2026-08-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000045/exhibit99q22026prearningsa.htm",
+        "section": "Performance and outlook; product revenue",
+        "supports": "421.3mrevenue; volume\u221215%price+18%; EBITDA31.9; FYcapex75\u201395m; sulfur pressure; product sales split.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC10",
+        "title": "AdvanSix FY2025 Form10-K",
+        "publication_date": "2026-02-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000008/asix-20251231.htm",
+        "section": "Business; statements pp43\u201346; notes8\u201310",
+        "supports": "Integrated manufacturing role; companyestimates7.7Mtnylon6,56%utilization; carpet substitution;2023\u201325history; financeleases2.139mDec25; pensionoverfunded3.007m; securedrevolver.",
+        "source_type": "Primary company disclosure"
+      },
+      {
+        "id": "DC11",
+        "title": "AdvanSix June2026 Form10-Q",
+        "publication_date": "2026-08-07",
+        "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000049/asix-20260630.htm",
+        "section": "Statements pp3\u20136; EPSnote; segmentnote12; liquidity",
+        "supports": "Debt275/cash7.217/shares27.001186; dilutiveawards.555716; H1CFO\u22125.294; revolver48mexpiresOct2026/452mOct2027; supplierfinance12.2m.",
+        "source_type": "Primary company disclosure"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.13,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.08,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1610,
+                "ebit_margin": 0.018,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 84.0,
+            "capex": 86,
+            "delta_nwc": 10,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 40,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1460,
+                "ebit_margin": 0.02,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 85.848,
+            "capex": 90,
+            "delta_nwc": -12.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1480,
+                "ebit_margin": 0.025,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 87.736656,
+            "capex": 92,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1500,
+                "ebit_margin": 0.03,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 89.666862432,
+            "capex": 94,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1520,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 91.639533405504,
+            "capex": 96,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1540,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 93.65560314042509,
+            "capex": 98,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1560,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 95.71602640951446,
+            "capex": 100,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1580,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 97.82177899052377,
+            "capex": 102,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1600,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 99.9738581283153,
+            "capex": 104,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1620,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 102.17328300713824,
+            "capex": 106,
+            "delta_nwc": 1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.115,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1640,
+                "ebit_margin": 0.025,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 84.0,
+            "capex": 86,
+            "delta_nwc": 10,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 40,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1620,
+                "ebit_margin": 0.04,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 85.848,
+            "capex": 92,
+            "delta_nwc": -1.6,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1650,
+                "ebit_margin": 0.05,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 87.736656,
+            "capex": 95,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1690,
+                "ebit_margin": 0.057,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 89.666862432,
+            "capex": 97,
+            "delta_nwc": 3.2,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1730,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 91.639533405504,
+            "capex": 99,
+            "delta_nwc": 3.2,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1760,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 93.65560314042509,
+            "capex": 101,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1790,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 95.71602640951446,
+            "capex": 103,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1820,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 97.82177899052377,
+            "capex": 105,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1850,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 99.9738581283153,
+            "capex": 107,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1880,
+                "ebit_margin": 0.06,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 102.17328300713824,
+            "capex": 109,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.105,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.15,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1680,
+                "ebit_margin": 0.035,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 84.0,
+            "capex": 90,
+            "delta_nwc": 10,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 40,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1710,
+                "ebit_margin": 0.055,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 85.848,
+            "capex": 97,
+            "delta_nwc": 2.4,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1770,
+                "ebit_margin": 0.075,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 87.736656,
+            "capex": 103,
+            "delta_nwc": 4.8,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1820,
+                "ebit_margin": 0.09,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 89.666862432,
+            "capex": 108,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1880,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 91.639533405504,
+            "capex": 112,
+            "delta_nwc": 4.8,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1930,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 93.65560314042509,
+            "capex": 115,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 1980,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 95.71602640951446,
+            "capex": 118,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 2030,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 97.82177899052377,
+            "capex": 121,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 2080,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 99.9738581283153,
+            "capex": 124,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Integrated nylon, caprolactam, plant nutrients and intermediates",
+                "revenue": 2130,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "price": null,
+                "volume_unit": "Physical annual product volumes unavailable; product indices in extra_inputs.json"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 102.17328300713824,
+            "capex": 127,
+            "delta_nwc": 4.0,
+            "shares_m": 27.556902,
+            "dividend_per_share": 0.64,
+            "stub_dividend_per_share": 0.16,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario; volume versus price cannot be independently verified from missing product tonnage. No allocation of group margin to individual product economics. Downside requires revolver refinancing; availability assumed, not committed."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  }
+]

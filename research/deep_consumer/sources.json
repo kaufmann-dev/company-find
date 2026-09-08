@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CONS01",
+    "publication_date": "2026-05-22",
+    "url": "https://ir.deckers.com/sec-filings/all-sec-filings/content/0001628280-26-037664/deck-20260331.htm",
+    "section": "10-K pp7\u20138 manufacturing; liquidity capital expenditures; F-6 income, F-9 cash flow; Note13 segments",
+    "supports": "FY2024\u201326 history, outsourced supply, raw materials and FY27 $145\u2013155m investment plan"
+  },
+  {
+    "id": "CONS02",
+    "publication_date": "2026-07-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000022/deck-20260630.htm",
+    "section": "10-Q cover; pp4\u20137 accounts; pp16\u201317 buybacks and diluted awards; segment Note10",
+    "supports": "June balance, July9 shares/cash adjustment, quarterly cash and capital expenditure"
+  },
+  {
+    "id": "CONS03",
+    "publication_date": "2026-07-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm",
+    "section": "Q1 results and FY2027 outlook",
+    "supports": "HOKA/UGG Q1 growth, margins and lower FY27 margin guidance"
+  },
+  {
+    "id": "CONS04",
+    "publication_date": "2026-08-11",
+    "url": "https://investors.on-running.com/news/news-details/2026/On-Reports-Results-for-the-Second-Quarter-and-Six-Month-Period-Ended-June-30-2026/default.aspx",
+    "section": "Q2 sales and outlook",
+    "supports": "Competing premium running brand sales +21.6% constant currency"
+  },
+  {
+    "id": "CONS05",
+    "publication_date": "2026-09-03",
+    "url": "https://corporate.lululemon.com/newsroom/press-releases/2026/09-03-2026-210528733",
+    "section": "Q2 results; tariff refund; Q3 and full-year outlook",
+    "supports": "LULU comparable sales decline and one-time earnings boost"
+  },
+  {
+    "id": "CONS06",
+    "publication_date": "2026-07-30",
+    "url": "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Reports-Record-Second-Quarter-2026-Results-Raises-Full-Year-2026-Outlook/default.aspx",
+    "section": "Brand sales, balance sheet and FY26 outlook",
+    "supports": "Crocs/HEYDUDE divergence; financial leverage; investment"
+  },
+  {
+    "id": "CONS07",
+    "publication_date": "2026-09-02",
+    "url": "https://www.pvh.com/news/press-releases/pvh-corp-reports-2026-second-quarter-results-and-reaffirms-full-year-outlook",
+    "section": "Q2 results and outlook",
+    "supports": "PVH Tommy Hilfiger/Calvin Klein branded distribution and current outlook"
+  },
+  {
+    "id": "CONS08",
+    "publication_date": "2026-08-14",
+    "url": "https://www.census.gov/retail/sales.html",
+    "section": "July2026 advance retail report",
+    "supports": "Consumer budget check: July nominal retail -0.6% sequential, +5% annual; not brand-specific demand"
+  }
+]

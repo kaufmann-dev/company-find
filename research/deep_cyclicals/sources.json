@@ -1,0 +1,254 @@
+[
+  {
+    "id": "DC1",
+    "title": "Massive synchronized cyclicals market capture",
+    "publication_date": "2026-09-08",
+    "url": "https://massive.com/docs/rest/stocks/snapshots/unified-snapshot",
+    "section": "GET /v3/snapshot, /v3/reference/tickers/STLA and ASIX; /stocks/v1/dividends and splits; C:EURUSD prior bar",
+    "supports": "11 intraday quotes; ordinary share classification; shares; no split records since2025; ASIX dividends; EURUSD close1.16276 Sept7. Raw response in market_capture.json.",
+    "source_type": "Primary market/industry data"
+  },
+  {
+    "id": "DC2",
+    "title": "Stellantis second-quarter 2026 results",
+    "publication_date": "2026-07-30",
+    "url": "https://www.stellantis.com/en/news/press-releases/2026/july/second-quarter-2026-financial-results",
+    "section": "Financial highlights and 2026 guidance",
+    "supports": "Q2/H1 operating results; Q2 industrialFCF1bn; 2026 capex+R&D6.5\u20137% revenue; positive industrialFCF2027 management expectation; tariffs and reset cash.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC3",
+    "title": "Stellantis June2026 interim report",
+    "publication_date": "2026-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000064/stellantisnv20260630semi-a.htm",
+    "section": "Results by segment pp22\u201339; liquidity pp40\u201346; notes10\u201313,18\u201319",
+    "supports": "Regional revenue/shipments/AOI; industrial net debt bridge; cash restrictions; pensions/OPEB; provisions; hybrid terms; basic/diluted shares and SBC.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC4",
+    "title": "Stellantis FY2025 annual report and20-F",
+    "publication_date": "2026-02-26",
+    "url": "https://www.stellantis.com/content/dam/stellantis-corporate/investors/financial-reports/Stellantis-NV-20251231-Annual-Report.pdf",
+    "section": "Results pp61\u201378; statements printedpp335\u2013338; notes19\u201320,30\u201331",
+    "supports": "2023\u201325 financial history, 2024\u201325 regional margins; industrial cashflow; lease cashouts pp460; pensionliabilities and planassets pp413\u2013414; SBCpp413.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC5",
+    "title": "Stellantis supplemental industrial and financial statements",
+    "publication_date": "2026-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000066/stellantisnv20260630supple.htm",
+    "section": "Income statement, financial position, cashflow by activity",
+    "supports": "H1 industrial revenue79141/EBIT1136/DA3142/CFO2557EURm; captive equity9340/NI206; industrial cash31217.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC6",
+    "title": "Stellantis FaSTLAne financial framework",
+    "publication_date": "2026-05-21",
+    "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-presents-fastlane-2030-financial-framework-and-targets-at-investor-day-2026",
+    "section": "Financial targets; Financial Services",
+    "supports": "Management190bn revenue/7%AOI/6bnIFCF2030; 6bn cost reduction2028; financeAOI>1.5bn2030; managed85bn includes unconsolidated JVs, not company assets.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC7",
+    "title": "Stellantis FaSTLAne industrial footprint and regional targets",
+    "publication_date": "2026-05-21",
+    "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-unveils-60-billion-euro-strategic-plan-to-accelerate-growth-and-profit",
+    "section": "Optimized Manufacturing Footprint; regional targets",
+    "supports": "Management Europe capacity reduction>800k, utilization60\u219280%; productprogram60bn includes R&D; Europe3\u20135%AOI/NA8\u201310%. Partnerships may require definitive agreements.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC8",
+    "title": "Stellantis strategic reset announcement",
+    "publication_date": "2026-02-06",
+    "url": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-resets-its-business-to-meet-customer-preferences-and-to-support-profitable-growth",
+    "section": "Reset charges and dividend",
+    "supports": "22.2bnH225charges,6.5bn associatedcashoverfouryears; BEVprogram and supplychain cancellations; 2026commondividend suspended.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC9",
+    "title": "AdvanSix Q2 results",
+    "publication_date": "2026-08-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000045/exhibit99q22026prearningsa.htm",
+    "section": "Performance and outlook; product revenue",
+    "supports": "421.3mrevenue; volume\u221215%price+18%; EBITDA31.9; FYcapex75\u201395m; sulfur pressure; product sales split.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC10",
+    "title": "AdvanSix FY2025 Form10-K",
+    "publication_date": "2026-02-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000008/asix-20251231.htm",
+    "section": "Business; statements pp43\u201346; notes8\u201310",
+    "supports": "Integrated manufacturing role; companyestimates7.7Mtnylon6,56%utilization; carpet substitution;2023\u201325history; financeleases2.139mDec25; pensionoverfunded3.007m; securedrevolver.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC11",
+    "title": "AdvanSix June2026 Form10-Q",
+    "publication_date": "2026-08-07",
+    "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000049/asix-20260630.htm",
+    "section": "Statements pp3\u20136; EPSnote; segmentnote12; liquidity",
+    "supports": "Debt275/cash7.217/shares27.001186; dilutiveawards.555716; H1CFO\u22125.294; revolver48mexpiresOct2026/452mOct2027; supplierfinance12.2m.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC12",
+    "title": "HF Sinclair Q2 results",
+    "publication_date": "2026-07-28",
+    "url": "https://www.hfsinclair.com/investor-relations/press-releases/Press-Release-Details/2026/HF-Sinclair-Reports-2026-Second-Quarter-Results-and-Announces-Increase-in-Regular-Cash-Dividend/default.aspx",
+    "section": "Refining; lubricants; financial results",
+    "supports": "Q2adjusted refiningmargin25.95/barrel and639680bpdcharge; NI892m; lubricantsEBITDA207m; FIFO46mbenefit; cash2.262bn.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC13",
+    "title": "Huntsman Q2 results",
+    "publication_date": "2026-07-30",
+    "url": "https://www.huntsman.com/investors/newsroom/news-releases/detail/629/huntsman-announces-second-quarter-2026-earnings",
+    "section": "Highlights and segment analysis",
+    "supports": "Polyurethanes/performanceproducts/advancedmaterials; EBITDA120m; Q2FCF\u221290m; Olin allstockmerger signedJune16.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC14",
+    "title": "Celanese Q2 prepared management comments",
+    "publication_date": "2026-08-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000114/q220268-kex991a.htm",
+    "section": "Acetyl Chain; Engineered Materials; Q3 outlook",
+    "supports": "Scarcity benefits and subsequent normalization; higher materialcostlag; medical/electronics qualifications.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC15",
+    "title": "Celanese Q2 release",
+    "publication_date": "2026-08-04",
+    "url": "https://investors.celanese.com/news/celanese-corporation-reports-second-quarter-earnings/4f485280-d86f-43f3-8068-de01ca04a02c",
+    "section": "Balance and earnings",
+    "supports": "Debt12.007bn; EPSGAAP1.15/adjusted2.45; cash flow and productgroup economics.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC16",
+    "title": "Sibanye-Stillwater interim results",
+    "publication_date": "2026-09-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1786909/000162828026059701/form6-kh137.htm",
+    "section": "Operating results; liquidity pp12\u201314; all-in costs",
+    "supports": "PGM/gold role; higher metalprices explainearnings rebound; workingcapital9.361bnZAR benefit; netdebt9.718bnZAR excludesBurnstone; equity dilutionconvertible.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC17",
+    "title": "Vale Q2 performance",
+    "publication_date": "2026-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426004002/valepr2q26_6k.htm",
+    "section": "Financial highlights; Iron Ore Solutions and Base Metals",
+    "supports": "Ironore/copper/nickel production; SerraSul20Mtcapacity startsJuly; copperprice14062/t; expandednetdebt16.677bn andcapex5.4\u20135.7bnguide.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC18",
+    "title": "Ecopetrol first-half2026 results",
+    "publication_date": "2026-08-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426004040/ex99-1.htm",
+    "section": "Financial/operational summary and keymessages",
+    "supports": "Upstream/refining/transport/transmission;706kboed;refiningmargin29.8/bbl;FEPC8trCOP; naturaldecline~18%requires reinvestment.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC19",
+    "title": "Petrobras Q2 financial performance",
+    "publication_date": "2026-08-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281426004129/pbrrmf2q26usd_6k.htm",
+    "section": "Results; liquidity; debt; financial statements",
+    "supports": "Pre-salt/refining; FPSOP79start180kbpd;reportedFCFexcludesleaseprincipal; netdebt60.388bn;Q2Brent104.52/barrel.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC20",
+    "title": "Methanex Q2 results",
+    "publication_date": "2026-07-28",
+    "url": "https://www.methanex.com/news/release/methanex-reports-record-north-american-production-and-second-quarter-2026-earnings/",
+    "section": "Operational data",
+    "supports": "AttributableQ2production2.213Mt andrealization529/t vs351Q1; OCIacquisitionincreasescapacity; equitystakesdifferentfromconsolidatedgross.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC21",
+    "title": "Mosaic Q2 results",
+    "publication_date": "2026-08-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000109/pressreleaseq22026-ex991.htm",
+    "section": "Results; production and third-quarteroutlook",
+    "supports": "Phosphate/potash/Brazildistribution; sulfur705/longtonQ3; operatingloss36m;replacement/capex1.2bn.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC22",
+    "title": "ACEA EU H1 registrations",
+    "publication_date": "2026-07-23",
+    "url": "https://www.acea.auto/pc-registrations/new-car-registrations-5-7-in-h1-2026-battery-electric-20-7-market-share/",
+    "section": "New EU car registrations by power source",
+    "supports": "EUcarregistrations+5.7%;BEV20.7%/hybrid37.3%; aggregateindustrygrowthdoesnotprotectStellantismargins.",
+    "source_type": "Primary market/industry data"
+  },
+  {
+    "id": "DC23",
+    "title": "Federal Reserve FRED BEA vehicle sales table",
+    "publication_date": "2026-09-02",
+    "url": "https://fred.stlouisfed.org/release/tables?eid=44958&rid=93",
+    "section": "August2026 total light vehicles",
+    "supports": "BEAsourced lightvehicleSAAR16.764m; annualizedmonthly pace, notactualannualsales.",
+    "source_type": "Primary market/industry data"
+  },
+  {
+    "id": "DC24",
+    "title": "GM Q2 shareholder letter",
+    "publication_date": "2026-07-21",
+    "url": "https://news.gm.com/home.detail.html/Pages/news/us/en/2026/jul/0721-GM-letter-shareholders-Q2-2026.html",
+    "section": "North America operatingmargin",
+    "supports": "8.6%Q2NAadjustedEBITmargin; contemporaneouscompetitivebenchmark, notSTLAforecast.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC25",
+    "title": "Renault H1 results",
+    "publication_date": "2026-07-29",
+    "url": "https://media.renaultgroup.com/renault-group-delivers-robust-performance-confirms-its-2026-fy-guidance-and-rapidly-implements-futuready/?lang=eng",
+    "section": "Automotive/finance results",
+    "supports": "Automotive3.0%operatingmargin,group5.2%;reinforcesneedto separatefinance;2.1monthsorderbook.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC26",
+    "title": "Volkswagen H1 results",
+    "publication_date": "2026-07-24",
+    "url": "https://www.volkswagen-group.com/en/press-releases/volkswagen-group-stays-on-track-in-challenging-environment-and-expects-improved-margin-in-the-second-half-of-the-year-20542",
+    "section": "Results and outlook",
+    "supports": "Group3.8%operatingmargin and4\u20135.5%FYguide;competitive urbanEV70korders; efficientrivals competeaway savings.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC27",
+    "title": "Methanex New Zealand operating update",
+    "publication_date": "2026-09-01",
+    "url": "https://www.methanex.com/news/release/methanex-provides-update-on-new-zealand-operations/",
+    "section": "Gas entitlement sale and production",
+    "supports": "GascontractentitlementssoldfromQ12027; plantindefiniteidling; inputbottleneck cantransfer valueawayfrommanufacturer.",
+    "source_type": "Primary company disclosure"
+  },
+  {
+    "id": "DC28",
+    "title": "Stellantis FY2025 financial presentation",
+    "publication_date": "2026-02-26",
+    "url": "https://www.stellantis.com/content/dam/stellantis-corporate/investors/events-and-presentations/presentations/Stellantis-FY2025-Financial-Results-Presentation.pdf",
+    "section": "Slide10 industrial AOI to cash flow",
+    "supports": "IndustrialAOI/DA2024\u201325; broadcapitalmetricincludesinvestmentssoseparatefromcashPP&Ecapex.",
+    "source_type": "Primary company disclosure"
+  }
+]

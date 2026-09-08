@@ -4,8 +4,8 @@
     "company": "CF Industries",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 134.99,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 134.285,
+    "price_timestamp": "2026-09-08T15:38:00Z",
     "shares_m": 151.63813,
     "basic_shares_m": 151.33813,
     "balance_date": "2026-06-30",
@@ -3210,15 +3210,15 @@
       "method": "Raise affected revenue by uplift, add the same amount to EBIT, and hold 2026-35 base costs, CHS claims, working capital and capex fixed. Solve fair value = current price. For CF the 2036-40 reinvestment transition responds mechanically to changed NOPAT; GSL keeps the same finite residual. This is one price-justifying combination, not consensus.",
       "fair_value_at_solution": 134.98999999999998
     },
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   },
   {
     "ticker": "GSL",
     "company": "Global Ship Lease",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 45.21,
-    "price_timestamp": "2026-09-08T15:00:00+00:00",
+    "price": 45.12,
+    "price_timestamp": "2026-09-08T15:38:00Z",
     "shares_m": 36.035434,
     "basic_shares_m": 36.035434,
     "balance_date": "2026-06-30",
@@ -5067,6 +5067,6 @@
       "method": "Raise affected revenue by uplift, add the same amount to EBIT, and hold 2026-35 base costs, CHS claims, working capital and capex fixed. Solve fair value = current price. For CF the 2036-40 reinvestment transition responds mechanically to changed NOPAT; GSL keeps the same finite residual. This is one price-justifying combination, not consensus.",
       "fair_value_at_solution": 45.209999999999994
     },
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   }
 ]

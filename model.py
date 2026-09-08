@@ -60,6 +60,9 @@ def forecast_years(scenario):
         if "period_end" in row:
             end=date(anchor["period_end"])
             row["period_end"]=end.replace(year=end.year+i).isoformat()
+        if 'dividend_date' in row:
+            pay=date(anchor['dividend_date'])
+            row['dividend_date']=pay.replace(year=pay.year+i).isoformat()
         for segment in row["segments"]:
             segment["revenue"]*=growth
             # Nominal normalization contains both inflation and physical growth;
@@ -95,7 +98,10 @@ def operating_value(scenario, valuation_date):
         if end <= valuation_date:
             continue
         fraction = min(1.0, (end-valuation_date).days/(end-start).days)
-        value += operating(row)["fcff"]*fraction/(1+scenario["wacc"])**years_between(valuation_date,end)
+        cashflow=operating(row)["fcff"]*fraction
+        if start < valuation_date and valuation_date.isoformat()==scenario.get('stub_adjustment_date', '2026-09-08'):
+            cashflow+=row.get('stub_fcff_adjustment_m',0)
+        value += cashflow/(1+scenario["wacc"])**years_between(valuation_date,end)
     tv, next_fcff = terminal(scenario)
     terminal_date = period(rows[-1])[1]
     terminal_pv = tv/(1+scenario["wacc"])**years_between(valuation_date,terminal_date)
@@ -108,8 +114,10 @@ def excess_cash(company):
 
 def equity_value(company, scenario):
     ev,tvpv,next_fcff = operating_value(scenario,date(company["valuation_date"]))
-    equity = ev+excess_cash(company)+company.get("other_assets_m",0)-company["debt_m"]-company.get("senior_claims_m",0)
+    other_assets=scenario.get('other_assets_m',company.get('other_assets_m',0))
+    equity = ev+excess_cash(company)+other_assets-company["debt_m"]-company.get("senior_claims_m",0)
     return {"enterprise_value_m":ev,"equity_value_m":max(0,equity),"residual_after_senior_claims_m":equity,
+            "nonoperating_assets_value_m":other_assets,
             "fair_value_per_share":max(0,equity/company["shares_m"]),
             "terminal_pv_m":tvpv,"terminal_share_of_ev":tvpv/ev,
             "terminal_next_fcff_m":next_fcff}
@@ -154,12 +162,21 @@ def shareholder_return(company,scenario):
         if not overlap: continue
         fraction=overlap/(pe-ps).days
         interest=debt*company.get("debt_interest_rate",.05)*(1-row["tax_rate"])
-        cash+=(operating(row)["fcff"]-interest-row.get("preferred_dividend_m",0))*fraction
+        cash+=(operating(row)["fcff"]-interest-row.get("preferred_dividend_m",0)
+               +row.get('nonoperating_distributions_m',0))*fraction
+        if ps < start < pe:
+            cash+=row.get('stub_fcff_adjustment_m',0)
+            if 'stub_nonoperating_distributions_m' in row:
+                cash+=row['stub_nonoperating_distributions_m']-row.get('nonoperating_distributions_m',0)*fraction
+        pay_date=date(row.get('dividend_date',pe.isoformat()))
+        if start < pay_date <= horizon:
+            paid_fraction=min(1,(pe-start).days/(pe-ps).days)
+            div=(row.get('dividend_per_share',0) if 'dividend_date' in row else
+                 row.get("stub_dividend_per_share",row.get("dividend_per_share",0)*paid_fraction) if ps<start else row.get("dividend_per_share",0))
+            cash-=div*shares
+            if div: flows.append((pay_date,div))
         if start < pe <= horizon:
             paid_fraction=min(1,(pe-start).days/(pe-ps).days)
-            div=row.get("stub_dividend_per_share",row.get("dividend_per_share",0)*paid_fraction) if ps<start else row.get("dividend_per_share",0)
-            cash-=div*shares
-            if div: flows.append((pe,div))
             issued_debt=row.get("net_debt_issuance",0)*paid_fraction
             debt+=issued_debt
             cash+=issued_debt
@@ -170,11 +187,13 @@ def shareholder_return(company,scenario):
                 cash+=issued_equity
         funding_shortfall=max(funding_shortfall,-cash)
     horizon_ev,_,_=operating_value(scenario,horizon)
-    future_equity=max(0,horizon_ev+cash+company.get("other_assets_m",0)-debt-company.get("senior_claims_m",0))
+    other_assets=scenario.get('horizon_other_assets_m',company.get('other_assets_m',0))
+    future_equity=max(0,horizon_ev+cash+other_assets-debt-company.get("senior_claims_m",0))
     future_price=future_equity/shares
     flows.append((horizon,future_price))
     return {"annualized_return":xirr(flows),"future_equity_per_share":future_price,
             "future_operating_ev_m":horizon_ev,"retained_excess_cash_m":cash,
+            "future_nonoperating_assets_m":other_assets,
             "horizon_debt_m":debt,"unfunded_cash_shortfall_m":funding_shortfall,
             "cashflows":[{"date":d.isoformat(),"per_share":v} for d,v in flows]}
 
@@ -259,8 +278,9 @@ def main():
         for name,sc in c["scenarios"].items():
             for row in forecast_years(sc):
                 annual.append({"ticker":c["ticker"],"scenario":name,"year":row["year"],**operating(row),
-                    **{k:row.get(k,0) for k in ["tax_rate","da","capex","delta_nwc","corporate_cost","dividend_per_share","net_debt_issuance","new_equity_issuance"]},
+                    **{k:row.get(k,0) for k in ["tax_rate","da","capex","delta_nwc","corporate_cost","dividend_per_share","net_debt_issuance","new_equity_issuance","nonoperating_distributions_m","stub_fcff_adjustment_m","stub_nonoperating_distributions_m"]},
                     "shares_m":row.get("shares_m",c["shares_m"]),"wacc":sc["wacc"],"terminal_growth":sc["terminal_growth"],"terminal_roic":sc["terminal_roic"]})
+                annual[-1]['dividend_date']=row.get('dividend_date','fiscal year end')
                 for seg in row["segments"]:
                     segments.append({"ticker":c["ticker"],"scenario":name,"year":row["year"],
                         **{k:seg.get(k,"") for k in ["name","revenue","ebit_margin","volume","volume_unit","price"]}})

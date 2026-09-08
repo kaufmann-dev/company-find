@@ -1,0 +1,1413 @@
+[
+  {
+    "ticker": "DECK",
+    "company": "Deckers Outdoor Corporation",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 83.6399,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "shares_m": 136.981227,
+    "basic_shares_m": 136.414227,
+    "balance_date": "2026-06-30, adjusted for disclosed July1\u20139 repurchases",
+    "cash_m": 1570.09932,
+    "minimum_cash_m": 550,
+    "debt_m": 0,
+    "senior_claims_m": 0,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0,
+    "status": "Valued comparison; moderate discount, not an extreme bargain",
+    "sources": [
+      {
+        "id": "CONS01",
+        "publication_date": "2026-05-22",
+        "url": "https://ir.deckers.com/sec-filings/all-sec-filings/content/0001628280-26-037664/deck-20260331.htm",
+        "section": "10-K pp7\u20138 manufacturing; liquidity capital expenditures; F-6 income, F-9 cash flow; Note13 segments",
+        "supports": "FY2024\u201326 history, outsourced supply, raw materials and FY27 $145\u2013155m investment plan"
+      },
+      {
+        "id": "CONS02",
+        "publication_date": "2026-07-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000022/deck-20260630.htm",
+        "section": "10-Q cover; pp4\u20137 accounts; pp16\u201317 buybacks and diluted awards; segment Note10",
+        "supports": "June balance, July9 shares/cash adjustment, quarterly cash and capital expenditure"
+      },
+      {
+        "id": "CONS03",
+        "publication_date": "2026-07-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm",
+        "section": "Q1 results and FY2027 outlook",
+        "supports": "HOKA/UGG Q1 growth, margins and lower FY27 margin guidance"
+      },
+      {
+        "id": "CONS04",
+        "publication_date": "2026-08-11",
+        "url": "https://investors.on-running.com/news/news-details/2026/On-Reports-Results-for-the-Second-Quarter-and-Six-Month-Period-Ended-June-30-2026/default.aspx",
+        "section": "Q2 sales and outlook",
+        "supports": "Competing premium running brand sales +21.6% constant currency"
+      },
+      {
+        "id": "CONS08",
+        "publication_date": "2026-08-14",
+        "url": "https://www.census.gov/retail/sales.html",
+        "section": "July2026 advance retail report",
+        "supports": "Consumer budget check: July nominal retail -0.6% sequential, +5% annual; not brand-specific demand"
+      }
+    ],
+    "accounting_notes": "July9 basic shares synchronized with $32.168m subsequent buyback plus assumed 1% excise tax cash reserve. Dilution includes .296m quarterly dilutive awards and .271m excluded awards conservatively. SBC stays in GAAP-like EBIT, no addback or further future dilution. Operating leases remain operating expense and excluded from debt; no operating-lease depreciation addback. D&A includes PP&E and small cloud amortization. All $145\u2013155m management FY27 physical/cloud investment deducted; maintenance/growth split unreported. June cash less minimum $550m; no tariff refund value, no interest income capitalized. July10\u2013September8 treasury movements unknown. FY27 March31 fiscal year cash prorated from September8: understates holiday season contribution if normal seasonality persists; no unsupported seasonality benefit is assumed.",
+    "history": [
+      {
+        "year": 2024,
+        "revenue": 4287.763,
+        "ebit": 927.514,
+        "da": 59.662,
+        "capex": 89.365,
+        "cfo": 1033.184,
+        "sbc": 37.288,
+        "source_ids": [
+          "CONS01"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 4985.612,
+        "ebit": 1179.092,
+        "da": 71.733,
+        "capex": 86.171,
+        "cfo": 1044.523,
+        "sbc": 37.943,
+        "source_ids": [
+          "CONS01"
+        ]
+      },
+      {
+        "year": 2026,
+        "revenue": 5472.296,
+        "ebit": 1262.903,
+        "da": 78.009,
+        "capex": 84.623,
+        "cfo": 1181.955,
+        "sbc": 44.835,
+        "source_ids": [
+          "CONS01"
+        ]
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.12,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2027,
+            "period_end": "2027-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2638.74,
+                "ebit_margin": 0.205,
+                "volume": 102.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.869999999999997,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2711.61,
+                "ebit_margin": 0.205,
+                "volume": 99.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.39,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 115.0,
+                "ebit_margin": 0.205,
+                "volume": 100.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 79.24757500000001,
+            "capex": 163.9605,
+            "delta_nwc": -1.041899999999987,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2252.428464,
+                "ebit_margin": 0.155,
+                "volume": 89.76,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.093899999999998,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2367.23553,
+                "ebit_margin": 0.155,
+                "volume": 89.10000000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.568299999999997,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 111.55,
+                "ebit_margin": 0.155,
+                "volume": 97.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 68.602602913,
+            "capex": 141.93641982,
+            "delta_nwc": -110.12040090000009,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2074.9371010368,
+                "ebit_margin": 0.14,
+                "volume": 84.3744,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 24.592022,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2180.697370236,
+                "ebit_margin": 0.14,
+                "volume": 83.754,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.036934,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 108.20349999999999,
+                "ebit_margin": 0.14,
+                "volume": 94.08999999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 63.27565058345561,
+            "capex": 130.915139138184,
+            "delta_nwc": -55.10640340907994,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2074.9371010368,
+                "ebit_margin": 0.14,
+                "volume": 84.3744,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 24.592022,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2137.0834228312797,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.036934,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 104.95739499999999,
+                "ebit_margin": 0.14,
+                "volume": 91.26729999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 62.59617982358716,
+            "capex": 129.50933756604238,
+            "delta_nwc": -7.029007860708089,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2116.6433367676395,
+                "ebit_margin": 0.14,
+                "volume": 85.218144,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 24.83794222,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2158.4542570595927,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.29730334,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 101.80867314999999,
+                "ebit_margin": 0.14,
+                "volume": 88.529281,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 63.465140871169865,
+            "capex": 131.30718800931695,
+            "delta_nwc": 8.98925221637287,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2159.1878678366693,
+                "ebit_margin": 0.14,
+                "volume": 86.07032543999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.0863216422,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2180.038799630189,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.5602763734,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 98.75441295549999,
+                "ebit_margin": 0.14,
+                "volume": 85.87340257,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 64.35072566612419,
+            "capex": 133.13943241267074,
+            "delta_nwc": 9.161222016768898,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2202.587543980186,
+                "ebit_margin": 0.14,
+                "volume": 86.9310286944,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.337184858622,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2201.8391876264905,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.825879137134,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 95.79178056683497,
+                "ebit_margin": 0.14,
+                "volume": 83.29720049289998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 65.25316842651593,
+            "capex": 135.00655536520534,
+            "delta_nwc": 9.335614762673094,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2246.8595536141884,
+                "ebit_margin": 0.14,
+                "volume": 87.800338981344,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.590556707208226,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2223.8575795027555,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.09413792850534,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 92.91802714982992,
+                "ebit_margin": 0.14,
+                "volume": 80.79828447811298,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 66.17270982386822,
+            "capex": 136.90905480800322,
+            "delta_nwc": 9.512497213989263,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2292.021430641834,
+                "ebit_margin": 0.14,
+                "volume": 88.67834237115744,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 25.84646227428031,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2246.0961552977833,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.365079307790396,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 90.13048633533504,
+                "ebit_margin": 0.14,
+                "volume": 78.3743359437696,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 67.10959704798681,
+            "capex": 138.84744216824856,
+            "delta_nwc": 9.691936801226802,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2036,
+            "period_end": "2036-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2338.0910613977344,
+                "ebit_margin": 0.14,
+                "volume": 89.56512579486902,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.10492689702311,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2268.557116850761,
+                "ebit_margin": 0.14,
+                "volume": 82.07892,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.638730100868298,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 87.42657174527498,
+                "ebit_margin": 0.14,
+                "volume": 76.02310586545651,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 68.06408387490968,
+            "capex": 140.82224249981311,
+            "delta_nwc": 9.874001657822737,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.1,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.18,
+        "years": [
+          {
+            "year": 2027,
+            "period_end": "2027-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2848.0283000000004,
+                "ebit_margin": 0.215,
+                "volume": 109.00000000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.1287,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2863.2136499999992,
+                "ebit_margin": 0.215,
+                "volume": 103.49999999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.663899999999998,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 115.0,
+                "ebit_margin": 0.215,
+                "volume": 100.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 84.480508275,
+            "capex": 150,
+            "delta_nwc": 42.47351399999992,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3107.5548788375004,
+                "ebit_margin": 0.215,
+                "volume": 117.17500000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.5206305,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2978.815901118749,
+                "ebit_margin": 0.215,
+                "volume": 106.08749999999998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.078858499999996,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 111.55,
+                "ebit_margin": 0.215,
+                "volume": 97.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 89.86985130936561,
+            "capex": 158.04697988888435,
+            "delta_nwc": 44.60145959474994,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3343.418294141267,
+                "ebit_margin": 0.21,
+                "volume": 124.20550000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.918439957500002,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3083.9681024282418,
+                "ebit_margin": 0.21,
+                "volume": 108.20924999999998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.500041377500004,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 108.20349999999999,
+                "ebit_margin": 0.21,
+                "volume": 94.08999999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 94.76605350025788,
+            "capex": 166.65754236252246,
+            "delta_nwc": 40.520293993591146,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3563.248046981055,
+                "ebit_margin": 0.21,
+                "volume": 130.41577500000002,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.322216556862497,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3192.832176443958,
+                "ebit_margin": 0.21,
+                "volume": 110.37343499999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.927541998162496,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 104.95739499999999,
+                "ebit_margin": 0.21,
+                "volume": 91.26729999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 99.48504546716269,
+            "capex": 174.9564592698378,
+            "delta_nwc": 39.05372662266047,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3761.364638393201,
+                "ebit_margin": 0.205,
+                "volume": 135.63240600000003,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.73204980521543,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3289.3355289769765,
+                "ebit_margin": 0.205,
+                "volume": 112.02903652499998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.361455128134935,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 101.80867314999999,
+                "ebit_margin": 0.205,
+                "volume": 88.529281,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 103.71137818754258,
+            "capex": 182.38897543326453,
+            "delta_nwc": 34.97654665141981,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3951.4075867480165,
+                "ebit_margin": 0.205,
+                "volume": 140.37954021000002,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.14803055229366,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3388.755695340304,
+                "ebit_margin": 0.205,
+                "volume": 113.70947207287497,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.801876955056947,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 98.75441295549999,
+                "ebit_margin": 0.205,
+                "volume": 85.87340257,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 107.8643065781354,
+            "capex": 189.69240122361742,
+            "delta_nwc": 34.36906254283713,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4130.999061565713,
+                "ebit_margin": 0.205,
+                "volume": 144.59092641630002,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.57025101057806,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3473.982901078113,
+                "ebit_margin": 0.205,
+                "volume": 114.84656679360373,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.248905109382804,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 95.79178056683497,
+                "ebit_margin": 0.205,
+                "volume": 83.29720049289998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 111.66121927655459,
+            "capex": 196.36973045187185,
+            "delta_nwc": 31.42272578002092,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4297.788148676428,
+                "ebit_margin": 0.205,
+                "volume": 148.2056995767075,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.998804775736726,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3561.353571040227,
+                "ebit_margin": 0.205,
+                "volume": 115.99503246153976,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.70263868602354,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 92.91802714982992,
+                "ebit_margin": 0.205,
+                "volume": 80.79828447811298,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 115.30486632956405,
+            "capex": 202.77752354509536,
+            "delta_nwc": 30.154320438698885,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4449.500070324705,
+                "ebit_margin": 0.205,
+                "volume": 151.16981356824166,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.43378684737277,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3650.921613351888,
+                "ebit_margin": 0.205,
+                "volume": 117.15498278615516,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 31.16317826631389,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 90.13048633533504,
+                "ebit_margin": 0.205,
+                "volume": 78.3743359437696,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 118.76300646517296,
+            "capex": 208.85908033530416,
+            "delta_nwc": 28.619090777453092,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2036,
+            "period_end": "2036-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4606.5674228071675,
+                "ebit_margin": 0.205,
+                "volume": 154.1932098396065,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.87529365008336,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3742.742291927688,
+                "ebit_margin": 0.205,
+                "volume": 118.32653261401671,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 31.630625940308594,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 87.42657174527498,
+                "ebit_margin": 0.205,
+                "volume": 76.02310586545651,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 122.3326761539619,
+            "capex": 215.13677530524333,
+            "delta_nwc": 29.542093976184333,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.095,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.22,
+        "years": [
+          {
+            "year": 2027,
+            "period_end": "2027-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 2940.9016,
+                "ebit_margin": 0.22,
+                "volume": 112.00000000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.258049999999997,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 2919.0892499999995,
+                "ebit_margin": 0.22,
+                "volume": 105.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.800849999999997,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 115.0,
+                "ebit_margin": 0.22,
+                "volume": 100.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 86.637367325,
+            "capex": 155.3497621,
+            "delta_nwc": 60.32338199999998,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3359.6859878400005,
+                "ebit_margin": 0.225,
+                "volume": 125.44000000000003,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 26.783210999999998,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3126.3445867499995,
+                "ebit_margin": 0.225,
+                "volume": 110.25,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.356866999999994,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 111.55,
+                "ebit_margin": 0.225,
+                "volume": 97.0,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 95.664918331555,
+            "capex": 171.53709493934,
+            "delta_nwc": 74.71076695079995,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 3769.5676783564813,
+                "ebit_margin": 0.23,
+                "volume": 137.98400000000004,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.318875220000002,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3316.4263376244007,
+                "ebit_margin": 0.23,
+                "volume": 114.66000000000001,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.924004340000003,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 108.20349999999999,
+                "ebit_margin": 0.23,
+                "volume": 94.08999999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 104.31586398172279,
+            "capex": 187.04913541550292,
+            "delta_nwc": 71.59403296690583,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4152.555754477499,
+                "ebit_margin": 0.23,
+                "volume": 149.02272000000005,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 27.865252724399998,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3501.1512846300793,
+                "ebit_margin": 0.23,
+                "volume": 118.6731,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.502484426800002,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 104.95739499999999,
+                "ebit_margin": 0.23,
+                "volume": 91.26729999999999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 112.5006342945599,
+            "capex": 201.72527528679703,
+            "delta_nwc": 67.73603017520367,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4532.099350436743,
+                "ebit_margin": 0.23,
+                "volume": 159.45431040000005,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.422557778888002,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3678.3095396323615,
+                "ebit_margin": 0.23,
+                "volume": 122.233293,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.092534115336004,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 101.80867314999999,
+                "ebit_margin": 0.23,
+                "volume": 88.529281,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 120.52715466667702,
+            "capex": 216.1176566436967,
+            "delta_nwc": 66.42637549338309,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 4900.105817692208,
+                "ebit_margin": 0.23,
+                "volume": 169.02156902400006,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 28.991008934465768,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 3845.6726236856334,
+                "ebit_margin": 0.23,
+                "volume": 125.28912532499999,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.694384797642723,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 98.75441295549999,
+                "ebit_margin": 0.23,
+                "volume": 85.87340257,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 128.24572638783346,
+            "capex": 229.95785421266686,
+            "delta_nwc": 63.877834933708435,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 5248.013330748354,
+                "ebit_margin": 0.23,
+                "volume": 177.47264747520006,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 29.570829113155078,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 4001.037797682533,
+                "ebit_margin": 0.23,
+                "volume": 127.79490783149998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 31.308272493595577,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 95.79178056683497,
+                "ebit_margin": 0.23,
+                "volume": 83.29720049289998,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 135.50022218046698,
+            "capex": 242.96591563394074,
+            "delta_nwc": 60.0372065597256,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 5567.092541257854,
+                "ebit_margin": 0.23,
+                "volume": 184.57155337420807,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.16224569541818,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 4162.679724708908,
+                "ebit_margin": 0.23,
+                "volume": 130.35080598813,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 31.934437943467493,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 92.91802714982992,
+                "ebit_margin": 0.23,
+                "volume": 80.79828447811298,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 142.42900925019057,
+            "capex": 255.38994762103135,
+            "delta_nwc": 57.34168609426437,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 5848.7874238455015,
+                "ebit_margin": 0.23,
+                "volume": 190.10869997543432,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 30.76549060932654,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 4309.622318991131,
+                "ebit_margin": 0.23,
+                "volume": 132.30606807795192,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 32.573126702336836,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 90.13048633533504,
+                "ebit_margin": 0.23,
+                "volume": 78.3743359437696,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.1500000000000001,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 148.60383332299352,
+            "capex": 266.46204595847115,
+            "delta_nwc": 51.10199232664512,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          },
+          {
+            "year": 2036,
+            "period_end": "2036-03-31",
+            "segments": [
+              {
+                "name": "HOKA",
+                "revenue": 6114.907251630472,
+                "ebit_margin": 0.23,
+                "volume": 194.86141747482017,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 31.380800421513076,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "UGG",
+                "revenue": 4461.751986851518,
+                "ebit_margin": 0.23,
+                "volume": 134.2906590991212,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 33.22458923638357,
+                "price_unit": "USDm sales per volume-index point"
+              },
+              {
+                "name": "Other",
+                "revenue": 87.42657174527498,
+                "ebit_margin": 0.23,
+                "volume": 76.02310586545651,
+                "volume_unit": "FY26=100 physical-volume scenario index; absolute pairs unavailable",
+                "price": 1.15,
+                "price_unit": "USDm sales per volume-index point"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.24,
+            "da": 154.62924424829535,
+            "capex": 277.26623106590887,
+            "delta_nwc": 49.86546972663571,
+            "shares_m": 136.981227,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst forecast; segment margins are allocated group margins, not claimed reported standalone margins. Customer reach growth and replacement frequency translate into indexed paid shoe demand. Marketing, tariffs and SBC remain in margins. No automatic future repurchases or share-count reduction."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  }
+]

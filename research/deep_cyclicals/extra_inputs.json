@@ -1,0 +1,725 @@
+{
+  "valuation_date": "2026-09-08",
+  "eurusd": 1.16276,
+  "fx_timestamp": "2026-09-07T23:59:59.999Z",
+  "fx_note": "Massive C:EURUSD previous daily bar close; source milliseconds 1788825599999; not synchronous intraday FX",
+  "STLA": {
+    "balance_bridge_eur_m": {
+      "industrial_cash": 31217,
+      "minimum_cash_assumption": 12000,
+      "third_party_industrial_debt_including_leases": 23656,
+      "leases_included_in_debt": 2567,
+      "hybrid_principal": 4997,
+      "pension_opeb_recognized_liabilities": 4243,
+      "minority_book_claim": 458,
+      "other_liquid_and_financial_claims": 2474,
+      "other_claim_components": {
+        "intercompany_net_receivable": 796,
+        "JV_financial_current_receivables": 993,
+        "derivatives": 77,
+        "securities": 604,
+        "held_for_sale_cash": 4
+      }
+    },
+    "captive": {
+      "downside": {
+        "method": "Equity DDM: distribution=NI-increase in required equity; terminal distribution=NI_2035*(1+g)-equity_2035*g; no captive gross debt/cash enters industrial EV",
+        "cost_of_equity": 0.145,
+        "terminal_growth": 0.005,
+        "terminal_value": 3747.824642857143,
+        "present_value": 1887.9152854847737,
+        "horizon_value": 3558.2495388102525,
+        "rows": [
+          {
+            "year": 2026,
+            "earnings": 290.69,
+            "required_equity": 11278.772,
+            "incremental_required_equity": 1306.94224,
+            "distribution": -1016.25224,
+            "stub_distribution": -227.64818608695654
+          },
+          {
+            "year": 2027,
+            "earnings": -290.69,
+            "required_equity": 11627.6,
+            "incremental_required_equity": 348.82800000000003,
+            "distribution": -639.518,
+            "stub_distribution": null
+          },
+          {
+            "year": 2028,
+            "earnings": 232.552,
+            "required_equity": 11627.6,
+            "incremental_required_equity": 0.0,
+            "distribution": 232.552,
+            "stub_distribution": null
+          },
+          {
+            "year": 2029,
+            "earnings": 406.966,
+            "required_equity": 11627.6,
+            "incremental_required_equity": 0.0,
+            "distribution": 406.966,
+            "stub_distribution": null
+          },
+          {
+            "year": 2030,
+            "earnings": 465.104,
+            "required_equity": 11627.6,
+            "incremental_required_equity": 0.0,
+            "distribution": 465.104,
+            "stub_distribution": null
+          },
+          {
+            "year": 2031,
+            "earnings": 488.3592,
+            "required_equity": 11685.738,
+            "incremental_required_equity": 58.138,
+            "distribution": 430.2212,
+            "stub_distribution": null
+          },
+          {
+            "year": 2032,
+            "earnings": 511.6144,
+            "required_equity": 11743.876,
+            "incremental_required_equity": 58.138,
+            "distribution": 453.4764,
+            "stub_distribution": null
+          },
+          {
+            "year": 2033,
+            "earnings": 534.8696,
+            "required_equity": 11802.014000000001,
+            "incremental_required_equity": 58.138,
+            "distribution": 476.7316,
+            "stub_distribution": null
+          },
+          {
+            "year": 2034,
+            "earnings": 558.1248,
+            "required_equity": 11860.152,
+            "incremental_required_equity": 58.138,
+            "distribution": 499.9868,
+            "stub_distribution": null
+          },
+          {
+            "year": 2035,
+            "earnings": 581.38,
+            "required_equity": 11918.29,
+            "incremental_required_equity": 58.138,
+            "distribution": 523.242,
+            "stub_distribution": null
+          }
+        ]
+      },
+      "base": {
+        "method": "Equity DDM: distribution=NI-increase in required equity; terminal distribution=NI_2035*(1+g)-equity_2035*g; no captive gross debt/cash enters industrial EV",
+        "cost_of_equity": 0.125,
+        "terminal_growth": 0.015,
+        "terminal_value": 8419.703718181816,
+        "present_value": 5919.269926729981,
+        "horizon_value": 7809.0205097707,
+        "rows": [
+          {
+            "year": 2026,
+            "earnings": 523.242,
+            "required_equity": 11046.22,
+            "incremental_required_equity": 1074.39024,
+            "distribution": -551.14824,
+            "stub_distribution": 60.514074782608695
+          },
+          {
+            "year": 2027,
+            "earnings": 639.518,
+            "required_equity": 11511.324,
+            "incremental_required_equity": 465.104,
+            "distribution": 174.41400000000002,
+            "stub_distribution": null
+          },
+          {
+            "year": 2028,
+            "earnings": 755.794,
+            "required_equity": 11860.152,
+            "incremental_required_equity": 348.82800000000003,
+            "distribution": 406.966,
+            "stub_distribution": null
+          },
+          {
+            "year": 2029,
+            "earnings": 837.1872,
+            "required_equity": 12150.842,
+            "incremental_required_equity": 290.69,
+            "distribution": 546.4972,
+            "stub_distribution": null
+          },
+          {
+            "year": 2030,
+            "earnings": 930.208,
+            "required_equity": 12383.394,
+            "incremental_required_equity": 232.552,
+            "distribution": 697.6560000000001,
+            "stub_distribution": null
+          },
+          {
+            "year": 2031,
+            "earnings": 988.346,
+            "required_equity": 12615.946,
+            "incremental_required_equity": 232.552,
+            "distribution": 755.794,
+            "stub_distribution": null
+          },
+          {
+            "year": 2032,
+            "earnings": 1023.2288,
+            "required_equity": 12807.8014,
+            "incremental_required_equity": 191.8554,
+            "distribution": 831.3734000000001,
+            "stub_distribution": null
+          },
+          {
+            "year": 2033,
+            "earnings": 1052.2978,
+            "required_equity": 12999.6568,
+            "incremental_required_equity": 191.8554,
+            "distribution": 860.4424,
+            "stub_distribution": null
+          },
+          {
+            "year": 2034,
+            "earnings": 1081.3668,
+            "required_equity": 13197.326000000001,
+            "incremental_required_equity": 197.6692,
+            "distribution": 883.6976,
+            "stub_distribution": null
+          },
+          {
+            "year": 2035,
+            "earnings": 1110.4358,
+            "required_equity": 13394.9952,
+            "incremental_required_equity": 197.6692,
+            "distribution": 912.7666,
+            "stub_distribution": null
+          }
+        ]
+      },
+      "upside": {
+        "method": "Equity DDM: distribution=NI-increase in required equity; terminal distribution=NI_2035*(1+g)-equity_2035*g; no captive gross debt/cash enters industrial EV",
+        "cost_of_equity": 0.115,
+        "terminal_growth": 0.02,
+        "terminal_value": 15791.504757894738,
+        "present_value": 10389.171320948808,
+        "horizon_value": 14136.166009781155,
+        "rows": [
+          {
+            "year": 2026,
+            "earnings": 581.38,
+            "required_equity": 11162.496000000001,
+            "incremental_required_equity": 1190.66624,
+            "distribution": -609.28624,
+            "stub_distribution": 24.493792173913043
+          },
+          {
+            "year": 2027,
+            "earnings": 813.932,
+            "required_equity": 11685.738,
+            "incremental_required_equity": 523.242,
+            "distribution": 290.69,
+            "stub_distribution": null
+          },
+          {
+            "year": 2028,
+            "earnings": 988.346,
+            "required_equity": 12150.842,
+            "incremental_required_equity": 465.104,
+            "distribution": 523.242,
+            "stub_distribution": null
+          },
+          {
+            "year": 2029,
+            "earnings": 1162.76,
+            "required_equity": 12557.808,
+            "incremental_required_equity": 406.966,
+            "distribution": 755.794,
+            "stub_distribution": null
+          },
+          {
+            "year": 2030,
+            "earnings": 1337.174,
+            "required_equity": 12964.774,
+            "incremental_required_equity": 406.966,
+            "distribution": 930.208,
+            "stub_distribution": null
+          },
+          {
+            "year": 2031,
+            "earnings": 1430.1948,
+            "required_equity": 13371.74,
+            "incremental_required_equity": 406.966,
+            "distribution": 1023.2288,
+            "stub_distribution": null
+          },
+          {
+            "year": 2032,
+            "earnings": 1511.588,
+            "required_equity": 13662.43,
+            "incremental_required_equity": 290.69,
+            "distribution": 1220.898,
+            "stub_distribution": null
+          },
+          {
+            "year": 2033,
+            "earnings": 1592.9812,
+            "required_equity": 13953.12,
+            "incremental_required_equity": 290.69,
+            "distribution": 1302.2912000000001,
+            "stub_distribution": null
+          },
+          {
+            "year": 2034,
+            "earnings": 1674.3744,
+            "required_equity": 14243.81,
+            "incremental_required_equity": 290.69,
+            "distribution": 1383.6844,
+            "stub_distribution": null
+          },
+          {
+            "year": 2035,
+            "earnings": 1755.7676000000001,
+            "required_equity": 14534.5,
+            "incremental_required_equity": 290.69,
+            "distribution": 1465.0776,
+            "stub_distribution": null
+          }
+        ]
+      }
+    },
+    "operating_assumptions_eur": {
+      "downside": {
+        "p": 0.3,
+        "w": 0.13,
+        "g": 0.005,
+        "roic": 0.08,
+        "vol0": [
+          1650,
+          2690,
+          460,
+          955,
+          55
+        ],
+        "vol30": [
+          1450,
+          2500,
+          480,
+          950,
+          50
+        ],
+        "vol35": [
+          1450,
+          2450,
+          510,
+          960,
+          45
+        ],
+        "price0": [
+          40.8,
+          21.5,
+          21.2,
+          16.8,
+          29.5
+        ],
+        "pg": [
+          -0.005,
+          0,
+          0.005,
+          0.005,
+          0
+        ],
+        "m0": [
+          0.014,
+          -0.007,
+          0.1,
+          0.075,
+          -0.02
+        ],
+        "m30": [
+          0.025,
+          0.005,
+          0.075,
+          0.065,
+          0
+        ],
+        "m35": [
+          0.025,
+          0.007,
+          0.075,
+          0.065,
+          0
+        ],
+        "corp": [
+          1700,
+          1800,
+          1700,
+          1500,
+          1400,
+          1300,
+          1200,
+          1150,
+          1100,
+          1100
+        ],
+        "cap": [
+          8900,
+          9100,
+          8800,
+          8500,
+          8300,
+          8300,
+          8350,
+          8400,
+          8450,
+          8500
+        ],
+        "da": [
+          6250,
+          6100,
+          6000,
+          5950,
+          5900,
+          5900,
+          5920,
+          5940,
+          5960,
+          5980
+        ],
+        "legacy": [
+          3521.9298245614036,
+          2200,
+          2000,
+          1700,
+          500,
+          250,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bankni": [
+          250,
+          -250,
+          200,
+          350,
+          400,
+          420,
+          440,
+          460,
+          480,
+          500
+        ],
+        "bankcap": [
+          9700,
+          10000,
+          10000,
+          10000,
+          10000,
+          10050,
+          10100,
+          10150,
+          10200,
+          10250
+        ],
+        "bankke": 0.145
+      },
+      "base": {
+        "p": 0.5,
+        "w": 0.11,
+        "g": 0.015,
+        "roic": 0.1,
+        "vol0": [
+          1690,
+          2780,
+          470,
+          980,
+          60
+        ],
+        "vol30": [
+          1900,
+          2850,
+          510,
+          1030,
+          60
+        ],
+        "vol35": [
+          1950,
+          2880,
+          540,
+          1090,
+          60
+        ],
+        "price0": [
+          40.8,
+          21.7,
+          21.3,
+          16.9,
+          30
+        ],
+        "pg": [
+          0.006,
+          0.008,
+          0.012,
+          0.012,
+          0.005
+        ],
+        "m0": [
+          0.025,
+          0.001,
+          0.115,
+          0.085,
+          0
+        ],
+        "m30": [
+          0.055,
+          0.03,
+          0.1,
+          0.09,
+          0.02
+        ],
+        "m35": [
+          0.055,
+          0.03,
+          0.1,
+          0.09,
+          0.02
+        ],
+        "corp": [
+          1400,
+          1300,
+          1150,
+          1050,
+          1000,
+          1020,
+          1040,
+          1060,
+          1080,
+          1100
+        ],
+        "cap": [
+          8500,
+          8600,
+          8700,
+          8800,
+          8900,
+          9000,
+          9100,
+          9200,
+          9300,
+          9400
+        ],
+        "da": [
+          6300,
+          6350,
+          6400,
+          6500,
+          6600,
+          6700,
+          6800,
+          6900,
+          7000,
+          7100
+        ],
+        "legacy": [
+          3521.9298245614036,
+          1750,
+          1500,
+          1250,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bankni": [
+          450,
+          550,
+          650,
+          720,
+          800,
+          850,
+          880,
+          905,
+          930,
+          955
+        ],
+        "bankcap": [
+          9500,
+          9900,
+          10200,
+          10450,
+          10650,
+          10850,
+          11015,
+          11180,
+          11350,
+          11520
+        ],
+        "bankke": 0.125
+      },
+      "upside": {
+        "p": 0.2,
+        "w": 0.1,
+        "g": 0.02,
+        "roic": 0.13,
+        "vol0": [
+          1720,
+          2820,
+          480,
+          990,
+          65
+        ],
+        "vol30": [
+          2100,
+          3050,
+          560,
+          1100,
+          80
+        ],
+        "vol35": [
+          2220,
+          3190,
+          625,
+          1210,
+          90
+        ],
+        "price0": [
+          41,
+          21.8,
+          21.4,
+          17,
+          30.5
+        ],
+        "pg": [
+          0.009,
+          0.011,
+          0.015,
+          0.015,
+          0.01
+        ],
+        "m0": [
+          0.033,
+          0.006,
+          0.12,
+          0.09,
+          0.02
+        ],
+        "m30": [
+          0.075,
+          0.043,
+          0.12,
+          0.1,
+          0.04
+        ],
+        "m35": [
+          0.07,
+          0.04,
+          0.115,
+          0.095,
+          0.04
+        ],
+        "corp": [
+          1300,
+          1150,
+          1000,
+          950,
+          950,
+          970,
+          990,
+          1010,
+          1030,
+          1050
+        ],
+        "cap": [
+          8700,
+          8950,
+          9200,
+          9400,
+          9700,
+          9900,
+          10100,
+          10300,
+          10500,
+          10700
+        ],
+        "da": [
+          6300,
+          6400,
+          6500,
+          6700,
+          6900,
+          7100,
+          7300,
+          7500,
+          7700,
+          7900
+        ],
+        "legacy": [
+          3521.9298245614036,
+          1750,
+          1500,
+          1250,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bankni": [
+          500,
+          700,
+          850,
+          1000,
+          1150,
+          1230,
+          1300,
+          1370,
+          1440,
+          1510
+        ],
+        "bankcap": [
+          9600,
+          10050,
+          10450,
+          10800,
+          11150,
+          11500,
+          11750,
+          12000,
+          12250,
+          12500
+        ],
+        "bankke": 0.115
+      }
+    }
+  },
+  "ASIX": {
+    "forecast_limitation": "No quarterly annual tonnage/product realization series disclosed; not a confirmed investment. Revenue forecast anchored H126 825.468m, Q2 volume -15% price +18%; 2025 product mix shifts cannot be treated as physical demand.",
+    "reported_product_revenue_q2_2026_m": {
+      "nylon": 100.218,
+      "caprolactam": 62.644,
+      "plant_nutrients": 131.439,
+      "chemical_intermediates": 126.983
+    },
+    "industry_2025_company_estimates": {
+      "world_nylon6_production_consumption_mt": 7.7,
+      "world_nylon6_utilization": 0.56,
+      "world_caprolactam_utilization": 0.74
+    },
+    "refinancing": {
+      "revolver_drawn_june_m": 275,
+      "commitments_maturing_2026_10_27": 48,
+      "commitments_maturing_2027_10_27": 452,
+      "maximum_leverage": 3.75,
+      "minimum_interest_coverage": 3.0
+    }
+  }
+}

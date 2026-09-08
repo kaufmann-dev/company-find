@@ -1,639 +1,12 @@
 [
   {
-    "ticker": "CMCSA",
-    "company": "Comcast Corporation \u2014 combined current economic claims",
-    "currency": "USD",
-    "price": 26.115,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 92672.644103895,
-    "diluted_equity_m": 92829.334103895,
-    "scenarios": {
-      "downside": {
-        "probability": 0.3,
-        "enterprise_value_m": 71742.15205639474,
-        "equity_value_m": 0,
-        "residual_after_senior_claims_m": -16783.84794360526,
-        "fair_value_per_share": 0,
-        "terminal_pv_m": 19607.26191808456,
-        "terminal_share_of_ev": 0.2733018365921303,
-        "terminal_next_fcff_m": 7288.096070164166,
-        "annualized_return": -0.4548413035636437,
-        "future_equity_per_share": 0.0,
-        "future_operating_ev_m": 74481.86723049675,
-        "retained_excess_cash_m": 6244.03943905182,
-        "horizon_debt_m": 90381.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -26.115
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.41227397260273974
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 0.9
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 0.9
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 0.9
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 0.0
-          }
-        ]
-      },
-      "base": {
-        "probability": 0.5,
-        "enterprise_value_m": 206341.32257368788,
-        "equity_value_m": 117815.32257368788,
-        "residual_after_senior_claims_m": 117815.32257368788,
-        "fair_value_per_share": 33.1441260320617,
-        "terminal_pv_m": 81755.70152450317,
-        "terminal_share_of_ev": 0.39621584520622066,
-        "terminal_next_fcff_m": 18333.759493523492,
-        "annualized_return": 0.17325655974399579,
-        "future_equity_per_share": 49.570435040373845,
-        "future_operating_ev_m": 231122.60101193702,
-        "retained_excess_cash_m": 38769.28032209658,
-        "horizon_debt_m": 90381.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -26.115
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.41227397260273974
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 49.570435040373845
-          }
-        ]
-      },
-      "upside": {
-        "probability": 0.2,
-        "enterprise_value_m": 349139.7805617782,
-        "equity_value_m": 260613.78056177823,
-        "residual_after_senior_claims_m": 260613.78056177823,
-        "fair_value_per_share": 73.31657546690589,
-        "terminal_pv_m": 165665.18859783944,
-        "terminal_share_of_ev": 0.4744953105351625,
-        "terminal_next_fcff_m": 27416.015394512877,
-        "annualized_return": 0.3506259651093139,
-        "future_equity_per_share": 104.88884084270593,
-        "future_operating_ev_m": 402581.35469571257,
-        "retained_excess_cash_m": 63947.35506334613,
-        "horizon_debt_m": 90381.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -26.115
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.41227397260273974
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 1.32
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 104.88884084270593
-          }
-        ]
-      }
-    },
-    "current_ev_m": 181198.644103895,
-    "conventional_ev_m": 178698.644103895,
-    "probability_weighted_fair_value": 31.23537810941203,
-    "upside": 0.19607038519670805,
-    "margin_of_safety": 0.16392880186934977,
-    "expected_scenario_annualized_return": 0.020301081824767572,
-    "expected_cashflow_annualized_return": 0.15380887759416828,
-    "reverse_margin": {
-      "parallel_margin_change_percentage_points": -1.981887107714321,
-      "price_justifying_2030_margin": 0.16691945859881674,
-      "fair_value_at_solution": 26.11499999999999
-    },
-    "sensitivity": [
-      {
-        "wacc": 0.0775,
-        "g": 0.01,
-        "fair_value": 36.86652287903837
-      },
-      {
-        "wacc": 0.0775,
-        "g": 0.02,
-        "fair_value": 43.21083337374526
-      },
-      {
-        "wacc": 0.0775,
-        "g": 0.03,
-        "fair_value": 48.101514838555815
-      },
-      {
-        "wacc": 0.0875,
-        "g": 0.01,
-        "fair_value": 28.78501868797709
-      },
-      {
-        "wacc": 0.0875,
-        "g": 0.02,
-        "fair_value": 33.1441260320617
-      },
-      {
-        "wacc": 0.0875,
-        "g": 0.03,
-        "fair_value": 35.94723202729602
-      },
-      {
-        "wacc": 0.09749999999999999,
-        "g": 0.01,
-        "fair_value": 22.548641710728113
-      },
-      {
-        "wacc": 0.09749999999999999,
-        "g": 0.02,
-        "fair_value": 25.66498794356041
-      },
-      {
-        "wacc": 0.09749999999999999,
-        "g": 0.03,
-        "fair_value": 27.342530359916797
-      }
-    ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 23.90372056272144
-  },
-  {
-    "ticker": "PYPL",
-    "company": "PayPal Holdings",
-    "currency": "USD",
-    "price": 53.25,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 45553.2915405,
-    "diluted_equity_m": 45819.5415405,
-    "scenarios": {
-      "downside": {
-        "probability": 0.3,
-        "enterprise_value_m": 20461.865617420328,
-        "equity_value_m": 13198.101095060329,
-        "residual_after_senior_claims_m": 13198.101095060329,
-        "fair_value_per_share": 15.338409326744506,
-        "terminal_pv_m": 3696.318931536036,
-        "terminal_share_of_ev": 0.18064427753787776,
-        "terminal_next_fcff_m": 2018.9954065920006,
-        "annualized_return": -0.14501537934274716,
-        "future_equity_per_share": 22.560095425947026,
-        "future_operating_ev_m": 17716.30031765097,
-        "retained_excess_cash_m": 15215.543632442808,
-        "horizon_debt_m": 13400.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -53.25
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.14
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 0.5712
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 0.582624
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 0.5942764800000001
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 0.6061620096
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 22.560095425947026
-          }
-        ]
-      },
-      "base": {
-        "probability": 0.5,
-        "enterprise_value_m": 59208.42936947466,
-        "equity_value_m": 51944.66484711466,
-        "residual_after_senior_claims_m": 51944.66484711466,
-        "fair_value_per_share": 60.36842164088296,
-        "terminal_pv_m": 21561.98838271075,
-        "terminal_share_of_ev": 0.36417092316634214,
-        "terminal_next_fcff_m": 6327.375438222515,
-        "annualized_return": 0.12255448125187984,
-        "future_equity_per_share": 91.62345032737186,
-        "future_operating_ev_m": 68061.8160994731,
-        "retained_excess_cash_m": 24296.342570472872,
-        "horizon_debt_m": 13400.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -53.25
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.14
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 0.5712
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 0.582624
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 0.5942764800000001
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 0.6061620096
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 91.62345032737186
-          }
-        ]
-      },
-      "upside": {
-        "probability": 0.2,
-        "enterprise_value_m": 90107.50189719537,
-        "equity_value_m": 82843.73737483537,
-        "residual_after_senior_claims_m": 82843.73737483537,
-        "fair_value_per_share": 96.27833162212484,
-        "terminal_pv_m": 39622.847635034974,
-        "terminal_share_of_ev": 0.4397286219325125,
-        "terminal_next_fcff_m": 9440.878357249105,
-        "annualized_return": 0.2293713642463341,
-        "future_equity_per_share": 145.36438430371837,
-        "future_operating_ev_m": 109791.1186496622,
-        "retained_excess_cash_m": 28809.01103914721,
-        "horizon_debt_m": 13400.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -53.25
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.14
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 0.5712
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 0.582624
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 0.5942764800000001
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 0.6061620096
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 145.36438430371837
-          }
-        ]
-      }
-    },
-    "current_ev_m": 52817.05606286,
-    "conventional_ev_m": 47817.05606286,
-    "probability_weighted_fair_value": 54.0413999428898,
-    "upside": 0.014861970758493825,
-    "margin_of_safety": 0.014644327195930118,
-    "expected_scenario_annualized_return": 0.0636468996723826,
-    "expected_cashflow_annualized_return": 0.09744580736689967,
-    "reverse_margin": {
-      "parallel_margin_change_percentage_points": -1.6106905925625346,
-      "price_justifying_2030_margin": 0.14889309407437468,
-      "fair_value_at_solution": 53.250000000000014
-    },
-    "sensitivity": [
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.015000000000000001,
-        "fair_value": 66.22232781524141
-      },
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.025,
-        "fair_value": 71.00811848443136
-      },
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.035,
-        "fair_value": 76.91427546127288
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.015000000000000001,
-        "fair_value": 57.11386736408467
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.025,
-        "fair_value": 60.36842164088296
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.035,
-        "fair_value": 64.15142585097762
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.015000000000000001,
-        "fair_value": 49.93853935530864
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.025,
-        "fair_value": 52.22634188352181
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.035,
-        "fair_value": 54.75424566958356
-      }
-    ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 45.947407713351765
-  },
-  {
-    "ticker": "MWA",
-    "company": "Mueller Water Products",
-    "currency": "USD",
-    "price": 23.92,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 3734.52624168,
-    "diluted_equity_m": 3763.2302416800003,
-    "scenarios": {
-      "downside": {
-        "probability": 0.3,
-        "enterprise_value_m": 1787.644568485735,
-        "equity_value_m": 1755.044568485735,
-        "residual_after_senior_claims_m": 1755.044568485735,
-        "fair_value_per_share": 11.155487010392848,
-        "terminal_pv_m": 542.7673702315235,
-        "terminal_share_of_ev": 0.3036215251062391,
-        "terminal_next_fcff_m": 198.88375929922975,
-        "annualized_return": -0.0688838916650461,
-        "future_equity_per_share": 15.657133772291521,
-        "future_operating_ev_m": 1982.6754645472904,
-        "retained_excess_cash_m": 933.493737372305,
-        "horizon_debt_m": 452.9,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -23.92
-          },
-          {
-            "date": "2026-09-30",
-            "per_share": 0.016876712328767127
-          },
-          {
-            "date": "2027-09-30",
-            "per_share": 0.29400000000000004
-          },
-          {
-            "date": "2028-09-30",
-            "per_share": 0.30870000000000003
-          },
-          {
-            "date": "2029-09-30",
-            "per_share": 0.32413500000000006
-          },
-          {
-            "date": "2030-09-30",
-            "per_share": 0.3403417500000001
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 15.657133772291521
-          }
-        ]
-      },
-      "base": {
-        "probability": 0.5,
-        "enterprise_value_m": 3455.691804972792,
-        "equity_value_m": 3423.091804972792,
-        "residual_after_senior_claims_m": 3423.091804972792,
-        "fair_value_per_share": 21.757997974207324,
-        "terminal_pv_m": 1409.9870694891918,
-        "terminal_share_of_ev": 0.40801875545157107,
-        "terminal_next_fcff_m": 353.62162283357935,
-        "annualized_return": 0.06444352981292922,
-        "future_equity_per_share": 31.18894606584183,
-        "future_operating_ev_m": 4036.140017949817,
-        "retained_excess_cash_m": 1323.582099153127,
-        "horizon_debt_m": 452.9,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -23.92
-          },
-          {
-            "date": "2026-09-30",
-            "per_share": 0.016876712328767127
-          },
-          {
-            "date": "2027-09-30",
-            "per_share": 0.29400000000000004
-          },
-          {
-            "date": "2028-09-30",
-            "per_share": 0.30870000000000003
-          },
-          {
-            "date": "2029-09-30",
-            "per_share": 0.32413500000000006
-          },
-          {
-            "date": "2030-09-30",
-            "per_share": 0.3403417500000001
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 31.18894606584183
-          }
-        ]
-      },
-      "upside": {
-        "probability": 0.2,
-        "enterprise_value_m": 5161.834694877268,
-        "equity_value_m": 5129.234694877268,
-        "residual_after_senior_claims_m": 5129.234694877268,
-        "fair_value_per_share": 32.60265410885192,
-        "terminal_pv_m": 2519.0370405281037,
-        "terminal_share_of_ev": 0.4880119549407613,
-        "terminal_next_fcff_m": 507.7644703244004,
-        "annualized_return": 0.15383812774847538,
-        "future_equity_per_share": 47.07722173288511,
-        "future_operating_ev_m": 6386.8930078723315,
-        "retained_excess_cash_m": 1472.462866687374,
-        "horizon_debt_m": 452.9,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -23.92
-          },
-          {
-            "date": "2026-09-30",
-            "per_share": 0.016876712328767127
-          },
-          {
-            "date": "2027-09-30",
-            "per_share": 0.29400000000000004
-          },
-          {
-            "date": "2028-09-30",
-            "per_share": 0.30870000000000003
-          },
-          {
-            "date": "2029-09-30",
-            "per_share": 0.32413500000000006
-          },
-          {
-            "date": "2030-09-30",
-            "per_share": 0.3403417500000001
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 47.07722173288511
-          }
-        ]
-      }
-    },
-    "current_ev_m": 3767.12624168,
-    "conventional_ev_m": 3692.12624168,
-    "probability_weighted_fair_value": 20.7461759119919,
-    "upside": -0.13268495351204435,
-    "margin_of_safety": -0.15298357159757514,
-    "expected_scenario_annualized_return": 0.042324222956645854,
-    "expected_cashflow_annualized_return": 0.054373805038294365,
-    "reverse_margin": {
-      "parallel_margin_change_percentage_points": 1.9097245783101262,
-      "price_justifying_2030_margin": 0.22862633165567744,
-      "fair_value_at_solution": 23.919999999999998
-    },
-    "sensitivity": [
-      {
-        "wacc": 0.085,
-        "g": 0.015000000000000001,
-        "fair_value": 23.432106573042887
-      },
-      {
-        "wacc": 0.085,
-        "g": 0.025,
-        "fair_value": 25.525704873120493
-      },
-      {
-        "wacc": 0.085,
-        "g": 0.035,
-        "fair_value": 27.814676080562222
-      },
-      {
-        "wacc": 0.095,
-        "g": 0.015000000000000001,
-        "fair_value": 20.327897830664693
-      },
-      {
-        "wacc": 0.095,
-        "g": 0.025,
-        "fair_value": 21.757997974207324
-      },
-      {
-        "wacc": 0.095,
-        "g": 0.035,
-        "fair_value": 23.18103190723647
-      },
-      {
-        "wacc": 0.105,
-        "g": 0.015000000000000001,
-        "fair_value": 17.921028314289146
-      },
-      {
-        "wacc": 0.105,
-        "g": 0.025,
-        "fair_value": 18.93546741636547
-      },
-      {
-        "wacc": 0.105,
-        "g": 0.035,
-        "fair_value": 19.864431559999552
-      }
-    ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 18.601459202145993
-  },
-  {
     "ticker": "AER",
-    "price": 145.165,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 145.4819,
+    "price_timestamp": "2026-09-08T15:36:00Z",
     "currency": "USD",
-    "current_equity_m": 22417.840385725,
-    "diluted_equity_m": 22817.624795724998,
-    "current_ev_m": 63505.001385725,
+    "current_equity_m": 22466.7792733235,
+    "diluted_equity_m": 22867.4364259235,
+    "current_ev_m": 63553.940273323504,
     "ev_note": "Descriptive equity plus debt less unrestrictedcash; maintenance/customer deposits included in equityDCF capital, no industrialEVcomparison",
     "scenarios": {
       "downside": {
@@ -642,13 +15,13 @@
         "fair_value_per_share": 42.70539940477805,
         "terminal_pv_m": 2686.0658059123025,
         "terminal_share_of_equity_value": 0.4001523246275724,
-        "annualized_return": -0.14609108507457008,
+        "annualized_return": -0.14647576755893948,
         "future_equity_per_share": 60.801036966878,
         "retained_excess_cash_m": 2273.2244364214316,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -145.165
+            "per_share": -145.4819
           },
           {
             "date": "2026-12-31",
@@ -682,13 +55,13 @@
         "fair_value_per_share": 136.03277980039462,
         "terminal_pv_m": 10025.789499052771,
         "terminal_share_of_equity_value": 0.4688851657265185,
-        "annualized_return": 0.07704407603842445,
+        "annualized_return": 0.07656496601097718,
         "future_equity_per_share": 201.79545357150218,
         "retained_excess_cash_m": 8803.030366229075,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -145.165
+            "per_share": -145.4819
           },
           {
             "date": "2026-12-31",
@@ -722,13 +95,13 @@
         "fair_value_per_share": 208.65909186999724,
         "terminal_pv_m": 17474.190101675802,
         "terminal_share_of_equity_value": 0.5327840650789072,
-        "annualized_return": 0.16820947263747132,
+        "annualized_return": 0.16769129990998033,
         "future_equity_per_share": 305.3094916258418,
         "retained_excess_cash_m": 11514.014472306768,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -145.165
+            "per_share": -145.4819
           },
           {
             "date": "2026-12-31",
@@ -758,13 +131,13 @@
       }
     },
     "probability_weighted_fair_value": 122.55982809563018,
-    "upside": -0.15572053803857555,
-    "margin_of_safety": -0.1844419354662572,
-    "expected_scenario_annualized_return": 0.02833660702433547,
-    "expected_cashflow_annualized_return": 0.05346615181995229,
+    "upside": -0.15755961328776857,
+    "margin_of_safety": -0.18702761141672242,
+    "expected_scenario_annualized_return": 0.027878012719802815,
+    "expected_cashflow_annualized_return": 0.05299711164816412,
     "reverse_lease_yield": {
-      "parallel_basis_point_change": 20.55779049790203,
-      "normalized_2035_lease_yield": 0.1080557790497902,
+      "parallel_basis_point_change": 21.271172749576916,
+      "normalized_2035_lease_yield": 0.10812711727495769,
       "note": "All rentalyields shift; capital,creditcosts,salesgains,fundingandterminalgrowthheldfixed. Onejustifyingpath,notuniqueimpliedconsensus."
     },
     "sensitivity": [
@@ -817,391 +190,230 @@
     "probability_sensitivity_shift_10pp_upside_to_downside": 105.96445884910825
   },
   {
-    "ticker": "GSL",
-    "company": "Global Ship Lease",
+    "ticker": "ASIX",
+    "company": "AdvanSix Inc.",
     "currency": "USD",
-    "price": 45.21,
-    "price_timestamp": "2026-09-08T15:00:00+00:00",
-    "current_equity_m": 1629.16197114,
-    "diluted_equity_m": 1629.16197114,
+    "price": 17.37,
+    "price_timestamp": "2026-09-08T15:34:00Z",
+    "current_equity_m": 469.01060082000004,
+    "diluted_equity_m": 478.66338774,
     "scenarios": {
       "downside": {
         "probability": 0.3,
-        "enterprise_value_m": 472.1798291934349,
-        "equity_value_m": 88.32693294343491,
-        "residual_after_senior_claims_m": 88.32693294343491,
-        "fair_value_per_share": 2.4511133387053117,
-        "terminal_pv_m": 214.0843482037998,
-        "terminal_share_of_ev": 0.4533957932288066,
-        "terminal_next_fcff_m": 66.48650399892074,
-        "annualized_return": -0.4588282104387237,
-        "future_equity_per_share": 0.0,
-        "future_operating_ev_m": 896.5147659147013,
-        "retained_excess_cash_m": 202.12280106896046,
-        "horizon_debt_m": 1115.167123287671,
+        "enterprise_value_m": 252.80716182248656,
+        "equity_value_m": 0,
+        "residual_after_senior_claims_m": -27.114838177513434,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 0,
+        "terminal_pv_m": 53.17441496802704,
+        "terminal_share_of_ev": 0.2103358725468564,
+        "terminal_next_fcff_m": 38.225236447680125,
+        "annualized_return": -0.30228589494337343,
+        "future_equity_per_share": 2.872726822551425,
+        "future_operating_ev_m": 289.3501759393082,
+        "retained_excess_cash_m": 79.44542626744429,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 289.6321506849315,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -45.21
-          },
-          {
-            "date": "2026-12-31",
-            "per_share": 0.625
-          },
-          {
-            "date": "2027-12-31",
-            "per_share": 2.5
-          },
-          {
-            "date": "2028-12-31",
-            "per_share": 1.5
-          },
-          {
-            "date": "2029-12-31",
-            "per_share": 1.5
-          },
-          {
-            "date": "2030-12-31",
-            "per_share": 1.5
+            "per_share": -17.37
           },
           {
             "date": "2031-09-08",
-            "per_share": 0.0
+            "per_share": 2.872726822551425
           }
         ]
       },
       "base": {
         "probability": 0.5,
-        "enterprise_value_m": 1380.6106778332673,
-        "equity_value_m": 996.7577815832674,
-        "residual_after_senior_claims_m": 996.7577815832674,
-        "fair_value_per_share": 27.660490548921025,
-        "terminal_pv_m": 407.1838112686768,
-        "terminal_share_of_ev": 0.2949302202324784,
-        "terminal_next_fcff_m": 172.62169476885742,
-        "annualized_return": -0.01586150220231336,
-        "future_equity_per_share": 31.499107128579464,
-        "future_operating_ev_m": 1591.4704598804437,
-        "retained_excess_cash_m": 767.7604093980823,
-        "horizon_debt_m": 1115.167123287671,
+        "enterprise_value_m": 611.6252946245766,
+        "equity_value_m": 331.70329462457653,
+        "residual_after_senior_claims_m": 331.70329462457653,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 12.037031398688304,
+        "terminal_pv_m": 175.95373429853495,
+        "terminal_share_of_ev": 0.2876822391829586,
+        "terminal_next_fcff_m": 79.394450558112,
+        "annualized_return": 0.06518467361530467,
+        "future_equity_per_share": 20.65647146852912,
+        "future_operating_ev_m": 715.6304125760608,
+        "retained_excess_cash_m": 143.2300980329237,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 289.6321506849315,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -45.21
+            "per_share": -17.37
           },
           {
             "date": "2026-12-31",
-            "per_share": 0.625
+            "per_share": 0.16
           },
           {
             "date": "2027-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2028-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2029-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2030-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2031-09-08",
-            "per_share": 31.499107128579464
+            "per_share": 20.65647146852912
           }
         ]
       },
       "upside": {
         "probability": 0.2,
-        "enterprise_value_m": 2518.2737447165264,
-        "equity_value_m": 2134.4208484665264,
-        "residual_after_senior_claims_m": 2134.4208484665264,
-        "fair_value_per_share": 59.23116809045581,
-        "terminal_pv_m": 675.1787043719927,
-        "terminal_share_of_ev": 0.2681117197002724,
-        "terminal_next_fcff_m": 331.241161319475,
-        "annualized_return": 0.15516784685910234,
-        "future_equity_per_share": 77.86935709729772,
-        "future_operating_ev_m": 2625.0285609044695,
-        "retained_excess_cash_m": 1405.1743906853053,
-        "horizon_debt_m": 1115.167123287671,
+        "enterprise_value_m": 1234.1166739874184,
+        "equity_value_m": 954.1946739874185,
+        "residual_after_senior_claims_m": 954.1946739874185,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 34.62634058020812,
+        "terminal_pv_m": 454.5742422291899,
+        "terminal_share_of_ev": 0.3683397622045452,
+        "terminal_next_fcff_m": 151.83086959420172,
+        "annualized_return": 0.2838680310983649,
+        "future_equity_per_share": 55.46774583995489,
+        "future_operating_ev_m": 1510.0743368697579,
+        "retained_excess_cash_m": 308.0770500877182,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 289.6321506849315,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -45.21
+            "per_share": -17.37
           },
           {
             "date": "2026-12-31",
-            "per_share": 0.625
+            "per_share": 0.16
           },
           {
             "date": "2027-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2028-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2029-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2030-12-31",
-            "per_share": 2.5
+            "per_share": 0.64
           },
           {
             "date": "2031-09-08",
-            "per_share": 77.86935709729772
+            "per_share": 55.46774583995489
           }
         ]
       }
     },
-    "current_ev_m": 2013.0148673899998,
-    "conventional_ev_m": 1938.0148673899998,
-    "probability_weighted_fair_value": 26.41181289416327,
-    "upside": -0.41579710475197373,
-    "margin_of_safety": -0.7117340707040574,
-    "expected_scenario_annualized_return": -0.11454564486095331,
-    "expected_cashflow_annualized_return": -0.02147992844891139,
+    "current_ev_m": 748.9326008200001,
+    "conventional_ev_m": 738.9326008200001,
+    "probability_weighted_fair_value": 12.943783815385778,
+    "upside": -0.2548195846064607,
+    "margin_of_safety": -0.3419568997554603,
+    "expected_scenario_annualized_return": -0.0013198254556867212,
+    "expected_cashflow_annualized_return": 0.07146673934499181,
     "reverse_margin": {
-      "parallel_margin_change_percentage_points": 17.640838657639886,
-      "price_justifying_2030_margin": 0.5748596101041996,
-      "fair_value_at_solution": 45.21000000000001
+      "parallel_margin_change_percentage_points": 1.2342059451937737,
+      "price_justifying_2030_margin": 0.07234205945193774,
+      "fair_value_at_solution": 17.369999999999997
     },
     "sensitivity": [
       {
-        "wacc": 0.1,
-        "g": -0.01,
-        "fair_value": 29.936832157294045
-      },
-      {
-        "wacc": 0.1,
-        "g": 0,
-        "fair_value": 29.936832157294045
-      },
-      {
-        "wacc": 0.1,
+        "wacc": 0.10500000000000001,
         "g": 0.01,
-        "fair_value": 29.936832157294045
+        "fair_value": 13.989819408808433
       },
       {
-        "wacc": 0.11,
-        "g": -0.01,
-        "fair_value": 27.660490548921025
+        "wacc": 0.10500000000000001,
+        "g": 0.02,
+        "fair_value": 14.74864169488855
       },
       {
-        "wacc": 0.11,
-        "g": 0,
-        "fair_value": 27.660490548921025
+        "wacc": 0.10500000000000001,
+        "g": 0.03,
+        "fair_value": 15.290162746472987
       },
       {
-        "wacc": 0.11,
+        "wacc": 0.115,
         "g": 0.01,
-        "fair_value": 27.660490548921025
+        "fair_value": 11.508834918513147
       },
       {
-        "wacc": 0.12,
-        "g": -0.01,
-        "fair_value": 25.560105307898688
+        "wacc": 0.115,
+        "g": 0.02,
+        "fair_value": 12.037031398688304
       },
       {
-        "wacc": 0.12,
-        "g": 0,
-        "fair_value": 25.560105307898688
+        "wacc": 0.115,
+        "g": 0.03,
+        "fair_value": 12.354883035995007
       },
       {
-        "wacc": 0.12,
+        "wacc": 0.125,
         "g": 0.01,
-        "fair_value": 25.560105307898688
+        "fair_value": 9.465318942623469
+      },
+      {
+        "wacc": 0.125,
+        "g": 0.02,
+        "fair_value": 9.840101306938735
+      },
+      {
+        "wacc": 0.125,
+        "g": 0.03,
+        "fair_value": 10.022925658657785
       }
     ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 20.73380741898822
-  },
-  {
-    "ticker": "FISV",
-    "company": "Fiserv",
-    "currency": "USD",
-    "price": 51.2201,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 27237.144626292098,
-    "diluted_equity_m": 27585.4413062921,
-    "scenarios": {
-      "downside": {
-        "probability": 0.35,
-        "enterprise_value_m": 11322.73223137695,
-        "equity_value_m": 0,
-        "residual_after_senior_claims_m": -16708.267768623053,
-        "fair_value_per_share": 0,
-        "terminal_pv_m": 2071.277882244538,
-        "terminal_share_of_ev": 0.18293092514408524,
-        "terminal_next_fcff_m": 1131.3689666625996,
-        "annualized_return": -1.0,
-        "future_equity_per_share": 0.0,
-        "future_operating_ev_m": 10086.72345504057,
-        "retained_excess_cash_m": 2057.0608255869656,
-        "horizon_debt_m": 28058.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -51.2201
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 0.0
-          }
-        ]
-      },
-      "base": {
-        "probability": 0.45,
-        "enterprise_value_m": 42025.25951887345,
-        "equity_value_m": 13994.259518873449,
-        "residual_after_senior_claims_m": 13994.259518873449,
-        "fair_value_per_share": 25.98426336645752,
-        "terminal_pv_m": 14865.48650324923,
-        "terminal_share_of_ev": 0.35372741711620304,
-        "terminal_next_fcff_m": 4653.102797182747,
-        "annualized_return": 0.02298381043450448,
-        "future_equity_per_share": 57.38223645291655,
-        "future_operating_ev_m": 48358.10918320658,
-        "retained_excess_cash_m": 10704.05374688736,
-        "horizon_debt_m": 28058.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -51.2201
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 57.38223645291655
-          }
-        ]
-      },
-      "upside": {
-        "probability": 0.2,
-        "enterprise_value_m": 69995.25427737771,
-        "equity_value_m": 41964.25427737771,
-        "residual_after_senior_claims_m": 41964.25427737771,
-        "fair_value_per_share": 77.9183945852787,
-        "terminal_pv_m": 28709.844464178277,
-        "terminal_share_of_ev": 0.41016844299767374,
-        "terminal_next_fcff_m": 7366.857014375352,
-        "annualized_return": 0.21340070671862288,
-        "future_equity_per_share": 134.71133561346582,
-        "future_operating_ev_m": 83648.52638913214,
-        "retained_excess_cash_m": 17060.515913742674,
-        "horizon_debt_m": 28058.0,
-        "unfunded_cash_shortfall_m": 0.0,
-        "cashflows": [
-          {
-            "date": "2026-09-08",
-            "per_share": -51.2201
-          },
-          {
-            "date": "2031-09-08",
-            "per_share": 134.71133561346582
-          }
-        ]
-      }
-    },
-    "current_ev_m": 55268.144626292094,
-    "conventional_ev_m": 54768.144626292094,
-    "probability_weighted_fair_value": 27.276597431961626,
-    "upside": -0.46746301877658136,
-    "margin_of_safety": -0.8778038620015829,
-    "expected_scenario_annualized_return": -0.29697714396074837,
-    "expected_cashflow_annualized_return": 0.00595895583472783,
-    "reverse_margin": {
-      "parallel_margin_change_percentage_points": 6.485389170191078,
-      "price_justifying_2030_margin": 0.3028748186109932,
-      "fair_value_at_solution": 51.2201
-    },
-    "sensitivity": [
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.01,
-        "fair_value": 30.848764405027676
-      },
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.02,
-        "fair_value": 37.54100444553289
-      },
-      {
-        "wacc": 0.09000000000000001,
-        "g": 0.03,
-        "fair_value": 46.46398153818528
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.01,
-        "fair_value": 21.159734094253732
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.02,
-        "fair_value": 25.98426336645752
-      },
-      {
-        "wacc": 0.1,
-        "g": 0.03,
-        "fair_value": 32.187221557795134
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.01,
-        "fair_value": 13.427876992844528
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.02,
-        "fair_value": 17.00778089445591
-      },
-      {
-        "wacc": 0.11,
-        "g": 0.03,
-        "fair_value": 21.482654020285768
-      }
-    ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 19.484757973433755
+    "probability_sensitivity_shift_10pp_upside_to_downside": 9.481149757364966
   },
   {
     "ticker": "CF",
     "company": "CF Industries",
     "currency": "USD",
-    "price": 134.99,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 20429.134168700002,
-    "diluted_equity_m": 20469.6311687,
+    "price": 134.285,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 20322.44078705,
+    "diluted_equity_m": 20362.726287049998,
     "scenarios": {
       "downside": {
         "probability": 0.3,
         "enterprise_value_m": 5175.42073334362,
         "equity_value_m": 3327.51785534362,
         "residual_after_senior_claims_m": 3327.51785534362,
+        "nonoperating_assets_value_m": 0,
         "fair_value_per_share": 21.94380697878311,
         "terminal_pv_m": 1738.819458693563,
         "terminal_share_of_ev": 0.3359764448696687,
         "terminal_next_fcff_m": 696.9902917223154,
-        "annualized_return": -0.22625308950316375,
+        "annualized_return": -0.22541194526240088,
         "future_equity_per_share": 34.49695568328202,
         "future_operating_ev_m": 7819.023153434471,
         "retained_excess_cash_m": 662.0306970712863,
+        "future_nonoperating_assets_m": 0,
         "horizon_debt_m": 3250.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -134.99
+            "per_share": -134.285
           },
           {
             "date": "2026-12-31",
@@ -1234,20 +446,22 @@
         "enterprise_value_m": 11631.608249929186,
         "equity_value_m": 9783.705371929185,
         "residual_after_senior_claims_m": 9783.705371929185,
+        "nonoperating_assets_value_m": 0,
         "fair_value_per_share": 64.5200872097881,
         "terminal_pv_m": 3275.843011450955,
         "terminal_share_of_ev": 0.2816328525740109,
         "terminal_next_fcff_m": 1025.3841525053542,
-        "annualized_return": -0.06310313612021984,
+        "annualized_return": -0.06207997207955457,
         "future_equity_per_share": 88.6607588420472,
         "future_operating_ev_m": 12225.988390042425,
         "retained_excess_cash_m": 4468.363285146578,
+        "future_nonoperating_assets_m": 0,
         "horizon_debt_m": 3250.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -134.99
+            "per_share": -134.285
           },
           {
             "date": "2026-12-31",
@@ -1280,20 +494,22 @@
         "enterprise_value_m": 24102.65953710283,
         "equity_value_m": 22254.75665910283,
         "residual_after_senior_claims_m": 22254.75665910283,
+        "nonoperating_assets_value_m": 0,
         "fair_value_per_share": 146.76227317695643,
         "terminal_pv_m": 7337.149861859705,
         "terminal_share_of_ev": 0.30441245915477255,
         "terminal_next_fcff_m": 2017.1677396284315,
-        "annualized_return": 0.10560348101542039,
+        "annualized_return": 0.10679677116651776,
         "future_equity_per_share": 209.98859947959716,
         "future_operating_ev_m": 24960.37907991878,
         "retained_excess_cash_m": 10131.899466486306,
+        "future_nonoperating_assets_m": 0,
         "horizon_debt_m": 3250.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -134.99
+            "per_share": -134.285
           },
           {
             "date": "2026-12-31",
@@ -1322,17 +538,17 @@
         ]
       }
     },
-    "current_ev_m": 22277.037046700003,
-    "conventional_ev_m": 21777.037046700003,
+    "current_ev_m": 22170.34366505,
+    "conventional_ev_m": 21670.34366505,
     "probability_weighted_fair_value": 68.19564033392027,
-    "upside": -0.4948096871329709,
-    "margin_of_safety": -0.9794520491195751,
-    "expected_scenario_annualized_return": -0.07830679870797497,
-    "expected_cashflow_annualized_return": -0.04993937132551812,
+    "upside": -0.4921574238826357,
+    "margin_of_safety": -0.9691141448701541,
+    "expected_scenario_annualized_return": -0.077304215385194,
+    "expected_cashflow_annualized_return": -0.04890777093142201,
     "reverse_margin": {
-      "parallel_margin_change_percentage_points": 18.443560959103007,
-      "price_justifying_2030_margin": 0.36890089163609263,
-      "fair_value_at_solution": 134.99
+      "parallel_margin_change_percentage_points": 18.259046604517714,
+      "price_justifying_2030_margin": 0.3670557480902398,
+      "fair_value_at_solution": 134.28499999999997
     },
     "sensitivity": [
       {
@@ -1384,33 +600,3600 @@
     "probability_sensitivity_shift_10pp_upside_to_downside": 55.713793714102934
   },
   {
+    "ticker": "CMCSA",
+    "company": "Comcast Corporation \u2014 combined current economic claims",
+    "currency": "USD",
+    "price": 26.22,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 93045.25094406,
+    "diluted_equity_m": 93202.57094406,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 71742.15205639474,
+        "equity_value_m": 0,
+        "residual_after_senior_claims_m": -16783.84794360526,
+        "nonoperating_assets_value_m": 4576,
+        "fair_value_per_share": 0,
+        "terminal_pv_m": 19607.26191808456,
+        "terminal_share_of_ev": 0.2733018365921303,
+        "terminal_next_fcff_m": 7288.096070164166,
+        "annualized_return": -0.45549134712018413,
+        "future_equity_per_share": 0.0,
+        "future_operating_ev_m": 74481.86723049675,
+        "retained_excess_cash_m": 6244.03943905182,
+        "future_nonoperating_assets_m": 4576,
+        "horizon_debt_m": 90381.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -26.22
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.41227397260273974
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.9
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.9
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.9
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 0.0
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 206341.32257368788,
+        "equity_value_m": 117815.32257368788,
+        "residual_after_senior_claims_m": 117815.32257368788,
+        "nonoperating_assets_value_m": 4576,
+        "fair_value_per_share": 33.1441260320617,
+        "terminal_pv_m": 81755.70152450317,
+        "terminal_share_of_ev": 0.39621584520622066,
+        "terminal_next_fcff_m": 18333.759493523492,
+        "annualized_return": 0.17223727956910861,
+        "future_equity_per_share": 49.570435040373845,
+        "future_operating_ev_m": 231122.60101193702,
+        "retained_excess_cash_m": 38769.28032209658,
+        "future_nonoperating_assets_m": 4576,
+        "horizon_debt_m": 90381.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -26.22
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.41227397260273974
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 49.570435040373845
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 349139.7805617782,
+        "equity_value_m": 260613.78056177823,
+        "residual_after_senior_claims_m": 260613.78056177823,
+        "nonoperating_assets_value_m": 4576,
+        "fair_value_per_share": 73.31657546690589,
+        "terminal_pv_m": 165665.18859783944,
+        "terminal_share_of_ev": 0.4744953105351625,
+        "terminal_next_fcff_m": 27416.015394512877,
+        "annualized_return": 0.3494728558668333,
+        "future_equity_per_share": 104.88884084270593,
+        "future_operating_ev_m": 402581.35469571257,
+        "retained_excess_cash_m": 63947.35506334613,
+        "future_nonoperating_assets_m": 4576,
+        "horizon_debt_m": 90381.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -26.22
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.41227397260273974
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 1.32
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 104.88884084270593
+          }
+        ]
+      }
+    },
+    "current_ev_m": 181571.25094405998,
+    "conventional_ev_m": 179071.25094405998,
+    "probability_weighted_fair_value": 31.23537810941203,
+    "upside": 0.1912806296495817,
+    "margin_of_safety": 0.1605672289877217,
+    "expected_scenario_annualized_return": 0.01936580682186574,
+    "expected_cashflow_annualized_return": 0.15280748619810358,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -1.9522819839249819,
+      "price_justifying_2030_margin": 0.16721550983671013,
+      "fair_value_at_solution": 26.220000000000027
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.0775,
+        "g": 0.01,
+        "fair_value": 36.86652287903837
+      },
+      {
+        "wacc": 0.0775,
+        "g": 0.02,
+        "fair_value": 43.21083337374526
+      },
+      {
+        "wacc": 0.0775,
+        "g": 0.03,
+        "fair_value": 48.101514838555815
+      },
+      {
+        "wacc": 0.0875,
+        "g": 0.01,
+        "fair_value": 28.78501868797709
+      },
+      {
+        "wacc": 0.0875,
+        "g": 0.02,
+        "fair_value": 33.1441260320617
+      },
+      {
+        "wacc": 0.0875,
+        "g": 0.03,
+        "fair_value": 35.94723202729602
+      },
+      {
+        "wacc": 0.09749999999999999,
+        "g": 0.01,
+        "fair_value": 22.548641710728113
+      },
+      {
+        "wacc": 0.09749999999999999,
+        "g": 0.02,
+        "fair_value": 25.66498794356041
+      },
+      {
+        "wacc": 0.09749999999999999,
+        "g": 0.03,
+        "fair_value": 27.342530359916797
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 23.90372056272144
+  },
+  {
+    "ticker": "DECK",
+    "company": "Deckers Outdoor Corporation",
+    "currency": "USD",
+    "price": 83.6399,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 11409.6723048573,
+    "diluted_equity_m": 11457.096128157298,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 3839.2793019672145,
+        "equity_value_m": 4859.378621967215,
+        "residual_after_senior_claims_m": 4859.378621967215,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 35.474778029015724,
+        "terminal_pv_m": 717.1918459557712,
+        "terminal_share_of_ev": 0.18680376954817748,
+        "terminal_next_fcff_m": 429.4792673914955,
+        "annualized_return": -0.09390591534762643,
+        "future_equity_per_share": 51.08686987606998,
+        "future_operating_ev_m": 3541.0550128434297,
+        "retained_excess_cash_m": 3456.887106369973,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -83.6399
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 51.08686987606998
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 12034.945027273825,
+        "equity_value_m": 13055.044347273824,
+        "residual_after_senior_claims_m": 13055.044347273824,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 95.30535412180112,
+        "terminal_pv_m": 4106.080749574056,
+        "terminal_share_of_ev": 0.3411798508650249,
+        "terminal_next_fcff_m": 1315.8016773993422,
+        "annualized_return": 0.11105884384314157,
+        "future_equity_per_share": 141.6013855070647,
+        "future_operating_ev_m": 13634.3635995391,
+        "retained_excess_cash_m": 5762.367932118637,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -83.6399
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 141.6013855070647
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 17973.5499895015,
+        "equity_value_m": 18993.6493095015,
+        "residual_after_senior_claims_m": 18993.6493095015,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 138.65877628254492,
+        "terminal_pv_m": 7302.253127809287,
+        "terminal_share_of_ev": 0.40627773211605916,
+        "terminal_next_fcff_m": 1916.1088740619803,
+        "annualized_return": 0.19784394973894137,
+        "future_equity_per_share": 206.23437786735525,
+        "future_operating_ev_m": 21565.62726655281,
+        "retained_excess_cash_m": 6684.610863299153,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -83.6399
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 206.23437786735525
+          }
+        ]
+      }
+    },
+    "current_ev_m": 10389.572984857301,
+    "conventional_ev_m": 9839.572984857301,
+    "probability_weighted_fair_value": 86.02686572611427,
+    "upside": 0.0285386009083497,
+    "margin_of_safety": 0.027746747553417883,
+    "expected_scenario_annualized_return": 0.06692643726507114,
+    "expected_cashflow_annualized_return": 0.08777282638034334,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -2.5783839291139685,
+      "price_justifying_2030_margin": 0.18421616070886032,
+      "fair_value_at_solution": 83.6399
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.01,
+        "fair_value": 101.66102610817256
+      },
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.02,
+        "fair_value": 108.1198659609417
+      },
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.03,
+        "fair_value": 114.23771176374797
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.01,
+        "fair_value": 90.72675527384966
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.02,
+        "fair_value": 95.30535412180112
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.03,
+        "fair_value": 99.26679260593149
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.01,
+        "fair_value": 82.00484922147277
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.02,
+        "fair_value": 85.3476065818266
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.03,
+        "fair_value": 88.00703811260908
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 75.70846590076135
+  },
+  {
+    "ticker": "FISV",
+    "company": "Fiserv",
+    "currency": "USD",
+    "price": 51.205,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 27229.114948804996,
+    "diluted_equity_m": 27577.308948805,
+    "scenarios": {
+      "downside": {
+        "probability": 0.35,
+        "enterprise_value_m": 11322.73223137695,
+        "equity_value_m": 0,
+        "residual_after_senior_claims_m": -16708.267768623053,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 0,
+        "terminal_pv_m": 2071.277882244538,
+        "terminal_share_of_ev": 0.18293092514408524,
+        "terminal_next_fcff_m": 1131.3689666625996,
+        "annualized_return": -1.0,
+        "future_equity_per_share": 0.0,
+        "future_operating_ev_m": 10086.72345504057,
+        "retained_excess_cash_m": 2057.0608255869656,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 28058.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -51.205
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 0.0
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.45,
+        "enterprise_value_m": 42025.25951887345,
+        "equity_value_m": 13994.259518873449,
+        "residual_after_senior_claims_m": 13994.259518873449,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 25.98426336645752,
+        "terminal_pv_m": 14865.48650324923,
+        "terminal_share_of_ev": 0.35372741711620304,
+        "terminal_next_fcff_m": 4653.102797182747,
+        "annualized_return": 0.02304414574729463,
+        "future_equity_per_share": 57.38223645291655,
+        "future_operating_ev_m": 48358.10918320658,
+        "retained_excess_cash_m": 10704.05374688736,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 28058.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -51.205
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 57.38223645291655
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 69995.25427737771,
+        "equity_value_m": 41964.25427737771,
+        "residual_after_senior_claims_m": 41964.25427737771,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 77.9183945852787,
+        "terminal_pv_m": 28709.844464178277,
+        "terminal_share_of_ev": 0.41016844299767374,
+        "terminal_next_fcff_m": 7366.857014375352,
+        "annualized_return": 0.21347227276926117,
+        "future_equity_per_share": 134.71133561346582,
+        "future_operating_ev_m": 83648.52638913214,
+        "retained_excess_cash_m": 17060.515913742674,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 28058.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -51.205
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 134.71133561346582
+          }
+        ]
+      }
+    },
+    "current_ev_m": 55260.114948805,
+    "conventional_ev_m": 54760.114948805,
+    "probability_weighted_fair_value": 27.276597431961626,
+    "upside": -0.467305977307653,
+    "margin_of_safety": -0.8772502738923011,
+    "expected_scenario_annualized_return": -0.29693567985986513,
+    "expected_cashflow_annualized_return": 0.006018287026126168,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": 6.481508602334671,
+      "price_justifying_2030_margin": 0.3028360129324291,
+      "fair_value_at_solution": 51.20500000000003
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.01,
+        "fair_value": 30.848764405027676
+      },
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.02,
+        "fair_value": 37.54100444553289
+      },
+      {
+        "wacc": 0.09000000000000001,
+        "g": 0.03,
+        "fair_value": 46.46398153818528
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.01,
+        "fair_value": 21.159734094253732
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.02,
+        "fair_value": 25.98426336645752
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.03,
+        "fair_value": 32.187221557795134
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.01,
+        "fair_value": 13.427876992844528
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.02,
+        "fair_value": 17.00778089445591
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.03,
+        "fair_value": 21.482654020285768
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 19.484757973433755
+  },
+  {
+    "ticker": "GRSD",
+    "company": "Grandstand Limited (formerly Gambling.com Group)",
+    "currency": "USD",
+    "price": 1.9199,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 68.34357113360001,
+    "diluted_equity_m": 73.34094412019999,
+    "scenarios": {
+      "downside": {
+        "probability": 0.4,
+        "enterprise_value_m": 17.244266296875946,
+        "equity_value_m": 0,
+        "residual_after_senior_claims_m": -132.48973370312405,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 0,
+        "terminal_pv_m": 1.3493465259817763,
+        "terminal_share_of_ev": 0.07824899608667203,
+        "terminal_next_fcff_m": 1.8065994343376668,
+        "annualized_return": -1.0,
+        "future_equity_per_share": 0.0,
+        "future_operating_ev_m": 12.70938157238183,
+        "retained_excess_cash_m": -21.03213237031852,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 126.438,
+        "unfunded_cash_shortfall_m": 21.03213237031852,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -1.9199
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 0.0
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.45,
+        "enterprise_value_m": 308.8093651789823,
+        "equity_value_m": 159.07536517898237,
+        "residual_after_senior_claims_m": 159.07536517898237,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 4.164233188852702,
+        "terminal_pv_m": 86.28345737195174,
+        "terminal_share_of_ev": 0.27940686747612997,
+        "terminal_next_fcff_m": 43.69270320834376,
+        "annualized_return": 0.3328460196470685,
+        "future_equity_per_share": 8.074080929209437,
+        "future_operating_ev_m": 358.99358789641235,
+        "retained_excess_cash_m": 111.50904997699662,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 126.438,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -1.9199
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 8.074080929209437
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.15,
+        "enterprise_value_m": 577.799427317855,
+        "equity_value_m": 428.065427317855,
+        "residual_after_senior_claims_m": 428.065427317855,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 11.205784487320132,
+        "terminal_pv_m": 208.83115362294006,
+        "terminal_share_of_ev": 0.3614249923928348,
+        "terminal_next_fcff_m": 79.05765736194245,
+        "annualized_return": 0.5854947123083545,
+        "future_equity_per_share": 19.22939378573248,
+        "future_operating_ev_m": 726.6414407329445,
+        "retained_excess_cash_m": 168.47178507250848,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 126.438,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -1.9199
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 19.22939378573248
+          }
+        ]
+      }
+    },
+    "current_ev_m": 218.0775711336,
+    "conventional_ev_m": 213.0775711336,
+    "probability_weighted_fair_value": 3.554772608081736,
+    "upside": 0.851540501110337,
+    "margin_of_safety": 0.45990919485675996,
+    "expected_scenario_annualized_return": -0.16239508431256602,
+    "expected_cashflow_annualized_return": 0.27696293835619235,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -5.974527389946081,
+      "price_justifying_2030_margin": 0.16014621931659773,
+      "fair_value_at_solution": 1.919899999999999
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.11,
+        "g": 0.01,
+        "fair_value": 4.633132558165586
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.02,
+        "fair_value": 5.107057169513512
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.03,
+        "fair_value": 5.589955197862997
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.01,
+        "fair_value": 3.804335795129284
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.02,
+        "fair_value": 4.164233188852702
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.03,
+        "fair_value": 4.5160346026872125
+      },
+      {
+        "wacc": 0.13,
+        "g": 0.01,
+        "fair_value": 3.1162607430828264
+      },
+      {
+        "wacc": 0.13,
+        "g": 0.02,
+        "fair_value": 3.3948119462000714
+      },
+      {
+        "wacc": 0.13,
+        "g": 0.03,
+        "fair_value": 3.657278717347338
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 2.4341941593497225,
+    "dated_return_cases": {
+      "downside": {
+        "0": {
+          "annualized_return": -1.0,
+          "future_equity_per_share": 0.0,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 12.70938157238183,
+          "horizon_debt_m": 118.0005,
+          "horizon_cash_m": -30.06870497808221,
+          "unpaid_claims_m": 0.12600000000000122,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": true,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-04-01",
+              "type": "cash need exceeds disclosed revolver availability",
+              "unfunded_m": 5.568704978082209
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 0.0
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": -1.0,
+          "future_equity_per_share": 0.0,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 12.70938157238183,
+          "horizon_debt_m": 118.0005,
+          "horizon_cash_m": -30.06870497808221,
+          "unpaid_claims_m": 0.12600000000000122,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": true,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-04-01",
+              "type": "cash need exceeds disclosed revolver availability",
+              "unfunded_m": 5.568704978082209
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 0.0
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": -1.0,
+          "future_equity_per_share": 0.0,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 12.70938157238183,
+          "horizon_debt_m": 118.0005,
+          "horizon_cash_m": -30.06870497808221,
+          "unpaid_claims_m": 0.12600000000000122,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": true,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-04-01",
+              "type": "cash need exceeds disclosed revolver availability",
+              "unfunded_m": 5.568704978082209
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 0.0
+            }
+          ]
+        },
+        "cash_constrained_share_settlement": {
+          "annualized_return": -1.0,
+          "future_equity_per_share": 0.0,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 12.70938157238183,
+          "horizon_debt_m": 127.85687311555942,
+          "horizon_cash_m": -0.029951593557655462,
+          "unpaid_claims_m": 0.12600000000000122,
+          "horizon_shares_m": 52.76678166581593,
+          "additional_revolver_draw_m": 18.293873115559524,
+          "refinancing_required_m": 127.85687311555942,
+          "financing_failed": true,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in shares at current price, stress assumption",
+              "new_shares_m": 14.566383665815929,
+              "issue_price": 1.9199
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "adverse refinancing unavailable; equity impaired",
+              "unfunded_m": 127.85687311555942
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 0.0
+            }
+          ]
+        }
+      },
+      "base": {
+        "0": {
+          "annualized_return": 0.3328460196470685,
+          "future_equity_per_share": 8.074080929209437,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 358.99358789641235,
+          "horizon_debt_m": 128.08594052010568,
+          "horizon_cash_m": 77.52545760370361,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 23.516302832876747,
+          "refinancing_required_m": 125.57445149029968,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 128.08594052010568,
+              "financed_fee_m": 2.5114890298059938
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 8.074080929209437
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": 0.2902963670620541,
+          "future_equity_per_share": 6.86515296266675,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 358.99358789641235,
+          "horizon_debt_m": 128.08594052010568,
+          "horizon_cash_m": 77.52545760370361,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 23.516302832876747,
+          "refinancing_required_m": 125.57445149029968,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 128.08594052010568,
+              "financed_fee_m": 2.5114890298059938
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 6.86515296266675
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": 0.24125914929754277,
+          "future_equity_per_share": 5.656224996124061,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 358.99358789641235,
+          "horizon_debt_m": 128.08594052010568,
+          "horizon_cash_m": 77.52545760370361,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 23.516302832876747,
+          "refinancing_required_m": 125.57445149029968,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 128.08594052010568,
+              "financed_fee_m": 2.5114890298059938
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 5.656224996124061
+            }
+          ]
+        },
+        "cash_constrained_share_settlement": {
+          "annualized_return": 0.23729781781188908,
+          "future_equity_per_share": 5.566555562169624,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 358.99358789641235,
+          "horizon_debt_m": 98.16021795841114,
+          "horizon_cash_m": 85.06252602923678,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 52.76678166581593,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 96.23550780236386,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in shares at current price, stress assumption",
+              "new_shares_m": 14.566383665815929,
+              "issue_price": 1.9199
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 98.16021795841114,
+              "financed_fee_m": 1.9247101560472772
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 5.566555562169624
+            }
+          ]
+        }
+      },
+      "upside": {
+        "0": {
+          "annualized_return": 0.5854947123083545,
+          "future_equity_per_share": 19.22939378573248,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 726.6414407329445,
+          "horizon_debt_m": 122.42733086711283,
+          "horizon_cash_m": 130.3563860478758,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 22.716185238356164,
+          "refinancing_required_m": 120.02679496775768,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 122.42733086711283,
+              "financed_fee_m": 2.4005358993551535
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 19.22939378573248
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": 0.5295057209277132,
+          "future_equity_per_share": 16.066002085646886,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 726.6414407329445,
+          "horizon_debt_m": 122.42733086711283,
+          "horizon_cash_m": 130.3563860478758,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 22.716185238356164,
+          "refinancing_required_m": 120.02679496775768,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 122.42733086711283,
+              "financed_fee_m": 2.4005358993551535
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 16.066002085646886
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": 0.46386979901934844,
+          "future_equity_per_share": 12.902610385561292,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 726.6414407329445,
+          "horizon_debt_m": 122.42733086711283,
+          "horizon_cash_m": 130.3563860478758,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 38.200398,
+          "additional_revolver_draw_m": 22.716185238356164,
+          "refinancing_required_m": 120.02679496775768,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in cash",
+              "cash_m": -27.966
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 122.42733086711283,
+              "financed_fee_m": 2.4005358993551535
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 12.902610385561292
+            }
+          ]
+        },
+        "cash_constrained_share_settlement": {
+          "annualized_return": 0.44819489986320893,
+          "future_equity_per_share": 12.226540673307515,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 726.6414407329445,
+          "horizon_debt_m": 92.54925553708503,
+          "horizon_cash_m": 137.881454079948,
+          "unpaid_claims_m": 1.2212453270876722e-15,
+          "horizon_shares_m": 52.76678166581593,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 90.73456425204415,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2026-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-04-01",
+              "type": "acquisition settlement in shares at current price, stress assumption",
+              "new_shares_m": 14.566383665815929,
+              "issue_price": 1.9199
+            },
+            {
+              "date": "2027-07-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2027-10-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-01-01",
+              "type": "scheduled term amortization",
+              "cash_m": -2.8125
+            },
+            {
+              "date": "2028-02-28",
+              "type": "assumed refinance at 9%, 2% fee financed in new loan; no new acquisition",
+              "refinanced_m": 92.54925553708503,
+              "financed_fee_m": 1.8146912850408832
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -1.9199
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 12.226540673307515
+            }
+          ]
+        }
+      }
+    },
+    "adverse_stresses": [
+      {
+        "stress": "Injunction/data rights disruption: data sales -70% from 2027, data margin -15pp, annual legal/repair cost $3m",
+        "fair_value_per_share": 0,
+        "enterprise_value_m": 130.82933515231613
+      },
+      {
+        "stress": "Additional litigation claim $10m; base operations survive (not estimated legal outcome)",
+        "fair_value_per_share": 3.9024558115594066,
+        "enterprise_value_m": 308.8093651789823
+      },
+      {
+        "stress": "Additional litigation claim $25m; base operations survive (not estimated legal outcome)",
+        "fair_value_per_share": 3.5097897456194653,
+        "enterprise_value_m": 308.8093651789823
+      },
+      {
+        "stress": "Additional litigation claim $50m; base operations survive (not estimated legal outcome)",
+        "fair_value_per_share": 2.8553463023862307,
+        "enterprise_value_m": 308.8093651789823
+      },
+      {
+        "stress": "Additional litigation claim $100m; base operations survive (not estimated legal outcome)",
+        "fair_value_per_share": 1.5464594159197596,
+        "enterprise_value_m": 308.8093651789823
+      },
+      {
+        "stress": "Marketing 10% annual incremental erosion plus 5pp lower margin",
+        "fair_value_per_share": 1.6445507737345912,
+        "enterprise_value_m": 212.55649408786934
+      },
+      {
+        "stress": "All existing options exercised at weighted strike, including all founders awards; upside option dilution bound",
+        "fair_value_per_share": 10.827664558727811,
+        "enterprise_value_m": 577.799427317855
+      }
+    ],
+    "base_mos": 0.5389547335775026,
+    "probability_weighted_cashflow_irr_exit_discount_0": 0.27696293835619235,
+    "weighted_average_scenario_irr_exit_discount_0": -0.16239508431256602,
+    "probability_weighted_cashflow_irr_exit_discount_20": 0.2342893961212097,
+    "weighted_average_scenario_irr_exit_discount_20": -0.1899407766829187,
+    "probability_weighted_cashflow_irr_exit_discount_40": 0.18474092507419704,
+    "weighted_average_scenario_irr_exit_discount_40": -0.2218529129632035
+  },
+  {
+    "ticker": "GSL",
+    "company": "Global Ship Lease",
+    "currency": "USD",
+    "price": 45.12,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 1625.91878208,
+    "diluted_equity_m": 1625.91878208,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 472.1798291934349,
+        "equity_value_m": 88.32693294343491,
+        "residual_after_senior_claims_m": 88.32693294343491,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 2.4511133387053117,
+        "terminal_pv_m": 214.0843482037998,
+        "terminal_share_of_ev": 0.4533957932288066,
+        "terminal_next_fcff_m": 66.48650399892074,
+        "annualized_return": -0.4585057800450475,
+        "future_equity_per_share": 0.0,
+        "future_operating_ev_m": 896.5147659147013,
+        "retained_excess_cash_m": 202.12280106896046,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 1115.167123287671,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -45.12
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.625
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 1.5
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 1.5
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 1.5
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 0.0
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 1380.6106778332673,
+        "equity_value_m": 996.7577815832674,
+        "residual_after_senior_claims_m": 996.7577815832674,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 27.660490548921025,
+        "terminal_pv_m": 407.1838112686768,
+        "terminal_share_of_ev": 0.2949302202324784,
+        "terminal_next_fcff_m": 172.62169476885742,
+        "annualized_return": -0.015418966504040232,
+        "future_equity_per_share": 31.499107128579464,
+        "future_operating_ev_m": 1591.4704598804437,
+        "retained_excess_cash_m": 767.7604093980823,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 1115.167123287671,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -45.12
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.625
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 31.499107128579464
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 2518.2737447165264,
+        "equity_value_m": 2134.4208484665264,
+        "residual_after_senior_claims_m": 2134.4208484665264,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 59.23116809045581,
+        "terminal_pv_m": 675.1787043719927,
+        "terminal_share_of_ev": 0.2681117197002724,
+        "terminal_next_fcff_m": 331.241161319475,
+        "annualized_return": 0.15567014462875217,
+        "future_equity_per_share": 77.86935709729772,
+        "future_operating_ev_m": 2625.0285609044695,
+        "retained_excess_cash_m": 1405.1743906853053,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 1115.167123287671,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -45.12
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.625
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 2.5
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 77.86935709729772
+          }
+        ]
+      }
+    },
+    "current_ev_m": 2009.7716783299998,
+    "conventional_ev_m": 1934.7716783299998,
+    "probability_weighted_fair_value": 26.41181289416327,
+    "upside": -0.41463180642368636,
+    "margin_of_safety": -0.7083265045380902,
+    "expected_scenario_annualized_return": -0.11412718833978394,
+    "expected_cashflow_annualized_return": -0.02104279368947065,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": 17.550370289642853,
+      "price_justifying_2030_margin": 0.5739549264242292,
+      "fair_value_at_solution": 45.11999999999999
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.1,
+        "g": -0.01,
+        "fair_value": 29.936832157294045
+      },
+      {
+        "wacc": 0.1,
+        "g": 0,
+        "fair_value": 29.936832157294045
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.01,
+        "fair_value": 29.936832157294045
+      },
+      {
+        "wacc": 0.11,
+        "g": -0.01,
+        "fair_value": 27.660490548921025
+      },
+      {
+        "wacc": 0.11,
+        "g": 0,
+        "fair_value": 27.660490548921025
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.01,
+        "fair_value": 27.660490548921025
+      },
+      {
+        "wacc": 0.12,
+        "g": -0.01,
+        "fair_value": 25.560105307898688
+      },
+      {
+        "wacc": 0.12,
+        "g": 0,
+        "fair_value": 25.560105307898688
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.01,
+        "fair_value": 25.560105307898688
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 20.73380741898822
+  },
+  {
+    "ticker": "IQV",
+    "company": "IQVIA",
+    "currency": "USD",
+    "price": 261.89,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 43107.094,
+    "diluted_equity_m": 43421.362,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 18518.772717479358,
+        "equity_value_m": 3922.022717479358,
+        "residual_after_senior_claims_m": 3922.022717479358,
+        "nonoperating_assets_value_m": 482.25,
+        "fair_value_per_share": 23.655143048729542,
+        "terminal_pv_m": 4405.396010925801,
+        "terminal_share_of_ev": 0.2378881191607082,
+        "terminal_next_fcff_m": 1962.0708339122152,
+        "annualized_return": -0.23357011280357837,
+        "future_equity_per_share": 69.27238642426043,
+        "future_operating_ev_m": 19950.534768435533,
+        "retained_excess_cash_m": 7440.5769007068475,
+        "future_nonoperating_assets_m": 482.25,
+        "horizon_debt_m": 15999.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -261.89
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 69.27238642426043
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 36331.100157984256,
+        "equity_value_m": 21734.350157984256,
+        "residual_after_senior_claims_m": 21734.350157984256,
+        "nonoperating_assets_value_m": 482.25,
+        "fair_value_per_share": 131.08775728579164,
+        "terminal_pv_m": 13033.308298838334,
+        "terminal_share_of_ev": 0.3587369565513718,
+        "terminal_next_fcff_m": 3344.3064723534985,
+        "annualized_return": -0.031428732119095304,
+        "future_equity_per_share": 223.24735239801961,
+        "future_operating_ev_m": 41279.58763816369,
+        "retained_excess_cash_m": 11640.57338942796,
+        "future_nonoperating_assets_m": 482.25,
+        "horizon_debt_m": 15999.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -261.89
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 223.24735239801961
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 51482.02974034624,
+        "equity_value_m": 36885.27974034624,
+        "residual_after_senior_claims_m": 36885.27974034624,
+        "nonoperating_assets_value_m": 482.25,
+        "fair_value_per_share": 222.46851471861422,
+        "terminal_pv_m": 22051.63072618099,
+        "terminal_share_of_ev": 0.42833646686815113,
+        "terminal_next_fcff_m": 4542.506295613535,
+        "annualized_return": 0.06260579724139392,
+        "future_equity_per_share": 354.78215686880264,
+        "future_operating_ev_m": 60826.98897901451,
+        "retained_excess_cash_m": 13901.642629832975,
+        "future_nonoperating_assets_m": 482.25,
+        "horizon_debt_m": 15999.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -261.89
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 354.78215686880264
+          }
+        ]
+      }
+    },
+    "current_ev_m": 57703.844,
+    "conventional_ev_m": 57103.844,
+    "probability_weighted_fair_value": 117.13412450123752,
+    "upside": -0.5527354060817995,
+    "margin_of_safety": -1.2358130144835218,
+    "expected_scenario_annualized_return": -0.07326424045234237,
+    "expected_cashflow_annualized_return": -0.04933589888858886,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": 10.211005207718028,
+      "price_justifying_2030_margin": 0.25984187782001383,
+      "fair_value_at_solution": 261.88999999999993
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.085,
+        "g": 0.015000000000000001,
+        "fair_value": 153.22053641381058
+      },
+      {
+        "wacc": 0.085,
+        "g": 0.025,
+        "fair_value": 166.01546944342664
+      },
+      {
+        "wacc": 0.085,
+        "g": 0.035,
+        "fair_value": 183.22724836051677
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.015000000000000001,
+        "fair_value": 122.96819611059318
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.025,
+        "fair_value": 131.08775728579164
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.035,
+        "fair_value": 141.3900330200726
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.015000000000000001,
+        "fair_value": 99.36169195384757
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.025,
+        "fair_value": 104.69150321933772
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.035,
+        "fair_value": 111.14115228227607
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 97.25278733424905
+  },
+  {
+    "ticker": "MWA",
+    "company": "Mueller Water Products",
+    "currency": "USD",
+    "price": 23.83,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 3720.4749305699997,
+    "diluted_equity_m": 3749.0709305699997,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 1787.644568485735,
+        "equity_value_m": 1755.044568485735,
+        "residual_after_senior_claims_m": 1755.044568485735,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 11.155487010392848,
+        "terminal_pv_m": 542.7673702315235,
+        "terminal_share_of_ev": 0.3036215251062391,
+        "terminal_next_fcff_m": 198.88375929922975,
+        "annualized_return": -0.06815975172009953,
+        "future_equity_per_share": 15.657133772291521,
+        "future_operating_ev_m": 1982.6754645472904,
+        "retained_excess_cash_m": 933.493737372305,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 452.9,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -23.83
+          },
+          {
+            "date": "2026-09-30",
+            "per_share": 0.016876712328767127
+          },
+          {
+            "date": "2027-09-30",
+            "per_share": 0.29400000000000004
+          },
+          {
+            "date": "2028-09-30",
+            "per_share": 0.30870000000000003
+          },
+          {
+            "date": "2029-09-30",
+            "per_share": 0.32413500000000006
+          },
+          {
+            "date": "2030-09-30",
+            "per_share": 0.3403417500000001
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 15.657133772291521
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 3455.691804972792,
+        "equity_value_m": 3423.091804972792,
+        "residual_after_senior_claims_m": 3423.091804972792,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 21.757997974207324,
+        "terminal_pv_m": 1409.9870694891918,
+        "terminal_share_of_ev": 0.40801875545157107,
+        "terminal_next_fcff_m": 353.62162283357935,
+        "annualized_return": 0.06526525341821177,
+        "future_equity_per_share": 31.18894606584183,
+        "future_operating_ev_m": 4036.140017949817,
+        "retained_excess_cash_m": 1323.582099153127,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 452.9,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -23.83
+          },
+          {
+            "date": "2026-09-30",
+            "per_share": 0.016876712328767127
+          },
+          {
+            "date": "2027-09-30",
+            "per_share": 0.29400000000000004
+          },
+          {
+            "date": "2028-09-30",
+            "per_share": 0.30870000000000003
+          },
+          {
+            "date": "2029-09-30",
+            "per_share": 0.32413500000000006
+          },
+          {
+            "date": "2030-09-30",
+            "per_share": 0.3403417500000001
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 31.18894606584183
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 5161.834694877268,
+        "equity_value_m": 5129.234694877268,
+        "residual_after_senior_claims_m": 5129.234694877268,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 32.60265410885192,
+        "terminal_pv_m": 2519.0370405281037,
+        "terminal_share_of_ev": 0.4880119549407613,
+        "terminal_next_fcff_m": 507.7644703244004,
+        "annualized_return": 0.15472586388793774,
+        "future_equity_per_share": 47.07722173288511,
+        "future_operating_ev_m": 6386.8930078723315,
+        "retained_excess_cash_m": 1472.462866687374,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 452.9,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -23.83
+          },
+          {
+            "date": "2026-09-30",
+            "per_share": 0.016876712328767127
+          },
+          {
+            "date": "2027-09-30",
+            "per_share": 0.29400000000000004
+          },
+          {
+            "date": "2028-09-30",
+            "per_share": 0.30870000000000003
+          },
+          {
+            "date": "2029-09-30",
+            "per_share": 0.32413500000000006
+          },
+          {
+            "date": "2030-09-30",
+            "per_share": 0.3403417500000001
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 47.07722173288511
+          }
+        ]
+      }
+    },
+    "current_ev_m": 3753.074930569999,
+    "conventional_ev_m": 3678.074930569999,
+    "probability_weighted_fair_value": 20.7461759119919,
+    "upside": -0.129409319681414,
+    "margin_of_safety": -0.1486454227077847,
+    "expected_scenario_annualized_return": 0.043129873970663576,
+    "expected_cashflow_annualized_return": 0.055188117076669374,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": 1.830226404859106,
+      "price_justifying_2030_margin": 0.22783134992116724,
+      "fair_value_at_solution": 23.82999999999999
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.085,
+        "g": 0.015000000000000001,
+        "fair_value": 23.432106573042887
+      },
+      {
+        "wacc": 0.085,
+        "g": 0.025,
+        "fair_value": 25.525704873120493
+      },
+      {
+        "wacc": 0.085,
+        "g": 0.035,
+        "fair_value": 27.814676080562222
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.015000000000000001,
+        "fair_value": 20.327897830664693
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.025,
+        "fair_value": 21.757997974207324
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.035,
+        "fair_value": 23.18103190723647
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.015000000000000001,
+        "fair_value": 17.921028314289146
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.025,
+        "fair_value": 18.93546741636547
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.035,
+        "fair_value": 19.864431559999552
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 18.601459202145993
+  },
+  {
+    "ticker": "OPRA",
+    "company": "Opera Limited",
+    "currency": "USD",
+    "price": 18.43,
+    "price_timestamp": "2026-09-08T15:37:00Z",
+    "current_equity_m": 1638.74738712,
+    "diluted_equity_m": 1678.5306799999998,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": 307.74496699040793,
+        "equity_value_m": 376.3589669904079,
+        "residual_after_senior_claims_m": 376.3589669904079,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 4.132361620958408,
+        "terminal_pv_m": 66.23262956797277,
+        "terminal_share_of_ev": 0.21521921289467316,
+        "terminal_next_fcff_m": 38.570139882534114,
+        "annualized_return": -0.22033493337814353,
+        "future_equity_per_share": 4.137760996883544,
+        "future_operating_ev_m": 318.91156625552435,
+        "retained_excess_cash_m": 100.24753381585177,
+        "future_nonoperating_assets_m": 225.675,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -18.43
+          },
+          {
+            "date": "2027-01-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2027-07-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2028-01-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2028-07-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2029-01-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2029-07-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2030-01-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2030-07-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2031-01-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2031-07-15",
+            "per_share": 0.2
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 4.137760996883544
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 1885.7252634417323,
+        "equity_value_m": 2180.0142634417325,
+        "residual_after_senior_claims_m": 2180.0142634417325,
+        "nonoperating_assets_value_m": 225.675,
+        "fair_value_per_share": 23.93621001626919,
+        "terminal_pv_m": 706.3926075098311,
+        "terminal_share_of_ev": 0.37459995960416753,
+        "terminal_next_fcff_m": 235.9399057614405,
+        "annualized_return": 0.15397240406932167,
+        "future_equity_per_share": 31.95144958544659,
+        "future_operating_ev_m": 2344.160576124751,
+        "retained_excess_cash_m": 419.2648073165044,
+        "future_nonoperating_assets_m": 225.675,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -18.43
+          },
+          {
+            "date": "2027-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2027-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2028-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2028-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2029-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2029-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2030-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2030-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 31.95144958544659
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 2970.1239035008107,
+        "equity_value_m": 3339.637903500811,
+        "residual_after_senior_claims_m": 3339.637903500811,
+        "nonoperating_assets_value_m": 300.9,
+        "fair_value_per_share": 36.66869321776111,
+        "terminal_pv_m": 1298.86159317375,
+        "terminal_share_of_ev": 0.43730889194313216,
+        "terminal_next_fcff_m": 355.74143147958046,
+        "annualized_return": 0.2595650611119388,
+        "future_equity_per_share": 51.07547156093013,
+        "future_operating_ev_m": 3853.1999292157616,
+        "retained_excess_cash_m": 576.9277844457497,
+        "future_nonoperating_assets_m": 225.675,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -18.43
+          },
+          {
+            "date": "2027-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2027-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2028-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2028-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2029-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2029-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2030-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2030-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-01-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-07-15",
+            "per_share": 0.4
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 51.07547156093013
+          }
+        ]
+      }
+    },
+    "current_ev_m": 1344.45838712,
+    "conventional_ev_m": 1309.45838712,
+    "probability_weighted_fair_value": 20.54155213797434,
+    "upside": 0.11457146706317634,
+    "margin_of_safety": 0.10279418632980508,
+    "expected_scenario_annualized_return": 0.06279873424360553,
+    "expected_cashflow_annualized_return": 0.1160688100405115,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -4.324486281935459,
+      "price_justifying_2030_margin": 0.12872714173261257,
+      "fair_value_at_solution": 18.429999999999996
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.095,
+        "g": 0.015000000000000001,
+        "fair_value": 25.587097331314528
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.025,
+        "fair_value": 27.14467171627982
+      },
+      {
+        "wacc": 0.095,
+        "g": 0.035,
+        "fair_value": 28.987587834855617
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.015000000000000001,
+        "fair_value": 22.83895937007732
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.025,
+        "fair_value": 23.93621001626919
+      },
+      {
+        "wacc": 0.105,
+        "g": 0.035,
+        "fair_value": 25.16602740070893
+      },
+      {
+        "wacc": 0.11499999999999999,
+        "g": 0.015000000000000001,
+        "fair_value": 20.65248427676918
+      },
+      {
+        "wacc": 0.11499999999999999,
+        "g": 0.025,
+        "fair_value": 21.448662736766966
+      },
+      {
+        "wacc": 0.11499999999999999,
+        "g": 0.035,
+        "fair_value": 22.300822878818497
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 17.28791897829407,
+    "dated_return_cases": {
+      "downside": {
+        "0": {
+          "annualized_return": -0.22033493337814353,
+          "future_equity_per_share": 4.137760996883544,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 318.91156625552435,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 57.93915429664125,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 4.137760996883544
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": -0.2442761026777634,
+          "future_equity_per_share": 3.4374413380150726,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 318.91156625552435,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 57.93915429664125,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 3.4374413380150726
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": -0.2719164305055287,
+          "future_equity_per_share": 2.7371216791466018,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 318.91156625552435,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 57.93915429664125,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -18.2152
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.2
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 2.7371216791466018
+            }
+          ]
+        }
+      },
+      "base": {
+        "0": {
+          "annualized_return": 0.15397240406932167,
+          "future_equity_per_share": 31.95144958544659,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 2344.160576124751,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 340.17464631938213,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 31.95144958544659
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": 0.11730737441465633,
+          "future_equity_per_share": 26.80374749900285,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 2344.160576124751,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 340.17464631938213,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 26.80374749900285
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": 0.07483717632087272,
+          "future_equity_per_share": 21.656045412559102,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 2344.160576124751,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 340.17464631938213,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 21.656045412559102
+            }
+          ]
+        }
+      },
+      "upside": {
+        "0": {
+          "annualized_return": 0.2595650611119388,
+          "future_equity_per_share": 51.07547156093013,
+          "exit_recognition_discount": 0,
+          "future_operating_ev_m": 3853.1999292157616,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 497.6497186675115,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 51.07547156093013
+            }
+          ]
+        },
+        "20": {
+          "annualized_return": 0.21744162984988613,
+          "future_equity_per_share": 42.6139670389578,
+          "exit_recognition_discount": 0.2,
+          "future_operating_ev_m": 3853.1999292157616,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 497.6497186675115,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 42.6139670389578
+            }
+          ]
+        },
+        "40": {
+          "annualized_return": 0.16827953507284843,
+          "future_equity_per_share": 34.15246251698547,
+          "exit_recognition_discount": 0.4,
+          "future_operating_ev_m": 3853.1999292157616,
+          "horizon_debt_m": 0,
+          "horizon_cash_m": 497.6497186675115,
+          "unpaid_claims_m": 0,
+          "horizon_shares_m": 91.076,
+          "additional_revolver_draw_m": 0,
+          "refinancing_required_m": 0,
+          "financing_failed": false,
+          "events": [
+            {
+              "date": "2027-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2027-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2028-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2029-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2030-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-01-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            },
+            {
+              "date": "2031-07-15",
+              "type": "assumed regular dividend",
+              "cash_m": -36.4304
+            }
+          ],
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -18.43
+            },
+            {
+              "date": "2027-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2027-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2028-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2029-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2030-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-01-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-07-15",
+              "per_share": 0.4
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 34.15246251698547
+            }
+          ]
+        }
+      }
+    },
+    "adverse_stresses": [
+      {
+        "stress": "Query payments 25% permanently lower from 2027; 60% contribution loss",
+        "fair_value_per_share": 18.791668505765404,
+        "enterprise_value_m": 1417.1810008310897
+      },
+      {
+        "stress": "Query payments 50% permanently lower from 2027; 60% contribution loss",
+        "fair_value_per_share": 13.447911536762748,
+        "enterprise_value_m": 930.4929911222039
+      },
+      {
+        "stress": "OPay worth zero; operating forecast unchanged",
+        "fair_value_per_share": 21.45833439590817,
+        "enterprise_value_m": 1885.7252634417323
+      },
+      {
+        "stress": "Advertising inventory/partner costs 3pp of ad revenue higher",
+        "fair_value_per_share": 21.17157785115873,
+        "enterprise_value_m": 1633.9336243721325
+      }
+    ],
+    "base_mos": 0.2300368359287739,
+    "probability_weighted_cashflow_irr_exit_discount_0": 0.1160688100405115,
+    "weighted_average_scenario_irr_exit_discount_0": 0.06279873424360553,
+    "probability_weighted_cashflow_irr_exit_discount_20": 0.07992796205130881,
+    "weighted_average_scenario_irr_exit_discount_20": 0.028859182373976375,
+    "probability_weighted_cashflow_irr_exit_discount_40": 0.03795393257440438,
+    "weighted_average_scenario_irr_exit_discount_40": -0.010500433976652561
+  },
+  {
+    "ticker": "PDD",
+    "company": "PDD Holdings Inc.",
+    "currency": "USD",
+    "price": 79.63,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 112019.50249999999,
+    "diluted_equity_m": 117334.805,
+    "scenarios": {
+      "downside": {
+        "probability": 0.25,
+        "enterprise_value_m": 38039.32461173318,
+        "equity_value_m": 105409.20599696296,
+        "residual_after_senior_claims_m": 105409.20599696296,
+        "nonoperating_assets_value_m": 14007.271860284915,
+        "fair_value_per_share": 71.53661757513605,
+        "terminal_pv_m": 7897.657628260631,
+        "terminal_share_of_ev": 0.20761824004163862,
+        "terminal_next_fcff_m": 3869.195871432191,
+        "annualized_return": 0.012536638250285281,
+        "future_equity_per_share": 84.74747099943585,
+        "future_operating_ev_m": 35085.1739817275,
+        "retained_excess_cash_m": 81408.5412791015,
+        "future_nonoperating_assets_m": 14007.271860284915,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 84.74747099943585
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.55,
+        "enterprise_value_m": 112282.67798737327,
+        "equity_value_m": 179652.55937260305,
+        "residual_after_senior_claims_m": 179652.55937260305,
+        "nonoperating_assets_value_m": 14007.271860284915,
+        "fair_value_per_share": 121.92233415174961,
+        "terminal_pv_m": 32030.895289684326,
+        "terminal_share_of_ev": 0.2852701401839236,
+        "terminal_next_fcff_m": 13552.593458638801,
+        "annualized_return": 0.1576960344647954,
+        "future_equity_per_share": 165.57925187047564,
+        "future_operating_ev_m": 124176.4938339054,
+        "retained_excess_cash_m": 111422.85054040073,
+        "future_nonoperating_assets_m": 14007.271860284915,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 165.57925187047564
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 166346.51343184046,
+        "equity_value_m": 233716.39481707025,
+        "residual_after_senior_claims_m": 233716.39481707025,
+        "nonoperating_assets_value_m": 14007.271860284915,
+        "fair_value_per_share": 158.61309454840193,
+        "terminal_pv_m": 52378.756244380245,
+        "terminal_share_of_ev": 0.31487739155916933,
+        "terminal_next_fcff_m": 20995.55788399792,
+        "annualized_return": 0.23118353612540588,
+        "future_equity_per_share": 225.23137579142383,
+        "future_operating_ev_m": 194216.6630255587,
+        "retained_excess_cash_m": 129280.0859462646,
+        "future_nonoperating_assets_m": 14007.271860284915,
+        "horizon_debt_m": 0.0,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 225.23137579142383
+          }
+        ]
+      }
+    },
+    "current_ev_m": 44649.62111477021,
+    "conventional_ev_m": 35625.957766138155,
+    "probability_weighted_fair_value": 116.6640570869267,
+    "upside": 0.46507669329306434,
+    "margin_of_safety": 0.3174418755155457,
+    "expected_scenario_annualized_return": 0.13610368574329,
+    "expected_cashflow_annualized_return": 0.14588082798740898,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -10.632587867053875,
+      "price_justifying_2030_margin": 0.09367412132946126,
+      "fair_value_at_solution": 79.62999999999998
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.1,
+        "g": 0.004999999999999999,
+        "fair_value": 126.82526557735153
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.015,
+        "fair_value": 131.0745632921246
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.025,
+        "fair_value": 135.29340468307612
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.004999999999999999,
+        "fair_value": 118.76301268332821
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.015,
+        "fair_value": 121.92233415174961
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.025,
+        "fair_value": 124.8971441707545
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.004999999999999999,
+        "fair_value": 112.12237033085393
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.015,
+        "fair_value": 114.52201861602764
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.025,
+        "fair_value": 116.67575695109088
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 107.95640938960011
+  },
+  {
     "ticker": "POWL",
     "company": "Powell Industries",
     "currency": "USD",
-    "price": 180.855,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 6589.01136222,
-    "diluted_equity_m": 6620.11842222,
+    "price": 181.33,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 6606.31683012,
+    "diluted_equity_m": 6637.505590120001,
     "scenarios": {
       "downside": {
         "probability": 0.3,
         "enterprise_value_m": 1289.5082838869362,
         "equity_value_m": 1520.1492838869362,
         "residual_after_senior_claims_m": 1520.1492838869362,
+        "nonoperating_assets_value_m": 0.068,
         "fair_value_per_share": 41.52895480156344,
         "terminal_pv_m": 374.34987321528075,
         "terminal_share_of_ev": 0.29030435701187296,
         "terminal_next_fcff_m": 154.28189645104487,
-        "annualized_return": -0.1954732458658563,
+        "annualized_return": -0.19589817315131025,
         "future_equity_per_share": 59.98653930823155,
         "future_operating_ev_m": 1417.8467046887881,
         "retained_excess_cash_m": 780.4944125578896,
+        "future_nonoperating_assets_m": 0.068,
         "horizon_debt_m": 0.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -180.855
+            "per_share": -181.33
           },
           {
             "date": "2026-09-30",
@@ -1443,20 +4226,22 @@
         "enterprise_value_m": 3351.502230631165,
         "equity_value_m": 3582.143230631165,
         "residual_after_senior_claims_m": 3582.143230631165,
+        "nonoperating_assets_value_m": 0.068,
         "fair_value_per_share": 97.8605627055458,
         "terminal_pv_m": 1320.8274806853472,
         "terminal_share_of_ev": 0.39410013474363853,
         "terminal_next_fcff_m": 378.4032076198513,
-        "annualized_return": -0.03937917469554669,
+        "annualized_return": -0.039885420501494184,
         "future_equity_per_share": 146.48215444296898,
         "future_operating_ev_m": 4063.796435909023,
         "retained_excess_cash_m": 1300.6789612565196,
+        "future_nonoperating_assets_m": 0.068,
         "horizon_debt_m": 0.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -180.855
+            "per_share": -181.33
           },
           {
             "date": "2026-09-30",
@@ -1489,20 +4274,22 @@
         "enterprise_value_m": 6460.457331291316,
         "equity_value_m": 6691.098331291317,
         "residual_after_senior_claims_m": 6691.098331291317,
+        "nonoperating_assets_value_m": 0.068,
         "fair_value_per_share": 182.79409997319777,
         "terminal_pv_m": 3078.512447875845,
         "terminal_share_of_ev": 0.4765161798941116,
         "terminal_next_fcff_m": 716.9352160712182,
-        "annualized_return": 0.09026065833126184,
+        "annualized_return": 0.08968669898221726,
         "future_equity_per_share": 276.58727494050237,
         "future_operating_ev_m": 8503.057045888696,
         "retained_excess_cash_m": 1623.8595612565196,
+        "future_nonoperating_assets_m": 0.068,
         "horizon_debt_m": 0.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -180.855
+            "per_share": -181.33
           },
           {
             "date": "2026-09-30",
@@ -1531,17 +4318,17 @@
         ]
       }
     },
-    "current_ev_m": 6358.370362219999,
-    "conventional_ev_m": 5958.0103622199995,
+    "current_ev_m": 6375.67583012,
+    "conventional_ev_m": 5975.31583012,
     "probability_weighted_fair_value": 97.94778778788148,
-    "upside": -0.45841813724872693,
-    "margin_of_safety": -0.8464429272426728,
-    "expected_scenario_annualized_return": -0.06027942944127786,
-    "expected_cashflow_annualized_return": -0.03928479643985999,
+    "upside": -0.4598368290526583,
+    "margin_of_safety": -0.8512924497355001,
+    "expected_scenario_annualized_return": -0.06077482239969671,
+    "expected_cashflow_annualized_return": -0.03979109149675236,
     "reverse_margin": {
-      "parallel_margin_change_percentage_points": 15.333706600608322,
-      "price_justifying_2030_margin": 0.34833706600608316,
-      "fair_value_at_solution": 180.85499999999993
+      "parallel_margin_change_percentage_points": 15.421465622450336,
+      "price_justifying_2030_margin": 0.3492146562245033,
+      "fair_value_at_solution": 181.33
     },
     "sensitivity": [
       {
@@ -1593,152 +4380,612 @@
     "probability_sensitivity_shift_10pp_upside_to_downside": 83.82127327071805
   },
   {
-    "ticker": "IQV",
-    "company": "IQVIA",
+    "ticker": "PYPL",
+    "company": "PayPal Holdings",
     "currency": "USD",
-    "price": 261.17,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 42988.582,
-    "diluted_equity_m": 43301.986000000004,
+    "price": 53.175,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 45489.131974949996,
+    "diluted_equity_m": 45755.006974949996,
     "scenarios": {
       "downside": {
         "probability": 0.3,
-        "enterprise_value_m": 18518.772717479358,
-        "equity_value_m": 3922.022717479358,
-        "residual_after_senior_claims_m": 3922.022717479358,
-        "fair_value_per_share": 23.655143048729542,
-        "terminal_pv_m": 4405.396010925801,
-        "terminal_share_of_ev": 0.2378881191607082,
-        "terminal_next_fcff_m": 1962.0708339122152,
-        "annualized_return": -0.2331479375968501,
-        "future_equity_per_share": 69.27238642426043,
-        "future_operating_ev_m": 19950.534768435533,
-        "retained_excess_cash_m": 7440.5769007068475,
-        "horizon_debt_m": 15999.0,
+        "enterprise_value_m": 20461.865617420328,
+        "equity_value_m": 13198.101095060329,
+        "residual_after_senior_claims_m": 13198.101095060329,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 15.338409326744506,
+        "terminal_pv_m": 3696.318931536036,
+        "terminal_share_of_ev": 0.18064427753787776,
+        "terminal_next_fcff_m": 2018.9954065920006,
+        "annualized_return": -0.14476680244180723,
+        "future_equity_per_share": 22.560095425947026,
+        "future_operating_ev_m": 17716.30031765097,
+        "retained_excess_cash_m": 15215.543632442808,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 13400.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -261.17
+            "per_share": -53.175
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.14
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 0.5712
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.582624
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.5942764800000001
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.6061620096
           },
           {
             "date": "2031-09-08",
-            "per_share": 69.27238642426043
+            "per_share": 22.560095425947026
           }
         ]
       },
       "base": {
         "probability": 0.5,
-        "enterprise_value_m": 36331.100157984256,
-        "equity_value_m": 21734.350157984256,
-        "residual_after_senior_claims_m": 21734.350157984256,
-        "fair_value_per_share": 131.08775728579164,
-        "terminal_pv_m": 13033.308298838334,
-        "terminal_share_of_ev": 0.3587369565513718,
-        "terminal_next_fcff_m": 3344.3064723534985,
-        "annualized_return": -0.030895210681479657,
-        "future_equity_per_share": 223.24735239801961,
-        "future_operating_ev_m": 41279.58763816369,
-        "retained_excess_cash_m": 11640.57338942796,
-        "horizon_debt_m": 15999.0,
+        "enterprise_value_m": 59208.42936947466,
+        "equity_value_m": 51944.66484711466,
+        "residual_after_senior_claims_m": 51944.66484711466,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 60.36842164088296,
+        "terminal_pv_m": 21561.98838271075,
+        "terminal_share_of_ev": 0.36417092316634214,
+        "terminal_next_fcff_m": 6327.375438222515,
+        "annualized_return": 0.12287654518238778,
+        "future_equity_per_share": 91.62345032737186,
+        "future_operating_ev_m": 68061.8160994731,
+        "retained_excess_cash_m": 24296.342570472872,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 13400.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -261.17
+            "per_share": -53.175
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.14
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 0.5712
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.582624
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.5942764800000001
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.6061620096
           },
           {
             "date": "2031-09-08",
-            "per_share": 223.24735239801961
+            "per_share": 91.62345032737186
           }
         ]
       },
       "upside": {
         "probability": 0.2,
-        "enterprise_value_m": 51482.02974034624,
-        "equity_value_m": 36885.27974034624,
-        "residual_after_senior_claims_m": 36885.27974034624,
-        "fair_value_per_share": 222.46851471861422,
-        "terminal_pv_m": 22051.63072618099,
-        "terminal_share_of_ev": 0.42833646686815113,
-        "terminal_next_fcff_m": 4542.506295613535,
-        "annualized_return": 0.06319111604173722,
-        "future_equity_per_share": 354.78215686880264,
-        "future_operating_ev_m": 60826.98897901451,
-        "retained_excess_cash_m": 13901.642629832975,
-        "horizon_debt_m": 15999.0,
+        "enterprise_value_m": 90107.50189719537,
+        "equity_value_m": 82843.73737483537,
+        "residual_after_senior_claims_m": 82843.73737483537,
+        "nonoperating_assets_value_m": 0,
+        "fair_value_per_share": 96.27833162212484,
+        "terminal_pv_m": 39622.847635034974,
+        "terminal_share_of_ev": 0.4397286219325125,
+        "terminal_next_fcff_m": 9440.878357249105,
+        "annualized_return": 0.22972312191718702,
+        "future_equity_per_share": 145.36438430371837,
+        "future_operating_ev_m": 109791.1186496622,
+        "retained_excess_cash_m": 28809.01103914721,
+        "future_nonoperating_assets_m": 0,
+        "horizon_debt_m": 13400.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -261.17
+            "per_share": -53.175
+          },
+          {
+            "date": "2026-12-31",
+            "per_share": 0.14
+          },
+          {
+            "date": "2027-12-31",
+            "per_share": 0.5712
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.582624
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.5942764800000001
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.6061620096
           },
           {
             "date": "2031-09-08",
-            "per_share": 354.78215686880264
+            "per_share": 145.36438430371837
           }
         ]
       }
     },
-    "current_ev_m": 57585.332,
-    "conventional_ev_m": 56985.332,
-    "probability_weighted_fair_value": 117.13412450123752,
-    "upside": -0.551502375842411,
-    "margin_of_safety": -1.2296662147949955,
-    "expected_scenario_annualized_return": -0.07275376341144742,
-    "expected_cashflow_annualized_return": -0.04881224131713907,
+    "current_ev_m": 52752.896497309994,
+    "conventional_ev_m": 47752.896497309994,
+    "probability_weighted_fair_value": 54.0413999428898,
+    "upside": 0.016293369870988172,
+    "margin_of_safety": 0.016032152087203544,
+    "expected_scenario_annualized_return": 0.06395285624208913,
+    "expected_cashflow_annualized_return": 0.09776091148109833,
     "reverse_margin": {
-      "parallel_margin_change_percentage_points": 10.154798803324633,
-      "price_justifying_2030_margin": 0.2592798137760799,
-      "fair_value_at_solution": 261.17
+      "parallel_margin_change_percentage_points": -1.6276608986973127,
+      "price_justifying_2030_margin": 0.1487233910130269,
+      "fair_value_at_solution": 53.175
     },
     "sensitivity": [
       {
-        "wacc": 0.085,
+        "wacc": 0.09000000000000001,
         "g": 0.015000000000000001,
-        "fair_value": 153.22053641381058
+        "fair_value": 66.22232781524141
       },
       {
-        "wacc": 0.085,
+        "wacc": 0.09000000000000001,
         "g": 0.025,
-        "fair_value": 166.01546944342664
+        "fair_value": 71.00811848443136
       },
       {
-        "wacc": 0.085,
+        "wacc": 0.09000000000000001,
         "g": 0.035,
-        "fair_value": 183.22724836051677
+        "fair_value": 76.91427546127288
       },
       {
-        "wacc": 0.095,
+        "wacc": 0.1,
         "g": 0.015000000000000001,
-        "fair_value": 122.96819611059318
+        "fair_value": 57.11386736408467
       },
       {
-        "wacc": 0.095,
+        "wacc": 0.1,
         "g": 0.025,
-        "fair_value": 131.08775728579164
+        "fair_value": 60.36842164088296
       },
       {
-        "wacc": 0.095,
+        "wacc": 0.1,
         "g": 0.035,
-        "fair_value": 141.3900330200726
+        "fair_value": 64.15142585097762
       },
       {
-        "wacc": 0.105,
+        "wacc": 0.11,
         "g": 0.015000000000000001,
-        "fair_value": 99.36169195384757
+        "fair_value": 49.93853935530864
       },
       {
-        "wacc": 0.105,
+        "wacc": 0.11,
         "g": 0.025,
-        "fair_value": 104.69150321933772
+        "fair_value": 52.22634188352181
       },
       {
-        "wacc": 0.105,
+        "wacc": 0.11,
         "g": 0.035,
-        "fair_value": 111.14115228227607
+        "fair_value": 54.75424566958356
       }
     ],
-    "probability_sensitivity_shift_10pp_upside_to_downside": 97.25278733424905
+    "probability_sensitivity_shift_10pp_upside_to_downside": 45.947407713351765
+  },
+  {
+    "ticker": "STLA",
+    "company": "Stellantis N.V.",
+    "currency": "USD",
+    "price": 5.415,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 15708.59687958,
+    "diluted_equity_m": 15810.95662458,
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "enterprise_value_m": -17685.314900083515,
+        "equity_value_m": 0,
+        "residual_after_senior_claims_m": -29358.66949459874,
+        "nonoperating_assets_value_m": 4764.583525484773,
+        "fair_value_per_share": 0,
+        "terminal_pv_m": -1091.2836139097894,
+        "terminal_share_of_ev": 0.06170563657334912,
+        "terminal_next_fcff_m": -784.4858133044418,
+        "annualized_return": -1.0,
+        "future_equity_per_share": 0.0,
+        "future_operating_ev_m": -6221.479603983185,
+        "retained_excess_cash_m": -1946.0796367088926,
+        "future_nonoperating_assets_m": 6434.9177788102525,
+        "horizon_debt_m": 27506.25056,
+        "unfunded_cash_shortfall_m": 1946.0796367088926,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -5.415
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 0.0
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "enterprise_value_m": 28818.851413575503,
+        "equity_value_m": 21176.851460305486,
+        "residual_after_senior_claims_m": 21176.851460305486,
+        "nonoperating_assets_value_m": 8795.938166729982,
+        "fair_value_per_share": 7.252733239384265,
+        "terminal_pv_m": 11629.07961359863,
+        "terminal_share_of_ev": 0.40352335513692944,
+        "terminal_next_fcff_m": 4920.380366389685,
+        "annualized_return": 0.20956268970049619,
+        "future_equity_per_share": 12.992713323869115,
+        "future_operating_ev_m": 44909.59784393784,
+        "retained_excess_cash_m": 21124.109762874505,
+        "future_nonoperating_assets_m": 10685.6887497707,
+        "horizon_debt_m": 27506.25056,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -5.415
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.232552
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.24650512000000002
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.26129542720000004
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 12.992713323869115
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 62885.98883097913,
+        "equity_value_m": 59713.89027192793,
+        "residual_after_senior_claims_m": 59713.89027192793,
+        "nonoperating_assets_value_m": 13265.839560948807,
+        "fair_value_per_share": 20.451053247455178,
+        "terminal_pv_m": 26583.9053413279,
+        "terminal_share_of_ev": 0.4227317695962195,
+        "terminal_next_fcff_m": 8321.12990561977,
+        "annualized_return": 0.4517416937264126,
+        "future_equity_per_share": 32.401533415073196,
+        "future_operating_ev_m": 86746.13577699987,
+        "retained_excess_cash_m": 29631.15811120636,
+        "future_nonoperating_assets_m": 17012.834249781154,
+        "horizon_debt_m": 27506.25056,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -5.415
+          },
+          {
+            "date": "2028-12-31",
+            "per_share": 0.406966
+          },
+          {
+            "date": "2029-12-31",
+            "per_share": 0.43138396
+          },
+          {
+            "date": "2030-12-31",
+            "per_share": 0.45726699760000006
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 32.401533415073196
+          }
+        ]
+      }
+    },
+    "current_ev_m": 23350.596832850017,
+    "conventional_ev_m": 9397.476832850014,
+    "probability_weighted_fair_value": 7.716577269183169,
+    "upside": 0.42503735349643,
+    "margin_of_safety": 0.29826400862656044,
+    "expected_scenario_annualized_return": -0.10487031640446937,
+    "expected_cashflow_annualized_return": 0.20655010108335714,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -0.3642607863582108,
+      "price_justifying_2030_margin": 0.04261056566514252,
+      "fair_value_at_solution": 5.414999999999997
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.1,
+        "g": 0.004999999999999999,
+        "fair_value": 7.999937754235316
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.015,
+        "fair_value": 8.864081207381238
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.025,
+        "fair_value": 9.958661440511976
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.004999999999999999,
+        "fair_value": 6.603886759063783
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.015,
+        "fair_value": 7.252733239384265
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.025,
+        "fair_value": 8.054248227876478
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.004999999999999999,
+        "fair_value": 5.462760056983001
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.015,
+        "fair_value": 5.960253520862873
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.025,
+        "fair_value": 6.562481380630727
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 5.671471944437651
+  },
+  {
+    "ticker": "VIPS",
+    "company": "Vipshop Holdings Limited",
+    "currency": "USD",
+    "price": 13.015,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 6188.632500000001,
+    "diluted_equity_m": 6278.308778375,
+    "scenarios": {
+      "downside": {
+        "probability": 0.25,
+        "enterprise_value_m": 979.9668662695923,
+        "equity_value_m": 3445.6582890507816,
+        "residual_after_senior_claims_m": 3445.6582890507816,
+        "nonoperating_assets_value_m": 1626.1933003516722,
+        "fair_value_per_share": 7.142885801740244,
+        "terminal_pv_m": 57.26123526093485,
+        "terminal_share_of_ev": 0.058431807474174424,
+        "terminal_next_fcff_m": 30.60354147703202,
+        "annualized_return": -0.1277364508004742,
+        "future_equity_per_share": 5.29169280946276,
+        "future_operating_ev_m": 345.6019764757437,
+        "retained_excess_cash_m": 3595.5890390477316,
+        "future_nonoperating_assets_m": 1626.1933003516722,
+        "horizon_debt_m": 1634.3997734994336,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -13.015
+          },
+          {
+            "date": "2027-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2028-04-24",
+            "per_share": 0.3
+          },
+          {
+            "date": "2029-04-24",
+            "per_share": 0.3
+          },
+          {
+            "date": "2030-04-24",
+            "per_share": 0.3
+          },
+          {
+            "date": "2031-04-24",
+            "per_share": 0.3
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 5.29169280946276
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.55,
+        "enterprise_value_m": 6806.416479840174,
+        "equity_value_m": 9272.107902621363,
+        "residual_after_senior_claims_m": 9272.107902621363,
+        "nonoperating_assets_value_m": 1626.1933003516722,
+        "fair_value_per_share": 19.221177010005466,
+        "terminal_pv_m": 1647.928354512723,
+        "terminal_share_of_ev": 0.2421139463613045,
+        "terminal_next_fcff_m": 770.650302579997,
+        "annualized_return": 0.16390399976768066,
+        "future_equity_per_share": 23.248168325590967,
+        "future_operating_ev_m": 6982.497351347585,
+        "retained_excess_cash_m": 5620.721928607967,
+        "future_nonoperating_assets_m": 1626.1933003516722,
+        "horizon_debt_m": 1634.3997734994336,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -13.015
+          },
+          {
+            "date": "2027-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2028-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2029-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2030-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2031-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 23.248168325590967
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "enterprise_value_m": 9126.396150004422,
+        "equity_value_m": 11592.087572785611,
+        "residual_after_senior_claims_m": 11592.087572785611,
+        "nonoperating_assets_value_m": 1626.1933003516722,
+        "fair_value_per_share": 24.030519218720926,
+        "terminal_pv_m": 2611.4952392832884,
+        "terminal_share_of_ev": 0.28614747775133814,
+        "terminal_next_fcff_m": 1104.9498609729887,
+        "annualized_return": 0.22927426809105766,
+        "future_equity_per_share": 30.823608416263724,
+        "future_operating_ev_m": 10091.780012729818,
+        "retained_excess_cash_m": 6165.757517039387,
+        "future_nonoperating_assets_m": 1626.1933003516722,
+        "horizon_debt_m": 1634.3997734994336,
+        "unfunded_cash_shortfall_m": 0.0,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -13.015
+          },
+          {
+            "date": "2027-04-24",
+            "per_share": 0.6386000000000001
+          },
+          {
+            "date": "2028-04-24",
+            "per_share": 0.657758
+          },
+          {
+            "date": "2029-04-24",
+            "per_share": 0.67749074
+          },
+          {
+            "date": "2030-04-24",
+            "per_share": 0.6978154622000001
+          },
+          {
+            "date": "2031-04-24",
+            "per_share": 0.7187499260660001
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 30.823608416263724
+          }
+        ]
+      }
+    },
+    "current_ev_m": 3722.9410772188103,
+    "conventional_ev_m": 2679.84636421887,
+    "probability_weighted_fair_value": 17.163472649682255,
+    "upside": 0.3187454974784676,
+    "margin_of_safety": 0.2417035721357388,
+    "expected_scenario_annualized_return": 0.10406794079031736,
+    "expected_cashflow_annualized_return": 0.13173493280773207,
+    "reverse_margin": {
+      "parallel_margin_change_percentage_points": -2.8032196220145695,
+      "price_justifying_2030_margin": 0.04209070473600674,
+      "fair_value_at_solution": 13.015
+    },
+    "sensitivity": [
+      {
+        "wacc": 0.1,
+        "g": -0.005,
+        "fair_value": 20.002085570280535
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.005,
+        "fair_value": 20.705863828659993
+      },
+      {
+        "wacc": 0.1,
+        "g": 0.015,
+        "fair_value": 21.575235712825197
+      },
+      {
+        "wacc": 0.11,
+        "g": -0.005,
+        "fair_value": 18.68192945364894
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.005,
+        "fair_value": 19.221177010005466
+      },
+      {
+        "wacc": 0.11,
+        "g": 0.015,
+        "fair_value": 19.873949284188196
+      },
+      {
+        "wacc": 0.12,
+        "g": -0.005,
+        "fair_value": 17.57508895496954
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.005,
+        "fair_value": 17.995512688585688
+      },
+      {
+        "wacc": 0.12,
+        "g": 0.015,
+        "fair_value": 18.496016196977234
+      }
+    ],
+    "probability_sensitivity_shift_10pp_upside_to_downside": 15.474709307984186
   }
 ]

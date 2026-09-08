@@ -734,6 +734,906 @@ CMCSA,upside,2040,Media including Peacock,33606.18205556822,0.09418943739597833,
 CMCSA,upside,2040,Studios,20365.34783203124,0.09866666666666668,,normalized nominal growth; physical split unspecified,
 CMCSA,upside,2040,Theme Parks,22854.445900390612,0.19514851485148513,,normalized nominal growth; physical split unspecified,
 CMCSA,upside,2040,Other revenue less intersegment eliminations,-8090.03090242293,0,,normalized nominal growth; physical split unspecified,
+DECK,downside,2027,HOKA,2638.74,0.205,102.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.869999999999997
+DECK,downside,2027,UGG,2711.61,0.205,99.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.39
+DECK,downside,2027,Other,115.0,0.205,100.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2028,HOKA,2252.428464,0.155,89.76,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.093899999999998
+DECK,downside,2028,UGG,2367.23553,0.155,89.10000000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.568299999999997
+DECK,downside,2028,Other,111.55,0.155,97.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2029,HOKA,2074.9371010368,0.14,84.3744,FY26=100 physical-volume scenario index; absolute pairs unavailable,24.592022
+DECK,downside,2029,UGG,2180.697370236,0.14,83.754,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.036934
+DECK,downside,2029,Other,108.20349999999999,0.14,94.08999999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,downside,2030,HOKA,2074.9371010368,0.14,84.3744,FY26=100 physical-volume scenario index; absolute pairs unavailable,24.592022
+DECK,downside,2030,UGG,2137.0834228312797,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.036934
+DECK,downside,2030,Other,104.95739499999999,0.14,91.26729999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2031,HOKA,2116.6433367676395,0.14,85.218144,FY26=100 physical-volume scenario index; absolute pairs unavailable,24.83794222
+DECK,downside,2031,UGG,2158.4542570595927,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.29730334
+DECK,downside,2031,Other,101.80867314999999,0.14,88.529281,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2032,HOKA,2159.1878678366693,0.14,86.07032543999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.0863216422
+DECK,downside,2032,UGG,2180.038799630189,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.5602763734
+DECK,downside,2032,Other,98.75441295549999,0.14,85.87340257,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2033,HOKA,2202.587543980186,0.14,86.9310286944,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.337184858622
+DECK,downside,2033,UGG,2201.8391876264905,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.825879137134
+DECK,downside,2033,Other,95.79178056683497,0.14,83.29720049289998,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2034,HOKA,2246.8595536141884,0.14,87.800338981344,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.590556707208226
+DECK,downside,2034,UGG,2223.8575795027555,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.09413792850534
+DECK,downside,2034,Other,92.91802714982992,0.14,80.79828447811298,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,downside,2035,HOKA,2292.021430641834,0.14,88.67834237115744,FY26=100 physical-volume scenario index; absolute pairs unavailable,25.84646227428031
+DECK,downside,2035,UGG,2246.0961552977833,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.365079307790396
+DECK,downside,2035,Other,90.13048633533504,0.14,78.3743359437696,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,downside,2036,HOKA,2338.0910613977344,0.14,89.56512579486902,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.10492689702311
+DECK,downside,2036,UGG,2268.557116850761,0.14,82.07892,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.638730100868298
+DECK,downside,2036,Other,87.42657174527498,0.14,76.02310586545651,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,downside,2037,HOKA,2349.781516704723,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2037,UGG,2279.8999024350146,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2037,Other,87.86370460400136,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2038,HOKA,2361.530424288246,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2038,UGG,2291.299401947189,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2038,Other,88.30302312702135,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2039,HOKA,2373.338076409687,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2039,UGG,2302.7558989569247,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2039,Other,88.74453824265645,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2040,HOKA,2385.2047667917354,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2040,UGG,2314.2696784517093,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2040,Other,89.18826093386971,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2041,HOKA,2397.1307906256934,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2041,UGG,2325.8410268439675,0.14,,normalized nominal growth; physical split unspecified,
+DECK,downside,2041,Other,89.63420223853905,0.14,,normalized nominal growth; physical split unspecified,
+DECK,base,2027,HOKA,2848.0283000000004,0.215,109.00000000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.1287
+DECK,base,2027,UGG,2863.2136499999992,0.215,103.49999999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.663899999999998
+DECK,base,2027,Other,115.0,0.215,100.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2028,HOKA,3107.5548788375004,0.215,117.17500000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.5206305
+DECK,base,2028,UGG,2978.815901118749,0.215,106.08749999999998,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.078858499999996
+DECK,base,2028,Other,111.55,0.215,97.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2029,HOKA,3343.418294141267,0.21,124.20550000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.918439957500002
+DECK,base,2029,UGG,3083.9681024282418,0.21,108.20924999999998,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.500041377500004
+DECK,base,2029,Other,108.20349999999999,0.21,94.08999999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,base,2030,HOKA,3563.248046981055,0.21,130.41577500000002,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.322216556862497
+DECK,base,2030,UGG,3192.832176443958,0.21,110.37343499999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.927541998162496
+DECK,base,2030,Other,104.95739499999999,0.21,91.26729999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2031,HOKA,3761.364638393201,0.205,135.63240600000003,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.73204980521543
+DECK,base,2031,UGG,3289.3355289769765,0.205,112.02903652499998,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.361455128134935
+DECK,base,2031,Other,101.80867314999999,0.205,88.529281,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2032,HOKA,3951.4075867480165,0.205,140.37954021000002,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.14803055229366
+DECK,base,2032,UGG,3388.755695340304,0.205,113.70947207287497,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.801876955056947
+DECK,base,2032,Other,98.75441295549999,0.205,85.87340257,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2033,HOKA,4130.999061565713,0.205,144.59092641630002,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.57025101057806
+DECK,base,2033,UGG,3473.982901078113,0.205,114.84656679360373,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.248905109382804
+DECK,base,2033,Other,95.79178056683497,0.205,83.29720049289998,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2034,HOKA,4297.788148676428,0.205,148.2056995767075,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.998804775736726
+DECK,base,2034,UGG,3561.353571040227,0.205,115.99503246153976,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.70263868602354
+DECK,base,2034,Other,92.91802714982992,0.205,80.79828447811298,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,base,2035,HOKA,4449.500070324705,0.205,151.16981356824166,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.43378684737277
+DECK,base,2035,UGG,3650.921613351888,0.205,117.15498278615516,FY26=100 physical-volume scenario index; absolute pairs unavailable,31.16317826631389
+DECK,base,2035,Other,90.13048633533504,0.205,78.3743359437696,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,base,2036,HOKA,4606.5674228071675,0.205,154.1932098396065,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.87529365008336
+DECK,base,2036,UGG,3742.742291927688,0.205,118.32653261401671,FY26=100 physical-volume scenario index; absolute pairs unavailable,31.630625940308594
+DECK,base,2036,Other,87.42657174527498,0.205,76.02310586545651,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,base,2037,HOKA,4698.698771263311,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2037,UGG,3817.5971377662418,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2037,Other,89.17510318018049,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2038,HOKA,4792.672746688577,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2038,UGG,3893.9490805215664,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2038,Other,90.95860524378409,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2039,HOKA,4888.52620162235,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2039,UGG,3971.828062131998,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2039,Other,92.77777734865978,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2040,HOKA,4986.296725654795,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2040,UGG,4051.2646233746377,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2040,Other,94.63333289563298,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2041,HOKA,5086.022660167891,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2041,UGG,4132.2899158421305,0.205,,normalized nominal growth; physical split unspecified,
+DECK,base,2041,Other,96.52599955354563,0.205,,normalized nominal growth; physical split unspecified,
+DECK,upside,2027,HOKA,2940.9016,0.22,112.00000000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.258049999999997
+DECK,upside,2027,UGG,2919.0892499999995,0.22,105.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.800849999999997
+DECK,upside,2027,Other,115.0,0.22,100.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2028,HOKA,3359.6859878400005,0.225,125.44000000000003,FY26=100 physical-volume scenario index; absolute pairs unavailable,26.783210999999998
+DECK,upside,2028,UGG,3126.3445867499995,0.225,110.25,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.356866999999994
+DECK,upside,2028,Other,111.55,0.225,97.0,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2029,HOKA,3769.5676783564813,0.23,137.98400000000004,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.318875220000002
+DECK,upside,2029,UGG,3316.4263376244007,0.23,114.66000000000001,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.924004340000003
+DECK,upside,2029,Other,108.20349999999999,0.23,94.08999999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,upside,2030,HOKA,4152.555754477499,0.23,149.02272000000005,FY26=100 physical-volume scenario index; absolute pairs unavailable,27.865252724399998
+DECK,upside,2030,UGG,3501.1512846300793,0.23,118.6731,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.502484426800002
+DECK,upside,2030,Other,104.95739499999999,0.23,91.26729999999999,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2031,HOKA,4532.099350436743,0.23,159.45431040000005,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.422557778888002
+DECK,upside,2031,UGG,3678.3095396323615,0.23,122.233293,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.092534115336004
+DECK,upside,2031,Other,101.80867314999999,0.23,88.529281,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2032,HOKA,4900.105817692208,0.23,169.02156902400006,FY26=100 physical-volume scenario index; absolute pairs unavailable,28.991008934465768
+DECK,upside,2032,UGG,3845.6726236856334,0.23,125.28912532499999,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.694384797642723
+DECK,upside,2032,Other,98.75441295549999,0.23,85.87340257,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2033,HOKA,5248.013330748354,0.23,177.47264747520006,FY26=100 physical-volume scenario index; absolute pairs unavailable,29.570829113155078
+DECK,upside,2033,UGG,4001.037797682533,0.23,127.79490783149998,FY26=100 physical-volume scenario index; absolute pairs unavailable,31.308272493595577
+DECK,upside,2033,Other,95.79178056683497,0.23,83.29720049289998,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2034,HOKA,5567.092541257854,0.23,184.57155337420807,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.16224569541818
+DECK,upside,2034,UGG,4162.679724708908,0.23,130.35080598813,FY26=100 physical-volume scenario index; absolute pairs unavailable,31.934437943467493
+DECK,upside,2034,Other,92.91802714982992,0.23,80.79828447811298,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,upside,2035,HOKA,5848.7874238455015,0.23,190.10869997543432,FY26=100 physical-volume scenario index; absolute pairs unavailable,30.76549060932654
+DECK,upside,2035,UGG,4309.622318991131,0.23,132.30606807795192,FY26=100 physical-volume scenario index; absolute pairs unavailable,32.573126702336836
+DECK,upside,2035,Other,90.13048633533504,0.23,78.3743359437696,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.1500000000000001
+DECK,upside,2036,HOKA,6114.907251630472,0.23,194.86141747482017,FY26=100 physical-volume scenario index; absolute pairs unavailable,31.380800421513076
+DECK,upside,2036,UGG,4461.751986851518,0.23,134.2906590991212,FY26=100 physical-volume scenario index; absolute pairs unavailable,33.22458923638357
+DECK,upside,2036,Other,87.42657174527498,0.23,76.02310586545651,FY26=100 physical-volume scenario index; absolute pairs unavailable,1.15
+DECK,upside,2037,HOKA,6267.779932921234,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2037,UGG,4573.295786522805,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2037,Other,89.61223603890686,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2038,HOKA,6424.474431244264,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2038,UGG,4687.628181185876,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2038,Other,91.85254193987953,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2039,HOKA,6585.086292025369,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2039,UGG,4804.818885715522,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2039,Other,94.14885548837648,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2040,HOKA,6749.713449326003,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2040,UGG,4924.9393578584095,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2040,Other,96.50257687558589,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2041,HOKA,6918.456285559152,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2041,UGG,5048.062841804869,0.23,,normalized nominal growth; physical split unspecified,
+DECK,upside,2041,Other,98.91514129747553,0.23,,normalized nominal growth; physical split unspecified,
+STLA,downside,2026,North America,78277.0032,0.014,1650.0,thousand wholesale vehicles,47.440608
+STLA,downside,2026,Enlarged Europe,67248.2246,-0.007,2690.0,thousand wholesale vehicles,24.99934
+STLA,downside,2026,Middle East and Africa,11339.23552,0.1,460.0,thousand wholesale vehicles,24.650512
+STLA,downside,2026,South America,18655.32144,0.075,955.0,thousand wholesale vehicles,19.534368
+STLA,downside,2026,Asia Pacific,1886.5781,-0.02,55.0,thousand wholesale vehicles,34.30142
+STLA,downside,2026,Other industrial and eliminations,465.104,0,,,
+STLA,downside,2027,North America,75525.447936,0.01675,1600.0,thousand wholesale vehicles,47.20340495999999
+STLA,downside,2027,Enlarged Europe,66060.75595,-0.004,2642.5,thousand wholesale vehicles,24.99934
+STLA,downside,2027,Middle East and Africa,11519.800520399998,0.09375,465.0,thousand wholesale vehicles,24.773764559999996
+STLA,downside,2027,South America,18724.0579974,0.0725,953.75,thousand wholesale vehicles,19.63203984
+STLA,downside,2027,Asia Pacific,1843.701325,-0.015,53.75,thousand wholesale vehicles,34.30142
+STLA,downside,2027,Other industrial and eliminations,467.42951999999997,0,,,
+STLA,downside,2028,North America,72799.45129956,0.0195,1550.0,thousand wholesale vehicles,46.9673879352
+STLA,downside,2028,Enlarged Europe,64873.2873,-0.001,2595.0,thousand wholesale vehicles,24.99934
+STLA,downside,2028,Middle East and Africa,11701.887689915997,0.0875,470.0,thousand wholesale vehicles,24.89763338279999
+STLA,downside,2028,South America,18793.015537337993,0.07,952.5,thousand wholesale vehicles,19.730200039199993
+STLA,downside,2028,Asia Pacific,1800.82455,-0.01,52.5,thousand wholesale vehicles,34.30142
+STLA,downside,2028,Other industrial and eliminations,469.7666675999999,0,,,
+STLA,downside,2029,North America,70098.826493286,0.02225,1500.0,thousand wholesale vehicles,46.732550995524
+STLA,downside,2029,Enlarged Europe,63685.81865,0.002000000000000001,2547.5,thousand wholesale vehicles,24.99934
+STLA,downside,2029,Middle East and Africa,11885.507736114147,0.08125,475.0,thousand wholesale vehicles,25.02212154971399
+STLA,downside,2029,South America,18862.19455122544,0.0675,951.25,thousand wholesale vehicles,19.828851039395992
+STLA,downside,2029,Asia Pacific,1757.947775,-0.005000000000000001,51.25,thousand wholesale vehicles,34.30142
+STLA,downside,2029,Other industrial and eliminations,472.11550093799985,0,,,
+STLA,downside,2030,North America,67423.38794879224,0.025,1450.0,thousand wholesale vehicles,46.49888824054637
+STLA,downside,2030,Enlarged Europe,62498.35,0.005,2500.0,thousand wholesale vehicles,24.99934
+STLA,downside,2030,Middle East and Africa,12070.671435582028,0.075,480.0,thousand wholesale vehicles,25.147232157462557
+STLA,downside,2030,South America,18931.595529863323,0.065,950.0,thousand wholesale vehicles,19.927995294592975
+STLA,downside,2030,Asia Pacific,1715.071,0.0,50.0,thousand wholesale vehicles,34.30142
+STLA,downside,2030,Other industrial and eliminations,474.4760784426898,0,,,
+STLA,downside,2031,North America,67086.27100904829,0.025,1450.0,thousand wholesale vehicles,46.26639379934364
+STLA,downside,2031,Enlarged Europe,62248.3566,0.0054,2490.0,thousand wholesale vehicles,24.99934
+STLA,downside,2031,Middle East and Africa,12282.662602669434,0.075,486.0,thousand wholesale vehicles,25.272968318249866
+STLA,downside,2031,South America,19066.308778054772,0.065,952.0,thousand wholesale vehicles,20.027635271065932
+STLA,downside,2031,Asia Pacific,1680.7695800000001,0.0,49.0,thousand wholesale vehicles,34.30142
+STLA,downside,2031,Other industrial and eliminations,476.84845883490317,0,,,
+STLA,downside,2032,North America,66750.83965400305,0.025,1450.0,thousand wholesale vehicles,46.03506183034693
+STLA,downside,2032,Enlarged Europe,61998.3632,0.0058000000000000005,2480.0,thousand wholesale vehicles,24.99934
+STLA,downside,2032,Middle East and Africa,12496.471914641828,0.075,492.0,thousand wholesale vehicles,25.399333159841117
+STLA,downside,2032,South America,19201.895868839885,0.065,954.0,thousand wholesale vehicles,20.127773447421262
+STLA,downside,2032,Asia Pacific,1646.4681600000001,0.0,48.0,thousand wholesale vehicles,34.30142
+STLA,downside,2032,Other industrial and eliminations,479.2327011290777,0,,,
+STLA,downside,2033,North America,66417.08545573303,0.025,1450.0,thousand wholesale vehicles,45.804886521195186
+STLA,downside,2033,Enlarged Europe,61748.3698,0.006200000000000001,2470.0,thousand wholesale vehicles,24.99934
+STLA,downside,2033,Middle East and Africa,12712.11225316888,0.075,498.0,thousand wholesale vehicles,25.52632982564032
+STLA,downside,2033,South America,19338.3621728134,0.065,956.0,thousand wholesale vehicles,20.228412314658367
+STLA,downside,2033,Asia Pacific,1612.1667400000001,0.0,47.0,thousand wholesale vehicles,34.30142
+STLA,downside,2033,Other industrial and eliminations,481.628864634723,0,,,
+STLA,downside,2034,North America,66085.00002845436,0.025,1450.0,thousand wholesale vehicles,45.57586208858921
+STLA,downside,2034,Enlarged Europe,61498.3764,0.0066,2460.0,thousand wholesale vehicles,24.99934
+STLA,downside,2034,Middle East and Africa,12929.596583283334,0.075,504.0,thousand wholesale vehicles,25.65396147476852
+STLA,downside,2034,South America,19475.713092429927,0.065,958.0,thousand wholesale vehicles,20.32955437623166
+STLA,downside,2034,Asia Pacific,1577.86532,0.0,46.0,thousand wholesale vehicles,34.30142
+STLA,downside,2034,Other industrial and eliminations,484.0370089578966,0,,,
+STLA,downside,2035,North America,65754.57502831209,0.025,1450.0,thousand wholesale vehicles,45.34798277814627
+STLA,downside,2035,Enlarged Europe,61248.383,0.007,2450.0,thousand wholesale vehicles,24.99934
+STLA,downside,2035,Middle East and Africa,13148.9379538926,0.075,510.0,thousand wholesale vehicles,25.782231282142355
+STLA,downside,2035,South America,19613.9540621883,0.065,960.0,thousand wholesale vehicles,20.431202148112813
+STLA,downside,2035,Asia Pacific,1543.5639,0.0,45.0,thousand wholesale vehicles,34.30142
+STLA,downside,2035,Other industrial and eliminations,486.457194002686,0,,,
+STLA,downside,2036,North America,66083.34790345364,0.025,,normalized nominal growth; physical split unspecified,
+STLA,downside,2036,Enlarged Europe,61554.62491499999,0.007,,normalized nominal growth; physical split unspecified,
+STLA,downside,2036,Middle East and Africa,13214.682643662061,0.075,,normalized nominal growth; physical split unspecified,
+STLA,downside,2036,South America,19712.02383249924,0.065,,normalized nominal growth; physical split unspecified,
+STLA,downside,2036,Asia Pacific,1551.2817195,0.0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2036,Other industrial and eliminations,488.88947997269935,0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,North America,66413.7646429709,0.025,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,Enlarged Europe,61862.39803957498,0.007,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,Middle East and Africa,13280.756056880371,0.075,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,South America,19810.58395166173,0.065,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,Asia Pacific,1559.0381280974998,0.0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2037,Other industrial and eliminations,491.33392737256275,0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,North America,66745.83346618575,0.025,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,Enlarged Europe,62171.710029772854,0.007,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,Middle East and Africa,13347.15983716477,0.075,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,South America,19909.63687142004,0.065,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,Asia Pacific,1566.833318737987,0.0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2038,Other industrial and eliminations,493.79059700942554,0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,North America,67079.56263351667,0.025,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,Enlarged Europe,62482.56857992172,0.007,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,Middle East and Africa,13413.895636350593,0.075,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,South America,20009.185055777136,0.065,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,Asia Pacific,1574.667485331677,0.0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2039,Other industrial and eliminations,496.25954999447265,0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,North America,67414.96044668424,0.025,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,Enlarged Europe,62794.981422821314,0.007,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,Middle East and Africa,13480.965114532344,0.075,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,South America,20109.23098105602,0.065,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,Asia Pacific,1582.540822758335,0.0,,normalized nominal growth; physical split unspecified,
+STLA,downside,2040,Other industrial and eliminations,498.7408477444449,0,,normalized nominal growth; physical split unspecified,
+STLA,base,2026,North America,80174.62752,0.025,1690.0,thousand wholesale vehicles,47.440608
+STLA,base,2026,Enlarged Europe,70144.65976,0.001,2780.0,thousand wholesale vehicles,25.231892
+STLA,base,2026,Middle East and Africa,11640.39036,0.115,470.0,thousand wholesale vehicles,24.766788000000002
+STLA,base,2026,South America,19257.631120000002,0.085,980.0,thousand wholesale vehicles,19.650644
+STLA,base,2026,Asia Pacific,2092.968,0.0,60.0,thousand wholesale vehicles,34.8828
+STLA,base,2026,Other industrial and eliminations,465.104,0,,,
+STLA,base,2027,North America,83161.25099664,0.0325,1742.5,thousand wholesale vehicles,47.725251648
+STLA,base,2027,Enlarged Europe,71150.90761296,0.00825,2797.5,thousand wholesale vehicles,25.433747136
+STLA,base,2027,Middle East and Africa,12030.71493888,0.11125,480.0,thousand wholesale vehicles,25.063989456
+STLA,base,2027,South America,19737.303340039998,0.08625000000000001,992.5,thousand wholesale vehicles,19.886451727999997
+STLA,base,2027,Asia Pacific,2103.43284,0.005,60.0,thousand wholesale vehicles,35.057214
+STLA,base,2027,Other industrial and eliminations,472.08055999999993,0,,,
+STLA,base,2028,North America,86180.82766840897,0.04,1795.0,thousand wholesale vehicles,48.011603157888
+STLA,base,2028,Enlarged Europe,72168.76617334272,0.0155,2815.0,thousand wholesale vehicles,25.637217113088003
+STLA,base,2028,Middle East and Africa,12428.73109144128,0.10750000000000001,490.0,thousand wholesale vehicles,25.364757329472
+STLA,base,2028,South America,20225.71459447968,0.0875,1005.0,thousand wholesale vehicles,20.125089148736
+STLA,base,2028,Asia Pacific,2113.9500041999995,0.01,60.0,thousand wholesale vehicles,35.23250006999999
+STLA,base,2028,Other industrial and eliminations,479.1617683999999,0,,,
+STLA,base,2029,North America,89233.64545520328,0.0475,1847.5,thousand wholesale vehicles,48.29967277683533
+STLA,base,2029,Enlarged Europe,73198.35681260434,0.02275,2832.5,thousand wholesale vehicles,25.842314849992704
+STLA,base,2029,Middle East and Africa,12834.567208712833,0.10375000000000001,500.0,thousand wholesale vehicles,25.669134417425667
+STLA,base,2029,South America,20723.005547344943,0.08875,1017.5,thousand wholesale vehicles,20.36659021852083
+STLA,base,2029,Asia Pacific,2124.5197542209994,0.015,60.0,thousand wholesale vehicles,35.40866257034999
+STLA,base,2029,Other industrial and eliminations,486.3491949259999,0,,,
+STLA,base,2030,North America,92319.99454564303,0.055,1900.0,thousand wholesale vehicles,48.589470813496334
+STLA,base,2030,Enlarged Europe,74239.80210105905,0.03,2850.0,thousand wholesale vehicles,26.049053368792645
+STLA,base,2030,Middle East and Africa,13248.353655521734,0.1,510.0,thousand wholesale vehicles,25.97716403043477
+STLA,base,2030,South America,21229.31898017737,0.09,1030.0,thousand wholesale vehicles,20.61098930114308
+STLA,base,2030,Asia Pacific,2135.142352992104,0.02,60.0,thousand wholesale vehicles,35.58570588320173
+STLA,base,2030,Other industrial and eliminations,493.6444328498898,0,,,
+STLA,base,2031,North America,93362.72458930068,0.055,1910.0,thousand wholesale vehicles,48.88100763837732
+STLA,base,2031,Enlarged Europe,74991.26519264198,0.03,2856.0,thousand wholesale vehicles,26.257445795742992
+STLA,base,2031,Middle East and Africa,13565.067239380798,0.1,516.0,thousand wholesale vehicles,26.288889998799995
+STLA,base,2031,South America,21734.370662012585,0.09,1042.0,thousand wholesale vehicles,20.8583211727568
+STLA,base,2031,Asia Pacific,2145.8180647570643,0.02,60.0,thousand wholesale vehicles,35.76363441261774
+STLA,base,2031,Other industrial and eliminations,501.0490993426381,0,,,
+STLA,base,2032,North America,94414.64387367855,0.055,1920.0,thousand wholesale vehicles,49.174293684207576
+STLA,base,2032,Enlarged Europe,75750.00034635575,0.03,2862.0,thousand wholesale vehicles,26.467505362108927
+STLA,base,2032,Middle East and Africa,13887.474186326079,0.1,522.0,thousand wholesale vehicles,26.604356678785592
+STLA,base,2032,South America,22248.486562278693,0.09,1054.0,thousand wholesale vehicles,21.10862102682988
+STLA,base,2032,Asia Pacific,2156.5471550808497,0.02,60.0,thousand wholesale vehicles,35.94245258468082
+STLA,base,2032,Other industrial and eliminations,508.5648358327776,0,,,
+STLA,base,2033,North America,95475.82513138375,0.055,1930.0,thousand wholesale vehicles,49.46933944631283
+STLA,base,2033,Enlarged Europe,76516.07582155665,0.03,2868.0,thousand wholesale vehicles,26.679245405005805
+STLA,base,2033,Middle East and Africa,14215.665530315579,0.1,528.0,thousand wholesale vehicles,26.923608958931016
+STLA,base,2033,South America,22771.811494775862,0.09,1066.0,thousand wholesale vehicles,21.361924479151842
+STLA,base,2033,Asia Pacific,2167.3298908562538,0.02,60.0,thousand wholesale vehicles,36.12216484760423
+STLA,base,2033,Other industrial and eliminations,516.1933083702693,0,,,
+STLA,base,2034,North America,96546.34163700195,0.055,1940.0,thousand wholesale vehicles,49.7661554829907
+STLA,base,2034,Enlarged Europe,77289.56050433857,0.03,2874.0,thousand wholesale vehicles,26.892679368245854
+STLA,base,2034,Middle East and Africa,14549.733670277994,0.1,534.0,thousand wholesale vehicles,27.246692266438195
+STLA,base,2034,South America,23304.49244358799,0.09,1078.0,thousand wholesale vehicles,21.61826757290166
+STLA,base,2034,Asia Pacific,2178.166540310535,0.02,60.0,thousand wholesale vehicles,36.30277567184225
+STLA,base,2034,Other industrial and eliminations,523.9362079958233,0,,,
+STLA,base,2035,North America,97626.26721098287,0.055,1950.0,thousand wholesale vehicles,50.06475241588865
+STLA,base,2035,Enlarged Europe,78070.52391319243,0.03,2880.0,thousand wholesale vehicles,27.107820803191817
+STLA,base,2035,Middle East and Africa,14889.772389763142,0.1,540.0,thousand wholesale vehicles,27.57365257363545
+STLA,base,2035,South America,23846.678594316367,0.09,1090.0,thousand wholesale vehicles,21.877686783776483
+STLA,base,2035,Asia Pacific,2189.057373012087,0.02,60.0,thousand wholesale vehicles,36.484289550201446
+STLA,base,2035,Other industrial and eliminations,531.7952511157606,0,,,
+STLA,base,2036,North America,99090.6612191476,0.055,,normalized nominal growth; physical split unspecified,
+STLA,base,2036,Enlarged Europe,79241.58177189031,0.03,,normalized nominal growth; physical split unspecified,
+STLA,base,2036,Middle East and Africa,15113.118975609588,0.1,,normalized nominal growth; physical split unspecified,
+STLA,base,2036,South America,24204.37877323111,0.09,,normalized nominal growth; physical split unspecified,
+STLA,base,2036,Asia Pacific,2221.893233607268,0.02,,normalized nominal growth; physical split unspecified,
+STLA,base,2036,Other industrial and eliminations,539.772179882497,0,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,North America,100577.0211374348,0.055,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,Enlarged Europe,80430.20549846865,0.03,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,Middle East and Africa,15339.81576024373,0.1,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,South America,24567.444454829572,0.09,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,Asia Pacific,2255.2216321113765,0.02,,normalized nominal growth; physical split unspecified,
+STLA,base,2037,Other industrial and eliminations,547.8687625807344,0,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,North America,102085.67645449631,0.055,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,Enlarged Europe,81636.65858094567,0.03,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,Middle East and Africa,15569.912996647383,0.1,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,South America,24935.956121652012,0.09,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,Asia Pacific,2289.0499565930468,0.02,,normalized nominal growth; physical split unspecified,
+STLA,base,2038,Other industrial and eliminations,556.0867940194453,0,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,North America,103616.96160131376,0.055,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,Enlarged Europe,82861.20845965986,0.03,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,Middle East and Africa,15803.461691597095,0.1,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,South America,25309.995463476796,0.09,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,Asia Pacific,2323.385705941943,0.02,,normalized nominal growth; physical split unspecified,
+STLA,base,2039,Other industrial and eliminations,564.428095929737,0,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,North America,105171.21602533346,0.055,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,Enlarged Europe,84104.12658655475,0.03,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,Middle East and Africa,16040.51361697105,0.1,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,South America,25689.645395428943,0.09,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,Asia Pacific,2358.236491531072,0.02,,normalized nominal growth; physical split unspecified,
+STLA,base,2040,Other industrial and eliminations,572.894517368683,0,,normalized nominal growth; physical split unspecified,
+STLA,upside,2026,North America,81997.8352,0.033,1720.0,thousand wholesale vehicles,47.67316
+STLA,upside,2026,Enlarged Europe,71481.83376,0.006,2820.0,thousand wholesale vehicles,25.348168
+STLA,upside,2026,Middle East and Africa,11943.87072,0.12,480.0,thousand wholesale vehicles,24.883063999999997
+STLA,upside,2026,South America,19569.2508,0.09,990.0,thousand wholesale vehicles,19.76692
+STLA,upside,2026,Asia Pacific,2305.1717,0.02,65.0,thousand wholesale vehicles,35.46418
+STLA,upside,2026,Other industrial and eliminations,465.104,0,,,
+STLA,upside,2027,North America,87305.52646859999,0.0435,1815.0,thousand wholesale vehicles,48.102218439999994
+STLA,upside,2027,Enlarged Europe,73741.68630762,0.01525,2877.5,thousand wholesale vehicles,25.626997848
+STLA,upside,2027,Middle East and Africa,12628.154979999998,0.12,500.0,thousand wholesale vehicles,25.256309959999996
+STLA,upside,2027,South America,20414.5337165,0.0925,1017.5,thousand wholesale vehicles,20.0634238
+STLA,upside,2027,Asia Pacific,2462.54399875,0.025,68.75,thousand wholesale vehicles,35.8188218
+STLA,upside,2027,Other industrial and eliminations,474.40608000000003,0,,,
+STLA,upside,2028,North America,92702.11435538359,0.054,1910.0,thousand wholesale vehicles,48.53513840595999
+STLA,upside,2028,Enlarged Europe,76042.60630940268,0.0245,2935.0,thousand wholesale vehicles,25.908894824327998
+STLA,upside,2028,Middle East and Africa,13330.280396887994,0.12,520.0,thousand wholesale vehicles,25.63515460939999
+STLA,upside,2028,South America,21280.772039065,0.095,1045.0,thousand wholesale vehicles,20.364375156999998
+STLA,upside,2028,Asia Pacific,2622.833226305,0.03,72.5,thousand wholesale vehicles,36.177010018000004
+STLA,upside,2028,Other industrial and eliminations,483.8942016,0,,,
+STLA,upside,2029,North America,98188.7690764853,0.0645,2005.0,thousand wholesale vehicles,48.97195465161362
+STLA,upside,2029,Enlarged Europe,78385.22380718133,0.033749999999999995,2992.5,thousand wholesale vehicles,26.1938926673956
+STLA,upside,2029,Middle East and Africa,14050.628241412134,0.12,540.0,thousand wholesale vehicles,26.01968192854099
+STLA,upside,2029,South America,22168.40424122073,0.0975,1072.5,thousand wholesale vehicles,20.669840784354996
+STLA,upside,2029,Asia Pacific,2786.0819840112254,0.035,76.25,thousand wholesale vehicles,36.53878011818001
+STLA,upside,2029,Other industrial and eliminations,493.5720856320001,0,,,
+STLA,upside,2030,North America,103766.6747113041,0.075,2100.0,thousand wholesale vehicles,49.412702243478144
+STLA,upside,2030,Enlarged Europe,80770.1777345477,0.043,3050.0,thousand wholesale vehicles,26.48202548673695
+STLA,upside,2030,Middle East and Africa,14789.5872081827,0.12,560.0,thousand wholesale vehicles,26.409977157469108
+STLA,upside,2030,South America,23077.87723573235,0.1,1100.0,thousand wholesale vehicles,20.97988839612032
+STLA,upside,2030,Asia Pacific,2952.333433548944,0.04,80.0,thousand wholesale vehicles,36.904167919361804
+STLA,upside,2030,Other industrial and eliminations,503.44352734464,0,,,
+STLA,upside,2031,North America,105897.15278123389,0.074,2124.0,thousand wholesale vehicles,49.85741656366944
+STLA,upside,2031,Enlarged Europe,82408.30286710626,0.0424,3078.0,thousand wholesale vehicles,26.77332776709105
+STLA,upside,2031,Middle East and Africa,15359.910664898242,0.119,573.0,thousand wholesale vehicles,26.80612681483114
+STLA,upside,2031,South America,23892.5263021537,0.099,1122.0,thousand wholesale vehicles,21.29458672206212
+STLA,upside,2031,Asia Pacific,3056.4031870815447,0.04,82.0,thousand wholesale vehicles,37.273209598555425
+STLA,upside,2031,Other industrial and eliminations,513.5123978915328,0,,,
+STLA,upside,2032,North America,108057.5743557708,0.073,2148.0,thousand wholesale vehicles,50.30613331274245
+STLA,upside,2032,Enlarged Europe,84072.69356107526,0.0418,3106.0,thousand wholesale vehicles,27.067834372529056
+STLA,upside,2032,Middle East and Africa,15944.01616819341,0.118,586.0,thousand wholesale vehicles,27.2082187170536
+STLA,upside,2032,South America,24726.422318189645,0.098,1144.0,thousand wholesale vehicles,21.61400552289305
+STLA,upside,2032,Asia Pacific,3162.2591023414425,0.04,84.0,thousand wholesale vehicles,37.64594169454098
+STLA,upside,2032,Other industrial and eliminations,523.7826458493635,0,,,
+STLA,upside,2033,North America,110248.3058492741,0.07200000000000001,2172.0,thousand wholesale vehicles,50.75888851255714
+STLA,upside,2033,Enlarged Europe,85763.72944566462,0.0412,3134.0,thousand wholesale vehicles,27.36558055062687
+STLA,upside,2033,Middle East and Africa,16542.188856687833,0.117,599.0,thousand wholesale vehicles,27.616341997809403
+STLA,upside,2033,South America,25579.959396288694,0.097,1166.0,thousand wholesale vehicles,21.938215605736442
+STLA,upside,2033,Asia Pacific,3269.926495587829,0.04,86.0,thousand wholesale vehicles,38.02240111148638
+STLA,upside,2033,Other industrial and eliminations,534.2582987663508,0,,,
+STLA,upside,2034,North America,112469.71784613763,0.07100000000000001,2196.0,thousand wholesale vehicles,51.21571850917014
+STLA,upside,2034,Enlarged Europe,87481.79532379407,0.0406,3162.0,thousand wholesale vehicles,27.666601936683765
+STLA,upside,2034,Middle East and Africa,17154.719322199246,0.116,612.0,thousand wholesale vehicles,28.030587127776545
+STLA,upside,2034,South America,26453.539141709116,0.096,1188.0,thousand wholesale vehicles,22.267288839822488
+STLA,upside,2034,Asia Pacific,3379.4310107889105,0.04,88.0,thousand wholesale vehicles,38.40262512260125
+STLA,upside,2034,Other industrial and eliminations,544.9434647416778,0,,,
+STLA,upside,2035,North America,114722.18514617093,0.07,2220.0,thousand wholesale vehicles,51.67665997575267
+STLA,upside,2035,Enlarged Europe,89227.28123997942,0.04,3190.0,thousand wholesale vehicles,27.97093455798728
+STLA,upside,2035,Middle East and Africa,17781.903709183243,0.115,625.0,thousand wholesale vehicles,28.45104593469319
+STLA,upside,2035,South America,27347.57078862799,0.095,1210.0,thousand wholesale vehicles,22.601298172419824
+STLA,upside,2035,Asia Pacific,3490.7986236444535,0.04,90.0,thousand wholesale vehicles,38.78665137382726
+STLA,upside,2035,Other industrial and eliminations,555.8423340365114,0,,,
+STLA,upside,2036,North America,117016.62884909436,0.07,,normalized nominal growth; physical split unspecified,
+STLA,upside,2036,Enlarged Europe,91011.82686477901,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2036,Middle East and Africa,18137.54178336691,0.115,,normalized nominal growth; physical split unspecified,
+STLA,upside,2036,South America,27894.52220440055,0.095,,normalized nominal growth; physical split unspecified,
+STLA,upside,2036,Asia Pacific,3560.6145961173424,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2036,Other industrial and eliminations,566.9591807172416,0,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,North America,119356.96142607623,0.07,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,Enlarged Europe,92832.0634020746,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,Middle East and Africa,18500.292619034248,0.115,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,South America,28452.41264848856,0.095,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,Asia Pacific,3631.8268880396895,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2037,Other industrial and eliminations,578.2983643315864,0,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,North America,121744.10065459777,0.07,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,Enlarged Europe,94688.70467011609,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,Middle East and Africa,18870.298471414935,0.115,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,South America,29021.460901458337,0.095,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,Asia Pacific,3704.463425800484,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2038,Other industrial and eliminations,589.8643316182182,0,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,North America,124178.9826676897,0.07,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,Enlarged Europe,96582.4787635184,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,Middle East and Africa,19247.70444084323,0.115,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,South America,29601.890119487496,0.095,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,Asia Pacific,3778.5526943164928,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2039,Other industrial and eliminations,601.6616182505825,0,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,North America,126662.56232104352,0.07,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,Enlarged Europe,98514.12833878877,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,Middle East and Africa,19632.658529660093,0.115,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,South America,30193.927921877246,0.095,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,Asia Pacific,3854.1237482028228,0.04,,normalized nominal growth; physical split unspecified,
+STLA,upside,2040,Other industrial and eliminations,613.6948506155942,0,,normalized nominal growth; physical split unspecified,
+ASIX,downside,2026,"Integrated nylon, caprolactam, plant nutrients and intermediates",1610,0.018,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2027,"Integrated nylon, caprolactam, plant nutrients and intermediates",1460,0.02,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2028,"Integrated nylon, caprolactam, plant nutrients and intermediates",1480,0.025,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2029,"Integrated nylon, caprolactam, plant nutrients and intermediates",1500,0.03,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2030,"Integrated nylon, caprolactam, plant nutrients and intermediates",1520,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2031,"Integrated nylon, caprolactam, plant nutrients and intermediates",1540,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2032,"Integrated nylon, caprolactam, plant nutrients and intermediates",1560,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2033,"Integrated nylon, caprolactam, plant nutrients and intermediates",1580,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2034,"Integrated nylon, caprolactam, plant nutrients and intermediates",1600,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2035,"Integrated nylon, caprolactam, plant nutrients and intermediates",1620,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,downside,2036,"Integrated nylon, caprolactam, plant nutrients and intermediates",1628.1,0.035,,normalized nominal growth; physical split unspecified,
+ASIX,downside,2037,"Integrated nylon, caprolactam, plant nutrients and intermediates",1636.2404999999997,0.035,,normalized nominal growth; physical split unspecified,
+ASIX,downside,2038,"Integrated nylon, caprolactam, plant nutrients and intermediates",1644.4217024999994,0.035,,normalized nominal growth; physical split unspecified,
+ASIX,downside,2039,"Integrated nylon, caprolactam, plant nutrients and intermediates",1652.6438110124993,0.035,,normalized nominal growth; physical split unspecified,
+ASIX,downside,2040,"Integrated nylon, caprolactam, plant nutrients and intermediates",1660.9070300675614,0.035,,normalized nominal growth; physical split unspecified,
+ASIX,base,2026,"Integrated nylon, caprolactam, plant nutrients and intermediates",1640,0.025,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2027,"Integrated nylon, caprolactam, plant nutrients and intermediates",1620,0.04,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2028,"Integrated nylon, caprolactam, plant nutrients and intermediates",1650,0.05,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2029,"Integrated nylon, caprolactam, plant nutrients and intermediates",1690,0.057,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2030,"Integrated nylon, caprolactam, plant nutrients and intermediates",1730,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2031,"Integrated nylon, caprolactam, plant nutrients and intermediates",1760,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2032,"Integrated nylon, caprolactam, plant nutrients and intermediates",1790,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2033,"Integrated nylon, caprolactam, plant nutrients and intermediates",1820,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2034,"Integrated nylon, caprolactam, plant nutrients and intermediates",1850,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2035,"Integrated nylon, caprolactam, plant nutrients and intermediates",1880,0.06,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,base,2036,"Integrated nylon, caprolactam, plant nutrients and intermediates",1917.6000000000001,0.06,,normalized nominal growth; physical split unspecified,
+ASIX,base,2037,"Integrated nylon, caprolactam, plant nutrients and intermediates",1955.952,0.06,,normalized nominal growth; physical split unspecified,
+ASIX,base,2038,"Integrated nylon, caprolactam, plant nutrients and intermediates",1995.0710400000003,0.06,,normalized nominal growth; physical split unspecified,
+ASIX,base,2039,"Integrated nylon, caprolactam, plant nutrients and intermediates",2034.9724608,0.06,,normalized nominal growth; physical split unspecified,
+ASIX,base,2040,"Integrated nylon, caprolactam, plant nutrients and intermediates",2075.671910016,0.06,,normalized nominal growth; physical split unspecified,
+ASIX,upside,2026,"Integrated nylon, caprolactam, plant nutrients and intermediates",1680,0.035,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2027,"Integrated nylon, caprolactam, plant nutrients and intermediates",1710,0.055,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2028,"Integrated nylon, caprolactam, plant nutrients and intermediates",1770,0.075,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2029,"Integrated nylon, caprolactam, plant nutrients and intermediates",1820,0.09,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2030,"Integrated nylon, caprolactam, plant nutrients and intermediates",1880,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2031,"Integrated nylon, caprolactam, plant nutrients and intermediates",1930,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2032,"Integrated nylon, caprolactam, plant nutrients and intermediates",1980,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2033,"Integrated nylon, caprolactam, plant nutrients and intermediates",2030,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2034,"Integrated nylon, caprolactam, plant nutrients and intermediates",2080,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2035,"Integrated nylon, caprolactam, plant nutrients and intermediates",2130,0.1,,Physical annual product volumes unavailable; product indices in extra_inputs.json,
+ASIX,upside,2036,"Integrated nylon, caprolactam, plant nutrients and intermediates",2183.25,0.1,,normalized nominal growth; physical split unspecified,
+ASIX,upside,2037,"Integrated nylon, caprolactam, plant nutrients and intermediates",2237.8312499999997,0.1,,normalized nominal growth; physical split unspecified,
+ASIX,upside,2038,"Integrated nylon, caprolactam, plant nutrients and intermediates",2293.7770312499993,0.1,,normalized nominal growth; physical split unspecified,
+ASIX,upside,2039,"Integrated nylon, caprolactam, plant nutrients and intermediates",2351.121457031249,0.1,,normalized nominal growth; physical split unspecified,
+ASIX,upside,2040,"Integrated nylon, caprolactam, plant nutrients and intermediates",2409.89949345703,0.1,,normalized nominal growth; physical split unspecified,
+PDD,downside,2026,Online marketing and other merchantservices,33750.72258449067,0.215,104.0,2025 realized activity index=100,324.52617869702567
+PDD,downside,2026,Transaction services,35088.06006735412,0.215,110.00000000000001,2025 realized activity index=100,318.9823642486738
+PDD,downside,2027,Online marketing and other merchantservices,31050.664777731417,0.15,95.68,2025 realized activity index=100,324.52617869702567
+PDD,downside,2027,Transaction services,28070.448053883298,0.15,88.00000000000001,2025 realized activity index=100,318.9823642486738
+PDD,downside,2028,Online marketing and other merchantservices,29498.13153884485,0.12,90.896,2025 realized activity index=100,324.5261786970257
+PDD,downside,2028,Transaction services,25263.403248494964,0.12,79.2,2025 realized activity index=100,318.9823642486738
+PDD,downside,2029,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2029,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2030,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2030,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2031,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2031,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2032,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2032,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2033,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2033,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2034,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2034,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2035,Online marketing and other merchantservices,28908.16890806795,0.11,89.07808,2025 realized activity index=100,324.52617869702567
+PDD,downside,2035,Transaction services,24000.233086070213,0.11,75.24,2025 realized activity index=100,318.9823642486738
+PDD,downside,2036,Online marketing and other merchantservices,28908.16890806795,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2036,Transaction services,24000.233086070213,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2037,Online marketing and other merchantservices,28908.16890806795,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2037,Transaction services,24000.233086070213,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2038,Online marketing and other merchantservices,28908.16890806795,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2038,Transaction services,24000.233086070213,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2039,Online marketing and other merchantservices,28908.16890806795,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2039,Transaction services,24000.233086070213,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2040,Online marketing and other merchantservices,28908.16890806795,0.11,,normalized nominal growth; physical split unspecified,
+PDD,downside,2040,Transaction services,24000.233086070213,0.11,,normalized nominal growth; physical split unspecified,
+PDD,base,2026,Online marketing and other merchantservices,33750.72258449067,0.215,104.0,2025 realized activity index=100,324.52617869702567
+PDD,base,2026,Transaction services,35088.06006735412,0.215,110.00000000000001,2025 realized activity index=100,318.9823642486738
+PDD,base,2027,Online marketing and other merchantservices,34425.737036180486,0.2,106.08,2025 realized activity index=100,324.5261786970257
+PDD,base,2027,Transaction services,35088.06006735412,0.2,110.00000000000001,2025 realized activity index=100,318.9823642486738
+PDD,base,2028,Online marketing and other merchantservices,35458.509147265904,0.2,109.2624,2025 realized activity index=100,324.5261786970257
+PDD,base,2028,Transaction services,36140.701869374745,0.2,113.3,2025 realized activity index=100,318.98236424867383
+PDD,base,2029,Online marketing and other merchantservices,36344.97187594755,0.2,111.99396000000002,2025 realized activity index=100,324.52617869702567
+PDD,base,2029,Transaction services,37586.32994414974,0.2,117.83200000000001,2025 realized activity index=100,318.98236424867383
+PDD,base,2030,Online marketing and other merchantservices,37253.596172846235,0.2,114.793809,2025 realized activity index=100,324.52617869702567
+PDD,base,2030,Transaction services,39089.78314191572,0.2,122.54528000000002,2025 realized activity index=100,318.9823642486738
+PDD,base,2031,Online marketing and other merchantservices,38184.93607716739,0.2,117.66365422499999,2025 realized activity index=100,324.5261786970257
+PDD,base,2031,Transaction services,40653.37446759236,0.2,127.44709120000005,2025 realized activity index=100,318.9823642486738
+PDD,base,2032,Online marketing and other merchantservices,39139.55947909657,0.2,120.605245580625,2025 realized activity index=100,324.52617869702567
+PDD,base,2032,Transaction services,42076.242573958094,0.2,131.90773939200005,2025 realized activity index=100,318.9823642486738
+PDD,base,2033,Online marketing and other merchantservices,40118.04846607398,0.2,123.62037672014058,2025 realized activity index=100,324.5261786970257
+PDD,base,2033,Transaction services,43338.529851176834,0.2,135.86497157376004,2025 realized activity index=100,318.9823642486738
+PDD,base,2034,Online marketing and other merchantservices,41120.999677725835,0.2,126.71088613814412,2025 realized activity index=100,324.52617869702567
+PDD,base,2034,Transaction services,44638.685746712144,0.2,139.94092072097285,2025 realized activity index=100,318.9823642486738
+PDD,base,2035,Online marketing and other merchantservices,42149.02466966897,0.2,129.8786582915977,2025 realized activity index=100,324.52617869702567
+PDD,base,2035,Transaction services,45754.65289037994,0.2,143.43944373899714,2025 realized activity index=100,318.98236424867383
+PDD,base,2036,Online marketing and other merchantservices,42781.260039714005,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2036,Transaction services,46440.972683735636,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2037,Online marketing and other merchantservices,43422.9789403097,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2037,Transaction services,47137.58727399166,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2038,Online marketing and other merchantservices,44074.32362441435,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2038,Transaction services,47844.65108310153,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2039,Online marketing and other merchantservices,44735.43847878056,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2039,Transaction services,48562.320849348056,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2040,Online marketing and other merchantservices,45406.470055962265,0.2,,normalized nominal growth; physical split unspecified,
+PDD,base,2040,Transaction services,49290.75566208827,0.2,,normalized nominal growth; physical split unspecified,
+PDD,upside,2026,Online marketing and other merchantservices,33750.72258449067,0.215,104.0,2025 realized activity index=100,324.52617869702567
+PDD,upside,2026,Transaction services,35088.06006735412,0.215,110.00000000000001,2025 realized activity index=100,318.9823642486738
+PDD,upside,2027,Online marketing and other merchantservices,35438.25871371521,0.23,109.2,2025 realized activity index=100,324.5261786970257
+PDD,upside,2027,Transaction services,38596.866074089536,0.23,121.00000000000001,2025 realized activity index=100,318.98236424867383
+PDD,upside,2028,Online marketing and other merchantservices,37210.17164940097,0.24,114.66000000000001,2025 realized activity index=100,324.52617869702567
+PDD,upside,2028,Transaction services,42456.55268149849,0.24,133.10000000000005,2025 realized activity index=100,318.9823642486737
+PDD,upside,2029,Online marketing and other merchantservices,39070.680231871025,0.24,120.39300000000004,2025 realized activity index=100,324.52617869702567
+PDD,upside,2029,Transaction services,45853.07689601838,0.24,143.74800000000008,2025 realized activity index=100,318.9823642486737
+PDD,upside,2030,Online marketing and other merchantservices,41024.21424346458,0.24,126.41265000000004,2025 realized activity index=100,324.52617869702567
+PDD,upside,2030,Transaction services,49062.79227873967,0.24,153.8103600000001,2025 realized activity index=100,318.9823642486738
+PDD,upside,2031,Online marketing and other merchantservices,42665.182813203166,0.24,131.46915600000005,2025 realized activity index=100,324.52617869702567
+PDD,upside,2031,Transaction services,52006.559815464054,0.24,163.0389816000001,2025 realized activity index=100,318.9823642486738
+PDD,upside,2032,Online marketing and other merchantservices,44371.79012573129,0.24,136.72792224000005,2025 realized activity index=100,324.52617869702567
+PDD,upside,2032,Transaction services,54606.88780623726,0.24,171.19093068000012,2025 realized activity index=100,318.9823642486738
+PDD,upside,2033,Online marketing and other merchantservices,46146.66173076054,0.24,142.19703912960006,2025 realized activity index=100,324.52617869702567
+PDD,upside,2033,Transaction services,57337.23219654912,0.24,179.7504772140001,2025 realized activity index=100,318.9823642486738
+PDD,upside,2034,Online marketing and other merchantservices,47531.06158268335,0.24,146.46295030348807,2025 realized activity index=100,324.5261786970256
+PDD,upside,2034,Transaction services,59630.721484411086,0.24,186.94049630256012,2025 realized activity index=100,318.9823642486738
+PDD,upside,2035,Online marketing and other merchantservices,48956.99343016386,0.24,150.85683881259268,2025 realized activity index=100,324.5261786970257
+PDD,upside,2035,Transaction services,62015.95034378753,0.24,194.41811615466253,2025 realized activity index=100,318.9823642486738
+PDD,upside,2036,Online marketing and other merchantservices,49936.133298767134,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2036,Transaction services,63256.269350663286,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2037,Online marketing and other merchantservices,50934.85596474248,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2037,Transaction services,64521.39473767655,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2038,Online marketing and other merchantservices,51953.55308403733,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2038,Transaction services,65811.82263243009,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2039,Online marketing and other merchantservices,52992.62414571807,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2039,Transaction services,67128.05908507868,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2040,Online marketing and other merchantservices,54052.47662863244,0.24,,normalized nominal growth; physical split unspecified,
+PDD,upside,2040,Transaction services,68470.62026678026,0.24,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2026,Vip.com online retail and relatedservices,14693.940554777375,0.071,703.1039999999999,million annual net onlineorders,20.898672962715867
+VIPS,downside,2026,Shan Shan consolidatedoutlets,574.4651755379389,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2026,Other businesses,105.33611864457293,0,,mixed retail/finance services,
+VIPS,downside,2027,Vip.com online retail and relatedservices,13224.546499299637,0.05,618.7315199999999,million annual net onlineorders,21.37364280277759
+VIPS,downside,2027,Shan Shan consolidatedoutlets,488.29539920724795,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2027,Other businesses,94.80250678011564,0,,mixed retail/finance services,
+VIPS,downside,2028,Vip.com online retail and relatedservices,12166.582779355665,0.04,556.8583679999999,million annual net onlineorders,21.848612642839313
+VIPS,downside,2028,Shan Shan consolidatedoutlets,439.4658592865232,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2028,Other businesses,87.2183062377064,0,,mixed retail/finance services,
+VIPS,downside,2029,Vip.com online retail and relatedservices,11436.587812594327,0.03,512.3096985599999,million annual net onlineorders,22.323582482901042
+VIPS,downside,2029,Shan Shan consolidatedoutlets,417.492566322197,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2029,Other businesses,81.985207863444,0,,mixed retail/finance services,
+VIPS,downside,2030,Vip.com online retail and relatedservices,10979.124300090552,0.025,481.5711166463999,million annual net onlineorders,22.798552322962763
+VIPS,downside,2030,Shan Shan consolidatedoutlets,404.967789332531,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2030,Other businesses,78.70579954890626,0,,mixed retail/finance services,
+VIPS,downside,2031,Vip.com online retail and relatedservices,10649.750571087836,0.025,462.3082719805439,million annual net onlineorders,23.036037242993626
+VIPS,downside,2031,Shan Shan consolidatedoutlets,392.81875565255507,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2031,Other businesses,76.34462556243906,0,,mixed retail/finance services,
+VIPS,downside,2032,Vip.com online retail and relatedservices,10330.2580539552,0.025,443.81594110132215,million annual net onlineorders,23.275995964274806
+VIPS,downside,2032,Shan Shan consolidatedoutlets,381.0341929829784,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2032,Other businesses,74.05428679556589,0,,mixed retail/finance services,
+VIPS,downside,2033,Vip.com online retail and relatedservices,10020.350312336544,0.025,426.0633034572692,million annual net onlineorders,23.51845425556934
+VIPS,downside,2033,Shan Shan consolidatedoutlets,369.60316719348907,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2033,Other businesses,71.83265819169891,0,,mixed retail/finance services,
+VIPS,downside,2034,Vip.com online retail and relatedservices,9719.739802966447,0.025,409.02077131897846,million annual net onlineorders,23.76343815406485
+VIPS,downside,2034,Shan Shan consolidatedoutlets,358.5150721776844,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2034,Other businesses,69.67767844594793,0,,mixed retail/finance services,
+VIPS,downside,2035,Vip.com online retail and relatedservices,9428.147608877454,0.025,392.6599404662193,million annual net onlineorders,24.010973968169694
+VIPS,downside,2035,Shan Shan consolidatedoutlets,347.7596200123539,0.1,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,downside,2035,Other businesses,67.5873480925695,0,,mixed retail/finance services,
+VIPS,downside,2036,Vip.com online retail and relatedservices,9333.86613278868,0.025,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2036,Shan Shan consolidatedoutlets,344.28202381223036,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2036,Other businesses,66.9114746116438,0,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2037,Vip.com online retail and relatedservices,9240.527471460793,0.025,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2037,Shan Shan consolidatedoutlets,340.839203574108,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2037,Other businesses,66.24235986552736,0,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2038,Vip.com online retail and relatedservices,9148.122196746186,0.025,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2038,Shan Shan consolidatedoutlets,337.430811538367,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2038,Other businesses,65.5799362668721,0,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2039,Vip.com online retail and relatedservices,9056.640974778722,0.025,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2039,Shan Shan consolidatedoutlets,334.05650342298327,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2039,Other businesses,64.92413690420337,0,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2040,Vip.com online retail and relatedservices,8966.074565030935,0.025,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2040,Shan Shan consolidatedoutlets,330.71593838875344,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,downside,2040,Other businesses,64.27489553516133,0,,normalized nominal growth; physical split unspecified,
+VIPS,base,2026,Vip.com online retail and relatedservices,14693.940554777375,0.071,703.1039999999999,million annual net onlineorders,20.898672962715867
+VIPS,base,2026,Shan Shan consolidatedoutlets,574.4651755379389,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2026,Other businesses,105.33611864457293,0.1,,mixed retail/finance services,
+VIPS,base,2027,Vip.com online retail and relatedservices,14547.001149229602,0.068,689.0419199999999,million annual net onlineorders,21.11192472764154
+VIPS,base,2027,Shan Shan consolidatedoutlets,528.5079614949037,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2027,Other businesses,104.28275745812721,0.1,,mixed retail/finance services,
+VIPS,base,2028,Vip.com online retail and relatedservices,14547.001149229602,0.067,682.1515007999999,million annual net onlineorders,21.325176492567213
+VIPS,base,2028,Shan Shan consolidatedoutlets,539.0781207248018,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2028,Other businesses,104.28275745812721,0.1,,mixed retail/finance services,
+VIPS,base,2029,Vip.com online retail and relatedservices,14692.471160721898,0.066,682.1515007999999,million annual net onlineorders,21.538428257492885
+VIPS,base,2029,Shan Shan consolidatedoutlets,549.8596831392979,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2029,Other businesses,105.32558503270849,0.1,,mixed retail/finance services,
+VIPS,base,2030,Vip.com online retail and relatedservices,14839.395872329116,0.065,682.1515007999999,million annual net onlineorders,21.753812540067813
+VIPS,base,2030,Shan Shan consolidatedoutlets,560.8568768020839,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2030,Other businesses,106.37884088303556,0.1,,mixed retail/finance services,
+VIPS,base,2031,Vip.com online retail and relatedservices,14987.789831052409,0.065,682.1515007999999,million annual net onlineorders,21.971350665468492
+VIPS,base,2031,Shan Shan consolidatedoutlets,572.0740143381255,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2031,Other businesses,107.44262929186591,0.1,,mixed retail/finance services,
+VIPS,base,2032,Vip.com online retail and relatedservices,15137.667729362933,0.065,682.1515007999999,million annual net onlineorders,22.191064172123177
+VIPS,base,2032,Shan Shan consolidatedoutlets,583.5154946248881,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2032,Other businesses,108.51705558478457,0.1,,mixed retail/finance services,
+VIPS,base,2033,Vip.com online retail and relatedservices,15289.044406656561,0.065,682.1515007999999,million annual net onlineorders,22.412974813844407
+VIPS,base,2033,Shan Shan consolidatedoutlets,595.1858045173858,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2033,Other businesses,109.60222614063241,0.1,,mixed retail/finance services,
+VIPS,base,2034,Vip.com online retail and relatedservices,15441.934850723128,0.065,682.1515007999999,million annual net onlineorders,22.637104561982852
+VIPS,base,2034,Shan Shan consolidatedoutlets,607.0895206077336,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2034,Other businesses,110.69824840203873,0.1,,mixed retail/finance services,
+VIPS,base,2035,Vip.com online retail and relatedservices,15596.35419923036,0.065,682.1515007999999,million annual net onlineorders,22.863475607602684
+VIPS,base,2035,Shan Shan consolidatedoutlets,619.2313110198883,0.2,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,base,2035,Other businesses,111.80523088605912,0.1,,mixed retail/finance services,
+VIPS,base,2036,Vip.com online retail and relatedservices,15674.33597022651,0.065,,normalized nominal growth; physical split unspecified,
+VIPS,base,2036,Shan Shan consolidatedoutlets,622.3274675749876,0.2,,normalized nominal growth; physical split unspecified,
+VIPS,base,2036,Other businesses,112.3642570404894,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,base,2037,Vip.com online retail and relatedservices,15752.70765007764,0.065,,normalized nominal growth; physical split unspecified,
+VIPS,base,2037,Shan Shan consolidatedoutlets,625.4391049128625,0.2,,normalized nominal growth; physical split unspecified,
+VIPS,base,2037,Other businesses,112.92607832569183,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,base,2038,Vip.com online retail and relatedservices,15831.471188328027,0.065,,normalized nominal growth; physical split unspecified,
+VIPS,base,2038,Shan Shan consolidatedoutlets,628.5663004374268,0.2,,normalized nominal growth; physical split unspecified,
+VIPS,base,2038,Other businesses,113.49070871732029,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,base,2039,Vip.com online retail and relatedservices,15910.628544269666,0.065,,normalized nominal growth; physical split unspecified,
+VIPS,base,2039,Shan Shan consolidatedoutlets,631.7091319396138,0.2,,normalized nominal growth; physical split unspecified,
+VIPS,base,2039,Other businesses,114.05816226090688,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,base,2040,Vip.com online retail and relatedservices,15990.18168699101,0.065,,normalized nominal growth; physical split unspecified,
+VIPS,base,2040,Shan Shan consolidatedoutlets,634.8676775993118,0.2,,normalized nominal growth; physical split unspecified,
+VIPS,base,2040,Other businesses,114.62845307221139,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2026,Vip.com online retail and relatedservices,14693.940554777375,0.071,703.1039999999999,million annual net onlineorders,20.898672962715867
+VIPS,upside,2026,Shan Shan consolidatedoutlets,574.4651755379389,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2026,Other businesses,105.33611864457293,0.1,,mixed retail/finance services,
+VIPS,upside,2027,Vip.com online retail and relatedservices,14987.819365872921,0.073,703.1039999999999,million annual net onlineorders,21.316646421970184
+VIPS,upside,2027,Shan Shan consolidatedoutlets,551.4865685164212,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2027,Other businesses,107.4428410174644,0.1,,mixed retail/finance services,
+VIPS,upside,2028,Vip.com online retail and relatedservices,15437.45394684911,0.075,710.1350399999999,million annual net onlineorders,21.73875823230623
+VIPS,upside,2028,Shan Shan consolidatedoutlets,579.0608969422423,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2028,Other businesses,110.66612624798833,0.1,,mixed retail/finance services,
+VIPS,upside,2029,Vip.com online retail and relatedservices,15900.577565254582,0.075,717.2363903999999,million annual net onlineorders,22.169228692351894
+VIPS,upside,2029,Shan Shan consolidatedoutlets,608.0139417893545,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2029,Other businesses,113.98611003542797,0.1,,mixed retail/finance services,
+VIPS,upside,2030,Vip.com online retail and relatedservices,16377.59489221222,0.075,724.4087543039999,million annual net onlineorders,22.60822331992322
+VIPS,upside,2030,Shan Shan consolidatedoutlets,632.3344994609287,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2030,Other businesses,117.40569333649081,0.1,,mixed retail/finance services,
+VIPS,upside,2031,Vip.com online retail and relatedservices,16787.034764517524,0.075,728.0307980755198,million annual net onlineorders,23.05813821186199
+VIPS,upside,2031,Shan Shan consolidatedoutlets,657.6278794393659,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2031,Other businesses,120.34083566990307,0.1,,mixed retail/finance services,
+VIPS,upside,2032,Vip.com online retail and relatedservices,17206.71063363046,0.075,731.6709520658973,million annual net onlineorders,23.5170066339886
+VIPS,upside,2032,Shan Shan consolidatedoutlets,677.3567158225468,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2032,Other businesses,123.34935656165064,0.1,,mixed retail/finance services,
+VIPS,upside,2033,Vip.com online retail and relatedservices,17550.84484630307,0.075,731.6709520658973,million annual net onlineorders,23.98734676666837
+VIPS,upside,2033,Shan Shan consolidatedoutlets,697.6774172972232,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2033,Other businesses,125.81634369288365,0.1,,mixed retail/finance services,
+VIPS,upside,2034,Vip.com online retail and relatedservices,17901.861743229132,0.075,731.6709520658973,million annual net onlineorders,24.46709370200174
+VIPS,upside,2034,Shan Shan consolidatedoutlets,718.6077398161399,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2034,Other businesses,128.3326705667413,0.1,,mixed retail/finance services,
+VIPS,upside,2035,Vip.com online retail and relatedservices,18259.89897809371,0.075,731.6709520658973,million annual net onlineorders,24.95643557604177
+VIPS,upside,2035,Shan Shan consolidatedoutlets,740.1659720106242,0.22,,recognized outletrevenue; unitcount undisclosedafterREIT,
+VIPS,upside,2035,Other businesses,130.89932397807615,0.1,,mixed retail/finance services,
+VIPS,upside,2036,Vip.com online retail and relatedservices,18533.797462765117,0.075,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2036,Shan Shan consolidatedoutlets,751.2684615907834,0.22,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2036,Other businesses,132.8628138377473,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2037,Vip.com online retail and relatedservices,18811.804424706588,0.075,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2037,Shan Shan consolidatedoutlets,762.537488514645,0.22,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2037,Other businesses,134.85575604531348,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2038,Vip.com online retail and relatedservices,19093.981491077186,0.075,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2038,Shan Shan consolidatedoutlets,773.9755508423647,0.22,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2038,Other businesses,136.87859238599316,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2039,Vip.com online retail and relatedservices,19380.391213443345,0.075,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2039,Shan Shan consolidatedoutlets,785.5851841050002,0.22,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2039,Other businesses,138.93177127178305,0.1,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2040,Vip.com online retail and relatedservices,19671.09708164499,0.075,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2040,Shan Shan consolidatedoutlets,797.3689618665751,0.22,,normalized nominal growth; physical split unspecified,
+VIPS,upside,2040,Other businesses,141.0157478408598,0.1,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2026,Advertising (issuer revenue category; allocated margin),490.0,0.075,520.0,"million average monthly reachable users, estimated; not unique inventory units",0.9423076923076923
+OPRA,downside,2026,Query (issuer revenue category; allocated margin),246.0,0.337,288.0,million average monthly active users,0.8541666666666666
+OPRA,downside,2026,Other,2.0,0.2,,not material,
+OPRA,downside,2027,Advertising (issuer revenue category; allocated margin),431.2,0.035,478.40000000000003,"million average monthly reachable users, estimated; not unique inventory units",0.9013377926421404
+OPRA,downside,2027,Query (issuer revenue category; allocated margin),159.9,0.2,264.96000000000004,million average monthly active users,0.6034873188405796
+OPRA,downside,2027,Other,2.06,0.2,,not material,
+OPRA,downside,2028,Advertising (issuer revenue category; allocated margin),405.328,0.035,468.83200000000005,"million average monthly reachable users, estimated; not unique inventory units",0.8645484949832775
+OPRA,downside,2028,Query (issuer revenue category; allocated margin),143.91,0.2,254.36160000000004,million average monthly active users,0.5657693614130433
+OPRA,downside,2028,Other,2.1218,0.2,,not material,
+OPRA,downside,2029,Advertising (issuer revenue category; allocated margin),405.328,0.04,468.83200000000005,"million average monthly reachable users, estimated; not unique inventory units",0.8645484949832775
+OPRA,downside,2029,Query (issuer revenue category; allocated margin),136.7145,0.21,249.27436800000004,million average monthly active users,0.5484498911657053
+OPRA,downside,2029,Other,2.185454,0.2,,not material,
+OPRA,downside,2030,Advertising (issuer revenue category; allocated margin),413.43456,0.045,473.5203200000001,"million average monthly reachable users, estimated; not unique inventory units",0.8731083810722208
+OPRA,downside,2030,Query (issuer revenue category; allocated margin),132.61306499999998,0.22,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2030,Other,2.2510176200000003,0.2,,not material,
+OPRA,downside,2031,Advertising (issuer revenue category; allocated margin),425.8375968,0.05,478.2555232000001,"million average monthly reachable users, estimated; not unique inventory units",0.8903976559449379
+OPRA,downside,2031,Query (issuer revenue category; allocated margin),132.61306499999998,0.23,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2031,Other,2.3185481486,0.2,,not material,
+OPRA,downside,2032,Advertising (issuer revenue category; allocated margin),438.61272470399996,0.05,483.0380784320001,"million average monthly reachable users, estimated; not unique inventory units",0.9080292926963228
+OPRA,downside,2032,Query (issuer revenue category; allocated margin),132.61306499999998,0.24,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2032,Other,2.3881045930580003,0.2,,not material,
+OPRA,downside,2033,Advertising (issuer revenue category; allocated margin),447.38497919808,0.05,487.8684592163201,"million average monthly reachable users, estimated; not unique inventory units",0.9170196817329201
+OPRA,downside,2033,Query (issuer revenue category; allocated margin),132.61306499999998,0.24,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2033,Other,2.4597477308497404,0.2,,not material,
+OPRA,downside,2034,Advertising (issuer revenue category; allocated margin),456.33267878204157,0.05,492.7471438084833,"million average monthly reachable users, estimated; not unique inventory units",0.9260990845223549
+OPRA,downside,2034,Query (issuer revenue category; allocated margin),132.61306499999998,0.24,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2034,Other,2.5335401627752328,0.2,,not material,
+OPRA,downside,2035,Advertising (issuer revenue category; allocated margin),460.896005569862,0.05,497.6746152465682,"million average monthly reachable users, estimated; not unique inventory units",0.9260990845223549
+OPRA,downside,2035,Query (issuer revenue category; allocated margin),132.61306499999998,0.24,249.27436800000004,million average monthly active users,0.5319963944307341
+OPRA,downside,2035,Other,2.60954636765849,0.2,,not material,
+OPRA,downside,2036,Advertising (issuer revenue category; allocated margin),463.20048559771124,0.05,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2036,Query (issuer revenue category; allocated margin),133.27613032499997,0.24,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2036,Other,2.622594099496782,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2037,Advertising (issuer revenue category; allocated margin),465.51648802569974,0.05,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2037,Query (issuer revenue category; allocated margin),133.94251097662493,0.24,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2037,Other,2.6357070699942655,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2038,Advertising (issuer revenue category; allocated margin),467.84407046582817,0.05,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2038,Query (issuer revenue category; allocated margin),134.61222353150805,0.24,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2038,Other,2.6488856053442364,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2039,Advertising (issuer revenue category; allocated margin),470.1832908181573,0.05,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2039,Query (issuer revenue category; allocated margin),135.2852846491656,0.24,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2039,Other,2.6621300333709574,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2040,Advertising (issuer revenue category; allocated margin),472.534207272248,0.05,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2040,Query (issuer revenue category; allocated margin),135.9617110724114,0.24,,normalized nominal growth; physical split unspecified,
+OPRA,downside,2040,Other,2.6754406835378117,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,base,2026,Advertising (issuer revenue category; allocated margin),490.0,0.075,520.0,"million average monthly reachable users, estimated; not unique inventory units",0.9423076923076923
+OPRA,base,2026,Query (issuer revenue category; allocated margin),246.0,0.337,288.0,million average monthly active users,0.8541666666666666
+OPRA,base,2026,Other,2.0,0.2,,not material,
+OPRA,base,2027,Advertising (issuer revenue category; allocated margin),578.1999999999999,0.08,561.6,"million average monthly reachable users, estimated; not unique inventory units",1.0295584045584043
+OPRA,base,2027,Query (issuer revenue category; allocated margin),275.52000000000004,0.343,295.2,million average monthly active users,0.9333333333333335
+OPRA,base,2027,Other,2.06,0.2,,not material,
+OPRA,base,2028,Advertising (issuer revenue category; allocated margin),670.7119999999999,0.085,600.912,"million average monthly reachable users, estimated; not unique inventory units",1.1161567750352794
+OPRA,base,2028,Query (issuer revenue category; allocated margin),303.07200000000006,0.349,302.58,million average monthly active users,1.001626016260163
+OPRA,base,2028,Other,2.1218,0.2,,not material,
+OPRA,base,2029,Advertising (issuer revenue category; allocated margin),764.61168,0.09,636.9667200000001,"million average monthly reachable users, estimated; not unique inventory units",1.2003950222077533
+OPRA,base,2029,Query (issuer revenue category; allocated margin),327.3177600000001,0.355,310.14449999999994,million average monthly active users,1.0553718024985133
+OPRA,base,2029,Other,2.185454,0.2,,not material,
+OPRA,base,2030,Advertising (issuer revenue category; allocated margin),856.3650816,0.095,668.8150560000001,"million average monthly reachable users, estimated; not unique inventory units",1.2804213570216036
+OPRA,base,2030,Query (issuer revenue category; allocated margin),350.2300032000001,0.36,316.34738999999996,million average monthly active users,1.1071057143856953
+OPRA,base,2030,Other,2.2510176200000003,0.2,,not material,
+OPRA,base,2031,Advertising (issuer revenue category; allocated margin),942.0015897600001,0.1,695.5676582400001,"million average monthly reachable users, estimated; not unique inventory units",1.3542918199266964
+OPRA,base,2031,Query (issuer revenue category; allocated margin),371.24380339200013,0.36,322.6743378,million average monthly active users,1.1505216247537617
+OPRA,base,2031,Other,2.3185481486,0.2,,not material,
+OPRA,base,2032,Advertising (issuer revenue category; allocated margin),1017.3617169408002,0.105,716.4346879872002,"million average monthly reachable users, estimated; not unique inventory units",1.4200341412823612
+OPRA,base,2032,Query (issuer revenue category; allocated margin),389.80599356160013,0.36,329.127824556,million average monthly active users,1.1843604960700487
+OPRA,base,2032,Other,2.3881045930580003,0.2,,not material,
+OPRA,base,2033,Advertising (issuer revenue category; allocated margin),1088.5770371266563,0.105,737.9277286268161,"million average monthly reachable users, estimated; not unique inventory units",1.4751810982253657
+OPRA,base,2033,Query (issuer revenue category; allocated margin),405.39823330406415,0.36,335.71038104712,million average monthly active users,1.2075832508949518
+OPRA,base,2033,Other,2.4597477308497404,0.2,,not material,
+OPRA,base,2034,Advertising (issuer revenue category; allocated margin),1153.8916593542556,0.105,752.6862831993525,"million average monthly reachable users, estimated; not unique inventory units",1.5330313373714584
+OPRA,base,2034,Query (issuer revenue category; allocated margin),417.5601803031861,0.36,342.4245886680624,million average monthly active users,1.2194223023743138
+OPRA,base,2034,Other,2.5335401627752328,0.2,,not material,
+OPRA,base,2035,Advertising (issuer revenue category; allocated margin),1211.5862423219685,0.105,767.7400088633395,"million average monthly reachable users, estimated; not unique inventory units",1.578120494352972
+OPRA,base,2035,Query (issuer revenue category; allocated margin),430.08698571228166,0.36,347.5609574980833,million average monthly active users,1.237443321621225
+OPRA,base,2035,Other,2.60954636765849,0.2,,not material,
+OPRA,base,2036,Advertising (issuer revenue category; allocated margin),1241.8758983800176,0.105,,normalized nominal growth; physical split unspecified,
+OPRA,base,2036,Query (issuer revenue category; allocated margin),440.83916035508867,0.36,,normalized nominal growth; physical split unspecified,
+OPRA,base,2036,Other,2.674785026849952,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,base,2037,Advertising (issuer revenue category; allocated margin),1272.9227958395181,0.105,,normalized nominal growth; physical split unspecified,
+OPRA,base,2037,Query (issuer revenue category; allocated margin),451.86013936396586,0.36,,normalized nominal growth; physical split unspecified,
+OPRA,base,2037,Other,2.7416546525212007,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,base,2038,Advertising (issuer revenue category; allocated margin),1304.7458657355057,0.105,,normalized nominal growth; physical split unspecified,
+OPRA,base,2038,Query (issuer revenue category; allocated margin),463.1566428480649,0.36,,normalized nominal growth; physical split unspecified,
+OPRA,base,2038,Other,2.81019601883423,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,base,2039,Advertising (issuer revenue category; allocated margin),1337.364512378893,0.105,,normalized nominal growth; physical split unspecified,
+OPRA,base,2039,Query (issuer revenue category; allocated margin),474.7355589192665,0.36,,normalized nominal growth; physical split unspecified,
+OPRA,base,2039,Other,2.8804509193050856,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,base,2040,Advertising (issuer revenue category; allocated margin),1370.7986251883653,0.105,,normalized nominal growth; physical split unspecified,
+OPRA,base,2040,Query (issuer revenue category; allocated margin),486.60394789224813,0.36,,normalized nominal growth; physical split unspecified,
+OPRA,base,2040,Other,2.952462192287712,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2026,Advertising (issuer revenue category; allocated margin),490.0,0.075,520.0,"million average monthly reachable users, estimated; not unique inventory units",0.9423076923076923
+OPRA,upside,2026,Query (issuer revenue category; allocated margin),246.0,0.337,288.0,million average monthly active users,0.8541666666666666
+OPRA,upside,2026,Other,2.0,0.2,,not material,
+OPRA,upside,2027,Advertising (issuer revenue category; allocated margin),612.5,0.09,582.4000000000001,"million average monthly reachable users, estimated; not unique inventory units",1.051682692307692
+OPRA,upside,2027,Query (issuer revenue category; allocated margin),287.82,0.35,302.40000000000003,million average monthly active users,0.9517857142857141
+OPRA,upside,2027,Other,2.06,0.2,,not material,
+OPRA,upside,2028,Advertising (issuer revenue category; allocated margin),753.375,0.1,646.4640000000002,"million average monthly reachable users, estimated; not unique inventory units",1.1653781185031182
+OPRA,upside,2028,Query (issuer revenue category; allocated margin),330.993,0.36,314.49600000000004,million average monthly active users,1.052455357142857
+OPRA,upside,2028,Other,2.1218,0.2,,not material,
+OPRA,upside,2029,Advertising (issuer revenue category; allocated margin),904.05,0.11,711.1104000000003,"million average monthly reachable users, estimated; not unique inventory units",1.2713215838215832
+OPRA,upside,2029,Query (issuer revenue category; allocated margin),370.71216000000004,0.37,325.50336,million average monthly active users,1.138888888888889
+OPRA,upside,2029,Other,2.185454,0.2,,not material,
+OPRA,upside,2030,Advertising (issuer revenue category; allocated margin),1057.7385,0.12,767.9992320000003,"million average monthly reachable users, estimated; not unique inventory units",1.3772650491400484
+OPRA,upside,2030,Query (issuer revenue category; allocated margin),407.7833760000001,0.38,335.2684608,million average monthly active users,1.2162891046386195
+OPRA,upside,2030,Other,2.2510176200000003,0.2,,not material,
+OPRA,upside,2031,Advertising (issuer revenue category; allocated margin),1205.82189,0.13,814.0791859200004,"million average monthly reachable users, estimated; not unique inventory units",1.481209581150618
+OPRA,upside,2031,Query (issuer revenue category; allocated margin),440.4060460800001,0.38,345.326514624,million average monthly active users,1.27533226505797
+OPRA,upside,2031,Other,2.3185481486,0.2,,not material,
+OPRA,upside,2032,Advertising (issuer revenue category; allocated margin),1338.4622979,0.13,854.7831452160005,"million average monthly reachable users, estimated; not unique inventory units",1.565850128644939
+OPRA,upside,2032,Query (issuer revenue category; allocated margin),466.83040884480016,0.38,353.9596774896,million average monthly active users,1.3188801960599497
+OPRA,upside,2032,Other,2.3881045930580003,0.2,,not material,
+OPRA,upside,2033,Advertising (issuer revenue category; allocated margin),1458.9239047110002,0.13,888.9744710246406,"million average monthly reachable users, estimated; not unique inventory units",1.641131384829792
+OPRA,upside,2033,Query (issuer revenue category; allocated margin),490.1719292870402,0.38,361.038871039392,million average monthly active users,1.3576707900617129
+OPRA,upside,2033,Other,2.4597477308497404,0.2,,not material,
+OPRA,upside,2034,Advertising (issuer revenue category; allocated margin),1561.0485780407703,0.13,915.6437051553798,"million average monthly reachable users, estimated; not unique inventory units",1.704864642493085
+OPRA,upside,2034,Query (issuer revenue category; allocated margin),509.77880645852184,0.38,368.25964846017985,million average monthly active users,1.384291785945276
+OPRA,upside,2034,Other,2.5335401627752328,0.2,,not material,
+OPRA,upside,2035,Advertising (issuer revenue category; allocated margin),1654.7114927232167,0.13,943.1130163100413,"million average monthly reachable users, estimated; not unique inventory units",1.7545208942161845
+OPRA,upside,2035,Query (issuer revenue category; allocated margin),530.1699587168628,0.38,375.6248414293834,million average monthly active users,1.4114347621402816
+OPRA,upside,2035,Other,2.60954636765849,0.2,,not material,
+OPRA,upside,2036,Advertising (issuer revenue category; allocated margin),1704.3528375049132,0.13,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2036,Query (issuer revenue category; allocated margin),546.0750574783686,0.38,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2036,Other,2.6878327586882444,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2037,Advertising (issuer revenue category; allocated margin),1755.4834226300604,0.13,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2037,Query (issuer revenue category; allocated margin),562.4573092027197,0.38,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2037,Other,2.768467741448892,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2038,Advertising (issuer revenue category; allocated margin),1808.1479253089624,0.13,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2038,Query (issuer revenue category; allocated margin),579.3310284788013,0.38,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2038,Other,2.8515217736923586,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2039,Advertising (issuer revenue category; allocated margin),1862.3923630682316,0.13,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2039,Query (issuer revenue category; allocated margin),596.7109593331654,0.38,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2039,Other,2.9370674269031296,0.2,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2040,Advertising (issuer revenue category; allocated margin),1918.2641339602783,0.13,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2040,Query (issuer revenue category; allocated margin),614.6122881131604,0.38,,normalized nominal growth; physical split unspecified,
+OPRA,upside,2040,Other,3.0251794497102233,0.2,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2026,Marketing (issuer category; allocated margin),121.0,0.14728358208955225,0.52,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,232.69230769230768
+GRSD,downside,2026,Sports data subscriptions (issuer category; allocated margin),46.5,0.19228358208955226,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2027,Marketing (issuer category; allocated margin),90.75,0.03418123667377397,0.442,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,205.31674208144796
+GRSD,downside,2027,Sports data subscriptions (issuer category; allocated margin),34.875,0.03418123667377397,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2028,Marketing (issuer category; allocated margin),72.60000000000001,0.012631989381118314,0.3757,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,193.23928666489223
+GRSD,downside,2028,Sports data subscriptions (issuer category; allocated margin),29.64375,0.04263198938111831,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2029,Marketing (issuer category; allocated margin),61.71000000000001,0.01859633862411786,0.33813,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,182.5037707390649
+GRSD,downside,2029,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.06859633862411785,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2030,Marketing (issuer category; allocated margin),55.53900000000001,0.030357213741203093,0.31784219999999996,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,174.7376528352749
+GRSD,downside,2030,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.1003572137412031,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2031,Marketing (issuer category; allocated margin),52.20666000000001,0.045226878860164986,0.308306934,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,169.33339553109113
+GRSD,downside,2031,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.12522687886016498,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2032,Marketing (issuer category; allocated margin),49.596327,0.06154655745070271,0.29905772597999997,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,165.84198531395523
+GRSD,downside,2032,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.14154655745070271,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2033,Marketing (issuer category; allocated margin),47.11651065,0.079,0.29008599420059994,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,162.42256293634793
+GRSD,downside,2033,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2034,Marketing (issuer category; allocated margin),44.7606851175,0.079,0.2813834143745819,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,159.0736441129181
+GRSD,downside,2034,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2035,Marketing (issuer category; allocated margin),42.522650861625,0.079,0.27294191194334444,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,155.79377516213628
+GRSD,downside,2035,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,downside,2036,Marketing (issuer category; allocated margin),42.522650861625,0.079,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2036,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2037,Marketing (issuer category; allocated margin),42.522650861625,0.079,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2037,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2038,Marketing (issuer category; allocated margin),42.522650861625,0.079,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2038,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2039,Marketing (issuer category; allocated margin),42.522650861625,0.079,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2039,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2040,Marketing (issuer category; allocated margin),42.522650861625,0.079,,normalized nominal growth; physical split unspecified,
+GRSD,downside,2040,Sports data subscriptions (issuer category; allocated margin),28.1615625,0.159,,normalized nominal growth; physical split unspecified,
+GRSD,base,2026,Marketing (issuer category; allocated margin),121.0,0.14728358208955225,0.52,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,232.69230769230768
+GRSD,base,2026,Sports data subscriptions (issuer category; allocated margin),46.5,0.19228358208955226,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2027,Marketing (issuer category; allocated margin),111.32000000000001,0.18000272493617459,0.5304,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,209.8793363499246
+GRSD,base,2027,Sports data subscriptions (issuer category; allocated margin),54.87,0.22000272493617457,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2028,Marketing (issuer category; allocated margin),106.8672,0.18920491703018427,0.541008,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,197.53349303522313
+GRSD,base,2028,Sports data subscriptions (issuer category; allocated margin),63.64919999999999,0.23920491703018426,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2029,Marketing (issuer category; allocated margin),104.729856,0.19838026316613067,0.55182816,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,189.78708154364574
+GRSD,base,2029,Sports data subscriptions (issuer category; allocated margin),72.560088,0.25838026316613066,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2030,Marketing (issuer category; allocated margin),104.729856,0.2071102642077506,0.5628647232,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,186.06576621926052
+GRSD,base,2030,Sports data subscriptions (issuer category; allocated margin),81.26729856,0.27711026420775065,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2031,Marketing (issuer category; allocated margin),105.77715456,0.21509279467953274,0.5741220176640001,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,184.24159204064034
+GRSD,base,2031,Sports data subscriptions (issuer category; allocated margin),89.39402841600001,0.28509279467953275,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2032,Marketing (issuer category; allocated margin),107.8926976512,0.22236160005204791,0.5856044580172801,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,184.2415920406403
+GRSD,base,2032,Sports data subscriptions (issuer category; allocated margin),96.54555068928002,0.2923616000520479,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2033,Marketing (issuer category; allocated margin),110.050551604224,0.229,0.5973165471776257,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,184.2415920406403
+GRSD,base,2033,Sports data subscriptions (issuer category; allocated margin),103.30373923752963,0.299,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2034,Marketing (issuer category; allocated margin),112.25156263630848,0.229,0.6092628781211783,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,184.24159204064028
+GRSD,base,2034,Sports data subscriptions (issuer category; allocated margin),109.5019635917814,0.299,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2035,Marketing (issuer category; allocated margin),114.49659388903466,0.229,0.6214481356836019,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,184.24159204064028
+GRSD,base,2035,Sports data subscriptions (issuer category; allocated margin),114.97706177137047,0.299,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,base,2036,Marketing (issuer category; allocated margin),116.78652576681534,0.229,,normalized nominal growth; physical split unspecified,
+GRSD,base,2036,Sports data subscriptions (issuer category; allocated margin),117.27660300679788,0.299,,normalized nominal growth; physical split unspecified,
+GRSD,base,2037,Marketing (issuer category; allocated margin),119.12225628215165,0.229,,normalized nominal growth; physical split unspecified,
+GRSD,base,2037,Sports data subscriptions (issuer category; allocated margin),119.62213506693384,0.299,,normalized nominal growth; physical split unspecified,
+GRSD,base,2038,Marketing (issuer category; allocated margin),121.50470140779471,0.229,,normalized nominal growth; physical split unspecified,
+GRSD,base,2038,Sports data subscriptions (issuer category; allocated margin),122.01457776827253,0.299,,normalized nominal growth; physical split unspecified,
+GRSD,base,2039,Marketing (issuer category; allocated margin),123.93479543595058,0.229,,normalized nominal growth; physical split unspecified,
+GRSD,base,2039,Sports data subscriptions (issuer category; allocated margin),124.45486932363796,0.299,,normalized nominal growth; physical split unspecified,
+GRSD,base,2040,Marketing (issuer category; allocated margin),126.4134913446696,0.229,,normalized nominal growth; physical split unspecified,
+GRSD,base,2040,Sports data subscriptions (issuer category; allocated margin),126.94396671011073,0.299,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2026,Marketing (issuer category; allocated margin),121.0,0.14728358208955225,0.52,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,232.69230769230768
+GRSD,upside,2026,Sports data subscriptions (issuer category; allocated margin),46.5,0.19228358208955226,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2027,Marketing (issuer category; allocated margin),124.63000000000001,0.2047813893952911,0.5564,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,223.99352983465135
+GRSD,upside,2027,Sports data subscriptions (issuer category; allocated margin),59.52,0.2547813893952911,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2028,Marketing (issuer category; allocated margin),130.8615,0.22594112492740098,0.600912,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,217.77148733924435
+GRSD,upside,2028,Sports data subscriptions (issuer category; allocated margin),74.4,0.285941124927401,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2029,Marketing (issuer category; allocated margin),138.71319000000003,0.23534415514155466,0.64898496,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,213.73868201814724
+GRSD,upside,2029,Sports data subscriptions (issuer category; allocated margin),90.768,0.3053441551415546,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2030,Marketing (issuer category; allocated margin),147.03598140000003,0.24297972383730582,0.6944139072000001,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,211.74112424227673
+GRSD,upside,2030,Sports data subscriptions (issuer category; allocated margin),107.10624,0.3229797238373058,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2031,Marketing (issuer category; allocated margin),154.38778047000002,0.2492209030841267,0.7360787416320002,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,209.74356646640615
+GRSD,upside,2031,Sports data subscriptions (issuer category; allocated margin),123.172176,0.32922090308412666,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2032,Marketing (issuer category; allocated margin),160.56329168880004,0.25445370341442386,0.7728826787136002,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,207.74600869053563
+GRSD,upside,2032,Sports data subscriptions (issuer category; allocated margin),137.95283712,0.3344537034144238,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2033,Marketing (issuer category; allocated margin),166.98582335635203,0.259,0.8115268126492802,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,205.76747527443527
+GRSD,upside,2033,Sports data subscriptions (issuer category; allocated margin),151.748120832,0.33899999999999997,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2034,Marketing (issuer category; allocated margin),171.9953980570426,0.259,0.8439878851552514,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,203.78894185833494
+GRSD,upside,2034,Sports data subscriptions (issuer category; allocated margin),163.88797049856004,0.33899999999999997,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2035,Marketing (issuer category; allocated margin),177.15525999875388,0.259,0.8777474005614615,million annual NDC referrals; revenue also includes retained-cohort share and ticket/other,201.8294328020048
+GRSD,upside,2035,Sports data subscriptions (issuer category; allocated margin),173.72124872847365,0.33899999999999997,,paying seat/client counts undisclosed; see indexed driver decomposition,
+GRSD,upside,2036,Marketing (issuer category; allocated margin),181.58414149872272,0.259,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2036,Sports data subscriptions (issuer category; allocated margin),178.06427994668547,0.33899999999999997,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2037,Marketing (issuer category; allocated margin),186.12374503619077,0.259,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2037,Sports data subscriptions (issuer category; allocated margin),182.5158869453526,0.33899999999999997,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2038,Marketing (issuer category; allocated margin),190.7768386620955,0.259,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2038,Sports data subscriptions (issuer category; allocated margin),187.0787841189864,0.33899999999999997,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2039,Marketing (issuer category; allocated margin),195.54625962864787,0.259,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2039,Sports data subscriptions (issuer category; allocated margin),191.75575372196104,0.33899999999999997,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2040,Marketing (issuer category; allocated margin),200.43491611936406,0.259,,normalized nominal growth; physical split unspecified,
+GRSD,upside,2040,Sports data subscriptions (issuer category; allocated margin),196.54964756501005,0.33899999999999997,,normalized nominal growth; physical split unspecified,
 PYPL,downside,2026,Transaction fees,31447.02,0.163,1977800.0,USD million total payment volume,0.0159
 PYPL,downside,2026,Other value added services,3400,0.163,,not disclosed separately,
 PYPL,downside,2027,Transaction fees,30487.393901,0.135,1986990.8366,USD million total payment volume,0.015343500000000001

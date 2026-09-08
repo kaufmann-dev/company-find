@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "DECK",
+    "chain": "Consumer replacement footwear and apparel",
+    "role": "HOKA and UGG branded footwear, outsourced manufacturing, wholesale/DTC distribution",
+    "mechanism": "Sustained customer demand plus low owned-factory capital can support cash despite valuation compression",
+    "decision": "Advance to full model; adjudicate intrinsic gap after funding brand investment",
+    "source_id": "CONS03",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000015/deckex991pressrelease-6302.htm",
+    "source_date": "2026-07-23",
+    "price": 83.665,
+    "price_timestamp": "2026-09-08T15:28:00Z"
+  },
+  {
+    "ticker": "LULU",
+    "chain": "Consumer replacement footwear and apparel",
+    "role": "Premium athletic apparel and direct retail",
+    "mechanism": "Brand recovery could restore revenue and profitability with lower share count",
+    "decision": "Reject extreme-bargain label: Q2 comps -9%; adjusted for tariff refund EBIT margin13.2%; Q3 sales guide -10\u201311%; recovery not evidenced",
+    "source_id": "CONS05",
+    "source_url": "https://corporate.lululemon.com/newsroom/press-releases/2026/09-03-2026-210528733",
+    "source_date": "2026-09-03",
+    "price": 101.34,
+    "price_timestamp": "2026-09-08T15:28:00Z"
+  },
+  {
+    "ticker": "CROX",
+    "chain": "Consumer replacement footwear and apparel",
+    "role": "Crocs molded footwear and HEYDUDE casual shoes",
+    "mechanism": "Cash conversion, Crocs brand growth and debt reduction",
+    "decision": "Strong unresolved alternative: FY26 adjusted EPS guide13.70\u201314 at115.61 looks cheap, but $1.31bn debt, HEYDUDE decline and tax normalization require separate completed DCF; not asserted overpriced",
+    "source_id": "CONS06",
+    "source_url": "https://investors.crocs.com/news-and-events/press-releases/press-release-details/2026/Crocs-Inc--Reports-Record-Second-Quarter-2026-Results-Raises-Full-Year-2026-Outlook/default.aspx",
+    "source_date": "2026-07-30",
+    "price": 115.605,
+    "price_timestamp": "2026-09-08T15:27:00Z"
+  },
+  {
+    "ticker": "PVH",
+    "chain": "Consumer replacement footwear and apparel",
+    "role": "Calvin Klein and Tommy Hilfiger global apparel distribution",
+    "mechanism": "Cost recovery and wholesale/DTC monetization",
+    "decision": "Do not advance over healthier cash-rich DECK in this pass; price71.69 alone insufficient to establish cheapness; no intrinsic conclusion without claims bridge",
+    "source_id": "CONS07",
+    "source_url": "https://www.pvh.com/news/press-releases/pvh-corp-reports-2026-second-quarter-results-and-reaffirms-full-year-outlook",
+    "source_date": "2026-09-02",
+    "price": 71.69,
+    "price_timestamp": "2026-09-08T15:28:00Z"
+  }
+]

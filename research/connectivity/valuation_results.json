@@ -3,30 +3,32 @@
     "ticker": "CMCSA",
     "company": "Comcast Corporation \u2014 combined current economic claims",
     "currency": "USD",
-    "price": 26.115,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "current_equity_m": 92672.644103895,
-    "diluted_equity_m": 92829.334103895,
+    "price": 26.22,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "current_equity_m": 93045.25094406,
+    "diluted_equity_m": 93202.57094406,
     "scenarios": {
       "downside": {
         "probability": 0.3,
         "enterprise_value_m": 71742.15205639474,
         "equity_value_m": 0,
         "residual_after_senior_claims_m": -16783.84794360526,
+        "nonoperating_assets_value_m": 4576,
         "fair_value_per_share": 0,
         "terminal_pv_m": 19607.26191808456,
         "terminal_share_of_ev": 0.2733018365921303,
         "terminal_next_fcff_m": 7288.096070164166,
-        "annualized_return": -0.4548413035636437,
+        "annualized_return": -0.45549134712018413,
         "future_equity_per_share": 0.0,
         "future_operating_ev_m": 74481.86723049675,
         "retained_excess_cash_m": 6244.03943905182,
+        "future_nonoperating_assets_m": 4576,
         "horizon_debt_m": 90381.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -26.115
+            "per_share": -26.22
           },
           {
             "date": "2026-12-31",
@@ -59,20 +61,22 @@
         "enterprise_value_m": 206341.32257368788,
         "equity_value_m": 117815.32257368788,
         "residual_after_senior_claims_m": 117815.32257368788,
+        "nonoperating_assets_value_m": 4576,
         "fair_value_per_share": 33.1441260320617,
         "terminal_pv_m": 81755.70152450317,
         "terminal_share_of_ev": 0.39621584520622066,
         "terminal_next_fcff_m": 18333.759493523492,
-        "annualized_return": 0.17325655974399579,
+        "annualized_return": 0.17223727956910861,
         "future_equity_per_share": 49.570435040373845,
         "future_operating_ev_m": 231122.60101193702,
         "retained_excess_cash_m": 38769.28032209658,
+        "future_nonoperating_assets_m": 4576,
         "horizon_debt_m": 90381.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -26.115
+            "per_share": -26.22
           },
           {
             "date": "2026-12-31",
@@ -105,20 +109,22 @@
         "enterprise_value_m": 349139.7805617782,
         "equity_value_m": 260613.78056177823,
         "residual_after_senior_claims_m": 260613.78056177823,
+        "nonoperating_assets_value_m": 4576,
         "fair_value_per_share": 73.31657546690589,
         "terminal_pv_m": 165665.18859783944,
         "terminal_share_of_ev": 0.4744953105351625,
         "terminal_next_fcff_m": 27416.015394512877,
-        "annualized_return": 0.3506259651093139,
+        "annualized_return": 0.3494728558668333,
         "future_equity_per_share": 104.88884084270593,
         "future_operating_ev_m": 402581.35469571257,
         "retained_excess_cash_m": 63947.35506334613,
+        "future_nonoperating_assets_m": 4576,
         "horizon_debt_m": 90381.0,
         "unfunded_cash_shortfall_m": 0.0,
         "cashflows": [
           {
             "date": "2026-09-08",
-            "per_share": -26.115
+            "per_share": -26.22
           },
           {
             "date": "2026-12-31",
@@ -147,17 +153,17 @@
         ]
       }
     },
-    "current_ev_m": 181198.644103895,
-    "conventional_ev_m": 178698.644103895,
+    "current_ev_m": 181571.25094405998,
+    "conventional_ev_m": 179071.25094405998,
     "probability_weighted_fair_value": 31.23537810941203,
-    "upside": 0.19607038519670805,
-    "margin_of_safety": 0.16392880186934977,
-    "expected_scenario_annualized_return": 0.020301081824767572,
-    "expected_cashflow_annualized_return": 0.15380887759416828,
+    "upside": 0.1912806296495817,
+    "margin_of_safety": 0.1605672289877217,
+    "expected_scenario_annualized_return": 0.01936580682186574,
+    "expected_cashflow_annualized_return": 0.15280748619810358,
     "reverse_margin": {
-      "parallel_margin_change_percentage_points": -1.981887107714321,
-      "price_justifying_2030_margin": 0.16691945859881674,
-      "fair_value_at_solution": 26.11499999999999
+      "parallel_margin_change_percentage_points": -1.9522819839249819,
+      "price_justifying_2030_margin": 0.16721550983671013,
+      "fair_value_at_solution": 26.220000000000027
     },
     "sensitivity": [
       {

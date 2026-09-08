@@ -1,0 +1,170 @@
+[
+  {
+    "id": "DG1",
+    "url": "https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf",
+    "publication_date": "2026-04-29",
+    "section": "20-F pp.13-18,98-110,121, F8-F12,F24-F28,F38-F39; Note15 F-34/F-36 outbound withholding and unprovided tax on undistributed earnings; Note15 F-34/F-36 outbound withholding and unprovided tax on undistributed earnings; Note15 F-34/F-36 outbound withholding and unprovided tax on undistributed earnings; Note15 F-34/F-36 outbound withholding and unprovided tax on undistributed earnings; Note15 F-34/F-36 outbound withholding and unprovided tax on undistributed earnings",
+    "supports": "PDD history, two revenue types, cash geography, merchant cash, investments, shares, no planned dividend, VIE"
+  },
+  {
+    "id": "DG2",
+    "url": "https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-second-quarter-2026-unaudited-financial",
+    "publication_date": "2026-08-24",
+    "section": "Q2/H1 tables, balance sheets, notes, cash flows",
+    "supports": "PDD latest H1 revenue218587 EBIT47330 SBC2831; June balances; Q2 diluted5894m ordinary/4 ADS"
+  },
+  {
+    "id": "DG3",
+    "url": "https://ir.vip.com/static-files/1a92ccd0-731c-493b-8210-730884766bf6",
+    "publication_date": "2026-04-16",
+    "section": "20-F pp.60-72,111-125,143,F8-F12,F39-F46,F61-F65",
+    "supports": "VIPS history, orders, customer base, segment EBIT after SBC, investment and capital claims; remittances and distributions"
+  },
+  {
+    "id": "DG4",
+    "url": "https://ir.vip.com/news-releases/news-release-details/vipshop-reports-unaudited-second-quarter-2026-financial-results",
+    "publication_date": "2026-08-25",
+    "section": "Q2 financial statements; cash flow; share repurchase; commercial REIT; footnotes",
+    "supports": "VIPS June balance, H1 EBIT4017.426, orders/activecustomers; tax3190 oneoff, REIT gain5790; shares/ratio; actual H1 returns"
+  },
+  {
+    "id": "DG5",
+    "url": "https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html",
+    "publication_date": "2026-08-18",
+    "section": "January-July online retail and retail formats; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19; page displays Aug18, URL/file datedAug19",
+    "supports": "Household spending weak; online goods4.6%, goods/services4.8%; specialty and brand stores decline"
+  },
+  {
+    "id": "DG6",
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+    "publication_date": "2026-05-28",
+    "section": "Commission DSA decision",
+    "supports": "EUR200m fine; compliance cost and adverse demand/cost scenario"
+  },
+  {
+    "id": "DG7",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/02/11/council-gives-final-green-light-to-new-customs-duty-rules-for-small-parcels/pdf/",
+    "publication_date": "2026-02-11",
+    "section": "pages1-2 new duty",
+    "supports": "EUR3 per tariff category from July2026, import-cost pressure"
+  },
+  {
+    "id": "DG8",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+    "publication_date": "2026-08-20",
+    "section": "financial highlights; new reporting segments; CMR",
+    "supports": "Alibaba competitive subsidy response; CMR-7%, likeforlike+1%; cash burn44.67bnRMB quarter"
+  },
+  {
+    "id": "DG9",
+    "url": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results",
+    "publication_date": "2026-08-13",
+    "section": "Q2 financial and segment results",
+    "supports": "JD Retail EBIT13.5bn vs consolidated4.5bn; retail3%revenue decline and newbusiness investment"
+  },
+  {
+    "id": "DG10",
+    "url": "https://ir.baidu.com/static-files/e57ce78e-e47a-4c0c-8797-3cb11c8c9b0a",
+    "publication_date": "2026-08-18",
+    "section": "Q2 release pp1-13",
+    "supports": "Baidu ad/search/cloud role; Q2 revenue31.325bn EBIT3.024bn; capex11.39bn CFO3.436bnRMB"
+  },
+  {
+    "id": "DG11",
+    "url": "https://ir.qifu.tech/news-releases/news-release-details/qfin-holdings-announces-second-quarter-and-interim-2026",
+    "publication_date": "2026-08-25",
+    "section": "operating highlights and management comments",
+    "supports": "QFIN origination decline25%, lateJune liquidityshock, revenue/profit decline"
+  },
+  {
+    "id": "DG12",
+    "url": "https://ir.finvgroup.com/news-releases/news-release-details/finvolution-group-reports-second-quarter-2026-unaudited",
+    "publication_date": "2026-08-27",
+    "section": "operational highlights; outlook; financial statements; June30 balance sheet, H1 costs/cash flow and EPS share data; bounded runoff in finv_bounded_check.json; June30 balance sheet, H1 costs/cash flow and EPS share data; bounded runoff in finv_bounded_check.json; June30 balance sheet, H1 costs/cash flow and EPS share data; bounded runoff in finv_bounded_check.json; June30 balance sheet, H1 costs/cash flow and EPS share data; bounded runoff in finv_bounded_check.json; June30 balance sheet, H1 costs/cash flow and EPS share data; bounded runoff in finv_bounded_check.json",
+    "supports": "FINV China loanorigination-19%, funding tightening and Q3 contraction; guarantee liabilities"
+  },
+  {
+    "id": "DG13",
+    "url": "https://www.globenewswire.com/news-release/2026/08/06/3340028/0/en/Millicom-Tigo-Q2-2026-Earnings-Release.html",
+    "publication_date": "2026-08-06",
+    "section": "company authored Q2 release",
+    "supports": "TIGO acquisitions vs organicgrowth; EFCFguide1.1bn; netleverage2.73"
+  },
+  {
+    "id": "DG14",
+    "url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000111/ex991lgq22026pressrelease.htm",
+    "publication_date": "2026-07-24",
+    "section": "Q2 release highlights; leverage/liquidity",
+    "supports": "LBTYA Telenet/VMO2/VodafoneZiggo role, 2027spin plan, debt8.4bn and holdcocash1.61bn"
+  },
+  {
+    "id": "DG15",
+    "url": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000129/ex991toform_llaq22026earni.htm",
+    "publication_date": "2026-08-05",
+    "section": "Q2 financial highlights; claims and operating subsidiaries",
+    "supports": "LILAK broadband/mobile/subseanetwork, H1adjFCF-6m; debt8.53bn and preferred500m"
+  },
+  {
+    "id": "DG16",
+    "url": "https://www.bat.com/media/press-releases/_2026/july/half-year-report-for-the-six-months-to-30-june-2026",
+    "publication_date": "2026-07-30",
+    "section": "H1 report; 2026 outlook; Canada settlement",
+    "supports": "BTI combustion pricing and smokelessmix, financialgrowth, settlementclaim"
+  },
+  {
+    "id": "DG17",
+    "url": "https://www.imperialbrandsplc.com/HY26",
+    "publication_date": "2026-05-12",
+    "section": "H1 presentation/report pp1-47",
+    "supports": "Imperial net revenue3.729bn adjustedOP1.644bn; netdebt10.518bn; FCFguidance and settlement"
+  },
+  {
+    "id": "DG18",
+    "url": "https://www.alibabagroup.com/en-US/ir-news-filings",
+    "publication_date": "2026-08-26",
+    "section": "completion newshareplacing announcement",
+    "supports": "HKD80bn placing after June balance; oldsharecount/cash not current"
+  },
+  {
+    "id": "DG19",
+    "url": "https://massive.com/docs/rest/stocks/snapshots/full-market-snapshot",
+    "publication_date": "2026-09-08",
+    "section": "Massive frozen prices in root outputs/market_quotes.json; captured2026-09-08T15:54:39Z, PDD/VIPSminute15:38Z; discovery12quotes owninitial_quotes.json",
+    "supports": "12 current USDprices; minute2026-09-08T15:18Z exceptLILAK15:17Z"
+  },
+  {
+    "id": "DG20",
+    "url": "https://massive.com/docs/rest/forex/aggregates/previous-day-bar",
+    "publication_date": "2026-09-08",
+    "section": "MassiveAPI /v2/aggs/ticker/C:USDCNY/prev; rawfx_quote.json",
+    "supports": "CNYperUSD6.7108; timestamp2026-09-06T23:59:59.999Z, single observation; stale proxy explicitly sensitivitytested"
+  },
+  {
+    "id": "DG21",
+    "url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000109/lbtya-20260630.htm",
+    "publication_date": "2026-07-24",
+    "section": "cover; Notes5,12,15; MD&A corporate liquidity",
+    "supports": "LBTYA341.087566mcommonJuly17; holdingcash1610.1m; shareholderreceivablesEUR907.9m;SBC and overhead"
+  },
+  {
+    "id": "DG22",
+    "url": "https://www.sec.gov/Archives/edgar/data/1570585/000157058526000119/ex991-libertyglobalannounc.htm",
+    "publication_date": "2026-08-03",
+    "section": "completed July31 buyout and Wyre financing",
+    "supports": "LBTYA cashpurchaseEUR1bn and90%economicZiggo ownership; debt-fundedWyredistribution, NOT operating cash"
+  },
+  {
+    "id": "DG23",
+    "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1178/IP_26_1178_EN.pdf",
+    "publication_date": "2026-05-28",
+    "section": "DSA action plan August28deadline",
+    "supports": "PDD monitoring; compliance status afterdeadline notverified"
+  },
+  {
+    "id": "DG24",
+    "url": "https://digital-strategy.ec.europa.eu/en/policies/dsa-brings-transparency",
+    "publication_date": "2026-09-07",
+    "section": "Temu August2026 transparencyreportlink",
+    "supports": "CurrentreportexistsbutTemutargetdidnotrender; currentEUusersnotverified and notusedasGMV/orderproxy"
+  }
+]

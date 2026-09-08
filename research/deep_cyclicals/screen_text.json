@@ -1,0 +1,57 @@
+{
+  "STLA": {
+    "role": "Five regional vehicle businesses; financial operations separately reported.",
+    "financial_mechanism": "Vehicle replacement, a better product range and reduced factory underutilization could restore ordinary cash margins, without a return to2023 record profitability.",
+    "reason": "Corrected DCF base $7.25 / weighted $7.72; serious turnaround risk. Fails extreme-gap hurdle after cash research spending and replacement investment are aligned. Combined stress is zero; hybrids, pension claims and operating cash reserve deducted."
+  },
+  "DINO": {
+    "role": "Refineries, renewable diesel, marketing, lubricants and midstream assets.",
+    "financial_mechanism": "Regional supply closures and distribution advantages can improve refining and lubricant margins.",
+    "reason": "Q2 refining margin of $25.95/barrel and lubricant FIFO gains were unusually favorable. Current price requires normalized cash flow analysis; one-quarter annualization is insufficient. Not advanced, rather than proven overvalued."
+  },
+  "HUN": {
+    "role": "Polyurethanes, performance products and advanced materials manufacturing.",
+    "financial_mechanism": "Construction and insulation recovery can improve plant utilization and cash margins.",
+    "reason": "The signed all-stock Olin merger changes the security being purchased. A standalone model would misstate future economics; the combined merger valuation remains unresolved. Q2 free cash outflow was $90m."
+  },
+  "CE": {
+    "role": "Acetyl chemicals and qualified engineering polymers.",
+    "financial_mechanism": "Low-cost Western plants and better medical/electronics product mix can improve cash generation.",
+    "reason": "Management expects temporary supply opportunities to normalize, while raw-material costs catch up. $12.007bn debt puts creditors ahead of common shareholders. A full cycle and liability model is unresolved."
+  },
+  "ASIX": {
+    "role": "Integrated cumene-to-phenol/acetone, caprolactam and nylon production, with ammonium sulfate coproduct.",
+    "financial_mechanism": "Lower project spending and more granular nutrient output could increase cash conversion.",
+    "reason": "Detailed DCF rejects the stock: $12.04 base and $12.94 weighted value versus $17.37. Even a 6% normalized EBIT margin fails to support the price after capital spending. Nylon oversupply and October2027 refinancing remain material."
+  },
+  "SBSW": {
+    "role": "South African platinum-group-metals and gold mining, US PGM mining and recycling.",
+    "financial_mechanism": "Mine closures and cost discipline can strengthen commodity prices and operating cash margins.",
+    "reason": "H1 earnings rebounded with metal prices and a ZAR9.361bn working-capital benefit. Published net debt excludes Burnstone. ADR, convertible dilution and full mining liability bridges remain unresolved."
+  },
+  "VALE": {
+    "role": "Iron ore, copper and nickel mines supported by logistics infrastructure.",
+    "financial_mechanism": "Low-cost ore output and copper projects could support cash generation despite lower ore premiums.",
+    "reason": "Its own Serra Sul expansion adds20Mt of annual ore capacity. Q2 copper prices were already $14,062/t, while expanded net debt was $16.677bn. Supply normalization and liability modeling are still required."
+  },
+  "EC": {
+    "role": "Oil and gas production, refining, transport and ISA electricity transmission.",
+    "financial_mechanism": "Refinery utilization and regulated infrastructure can diversify cash generation across the oil cycle.",
+    "reason": "Record refining margins of $29.8/barrel are cyclical. Natural upstream decline around18% requires replacement investment; COP8tn FEPC receivables lock up cash. Acquisition and political claims remain unresolved."
+  },
+  "PBR": {
+    "role": "Brazilian pre-salt oil production, refining and transport.",
+    "financial_mechanism": "Low lifting costs and new offshore platforms can increase output and cash flow.",
+    "reason": "Q2 Brent averaged $104.52/barrel and reported free cash flow excludes lease principal. Net debt of $60.388bn includes leased platforms. No complete normalized reserve and decommissioning valuation was established."
+  },
+  "MEOH": {
+    "role": "Global methanol production and distribution, including partially owned plants.",
+    "financial_mechanism": "Gas-constrained shutdowns can improve margins for low-cost North American supply.",
+    "reason": "Q2 realized price of $529/t versus $351/t in Q1 already captures disruption. The September1 announcement sells New Zealand gas entitlements and idles production from2027, transferring some value away from manufacturing. Peak spreads are not sustainable valuation inputs."
+  },
+  "MOS": {
+    "role": "Phosphate and potash mining, fertilizer production and Brazilian distribution.",
+    "financial_mechanism": "Lower sulfur costs could restore phosphate margins and cash conversion.",
+    "reason": "The current bottleneck hurts cash: Q3 sulfur contracts were $705/long ton and Q2 operating loss was $36m. $1.2bn capital spending and Brazilian curtailments constrain near-term cash. The Maaden investment needs separate valuation."
+  }
+}

@@ -1,11 +1,11 @@
 {
   "ticker": "AER",
-  "price": 145.165,
-  "price_timestamp": "2026-09-08T15:02:00+00:00",
+  "price": 145.4819,
+  "price_timestamp": "2026-09-08T15:36:00Z",
   "currency": "USD",
-  "current_equity_m": 22417.840385725,
-  "diluted_equity_m": 22817.624795724998,
-  "current_ev_m": 63505.001385725,
+  "current_equity_m": 22466.7792733235,
+  "diluted_equity_m": 22867.4364259235,
+  "current_ev_m": 63553.940273323504,
   "ev_note": "Descriptive equity plus debt less unrestrictedcash; maintenance/customer deposits included in equityDCF capital, no industrialEVcomparison",
   "scenarios": {
     "downside": {
@@ -14,13 +14,13 @@
       "fair_value_per_share": 42.70539940477805,
       "terminal_pv_m": 2686.0658059123025,
       "terminal_share_of_equity_value": 0.4001523246275724,
-      "annualized_return": -0.14609108507457008,
+      "annualized_return": -0.14647576755893948,
       "future_equity_per_share": 60.801036966878,
       "retained_excess_cash_m": 2273.2244364214316,
       "cashflows": [
         {
           "date": "2026-09-08",
-          "per_share": -145.165
+          "per_share": -145.4819
         },
         {
           "date": "2026-12-31",
@@ -54,13 +54,13 @@
       "fair_value_per_share": 136.03277980039462,
       "terminal_pv_m": 10025.789499052771,
       "terminal_share_of_equity_value": 0.4688851657265185,
-      "annualized_return": 0.07704407603842445,
+      "annualized_return": 0.07656496601097718,
       "future_equity_per_share": 201.79545357150218,
       "retained_excess_cash_m": 8803.030366229075,
       "cashflows": [
         {
           "date": "2026-09-08",
-          "per_share": -145.165
+          "per_share": -145.4819
         },
         {
           "date": "2026-12-31",
@@ -94,13 +94,13 @@
       "fair_value_per_share": 208.65909186999724,
       "terminal_pv_m": 17474.190101675802,
       "terminal_share_of_equity_value": 0.5327840650789072,
-      "annualized_return": 0.16820947263747132,
+      "annualized_return": 0.16769129990998033,
       "future_equity_per_share": 305.3094916258418,
       "retained_excess_cash_m": 11514.014472306768,
       "cashflows": [
         {
           "date": "2026-09-08",
-          "per_share": -145.165
+          "per_share": -145.4819
         },
         {
           "date": "2026-12-31",
@@ -130,13 +130,13 @@
     }
   },
   "probability_weighted_fair_value": 122.55982809563018,
-  "upside": -0.15572053803857555,
-  "margin_of_safety": -0.1844419354662572,
-  "expected_scenario_annualized_return": 0.02833660702433547,
-  "expected_cashflow_annualized_return": 0.05346615181995229,
+  "upside": -0.15755961328776857,
+  "margin_of_safety": -0.18702761141672242,
+  "expected_scenario_annualized_return": 0.027878012719802815,
+  "expected_cashflow_annualized_return": 0.05299711164816412,
   "reverse_lease_yield": {
-    "parallel_basis_point_change": 20.55779049790203,
-    "normalized_2035_lease_yield": 0.1080557790497902,
+    "parallel_basis_point_change": 21.271172749576916,
+    "normalized_2035_lease_yield": 0.10812711727495769,
     "note": "All rentalyields shift; capital,creditcosts,salesgains,fundingandterminalgrowthheldfixed. Onejustifyingpath,notuniqueimpliedconsensus."
   },
   "sensitivity": [

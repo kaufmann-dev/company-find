@@ -1,0 +1,206 @@
+[
+  {
+    "ticker": "EG",
+    "company": "Everest Group",
+    "country": "Bermuda",
+    "value_chain": "Reinsurance and specialty insurance",
+    "role": "Insured exposure and catastrophe replacement costs generate premiums; repricing and investment income support common earnings after reserve and capital requirements.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000029/everest2q26earningsrelease.htm",
+    "source_date": "2026-07-29",
+    "source_ids": [
+      "FIN01"
+    ],
+    "potential_financial_mechanism": "Insured exposure and catastrophe replacement costs generate premiums; repricing and investment income support common earnings after reserve and capital requirements.",
+    "decision": "Book value398.83/share and operatingROE14.9%; quote372.34 is0.93xbook. Worth ordinary value research, but not an evident extreme discount once declining premiums, catastrophe normalization and legacy reserves are recognized.",
+    "price": 372.34,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "RNR",
+    "company": "RenaissanceRe",
+    "country": "Bermuda",
+    "value_chain": "Reinsurance and specialty insurance",
+    "role": "Property/casualty risk transfer creates underwriting profit, investment float income and third-party capital fees; losses and reserves are the counterclaim.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/913144/000091314426000081/rnrearningsrelease2026q2.htm",
+    "source_date": "2026-07-22",
+    "source_ids": [
+      "FIN02"
+    ],
+    "potential_financial_mechanism": "Property/casualty risk transfer creates underwriting profit, investment float income and third-party capital fees; losses and reserves are the counterclaim.",
+    "decision": "Quote324.025 is1.22x264.77book. Q2operatingROE20.1% benefited from low catastrophes and reserve releases; do not capitalize72.8% combined ratio indefinitely. No extreme-discount model advanced.",
+    "price": 324.025,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "JXN",
+    "company": "Jackson Financial",
+    "country": "United States",
+    "value_chain": "Retirement income and life insurance",
+    "role": "Retirees buy income guarantees; account balances create fees and spreads, but hedges and statutory capital determine remittable cash.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1822993/000182299326000123/exhibit991-2q26.htm",
+    "source_date": "2026-08-03",
+    "source_ids": [
+      "FIN03"
+    ],
+    "potential_financial_mechanism": "Retirees buy income guarantees; account balances create fees and spreads, but hedges and statutory capital determine remittable cash.",
+    "decision": "At138.535, quote is0.89x156.12adjustedbook. Q2FCF287m is materially below513madjustedearnings; 4xquarterlyFCF divided by roughly9.6bnmarketcap is near12%, not a30%EPSyield. Evidence does not establish50%-plus conservative value gap; do not confuse accounting and remittable earnings.",
+    "price": 138.535,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "GNW",
+    "company": "Genworth Financial",
+    "country": "United States",
+    "value_chain": "Mortgage insurance and insurance holding companies",
+    "role": "Enact distributions fund parent repurchases; long-term-care runoff and CareScout investment can absorb parent economics.",
+    "source_url": "https://investor.genworth.com/news-events/press-releases/detail/1060/genworth-financial-announces-second-quarter-2026-results",
+    "source_date": "2026-08-05",
+    "source_ids": [
+      "FIN04"
+    ],
+    "potential_financial_mechanism": "Enact distributions fund parent repurchases; long-term-care runoff and CareScout investment can absorb parent economics.",
+    "decision": "Enact returned103m inQ2 but parentcashonly215m and386.3mquarterlydilutedshares. At10.365, Enactremittance runrate alone is around10%ofmarketcap beforeparentcosts. Stake discount deserves study but publicACTprice is not independently proven intrinsic value, and legal/capital isolation is not fullyverified. Unconfirmed; no deep-value recommendation.",
+    "price": 10.365,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "ACT",
+    "company": "Enact Holdings",
+    "country": "United States",
+    "value_chain": "Mortgage insurance and insurance holding companies",
+    "role": "Mortgage origination and persistent in-force loans create premiums; low defaults and investment income support dividends after PMIERscapital.",
+    "source_url": "https://ir.enactmi.com/news-releases/news-release-details/enact-reports-second-quarter-2026-results-announces-024",
+    "source_date": "2026-08-05",
+    "source_ids": [
+      "FIN05"
+    ],
+    "potential_financial_mechanism": "Mortgage origination and persistent in-force loans create premiums; low defaults and investment income support dividends after PMIERscapital.",
+    "decision": "49.05 is1.26x39.06book against13.2%adjustedROE; primaryinsuranceinforce+2%. Sound cash-return comparison, but no evident extreme discount, and mortgage-credit downturn couldconsumeexcesscapital.",
+    "price": 49.05,
+    "price_timestamp": "2026-09-08T15:16:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "CRBG",
+    "company": "Corebridge Financial",
+    "country": "United States",
+    "value_chain": "Retirement income and life insurance",
+    "role": "Retirement deposits produce spread and fee income, while policy benefits and required capital constrain distributions.",
+    "source_url": "https://investors.corebridgefinancial.com/news/news-details/2026/Corebridge-Financial-Announces-Second-Quarter-2026-Results/default.aspx",
+    "source_date": "2026-08-04",
+    "source_ids": [
+      "FIN06"
+    ],
+    "potential_financial_mechanism": "Retirement deposits produce spread and fee income, while policy benefits and required capital constrain distributions.",
+    "decision": "33.98 comparedwithquarterlyoperatingEPS1.12 does not prove a huge discount. ProposedEquitablemerger changes claims: CRBGgets1.0000newshare,EQH1.55516; votesapprovedJuly30. StandaloneDCF would be incomplete; combined capital/allocation model required.",
+    "price": 33.98,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "AEG",
+    "company": "Aegon",
+    "country": "Netherlands/Bermuda",
+    "value_chain": "Retirement income and life insurance",
+    "role": "Distribution and retirement assets create recurring fees/spreads; restructuring releases capital, offset by claims and transition costs.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/769218/000119312526357714/d417327d425.htm",
+    "source_date": "2026-08-20",
+    "source_ids": [
+      "FIN07"
+    ],
+    "potential_financial_mechanism": "Distribution and retirement assets create recurring fees/spreads; restructuring releases capital, offset by claims and transition costs.",
+    "decision": "HoldingOCG416mEURandFCF392mH1 are below twice804moperatingresult. Nativeequity/ADR/FX andplannedUSrelocation/UKdisposal requiretransactionbridge; at9.195USD no claim ofextremecheapness without it. Investigated butunconfirmed.",
+    "price": 9.195,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "AIG",
+    "company": "American International Group",
+    "country": "United States",
+    "value_chain": "Reinsurance and specialty insurance",
+    "role": "Commercial risk premiums, underwriting discipline and investmentincome support capital returns; reserve development is a competing claim.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/5272/000000527226000072/q22026earningsrelease.htm",
+    "source_date": "2026-08-06",
+    "source_ids": [
+      "FIN08"
+    ],
+    "potential_financial_mechanism": "Commercial risk premiums, underwriting discipline and investmentincome support capital returns; reserve development is a competing claim.",
+    "decision": "75.27 relative to2.00quarterlyadjustedEPS is9.4xannualizedquarter. CoreoperatingROE11.1% does not support treating allretainedbookcapital as freelydistributable. Comparison leader, not obvious extreme discount.",
+    "price": 75.27,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "BHF",
+    "company": "Brighthouse Financial",
+    "country": "United States",
+    "value_chain": "Retirement income and life insurance",
+    "role": "Acquirerunderwrites annuity/lifecashflows; currentownerpayoff may be cash merger consideration instead of long-run standaloneearnings.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1685040/000168504026000026/q22026bhfearningspressrele.htm",
+    "source_date": "2026-08-05",
+    "source_ids": [
+      "FIN09"
+    ],
+    "potential_financial_mechanism": "Acquirerunderwrites annuity/lifecashflows; currentownerpayoff may be cash merger consideration instead of long-run standaloneearnings.",
+    "decision": "53.17 vs70cashdeal creates31.7%grossspread, butSeptember6outside-dateextends toDecember6 ifinsuranceapprovals outstanding. Completionprobability andstandalonebreakvalue unresolved. Eventresearchlead, not demonstratedcriminalundervaluation or risk-free return.",
+    "price": 53.17,
+    "price_timestamp": "2026-09-08T15:17:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "BLX",
+    "company": "Banco Latinoamericano de Comercio Exterior",
+    "country": "Panama",
+    "value_chain": "Trade finance",
+    "role": "Regionaltrade demands workingcapital finance; loanassets earnspreadandfees against deposit/fundingcost andcreditcapital.",
+    "source_url": "https://bladex.com/en/Bladex_Reports_2Q26_Results_Driven_by_Record_Credit_Portfolio_and_Higher_Profitability",
+    "source_date": "2026-07-27",
+    "source_ids": [
+      "FIN10"
+    ],
+    "potential_financial_mechanism": "Regionaltrade demands workingcapital finance; loanassets earnspreadandfees against deposit/fundingcost andcreditcapital.",
+    "decision": "55.38 vsquarterlyEPS1.77 is7.8xannualizedquarter; adjustedROE16.4% is attractive butregionalcreditandAT1distributions matter. Reasonablecomparison; not advancedoverlargerapparentdiscounts withoutconservativecreditmodel.",
+    "price": 55.38,
+    "price_timestamp": "2026-09-08T15:09:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "PRU",
+    "company": "Prudential Financial",
+    "country": "United States",
+    "value_chain": "Retirement income and life insurance",
+    "role": "Retirementprotection andassetmanagement generateinsurance/spread/feeearnings; capitalandhedging obligations constrainownerremittances.",
+    "source_url": "https://investor.prudential.com/financials/sec-filings/content/0001137774-26-000170/exhibit991-2q26earningspre.htm",
+    "source_date": "2026-08-04",
+    "source_ids": [
+      "FIN11"
+    ],
+    "potential_financial_mechanism": "Retirementprotection andassetmanagement generateinsurance/spread/feeearnings; capitalandhedging obligations constrainownerremittances.",
+    "decision": "120.42 is1.19x100.91adjustedbook and1.33x90.50GAAPbook. No assetdiscount alone; normalizedreturnsonrequiredcapital mustjustifyprice. Establishedcomparisonrejectedfromextremevaluationshortlist.",
+    "price": 120.42,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  },
+  {
+    "ticker": "UNM",
+    "company": "Unum Group",
+    "country": "United States",
+    "value_chain": "Employee benefits and disability insurance",
+    "role": "Employer/payrollbudgets supportrecurringbenefitpremiums; persistencyandclaimsincidence driveunderwritingcash afterregulatorycapital.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/5513/000000551326000073/unm06302026exhibit991.htm",
+    "source_date": "2026-07-28",
+    "source_ids": [
+      "FIN12"
+    ],
+    "potential_financial_mechanism": "Employer/payrollbudgets supportrecurringbenefitpremiums; persistencyandclaimsincidence driveunderwritingcash afterregulatorycapital.",
+    "decision": "94.72 quote requirescompanywidecapital model. Groupdisabilityincome\u221217.4% whilegrouplife+32.8%; mixandclosedblocklosses makeannualizingbestlines unreliable. Not advancedoverlargerfullymodeleddiscounts.",
+    "price": 94.72,
+    "price_timestamp": "2026-09-08T15:18:00+00:00",
+    "evidence_status": "investigated screen; ratios are cross-checks, no intrinsic valuation asserted"
+  }
+]

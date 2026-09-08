@@ -1,0 +1,93 @@
+{
+  "ticker": "FINV",
+  "valuation_date": "2026-09-08",
+  "price": 3.4,
+  "price_timestamp": "2026-09-08T15:18:00Z",
+  "basic_ADS_proxy_m": 235.92679320000002,
+  "share_date": "Q2 2026 weighted average, not latest legal spot shares",
+  "market_cap_USD_m": 802.1510968800001,
+  "market_cap_RMB_m": 5383.075580942304,
+  "FX_USDCNY": 6.7108,
+  "FX_timestamp": "2026-09-06T23:59:59.999Z",
+  "assets_RMB_m": {
+    "cash": 3259.378,
+    "short_investments": 3161.992,
+    "restricted_cash": 1631.542,
+    "net_loans": 6597.36,
+    "net_accounts_receivable": 2895.985,
+    "net_guarantee_receivable": 1421.677
+  },
+  "liabilities_RMB_m": {
+    "deferred_guarantee_income": 1256.324,
+    "quality_assurance_commitment": 2684.907,
+    "payroll": 244.077,
+    "tax_payable": 477.073,
+    "short_debt": 387.456,
+    "trust_investors": 739.575,
+    "deferred_tax": 736.814,
+    "accruals_other": 1619.544,
+    "leases": 40.061,
+    "convertibles": 991.199,
+    "long_debt": 155.789
+  },
+  "NCI_RMB_m": 108.845,
+  "all_liabilities_RMB_m": 9332.819,
+  "cash_only_after_all_liabilities_RMB_m": -3020.2939999999985,
+  "net_receivables_collected_before_burn_excluding_restricted_RMB_m": 7894.728,
+  "diagnostics": {
+    "full_net_collection_release_burn_1bn": {
+      "residual_RMB_m": 8526.270000000002,
+      "per_basic_ADS_USD": 5.385270476719825,
+      "loan_haircut": 0,
+      "accounts_receivable_haircut": 0,
+      "guarantee_receivable_haircut": 0,
+      "restricted_release_fraction": 1,
+      "two_year_net_operating_burn_RMB_m": 1000,
+      "additional_unreserved_guarantee_loss_RMB_m": 0
+    },
+    "moderate_haircuts_full_release_fixed_cost_runoff": {
+      "residual_RMB_m": 5342.757900000001,
+      "per_basic_ADS_USD": 3.3745349822526856,
+      "loan_haircut": 0.2,
+      "accounts_receivable_haircut": 0.2,
+      "guarantee_receivable_haircut": 0.3,
+      "restricted_release_fraction": 1,
+      "two_year_net_operating_burn_RMB_m": 1858.3400000000001,
+      "additional_unreserved_guarantee_loss_RMB_m": 0
+    },
+    "same_plus_500m_additional_guarantee_losses": {
+      "residual_RMB_m": 4842.757900000001,
+      "per_basic_ADS_USD": 3.058730387938887,
+      "loan_haircut": 0.2,
+      "accounts_receivable_haircut": 0.2,
+      "guarantee_receivable_haircut": 0.3,
+      "restricted_release_fraction": 1,
+      "two_year_net_operating_burn_RMB_m": 1858.3400000000001,
+      "additional_unreserved_guarantee_loss_RMB_m": 500
+    },
+    "adverse_haircuts_no_restricted_release": {
+      "residual_RMB_m": 1835.8860000000013,
+      "per_basic_ADS_USD": 1.1595624668727655,
+      "loan_haircut": 0.3,
+      "accounts_receivable_haircut": 0.3,
+      "guarantee_receivable_haircut": 0.5,
+      "restricted_release_fraction": 0,
+      "two_year_net_operating_burn_RMB_m": 2500,
+      "additional_unreserved_guarantee_loss_RMB_m": 0
+    }
+  },
+  "potential_non_cash_liability_addback_RMB_m": 1993.138,
+  "source": "https://ir.finvgroup.com/news-releases/news-release-details/finvolution-group-reports-second-quarter-2026-unaudited",
+  "publication_date": "2026-08-27",
+  "source_sections": "June30 balance sheet; Q2 EPS footnote; H1 cash flow and operating cost tables; outlook; key operating metrics; buyback update",
+  "notes": [
+    "No cash-only common liquidation floor: unencumbered cash and short investments are below consolidated obligations before operating burn or governance risks. This is a deliberately conservative cash-claims diagnostic, not a claim every accounting liability is cash debt.",
+    "Receivable losses are incremental haircuts to net carrying values: do not subtract existing loan416.552, AR286.557, guarantee-receivable666.160 allowances again. Existing quality-assurance commitment2684.907 is already in liabilities; only genuinely additional losses are subtracted in a separate sensitivity.",
+    "China principal-risk stock estimated32bn from65.4bn total less33.4bn capital-light. It includes on-balance loans; do not add full stock as a liability or count the same loan losses twice. Precise off-balance exposures, collateral, mature-vintage losses and insurer recourse require fuller investigation.",
+    "Fixed-cost runoff proxy1858.34 equals four times H1 R&D plus G&A. It is an analyst two-year net-burn assumption, not two-year total expense forecast; excludes origination and marketing, assumes servicing revenue covers most variable collections cost. Actual H1 CFO minus805.354 includes receivable/funding movements and cannot be annualized and also counted in receivable haircuts without a reconciliation.",
+    "Deferred guarantee income1256.324 may expire into income with service, and deferred tax736.814 may reverse without cash when associated tax assets are abandoned. Maximum addback1993.138 improves the moderate residual by1.259USD/ADS; this illustrates why the diagnostic does not prove shares expensive. A legally verified conservative residual above market remains unestablished.",
+    "Full restricted-cash release assumes corresponding obligations are satisfied; no access haircut on other cash is embedded. Cayman/VIE and local regulatory remittance restrictions, parent cash geography and run-off tax are unresolved. Actual H1 buybacks66.8mUSD demonstrate some access, not ownership of all consolidated cash by the public holding company.",
+    "Use basic ADS because convertible991.199 is deducted as a debt claim. Adding full if-converted diluted shares would double-count the convert claim. Existing employee awards remain an unresolved additional claim, so residual per ADS is optimistic on this dimension.",
+    "No future new-loan profits, asset multiples or management NAV included. Other investments, deferred tax assets, PPE/intangibles and goodwill excluded from hard-floor assets; this is not their intrinsic fair value. Scenarios are diagnostics without assigned probabilities, not a full operating valuation."
+  ]
+}

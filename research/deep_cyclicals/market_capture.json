@@ -1,0 +1,93 @@
+{
+  "quote_capture": {
+    "content": [
+      {
+        "type": "text",
+        "text": "market_status,name,ticker,type,session_change,session_change_percent,session_early_trading_change,session_early_trading_change_percent,session_regular_trading_change,session_regular_trading_change_percent,session_late_trading_change,session_late_trading_change_percent,session_close,session_high,session_low,session_open,session_volume,session_previous_close,session_price,session_last_updated,session_vwap,session_decimal_volume,last_minute_close,last_minute_high,last_minute_low,last_minute_transactions,last_minute_open,last_minute_volume,last_minute_vwap,last_minute_last_updated,last_minute_decimal_volume\nopen,Stellantis N.V.,STLA,stocks,-0.15,-2.7,-0.01,-0.18,-0.15,-2.7,0.145,2.683,5.405,5.56,5.4,5.55,8941776.0,5.56,5.41,1788881658471217097,5.4608,8941776.989962,5.405,5.41,5.4005,83,5.41,39239,5.4048,1788881658471217097,39239.0\nopen,HF Sinclair Corporation,DINO,stocks,3.722,3.531,2.09,1.983,3.722,3.531,-2.45,-2.25,108.87,109.86,107.5,107.5,424490.0,105.41,109.132,1788881655050062189,108.9489,424490.212969,108.87,109.11,108.87,78,109.085,3490,109.0642,1788881655050062189,3490.245743\nopen,Huntsman Corporation,HUN,stocks,0.035,0.364,0.04,0.416,0.035,0.364,-0.035,-0.363,9.655,9.86,9.65,9.76,337286.0,9.62,9.655,1788881657801315469,9.7192,337286.998776,9.655,9.67,9.655,66,9.66,4380,9.66,1788881657801315469,4380.0\nopen,Celanese Corporation Common Stock,CE,stocks,0.159,0.356,0.83,1.858,0.159,0.356,1.05,2.342,44.84,45.7,44.55,45.2,463288.0,44.67,44.8291,1788881655738959176,45.1042,463288.815190,44.84,44.93,44.84,52,44.8665,2420,44.8631,1788881655738959176,2420.0\nopen,AdvanSix Inc.,ASIX,stocks,-0.01,-0.0573,-0.1,-0.573,-0.01,-0.0573,0.01,0.0573,17.44,17.59,17.24,17.53,20657.0,17.45,17.44,1788881650939903195,17.3866,20657.733908,17.44,17.44,17.42,33,17.42,1303,17.4358,1788881650939903195,1303.0\nopen,\"Sibanye-Stillwater American Depositary Shares, each representing four ordinary shares\",SBSW,stocks,0.462,3.612,0.28,2.189,0.462,3.612,-0.632,-4.77,13.26,13.295,12.88,13.093,2373028.0,12.79,13.2515,1788881656765846937,13.1269,2373028.701311,13.26,13.26,13.24,131,13.26,18205,13.2497,1788881656765846937,18205.270000\nopen,VALE S.A.,VALE,stocks,0.458,2.999,0.41,2.685,0.458,2.999,-0.445,-2.83,15.735,15.915,15.625,15.71,10418758.0,15.27,15.7283,1788881659052928537,15.755,10418758.951012,15.735,15.75,15.73,168,15.74,38076,15.7401,1788881659052928537,38076.552000\nopen,Ecopetrol S.A,EC,stocks,0.445,2.58,0.2,1.159,0.445,2.58,-0.39,-2.2,17.69,17.8,17.54,17.57,246300.0,17.25,17.695,1788881656108127187,17.6415,246300.616296,17.69,17.69,17.675,21,17.675,1205,17.6818,1788881656108127187,1205.169628\nopen,PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE),PBR,stocks,0.765,3.802,0.54,2.684,0.765,3.802,-0.603,-2.88,20.905,21.03,20.575,20.66,10200276.0,20.12,20.885,1788881658208615767,20.8814,10200276.870054,20.905,20.92,20.9,56,20.915,11516,20.9102,1788881658208615767,11516.480840\nopen,Methanex Corp,MEOH,stocks,0.065,0.111,0.29,0.494,0.065,0.111,-0.07,-0.119,58.79,60.08,58.12,59.52,153335.0,58.72,58.785,1788881648023134251,58.8387,153335.382778,58.79,58.8,58.77,13,58.8,605,58.7825,1788881648023134251,605.0\nopen,The Mosaic Company,MOS,stocks,0.713,2.758,0.42,1.625,0.713,2.758,-0.755,-2.84,26.555,26.885,26.0235,26.145,3190307.0,25.85,26.5633,1788881657754058741,26.5256,3190307.409348,26.555,26.59,26.555,144,26.5842,11825,26.5676,1788881657754058741,11825.037200\n"
+      }
+    ],
+    "structuredContent": {
+      "result": "market_status,name,ticker,type,session_change,session_change_percent,session_early_trading_change,session_early_trading_change_percent,session_regular_trading_change,session_regular_trading_change_percent,session_late_trading_change,session_late_trading_change_percent,session_close,session_high,session_low,session_open,session_volume,session_previous_close,session_price,session_last_updated,session_vwap,session_decimal_volume,last_minute_close,last_minute_high,last_minute_low,last_minute_transactions,last_minute_open,last_minute_volume,last_minute_vwap,last_minute_last_updated,last_minute_decimal_volume\nopen,Stellantis N.V.,STLA,stocks,-0.15,-2.7,-0.01,-0.18,-0.15,-2.7,0.145,2.683,5.405,5.56,5.4,5.55,8941776.0,5.56,5.41,1788881658471217097,5.4608,8941776.989962,5.405,5.41,5.4005,83,5.41,39239,5.4048,1788881658471217097,39239.0\nopen,HF Sinclair Corporation,DINO,stocks,3.722,3.531,2.09,1.983,3.722,3.531,-2.45,-2.25,108.87,109.86,107.5,107.5,424490.0,105.41,109.132,1788881655050062189,108.9489,424490.212969,108.87,109.11,108.87,78,109.085,3490,109.0642,1788881655050062189,3490.245743\nopen,Huntsman Corporation,HUN,stocks,0.035,0.364,0.04,0.416,0.035,0.364,-0.035,-0.363,9.655,9.86,9.65,9.76,337286.0,9.62,9.655,1788881657801315469,9.7192,337286.998776,9.655,9.67,9.655,66,9.66,4380,9.66,1788881657801315469,4380.0\nopen,Celanese Corporation Common Stock,CE,stocks,0.159,0.356,0.83,1.858,0.159,0.356,1.05,2.342,44.84,45.7,44.55,45.2,463288.0,44.67,44.8291,1788881655738959176,45.1042,463288.815190,44.84,44.93,44.84,52,44.8665,2420,44.8631,1788881655738959176,2420.0\nopen,AdvanSix Inc.,ASIX,stocks,-0.01,-0.0573,-0.1,-0.573,-0.01,-0.0573,0.01,0.0573,17.44,17.59,17.24,17.53,20657.0,17.45,17.44,1788881650939903195,17.3866,20657.733908,17.44,17.44,17.42,33,17.42,1303,17.4358,1788881650939903195,1303.0\nopen,\"Sibanye-Stillwater American Depositary Shares, each representing four ordinary shares\",SBSW,stocks,0.462,3.612,0.28,2.189,0.462,3.612,-0.632,-4.77,13.26,13.295,12.88,13.093,2373028.0,12.79,13.2515,1788881656765846937,13.1269,2373028.701311,13.26,13.26,13.24,131,13.26,18205,13.2497,1788881656765846937,18205.270000\nopen,VALE S.A.,VALE,stocks,0.458,2.999,0.41,2.685,0.458,2.999,-0.445,-2.83,15.735,15.915,15.625,15.71,10418758.0,15.27,15.7283,1788881659052928537,15.755,10418758.951012,15.735,15.75,15.73,168,15.74,38076,15.7401,1788881659052928537,38076.552000\nopen,Ecopetrol S.A,EC,stocks,0.445,2.58,0.2,1.159,0.445,2.58,-0.39,-2.2,17.69,17.8,17.54,17.57,246300.0,17.25,17.695,1788881656108127187,17.6415,246300.616296,17.69,17.69,17.675,21,17.675,1205,17.6818,1788881656108127187,1205.169628\nopen,PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE),PBR,stocks,0.765,3.802,0.54,2.684,0.765,3.802,-0.603,-2.88,20.905,21.03,20.575,20.66,10200276.0,20.12,20.885,1788881658208615767,20.8814,10200276.870054,20.905,20.92,20.9,56,20.915,11516,20.9102,1788881658208615767,11516.480840\nopen,Methanex Corp,MEOH,stocks,0.065,0.111,0.29,0.494,0.065,0.111,-0.07,-0.119,58.79,60.08,58.12,59.52,153335.0,58.72,58.785,1788881648023134251,58.8387,153335.382778,58.79,58.8,58.77,13,58.8,605,58.7825,1788881648023134251,605.0\nopen,The Mosaic Company,MOS,stocks,0.713,2.758,0.42,1.625,0.713,2.758,-0.755,-2.84,26.555,26.885,26.0235,26.145,3190307.0,25.85,26.5633,1788881657754058741,26.5256,3190307.409348,26.555,26.59,26.555,144,26.5842,11825,26.5676,1788881657754058741,11825.037200\n"
+    },
+    "isError": false
+  },
+  "references": {
+    "STLA": {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,market_cap,description,ticker_root,homepage_url,total_employees,list_date,branding_logo_url,branding_icon_url,weighted_shares_outstanding,round_lot\nSTLA,Stellantis N.V.,stocks,us,XNYS,CS,true,usd,0001605484,16129233361.119999,\"Stellantis was created out of the merger of US-based Fiat Chrysler Automobiles and French-based Peugeot in January 2021, resulting in the fourth-largest automotive original equipment manufacturer by vehicle sales. In 2025, it sold 5.6 million vehicles, 45%, 26%, and 18% in Europe, North America, and South America, respectively. Its brands include Fiat, Jeep, Chrysler, Ram, Peugeot, Citroën, Opel, Alfa Romeo, and Maserati.\",STLA,https://www.stellantis.com,258668,2010-06-09,https://api.massive.com/v1/reference/company-branding/c3RlbGxhbnRpcy5jb20/images/2026-09-01_logo.svg,https://api.massive.com/v1/reference/company-branding/c3RlbGxhbnRpcy5jb20/images/2026-09-01_icon.png,2900941252,100\n"
+          }
+        ],
+        "structuredContent": {
+          "result": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,market_cap,description,ticker_root,homepage_url,total_employees,list_date,branding_logo_url,branding_icon_url,weighted_shares_outstanding,round_lot\nSTLA,Stellantis N.V.,stocks,us,XNYS,CS,true,usd,0001605484,16129233361.119999,\"Stellantis was created out of the merger of US-based Fiat Chrysler Automobiles and French-based Peugeot in January 2021, resulting in the fourth-largest automotive original equipment manufacturer by vehicle sales. In 2025, it sold 5.6 million vehicles, 45%, 26%, and 18% in Europe, North America, and South America, respectively. Its brands include Fiat, Jeep, Chrysler, Ram, Peugeot, Citroën, Opel, Alfa Romeo, and Maserati.\",STLA,https://www.stellantis.com,258668,2010-06-09,https://api.massive.com/v1/reference/company-branding/c3RlbGxhbnRpcy5jb20/images/2026-09-01_logo.svg,https://api.massive.com/v1/reference/company-branding/c3RlbGxhbnRpcy5jb20/images/2026-09-01_icon.png,2900941252,100\n"
+        },
+        "isError": false
+      }
+    },
+    "ASIX": {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,composite_figi,share_class_figi,market_cap,phone_number,address_address1,address_address2,address_city,address_state,address_postal_code,description,sic_code,sic_description,ticker_root,homepage_url,total_employees,list_date,branding_logo_url,branding_icon_url,share_class_shares_outstanding,weighted_shares_outstanding,round_lot\nASIX,AdvanSix Inc.,stocks,us,XNYS,CS,true,usd,0001673985,BBG00CWTTQ41,BBG00CWTTQ32,471170695.7,(973) 526-1800,300 KIMBALL DRIVE,SUITE 101,PARSIPPANY,NJ,07054,\"AdvanSix Inc is a diversified chemistry company playing a critical role in international supply chains, innovating and delivering essential products for customers across a wide variety of end markets and applications that touch people's lives, including building and construction, fertilizers, agrochemicals, plastics, solvents, packaging, paints, coatings, adhesives, and electronics. The company's key products include Nylon, Caprolactam, Plant Nutrients, and Chemical Intermediates. The majority of sales are from Plant Nutrients products. The company operates in the United States and internationally, with the majority of revenue coming from the United States.\",2821,\"PLASTIC MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS\",ASIX,https://www.advansix.com,1410,2016-09-14,https://api.massive.com/v1/reference/company-branding/YWR2YW5zaXguY29t/images/2026-09-01_logo.svg,https://api.massive.com/v1/reference/company-branding/YWR2YW5zaXguY29t/images/2026-09-01_icon.png,27001186,27001186,100\n"
+          }
+        ],
+        "structuredContent": {
+          "result": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,composite_figi,share_class_figi,market_cap,phone_number,address_address1,address_address2,address_city,address_state,address_postal_code,description,sic_code,sic_description,ticker_root,homepage_url,total_employees,list_date,branding_logo_url,branding_icon_url,share_class_shares_outstanding,weighted_shares_outstanding,round_lot\nASIX,AdvanSix Inc.,stocks,us,XNYS,CS,true,usd,0001673985,BBG00CWTTQ41,BBG00CWTTQ32,471170695.7,(973) 526-1800,300 KIMBALL DRIVE,SUITE 101,PARSIPPANY,NJ,07054,\"AdvanSix Inc is a diversified chemistry company playing a critical role in international supply chains, innovating and delivering essential products for customers across a wide variety of end markets and applications that touch people's lives, including building and construction, fertilizers, agrochemicals, plastics, solvents, packaging, paints, coatings, adhesives, and electronics. The company's key products include Nylon, Caprolactam, Plant Nutrients, and Chemical Intermediates. The majority of sales are from Plant Nutrients products. The company operates in the United States and internationally, with the majority of revenue coming from the United States.\",2821,\"PLASTIC MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS\",ASIX,https://www.advansix.com,1410,2016-09-14,https://api.massive.com/v1/reference/company-branding/YWR2YW5zaXguY29t/images/2026-09-01_logo.svg,https://api.massive.com/v1/reference/company-branding/YWR2YW5zaXguY29t/images/2026-09-01_icon.png,27001186,27001186,100\n"
+        },
+        "isError": false
+      }
+    }
+  },
+  "fx": {
+    "status": "fulfilled",
+    "value": {
+      "content": [
+        {
+          "type": "text",
+          "text": "T,v,vw,o,c,h,l,t,n\nC:EURUSD,145937,1.1621,1.16131,1.16276,1.1636,1.1606,1788825599999,145937\n"
+        }
+      ],
+      "structuredContent": {
+        "result": "T,v,vw,o,c,h,l,t,n\nC:EURUSD,145937,1.1621,1.16131,1.16276,1.1636,1.1606,1788825599999,145937\n"
+      },
+      "isError": false
+    }
+  },
+  "actions": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Warning [EMPTY]: API returned 0 records. The ticker may be invalid, delisted, or have no data for the requested period."
+          }
+        ],
+        "structuredContent": {
+          "result": "Warning [EMPTY]: API returned 0 records. The ticker may be invalid, delisted, or have no data for the requested period."
+        },
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "id,ticker,record_date,pay_date,declaration_date,ex_dividend_date,frequency,cash_amount,currency,distribution_type,historical_adjustment_factor,split_adjusted_cash_amount\nE5515ddc79ce65667c3b209d5ca20c75aad26b00ad480036c3f2fc1dce9019831,ASIX,2026-03-09,2026-03-23,2026-02-20,2026-03-09,4,0.16,USD,recurring,0.975144,0.16\nE8eb704fd297b563e529993687fa076690a3a27568a07f7ff36f239bdf9b81a32,ASIX,2026-05-19,2026-06-02,2026-05-08,2026-05-19,4,0.16,USD,recurring,0.983166,0.16\nEf98e6848c6fd35eaa88541b3ccd78e8aab2dc415c308ea240044e63b85158830,ASIX,2026-08-18,2026-09-01,2026-08-07,2026-08-18,4,0.16,USD,recurring,0.990425,0.16\n"
+          }
+        ],
+        "structuredContent": {
+          "result": "id,ticker,record_date,pay_date,declaration_date,ex_dividend_date,frequency,cash_amount,currency,distribution_type,historical_adjustment_factor,split_adjusted_cash_amount\nE5515ddc79ce65667c3b209d5ca20c75aad26b00ad480036c3f2fc1dce9019831,ASIX,2026-03-09,2026-03-23,2026-02-20,2026-03-09,4,0.16,USD,recurring,0.975144,0.16\nE8eb704fd297b563e529993687fa076690a3a27568a07f7ff36f239bdf9b81a32,ASIX,2026-05-19,2026-06-02,2026-05-08,2026-05-19,4,0.16,USD,recurring,0.983166,0.16\nEf98e6848c6fd35eaa88541b3ccd78e8aab2dc415c308ea240044e63b85158830,ASIX,2026-08-18,2026-09-01,2026-08-07,2026-08-18,4,0.16,USD,recurring,0.990425,0.16\n"
+        },
+        "isError": false
+      }
+    }
+  ]
+}

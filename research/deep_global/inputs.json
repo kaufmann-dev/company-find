@@ -1,0 +1,2542 @@
+[
+  {
+    "ticker": "PDD",
+    "company": "PDD Holdings Inc.",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 79.63,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "shares_m": 1473.5,
+    "basic_shares_m": 1406.75,
+    "balance_date": "2026-06-30",
+    "cash_m": 68011.86147702212,
+    "minimum_cash_m": 9023.663348632055,
+    "debt_m": 0,
+    "senior_claims_m": 5625.588603445192,
+    "other_assets_m": 14007.271860284915,
+    "debt_interest_rate": 0,
+    "status": "valuation finalist; substantial discount with persistent market-discount stress",
+    "accounting_notes": "One ADS=4ordinary. June weighted basic1406.75mADS/diluted1473.5mADS are current proxies; legalMarch18 totalincludesescrow, so do notaddescrowagain. Cash excludes77274m restrictedmerchantcash. Minimumcash60556RMB=uncovered merchantpayables+deposits afterrestrictedcash/paymentreceivables36684 +20000operatingliquidity+3872pledgedinvestments(lastDec,stale). Noncurrentfinancialassets94000of96383 latest otherassets, based97.8%financialcompositionDecember; 2383unverified excluded. Shortinvestments327496 include listed equities (Dec66034), so notallcashdeposits; fairvaluecredited, portfolio-shocktestedseparately. Seniorreserve27637 Dec taxes payable used conservatively,10000 analystcashremittancefrictionreserve,115.2 capitalcommitment. Taxreserve excludespastliabilityunwindfromNWC; no claim ordinarytaxpayable isfinancialdebt. Debtzero afterDec2025convertredemption. Operatingleasesexpensed, nolease-debtduplication. 2025mainlandcash+restricted+short214007of496139; offshore282132 calculated, June geographyunknown. Restrictednetassets125917 isnotrestrictedcash andnotdeductedagain. No plannedcashdividends per20-F; nostockbuyback assumed. Revenueclasses are notPinduoduo/Temu geographicsegments; equalallocatedEBITmargins implement a consolidatedmargin, notobservedclassprofitability.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 36901.59220957263,
+        "ebit": 8746.909757405972,
+        "da": 117.15965309650116,
+        "capex": 87.00587113309889,
+        "cfo": 14031.491178399,
+        "sbc": 1054.8360851165287,
+        "source_ids": [
+          "DG1"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      },
+      {
+        "year": 2024,
+        "revenue": 58686.90722417596,
+        "ebit": 16156.473445788877,
+        "da": 105.61527686713954,
+        "capex": 144.11649877808904,
+        "cfo": 18169.114263575135,
+        "sbc": 1472.784764856649,
+        "source_ids": [
+          "DG1"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      },
+      {
+        "year": 2025,
+        "revenue": 64350.854294569945,
+        "ebit": 13873.47723073255,
+        "da": 89.6291053227633,
+        "capex": 170.63196638254755,
+        "cfo": 15935.311736305657,
+        "sbc": 1182.7160696191213,
+        "source_ids": [
+          "DG1"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      }
+    ],
+    "sources": [
+      {
+        "id": "DG1",
+        "url": "https://investor.pddholdings.com/static-files/92dafbdc-3125-4f2c-a28f-3d61203efbaf",
+        "publication_date": "2026-04-29",
+        "section": "20-F pp.13-18,98-110,121, F8-F12,F24-F28,F38-F39",
+        "supports": "PDD history, two revenue types, cash geography, merchant cash, investments, shares, no planned dividend, VIE"
+      },
+      {
+        "id": "DG2",
+        "url": "https://investor.pddholdings.com/news-releases/news-release-details/pdd-holdings-announces-second-quarter-2026-unaudited-financial",
+        "publication_date": "2026-08-24",
+        "section": "Q2/H1 tables, balance sheets, notes, cash flows",
+        "supports": "PDD latest H1 revenue218587 EBIT47330 SBC2831; June balances; Q2 diluted5894m ordinary/4 ADS"
+      },
+      {
+        "id": "DG5",
+        "url": "https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html",
+        "publication_date": "2026-08-19",
+        "section": "January-July online retail and retail formats",
+        "supports": "Household spending weak; online goods4.6%, goods/services4.8%; specialty and brand stores decline"
+      },
+      {
+        "id": "DG6",
+        "url": "https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act",
+        "publication_date": "2026-05-28",
+        "section": "Commission DSA decision",
+        "supports": "EUR200m fine; compliance cost and adverse demand/cost scenario"
+      },
+      {
+        "id": "DG7",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/02/11/council-gives-final-green-light-to-new-customs-duty-rules-for-small-parcels/pdf/",
+        "publication_date": "2026-02-11",
+        "section": "pages1-2 new duty",
+        "supports": "EUR3 per tariff category from July2026, import-cost pressure"
+      },
+      {
+        "id": "DG8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+        "publication_date": "2026-08-20",
+        "section": "financial highlights; new reporting segments; CMR",
+        "supports": "Alibaba competitive subsidy response; CMR-7%, likeforlike+1%; cash burn44.67bnRMB quarter"
+      },
+      {
+        "id": "DG9",
+        "url": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results",
+        "publication_date": "2026-08-13",
+        "section": "Q2 financial and segment results",
+        "supports": "JD Retail EBIT13.5bn vs consolidated4.5bn; retail3%revenue decline and newbusiness investment"
+      },
+      {
+        "id": "DG19",
+        "url": "https://massive.com/docs/rest/stocks/snapshots/full-market-snapshot",
+        "publication_date": "2026-09-08",
+        "section": "MassiveAPI /v2/snapshot/locale/us/markets/stocks/tickers, raw initial_quotes.json",
+        "supports": "12 current USDprices; minute2026-09-08T15:18Z exceptLILAK15:17Z"
+      },
+      {
+        "id": "DG20",
+        "url": "https://massive.com/docs/rest/forex/aggregates/previous-day-bar",
+        "publication_date": "2026-09-08",
+        "section": "MassiveAPI /v2/aggs/ticker/C:USDCNY/prev; rawfx_quote.json",
+        "supports": "CNYperUSD6.7108; timestamp2026-09-06T23:59:59.999Z, single observation; stale proxy explicitly sensitivitytested"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.25,
+        "wacc": 0.11,
+        "terminal_growth": 0,
+        "terminal_roic": 0.15,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 33750.72258449067,
+                "ebit_margin": 0.215,
+                "volume": 104.0,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 35088.06006735412,
+                "ebit_margin": 0.215,
+                "volume": 110.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 149.01353042856292,
+            "capex": 745.0676521428146,
+            "delta_nwc": 44.879283572748385,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 31050.664777731417,
+                "ebit_margin": 0.15,
+                "volume": 95.68,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 28070.448053883298,
+                "ebit_margin": 0.15,
+                "volume": 88.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 160.93461286284796,
+            "capex": 886.8166924742206,
+            "delta_nwc": 1192.1082434285033,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 29498.13153884485,
+                "ebit_margin": 0.12,
+                "volume": 90.896,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 25263.403248494964,
+                "ebit_margin": 0.12,
+                "volume": 79.2,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 173.8093818918758,
+            "capex": 821.423021810097,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 187.71413244322588,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 202.73126303868398,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 218.94976408177874,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 236.465745208321,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 255.38300482498673,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 275.81364521098567,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 28908.16890806795,
+                "ebit_margin": 0.11,
+                "volume": 89.07808,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 24000.233086070213,
+                "ebit_margin": 0.11,
+                "volume": 75.24,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 297.87873682786454,
+            "capex": 793.6260299120725,
+            "delta_nwc": 0.0,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.55,
+        "wacc": 0.11,
+        "terminal_growth": 0.015,
+        "terminal_roic": 0.25,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 33750.72258449067,
+                "ebit_margin": 0.215,
+                "volume": 104.0,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 35088.06006735412,
+                "ebit_margin": 0.215,
+                "volume": 110.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 149.01353042856292,
+            "capex": 745.0676521428146,
+            "delta_nwc": 44.879283572748385,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 34425.737036180486,
+                "ebit_margin": 0.2,
+                "volume": 106.08,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 35088.06006735412,
+                "ebit_margin": 0.2,
+                "volume": 110.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 160.93461286284796,
+            "capex": 695.137971035346,
+            "delta_nwc": 6.750144516898177,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 35458.509147265904,
+                "ebit_margin": 0.2,
+                "volume": 109.2624,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 36140.701869374745,
+                "ebit_margin": 0.2,
+                "volume": 113.3,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.98236424867383
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 173.8093818918758,
+            "capex": 715.9921101664065,
+            "delta_nwc": 20.85413913106045,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 36344.97187594755,
+                "ebit_margin": 0.2,
+                "volume": 111.99396000000002,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 37586.32994414974,
+                "ebit_margin": 0.2,
+                "volume": 117.83200000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.98236424867383
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 187.71413244322588,
+            "capex": 739.3130182009728,
+            "delta_nwc": 23.320908034566386,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 37253.596172846235,
+                "ebit_margin": 0.2,
+                "volume": 114.793809,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 39089.78314191572,
+                "ebit_margin": 0.2,
+                "volume": 122.54528000000002,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 202.73126303868398,
+            "capex": 763.4337931476196,
+            "delta_nwc": 24.12077494664673,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 38184.93607716739,
+                "ebit_margin": 0.2,
+                "volume": 117.66365422499999,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 40653.37446759236,
+                "ebit_margin": 0.2,
+                "volume": 127.44709120000005,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 218.94976408177874,
+            "capex": 788.3831054475975,
+            "delta_nwc": 24.949312299977883,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 39139.55947909657,
+                "ebit_margin": 0.2,
+                "volume": 120.605245580625,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 42076.242573958094,
+                "ebit_margin": 0.2,
+                "volume": 131.90773939200005,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 236.465745208321,
+            "capex": 812.1580205305468,
+            "delta_nwc": 23.774915082949164,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 40118.04846607398,
+                "ebit_margin": 0.2,
+                "volume": 123.62037672014058,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 43338.529851176834,
+                "ebit_margin": 0.2,
+                "volume": 135.86497157376004,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 255.38300482498673,
+            "capex": 834.5657831725083,
+            "delta_nwc": 22.407762641961625,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 41120.999677725835,
+                "ebit_margin": 0.2,
+                "volume": 126.71088613814412,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 44638.685746712144,
+                "ebit_margin": 0.2,
+                "volume": 139.94092072097285,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 275.81364521098567,
+            "capex": 857.5968542443799,
+            "delta_nwc": 23.031071071871562,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 42149.02466966897,
+                "ebit_margin": 0.2,
+                "volume": 129.8786582915977,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 45754.65289037994,
+                "ebit_margin": 0.2,
+                "volume": 143.43944373899714,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.98236424867383
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 297.87873682786454,
+            "capex": 879.0367756004892,
+            "delta_nwc": 21.439921356109295,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.11,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.3,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 33750.72258449067,
+                "ebit_margin": 0.215,
+                "volume": 104.0,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 35088.06006735412,
+                "ebit_margin": 0.215,
+                "volume": 110.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 149.01353042856292,
+            "capex": 745.0676521428146,
+            "delta_nwc": 44.879283572748385,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 35438.25871371521,
+                "ebit_margin": 0.23,
+                "volume": 109.2,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 38596.866074089536,
+                "ebit_margin": 0.23,
+                "volume": 121.00000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.98236424867383
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 160.93461286284796,
+            "capex": 740.3512478780474,
+            "delta_nwc": 51.96342135959952,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 37210.17164940097,
+                "ebit_margin": 0.24,
+                "volume": 114.66000000000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 42456.55268149849,
+                "ebit_margin": 0.24,
+                "volume": 133.10000000000005,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486737
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 173.8093818918758,
+            "capex": 796.6672433089947,
+            "delta_nwc": 56.31599543094722,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 39070.680231871025,
+                "ebit_margin": 0.24,
+                "volume": 120.39300000000004,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 45853.07689601838,
+                "ebit_margin": 0.24,
+                "volume": 143.74800000000008,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486737
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 187.71413244322588,
+            "capex": 849.2375712788939,
+            "delta_nwc": 52.57032796989944,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 41024.21424346458,
+                "ebit_margin": 0.24,
+                "volume": 126.41265000000004,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 49062.79227873967,
+                "ebit_margin": 0.24,
+                "volume": 153.8103600000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 202.73126303868398,
+            "capex": 900.8700652220426,
+            "delta_nwc": 51.63249394314854,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 42665.182813203166,
+                "ebit_margin": 0.24,
+                "volume": 131.46915600000005,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 52006.559815464054,
+                "ebit_margin": 0.24,
+                "volume": 163.0389816000001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 218.94976408177874,
+            "capex": 946.7174262866723,
+            "delta_nwc": 45.847361064629666,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 44371.79012573129,
+                "ebit_margin": 0.24,
+                "volume": 136.72792224000005,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 54606.88780623726,
+                "ebit_margin": 0.24,
+                "volume": 171.19093068000012,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 236.465745208321,
+            "capex": 989.7867793196857,
+            "delta_nwc": 43.06935303301335,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 46146.66173076054,
+                "ebit_margin": 0.24,
+                "volume": 142.19703912960006,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.52617869702567
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 57337.23219654912,
+                "ebit_margin": 0.24,
+                "volume": 179.7504772140001,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 255.38300482498673,
+            "capex": 1034.8389392730965,
+            "delta_nwc": 45.05215995341095,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 47531.06158268335,
+                "ebit_margin": 0.24,
+                "volume": 146.46295030348807,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970256
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 59630.721484411086,
+                "ebit_margin": 0.24,
+                "volume": 186.94049630256012,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 275.81364521098567,
+            "capex": 1071.6178306709446,
+            "delta_nwc": 36.77889139784797,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Online marketing and other merchantservices",
+                "revenue": 48956.99343016386,
+                "ebit_margin": 0.24,
+                "volume": 150.85683881259268,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 324.5261786970257
+              },
+              {
+                "name": "Transaction services",
+                "revenue": 62015.95034378753,
+                "ebit_margin": 0.24,
+                "volume": 194.41811615466253,
+                "volume_unit": "2025 realized activity index=100",
+                "price": 318.9823642486738
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.25,
+            "da": 297.87873682786454,
+            "capex": 1109.729437739514,
+            "delta_nwc": 38.11160706856941,
+            "shares_m": 1473.5,
+            "dividend_per_share": 0,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  },
+  {
+    "ticker": "VIPS",
+    "company": "Vipshop Holdings Limited",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 13.015,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "shares_m": 482.390225,
+    "basic_shares_m": 475.5,
+    "balance_date": "2026-06-30",
+    "cash_m": 4897.316266316982,
+    "minimum_cash_m": 1043.0947129999404,
+    "debt_m": 1634.3997734994336,
+    "senior_claims_m": 1380.323657388091,
+    "other_assets_m": 1626.1933003516722,
+    "debt_interest_rate": 0.055,
+    "status": "valuation finalist; positive flat-business value case, investment andtaxclaims stressed",
+    "accounting_notes": "EachADS0.2ordinary=5ADSperordinary. June95.1mordinarycurrent basicrounded=>475.5mADS; addQ2 incremental dilutiveawards6.890225mADS; currentmodel482.390225. Cash excludes604.94restricted. Cashreserve7000RMB=4000workingliquidity+3000 merchant/vendorfloat (Decmerchant2415+vendordeposits654 proxy; currentdetailunavailable). Seniorclaims3344.761NCIbook(asconservativefairproxy; annualNCIearnings~167m2025),1627.615Dec cashsettledSBCobligation,159.5NCIlenderclaim,1560 accruedhistoricalwithholdingtax,1630full REITtax reserve(paymenttimingunknown),941.2unfundedprivatefundcommit. ExistingcashSBCsettlementsnotre-deductedNWC. OrdinarytradepayablesfinanceinventoryandstayNWC. Leasecostretained,nolease-debtduplication. Otherassetsincludeequitymethodbook7616.184+HTM806.443+50%illiquidotherinvestments4980.862:50%isasset-realizationstress notcountryrisk. EquitymethodincomeexcludedEBIT, property/landnotaddedtocurrentDCF. REITcashalreadyinJunebalance,noadditionalproceeds; forecastShanshanrevenuefalls2027duetofullyear deconsolidation. Tax27.5%=25%operating+2.5pp ongoingremittancefrictionallowance,notoneoffpasttax. ActualApril2026$.62already paid:2026stubdivzero. Forecast$.62baseannualApril24from2027 assumed, notboarddeclared. Actualbuybacksobserved, nofuturebuybackaccretion orshrinkingdenominator assumed.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 16817.073970316505,
+        "ebit": 1356.6392978482447,
+        "da": 226.57283781367352,
+        "capex": 779.4505871133099,
+        "cfo": 2147.957471538416,
+        "sbc": 224.98152232222688,
+        "source_ids": [
+          "DG3"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      },
+      {
+        "year": 2024,
+        "revenue": 16156.170948322108,
+        "ebit": 1366.938815044406,
+        "da": 252.18051499076114,
+        "capex": 530.8735173153722,
+        "cfo": 1360.3419860523336,
+        "sbc": 229.14406628121833,
+        "source_ids": [
+          "DG3"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      },
+      {
+        "year": 2025,
+        "revenue": 15783.44549085057,
+        "ebit": 1212.3660368361448,
+        "da": 269.5492340704536,
+        "capex": 307.94212314478153,
+        "cfo": 1110.783364129463,
+        "sbc": 257.95180902425943,
+        "source_ids": [
+          "DG3"
+        ],
+        "notes": "Historical RMB amounts translated at constant research FX for comparability, not historical reported USD."
+      }
+    ],
+    "sources": [
+      {
+        "id": "DG3",
+        "url": "https://ir.vip.com/static-files/1a92ccd0-731c-493b-8210-730884766bf6",
+        "publication_date": "2026-04-16",
+        "section": "20-F pp.60-72,111-125,143,F8-F12,F39-F46,F61-F65",
+        "supports": "VIPS history, orders, customer base, segment EBIT after SBC, investment and capital claims; remittances and distributions"
+      },
+      {
+        "id": "DG4",
+        "url": "https://ir.vip.com/news-releases/news-release-details/vipshop-reports-unaudited-second-quarter-2026-financial-results",
+        "publication_date": "2026-08-25",
+        "section": "Q2 financial statements; cash flow; share repurchase; commercial REIT; footnotes",
+        "supports": "VIPS June balance, H1 EBIT4017.426, orders/activecustomers; tax3190 oneoff, REIT gain5790; shares/ratio; actual H1 returns"
+      },
+      {
+        "id": "DG5",
+        "url": "https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html",
+        "publication_date": "2026-08-19",
+        "section": "January-July online retail and retail formats",
+        "supports": "Household spending weak; online goods4.6%, goods/services4.8%; specialty and brand stores decline"
+      },
+      {
+        "id": "DG8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926099220/tm2623667d1_ex99-1.htm",
+        "publication_date": "2026-08-20",
+        "section": "financial highlights; new reporting segments; CMR",
+        "supports": "Alibaba competitive subsidy response; CMR-7%, likeforlike+1%; cash burn44.67bnRMB quarter"
+      },
+      {
+        "id": "DG9",
+        "url": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results",
+        "publication_date": "2026-08-13",
+        "section": "Q2 financial and segment results",
+        "supports": "JD Retail EBIT13.5bn vs consolidated4.5bn; retail3%revenue decline and newbusiness investment"
+      },
+      {
+        "id": "DG19",
+        "url": "https://massive.com/docs/rest/stocks/snapshots/full-market-snapshot",
+        "publication_date": "2026-09-08",
+        "section": "MassiveAPI /v2/snapshot/locale/us/markets/stocks/tickers, raw initial_quotes.json",
+        "supports": "12 current USDprices; minute2026-09-08T15:18Z exceptLILAK15:17Z"
+      },
+      {
+        "id": "DG20",
+        "url": "https://massive.com/docs/rest/forex/aggregates/previous-day-bar",
+        "publication_date": "2026-09-08",
+        "section": "MassiveAPI /v2/aggs/ticker/C:USDCNY/prev; rawfx_quote.json",
+        "supports": "CNYperUSD6.7108; timestamp2026-09-06T23:59:59.999Z, single observation; stale proxy explicitly sensitivitytested"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.25,
+        "wacc": 0.11,
+        "terminal_growth": -0.01,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14693.940554777375,
+                "ebit_margin": 0.071,
+                "volume": 703.1039999999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 20.898672962715867
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 574.4651755379389,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 105.33611864457293,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 253.32300172855696,
+            "capex": 298.02706085712583,
+            "delta_nwc": 77.48035047982366,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2026-04-24"
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 13224.546499299637,
+                "ebit_margin": 0.05,
+                "volume": 618.7315199999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.37364280277759
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 488.29539920724795,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 94.80250678011564,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 250.78977171127138,
+            "capex": 301.00733146569706,
+            "delta_nwc": 169.99185462239947,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2027-04-24"
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 12166.582779355665,
+                "ebit_margin": 0.04,
+                "volume": 556.8583679999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.848612642839313
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 439.4658592865232,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 87.2183062377064,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 248.28187399415864,
+            "capex": 304.01740478035407,
+            "delta_nwc": 133.85425596113743,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2028-04-24"
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 11436.587812594327,
+                "ebit_margin": 0.03,
+                "volume": 512.3096985599999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.323582482901042
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 417.492566322197,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 81.985207863444,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 245.79905525421708,
+            "capex": 307.05757882815766,
+            "delta_nwc": 105.28016777656318,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2029-04-24"
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 10979.124300090552,
+                "ebit_margin": 0.025,
+                "volume": 481.5711166463999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.798552322962763
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 404.967789332531,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 78.70579954890626,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 243.3410647016749,
+            "capex": 310.1281546164392,
+            "delta_nwc": 82.56547495320704,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2030-04-24"
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 10649.750571087836,
+                "ebit_margin": 0.025,
+                "volume": 462.3082719805439,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.036037242993626
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 392.81875565255507,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 76.34462556243906,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 240.90765405465814,
+            "capex": 313.22943616260363,
+            "delta_nwc": 72.21477406210171,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2031-04-24"
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 10330.2580539552,
+                "ebit_margin": 0.025,
+                "volume": 443.81594110132215,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.275995964274806
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 381.0341929829784,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 74.05428679556589,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 238.4985775141116,
+            "capex": 316.36173052422964,
+            "delta_nwc": 71.38945261409575,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2032-04-24"
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 10020.350312336544,
+                "ebit_margin": 0.025,
+                "volume": 426.0633034572692,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.51845425556934
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 369.60316719348907,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 71.83265819169891,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 236.11359173897046,
+            "capex": 319.5253478294719,
+            "delta_nwc": 70.58889080952986,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2033-04-24"
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 9719.739802966447,
+                "ebit_margin": 0.025,
+                "volume": 409.02077131897846,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.76343815406485
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 358.5150721776844,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 69.67767844594793,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 233.75245582158075,
+            "capex": 322.72060130776663,
+            "delta_nwc": 69.81234585910096,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2034-04-24"
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 9428.147608877454,
+                "ebit_margin": 0.025,
+                "volume": 392.6599404662193,
+                "volume_unit": "million annual net onlineorders",
+                "price": 24.010973968169694
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 347.7596200123539,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 67.5873480925695,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 231.41493126336493,
+            "capex": 325.9478073208443,
+            "delta_nwc": 69.059097257185,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.3,
+            "stub_dividend_per_share": 0.3,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2035-04-24"
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.55,
+        "wacc": 0.11,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.15,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14693.940554777375,
+                "ebit_margin": 0.071,
+                "volume": 703.1039999999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 20.898672962715867
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 574.4651755379389,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 105.33611864457293,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 253.32300172855696,
+            "capex": 298.02706085712583,
+            "delta_nwc": 29.802706085712583,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2026-04-24"
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14547.001149229602,
+                "ebit_margin": 0.068,
+                "volume": 689.0419199999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.11192472764154
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 528.5079614949037,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 104.28275745812721,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 254.58961673719972,
+            "capex": 299.51719616141145,
+            "delta_nwc": 29.802706085712583,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2027-04-24"
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14547.001149229602,
+                "ebit_margin": 0.067,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.325176492567213
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 539.0781207248018,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 104.28275745812721,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 255.86256482088567,
+            "capex": 301.01478214221845,
+            "delta_nwc": 30.331214047207474,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2028-04-24"
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14692.471160721898,
+                "ebit_margin": 0.066,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.538428257492885
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 549.8596831392979,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 105.32558503270849,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 257.1418776449901,
+            "capex": 302.51985605292947,
+            "delta_nwc": 37.66742615978126,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2029-04-24"
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14839.395872329116,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.753812540067813
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 560.8568768020839,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 106.37884088303556,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 258.427587033215,
+            "capex": 304.03245533319415,
+            "delta_nwc": 37.75146414172914,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2030-04-24"
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14987.789831052409,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.971350665468492
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 572.0740143381255,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 107.44262929186591,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 259.719724968381,
+            "capex": 305.55261760986,
+            "delta_nwc": 37.836450319120786,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2031-04-24"
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15137.667729362933,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.191064172123177
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 583.5154946248881,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 108.51705558478457,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 261.01832359322293,
+            "capex": 307.08038069790933,
+            "delta_nwc": 37.92239633022295,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2032-04-24"
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15289.044406656561,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.412974813844407
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 595.1858045173858,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 109.60222614063241,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 262.32341521118906,
+            "capex": 308.61578260139885,
+            "delta_nwc": 38.00931397281139,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2033-04-24"
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15441.934850723128,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.637104561982852
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 607.0895206077336,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 110.69824840203873,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 263.635032287245,
+            "capex": 310.1588615144058,
+            "delta_nwc": 38.097215206628455,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2034-04-24"
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15596.35419923036,
+                "ebit_margin": 0.065,
+                "volume": 682.1515007999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.863475607602684
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 619.2313110198883,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 111.80523088605912,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 264.95320744868116,
+            "capex": 311.7096558219778,
+            "delta_nwc": 38.18611215588307,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0.62,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2035-04-24"
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.11,
+        "terminal_growth": 0.015,
+        "terminal_roic": 0.18,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14693.940554777375,
+                "ebit_margin": 0.071,
+                "volume": 703.1039999999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 20.898672962715867
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 574.4651755379389,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 105.33611864457293,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 253.32300172855696,
+            "capex": 298.02706085712583,
+            "delta_nwc": 29.802706085712583,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.62,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2026-04-24"
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 14987.819365872921,
+                "ebit_margin": 0.073,
+                "volume": 703.1039999999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.316646421970184
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 551.4865685164212,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 107.4428410174644,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 254.58961673719972,
+            "capex": 301.00733146569706,
+            "delta_nwc": 43.45305240805869,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.6386000000000001,
+            "stub_dividend_per_share": 0.6386000000000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2027-04-24"
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15437.45394684911,
+                "ebit_margin": 0.075,
+                "volume": 710.1350399999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 21.73875823230623
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 579.0608969422423,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 110.66612624798833,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 255.86256482088567,
+            "capex": 304.01740478035407,
+            "delta_nwc": 53.8243158173392,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.657758,
+            "stub_dividend_per_share": 0.657758,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2028-04-24"
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 15900.577565254582,
+                "ebit_margin": 0.075,
+                "volume": 717.2363903999999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.169228692351894
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 608.0139417893545,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 113.98611003542797,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 257.1418776449901,
+            "capex": 307.05757882815766,
+            "delta_nwc": 54.572538437713874,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.67749074,
+            "stub_dividend_per_share": 0.67749074,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2029-04-24"
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 16377.59489221222,
+                "ebit_margin": 0.075,
+                "volume": 724.4087543039999,
+                "volume_unit": "million annual net onlineorders",
+                "price": 22.60822331992322
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 632.3344994609287,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 117.40569333649081,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 258.427587033215,
+            "capex": 310.1281546164392,
+            "delta_nwc": 55.04057948222634,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.6978154622000001,
+            "stub_dividend_per_share": 0.6978154622000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2030-04-24"
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 16787.034764517524,
+                "ebit_margin": 0.075,
+                "volume": 728.0307980755198,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.05813821186199
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 657.6278794393659,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 120.34083566990307,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 259.719724968381,
+            "capex": 313.22943616260363,
+            "delta_nwc": 51.68612581657023,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.7187499260660001,
+            "stub_dividend_per_share": 0.7187499260660001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2031-04-24"
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 17206.71063363046,
+                "ebit_margin": 0.075,
+                "volume": 731.6709520658973,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.5170066339886
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 677.3567158225468,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 123.34935656165064,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 261.01832359322293,
+            "capex": 316.36173052422964,
+            "delta_nwc": 51.923367405105765,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.7403124238479801,
+            "stub_dividend_per_share": 0.7403124238479801,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2032-04-24"
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 17550.84484630307,
+                "ebit_margin": 0.075,
+                "volume": 731.6709520658973,
+                "volume_unit": "million annual net onlineorders",
+                "price": 23.98734676666837
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 697.6774172972232,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 125.81634369288365,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 262.32341521118906,
+            "capex": 319.5253478294719,
+            "delta_nwc": 48.14880114963859,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.7625217965634196,
+            "stub_dividend_per_share": 0.7625217965634196,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2033-04-24"
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 17901.861743229132,
+                "ebit_margin": 0.075,
+                "volume": 731.6709520658973,
+                "volume_unit": "million annual net onlineorders",
+                "price": 24.46709370200174
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 718.6077398161399,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 128.3326705667413,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 263.635032287245,
+            "capex": 322.72060130776663,
+            "delta_nwc": 48.52588340165437,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.7853974504603222,
+            "stub_dividend_per_share": 0.7853974504603222,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2034-04-24"
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Vip.com online retail and relatedservices",
+                "revenue": 18259.89897809371,
+                "ebit_margin": 0.075,
+                "volume": 731.6709520658973,
+                "volume_unit": "million annual net onlineorders",
+                "price": 24.95643557604177
+              },
+              {
+                "name": "Shan Shan consolidatedoutlets",
+                "revenue": 740.1659720106242,
+                "ebit_margin": 0.22,
+                "volume": null,
+                "volume_unit": "recognized outletrevenue; unitcount undisclosedafterREIT",
+                "price": null
+              },
+              {
+                "name": "Other businesses",
+                "revenue": 130.89932397807615,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "mixed retail/finance services",
+                "price": null
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.275,
+            "da": 264.95320744868116,
+            "capex": 325.9478073208443,
+            "delta_nwc": 48.91081210923271,
+            "shares_m": 482.390225,
+            "dividend_per_share": 0.8089593739741319,
+            "stub_dividend_per_share": 0.8089593739741319,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst assumption; GAAP EBIT retains SBC. No future award addback or buyback accretion. Historical accrued claim settlements reserved in bridge, excluded from forecast NWC.",
+            "dividend_date": "2035-04-24"
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  }
+]

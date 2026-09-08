@@ -4,8 +4,8 @@
     "company": "Comcast Corporation \u2014 combined current economic claims",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 26.115,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 26.22,
+    "price_timestamp": "2026-09-08T15:38:00Z",
     "shares_m": 3554.636573,
     "basic_shares_m": 3548.636573,
     "balance_date": "2026-06-30",
@@ -2109,6 +2109,6 @@
         "notes": "pro forma removes Versant/Germany; not GAAP EBIT"
       }
     ],
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   }
 ]

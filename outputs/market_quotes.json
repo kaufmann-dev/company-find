@@ -1,47 +1,130 @@
 {
   "AER": {
-    "price": 145.165,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 145.4819,
+    "price_timestamp": "2026-09-08T15:36:00Z",
+    "minute_timestamp_ms": 1788881760000,
+    "snapshot_updated_ns": "1788881820000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "ASIX": {
+    "price": 17.37,
+    "price_timestamp": "2026-09-08T15:34:00Z",
+    "minute_timestamp_ms": 1788881640000,
+    "snapshot_updated_ns": "1788881700000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "CF": {
-    "price": 134.99,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 134.285,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881940000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "CMCSA": {
-    "price": 26.115,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 26.22,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881972192225842",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "DECK": {
+    "price": 83.6399,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881967144900738",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "FISV": {
-    "price": 51.2201,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 51.205,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881973167887778",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "GRSD": {
+    "price": 1.9199,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881940000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "GSL": {
-    "price": 45.21,
-    "price_timestamp": "2026-09-08T15:00:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 45.12,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881940000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "IQV": {
-    "price": 261.17,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 261.89,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881965905976506",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "MWA": {
-    "price": 23.92,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 23.83,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881973352422606",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "OPRA": {
+    "price": 18.43,
+    "price_timestamp": "2026-09-08T15:37:00Z",
+    "minute_timestamp_ms": 1788881820000,
+    "snapshot_updated_ns": "1788881880000000000",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "PDD": {
+    "price": 79.63,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881973135145858",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "POWL": {
-    "price": 180.855,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 181.33,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881948095159090",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   },
   "PYPL": {
-    "price": 53.25,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "price": 53.175,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881970804372333",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "STLA": {
+    "price": 5.415,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881966028059796",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "VIPS": {
+    "price": 13.015,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881971070541401",
+    "source": "Massive US snapshot min.c",
+    "captured_at": "2026-09-08T15:54:39Z"
   }
 }

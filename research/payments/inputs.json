@@ -4,9 +4,9 @@
     "company": "PayPal Holdings",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 53.25,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z",
+    "price": 53.175,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z",
     "shares_m": 860.460874,
     "basic_shares_m": 855.460874,
     "shares_date": "2026-07-22",
@@ -1091,8 +1091,8 @@
     "company": "Fiserv",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 51.2201,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 51.205,
+    "price_timestamp": "2026-09-08T15:38:00Z",
     "shares_m": 538.566721,
     "basic_shares_m": 531.766721,
     "shares_date": "2026-07-31",
@@ -2473,6 +2473,6 @@
         ]
       }
     },
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   }
 ]

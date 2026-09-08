@@ -1,0 +1,104 @@
+{
+  "AMN": {
+    "ticker": "AMN",
+    "price": 33.525,
+    "last_minute_last_updated_ns": 1788881661739710977,
+    "price_timestamp": "2026-09-08T15:34:21.739711+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "CRTO": {
+    "ticker": "CRTO",
+    "price": 17.4848,
+    "last_minute_last_updated_ns": 1788881641267463061,
+    "price_timestamp": "2026-09-08T15:34:01.267463+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "ICLR": {
+    "ticker": "ICLR",
+    "price": 160.7,
+    "last_minute_last_updated_ns": 1788881658780144430,
+    "price_timestamp": "2026-09-08T15:34:18.780144+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "MD": {
+    "ticker": "MD",
+    "price": 26.53,
+    "last_minute_last_updated_ns": 1788881661710719496,
+    "price_timestamp": "2026-09-08T15:34:21.710720+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "OGN": {
+    "ticker": "OGN",
+    "price": 13.775,
+    "last_minute_last_updated_ns": 1788881662350363868,
+    "price_timestamp": "2026-09-08T15:34:22.350364+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "OPRA": {
+    "ticker": "OPRA",
+    "price": 18.43,
+    "last_minute_last_updated_ns": 1788881656928986320,
+    "price_timestamp": "2026-09-08T15:37:00Z",
+    "source": "Massive US snapshot min.c",
+    "currency": "USD",
+    "minute_timestamp_ms": 1788881820000,
+    "snapshot_updated_ns": "1788881880000000000",
+    "captured_at": "2026-09-08T15:54:39Z"
+  },
+  "PERI": {
+    "ticker": "PERI",
+    "price": 8.94,
+    "last_minute_last_updated_ns": 1788881660762627370,
+    "price_timestamp": "2026-09-08T15:34:20.762627+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "PRGO": {
+    "ticker": "PRGO",
+    "price": 14.665,
+    "last_minute_last_updated_ns": 1788881658924422003,
+    "price_timestamp": "2026-09-08T15:34:18.924422+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "TEL": {
+    "ticker": "TEL",
+    "price": 209.6,
+    "last_minute_last_updated_ns": 1788881660674366241,
+    "price_timestamp": "2026-09-08T15:34:20.674366+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "VTRS": {
+    "ticker": "VTRS",
+    "price": 16.555,
+    "last_minute_last_updated_ns": 1788881662466657317,
+    "price_timestamp": "2026-09-08T15:34:22.466657+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "WU": {
+    "ticker": "WU",
+    "price": 7.135,
+    "last_minute_last_updated_ns": 1788881662357752897,
+    "price_timestamp": "2026-09-08T15:34:22.357753+00:00",
+    "source": "Massive /v3/snapshot last_minute.close; delayed. Timestamp is vendor last_minute.last_updated, not an executable quote.",
+    "currency": "USD"
+  },
+  "GRSD": {
+    "ticker": "GRSD",
+    "price": 1.9199,
+    "last_minute_last_updated_ns": 1788881691495296460,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "source": "Massive US snapshot min.c",
+    "currency": "USD",
+    "minute_timestamp_ms": 1788881880000,
+    "snapshot_updated_ns": "1788881940000000000",
+    "captured_at": "2026-09-08T15:54:39Z"
+  }
+}

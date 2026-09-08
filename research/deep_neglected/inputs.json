@@ -1,0 +1,2782 @@
+[
+  {
+    "ticker": "OPRA",
+    "company": "Opera Limited",
+    "currency": "USD",
+    "valuation_method": "fcff",
+    "valuation_date": "2026-09-08",
+    "price": 18.43,
+    "price_timestamp": "2026-09-08T15:37:00Z",
+    "basic_shares_m": 88.917384,
+    "shares_m": 91.076,
+    "balance_date": "2026-06-30",
+    "cash_m": 109.614,
+    "minimum_cash_m": 35,
+    "debt_m": 0,
+    "senior_claims_m": 6,
+    "other_assets_m": 225.675,
+    "debt_interest_rate": 0.08,
+    "sources": [
+      {
+        "id": "DN01",
+        "title": "Opera 2025 Form 20-F",
+        "publication_date": "2026-03-27",
+        "url": "https://opera.gcs-web.com/static-files/75f6e636-cfb9-4d76-a034-9219a8f1c930",
+        "section": "pp.25\u201326,36\u201346; notes 1,3,4,9\u201313,16,19",
+        "supports": "2023\u201325 history; ADS ratio; search renewal; parent control; OPay; development and leases",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN02",
+        "title": "Opera Q2 2026 results",
+        "publication_date": "2026-08-19",
+        "url": "https://investor.opera.com/news-releases/news-release-details/opera-reports-second-quarter-2026-results-beyond-high-end",
+        "section": "Business highlights; consolidated statements; non-IFRS reconciliation",
+        "supports": "H1 financials; June balance; July dividend; repurchases; 288m MAUs; 2026 guidance",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN03",
+        "title": "Opera Q1 2026 results",
+        "publication_date": "2026-04-28",
+        "url": "https://investor.opera.com/static-files/7df85f85-38b6-4d05-a90f-83580e7d06da",
+        "section": "Business highlights and statements",
+        "supports": "Query/advertising growth and user mix corroboration within issuer, not independent evidence",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN22",
+        "title": "US Treasury daily yield curve",
+        "publication_date": "2026-09-04",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "section": "2026-09-04 row",
+        "supports": "Five-year 4.54%, ten-year 4.78%; nominal USD discount-rate anchor",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      }
+    ],
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 396.827,
+        "ebit": 62.89,
+        "da": 13.165,
+        "capex": 6.404,
+        "cfo": 82.761,
+        "sbc": 16.95,
+        "lease_cash": 3.907,
+        "advertising": 230.98,
+        "query": 162.168,
+        "source_ids": [
+          "DN01"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 480.648,
+        "ebit": 92.262,
+        "da": 15.582,
+        "capex": 30.607,
+        "cfo": 104.977,
+        "sbc": 9.718,
+        "lease_cash": 4.181,
+        "advertising": 290.723,
+        "query": 188.997,
+        "source_ids": [
+          "DN01"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 614.825,
+        "ebit": 90.072,
+        "da": 18.861,
+        "capex": 15.245,
+        "cfo": 117.728,
+        "sbc": 31.273,
+        "lease_cash": 4.776,
+        "advertising": 396.04,
+        "query": 216.832,
+        "source_ids": [
+          "DN01"
+        ]
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.12,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.18,
+        "other_assets_m": 0,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 490.0,
+                "ebit_margin": 0.075,
+                "volume": 520.0,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9423076923076923
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 246.0,
+                "ebit_margin": 0.337,
+                "volume": 288.0,
+                "volume_unit": "million average monthly active users",
+                "price": 0.8541666666666666
+              },
+              {
+                "name": "Other",
+                "revenue": 2.0,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 17.712,
+            "capex": 25.830000000000002,
+            "delta_nwc": 8.622249999999998,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 29.52,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 5.535,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 431.2,
+                "ebit_margin": 0.035,
+                "volume": 478.40000000000003,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9013377926421404
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 159.9,
+                "ebit_margin": 0.2,
+                "volume": 264.96000000000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.6034873188405796
+              },
+              {
+                "name": "Other",
+                "revenue": 2.06,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 14.23584,
+            "capex": 20.7606,
+            "delta_nwc": 0.0,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 23.726399999999998,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.4487,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 405.328,
+                "ebit_margin": 0.035,
+                "volume": 468.83200000000005,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.8645484949832775
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 143.91,
+                "ebit_margin": 0.2,
+                "volume": 254.36160000000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5657693614130433
+              },
+              {
+                "name": "Other",
+                "revenue": 2.1218,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.232635199999999,
+            "capex": 19.297593,
+            "delta_nwc": 0.0,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 22.054392,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.1351984999999996,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 405.328,
+                "ebit_margin": 0.04,
+                "volume": 468.83200000000005,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.8645484949832775
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 136.7145,
+                "ebit_margin": 0.21,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5484498911657053
+              },
+              {
+                "name": "Other",
+                "revenue": 2.185454,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.061470896000001,
+            "capex": 19.047978390000004,
+            "delta_nwc": 0.0,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 21.769118159999998,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.081709654999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 413.43456,
+                "ebit_margin": 0.045,
+                "volume": 473.5203200000001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.8731083810722208
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.22,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.2510176200000003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.159167422879998,
+            "capex": 19.190452491699997,
+            "delta_nwc": 0.284948203399988,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 21.9319457048,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.11223981965,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 425.8375968,
+                "ebit_margin": 0.05,
+                "volume": 478.2555232000001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.8903976559449379
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.23,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3185481486,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.4584610387664,
+            "capex": 19.626922348201,
+            "delta_nwc": 0.8729397130020039,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 22.430768397944,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.2057690746145,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 438.61272470399996,
+                "ebit_margin": 0.05,
+                "volume": 483.0380784320001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9080292926963228
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.24,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3881045930580003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.76673346312939,
+            "capex": 20.076486300397026,
+            "delta_nwc": 0.8991279043920544,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 22.94455577188232,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.302104207227934,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 447.38497919808,
+                "ebit_margin": 0.05,
+                "volume": 487.8684592163201,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9170196817329201
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.24,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.4597477308497404,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 13.978987006294311,
+            "capex": 20.38602271751254,
+            "delta_nwc": 0.6190728342310229,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 23.29831167715719,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.368433439466973,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 456.33267878204157,
+                "ebit_margin": 0.05,
+                "volume": 492.7471438084833,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9260990845223549
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.24,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.5335401627752328,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 14.195502814675603,
+            "capex": 20.70177493806859,
+            "delta_nwc": 0.6315044411120995,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 23.65917135779267,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.436094629586125,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 460.896005569862,
+                "ebit_margin": 0.05,
+                "volume": 497.6746152465682,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9260990845223549
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 132.61306499999998,
+                "ebit_margin": 0.24,
+                "volume": 249.27436800000004,
+                "volume_unit": "million average monthly active users",
+                "price": 0.5319963944307341
+              },
+              {
+                "name": "Other",
+                "revenue": 2.60954636765849,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 14.30684680650049,
+            "capex": 20.864151592813215,
+            "delta_nwc": 0.32475330948925607,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.4,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 23.844744677500817,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 4.470889627031403,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.105,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.25,
+        "other_assets_m": 225.675,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 490.0,
+                "ebit_margin": 0.075,
+                "volume": 520.0,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9423076923076923
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 246.0,
+                "ebit_margin": 0.337,
+                "volume": 288.0,
+                "volume_unit": "million average monthly active users",
+                "price": 0.8541666666666666
+              },
+              {
+                "name": "Other",
+                "revenue": 2.0,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 17.712,
+            "capex": 22.878,
+            "delta_nwc": 8.622249999999998,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 29.52,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 5.535,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 578.1999999999999,
+                "ebit_margin": 0.08,
+                "volume": 561.6,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.0295584045584043
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 275.52000000000004,
+                "ebit_margin": 0.343,
+                "volume": 295.2,
+                "volume_unit": "million average monthly active users",
+                "price": 0.9333333333333335
+              },
+              {
+                "name": "Other",
+                "revenue": 2.06,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 20.53872,
+            "capex": 26.52918,
+            "delta_nwc": 8.244599999999998,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 34.2312,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 6.418349999999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 670.7119999999999,
+                "ebit_margin": 0.085,
+                "volume": 600.912,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.1161567750352794
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 303.07200000000006,
+                "ebit_margin": 0.349,
+                "volume": 302.58,
+                "volume_unit": "million average monthly active users",
+                "price": 1.001626016260163
+              },
+              {
+                "name": "Other",
+                "revenue": 2.1218,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 23.421739199999998,
+            "capex": 30.253079799999995,
+            "delta_nwc": 8.408805999999995,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 39.036232,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 7.319293499999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 764.61168,
+                "ebit_margin": 0.09,
+                "volume": 636.9667200000001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.2003950222077533
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 327.3177600000001,
+                "ebit_margin": 0.355,
+                "volume": 310.14449999999994,
+                "volume_unit": "million average monthly active users",
+                "price": 1.0553718024985133
+              },
+              {
+                "name": "Other",
+                "revenue": 2.185454,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 26.258757456,
+            "capex": 33.917561714,
+            "delta_nwc": 8.274636580000012,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 43.764595760000006,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 8.205861705,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 856.3650816,
+                "ebit_margin": 0.095,
+                "volume": 668.8150560000001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.2804213570216036
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 350.2300032000001,
+                "ebit_margin": 0.36,
+                "volume": 316.34738999999996,
+                "volume_unit": "million average monthly active users",
+                "price": 1.1071057143856953
+              },
+              {
+                "name": "Other",
+                "revenue": 2.2510176200000003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 29.01230645808001,
+            "capex": 37.47422917502001,
+            "delta_nwc": 8.031184589400018,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 48.3538440968,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 9.06634576815,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 942.0015897600001,
+                "ebit_margin": 0.1,
+                "volume": 695.5676582400001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.3542918199266964
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 371.24380339200013,
+                "ebit_margin": 0.36,
+                "volume": 322.6743378,
+                "volume_unit": "million average monthly active users",
+                "price": 1.1505216247537617
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3185481486,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 31.57353459121441,
+            "capex": 40.78248218031861,
+            "delta_nwc": 7.470248721642006,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 52.62255765202401,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 9.866729559754502,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1017.3617169408002,
+                "ebit_margin": 0.105,
+                "volume": 716.4346879872002,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.4200341412823612
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 389.80599356160013,
+                "ebit_margin": 0.36,
+                "volume": 329.127824556,
+                "volume_unit": "million average monthly active users",
+                "price": 1.1843604960700487
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3881045930580003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 33.829339562291,
+            "capex": 43.6962302679592,
+            "delta_nwc": 6.57943116564005,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 56.38223260381833,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 10.571668613215936,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1088.5770371266563,
+                "ebit_margin": 0.105,
+                "volume": 737.9277286268161,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.4751810982253657
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 405.39823330406415,
+                "ebit_margin": 0.36,
+                "volume": 335.71038104712,
+                "volume_unit": "million average monthly active users",
+                "price": 1.2075832508949518
+              },
+              {
+                "name": "Other",
+                "revenue": 2.4597477308497404,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 35.91444043587769,
+            "capex": 46.38948556300868,
+            "delta_nwc": 6.081544214627844,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 59.8574007264628,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 11.223262636211775,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1153.8916593542556,
+                "ebit_margin": 0.105,
+                "volume": 752.6862831993525,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.5330313373714584
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 417.5601803031861,
+                "ebit_margin": 0.36,
+                "volume": 342.4245886680624,
+                "volume_unit": "million average monthly active users",
+                "price": 1.2194223023743138
+              },
+              {
+                "name": "Other",
+                "revenue": 2.5335401627752328,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 37.775649115685205,
+            "capex": 48.79354677442672,
+            "delta_nwc": 5.428525316105261,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 62.95941519280868,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 11.804890348651625,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1211.5862423219685,
+                "ebit_margin": 0.105,
+                "volume": 767.7400088633395,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.578120494352972
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 430.08698571228166,
+                "ebit_margin": 0.36,
+                "volume": 347.5609574980833,
+                "volume_unit": "million average monthly active users",
+                "price": 1.237443321621225
+              },
+              {
+                "name": "Other",
+                "revenue": 2.60954636765849,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 39.46278658564581,
+            "capex": 50.97276600645917,
+            "delta_nwc": 4.920817620718429,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 65.77131097607635,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 12.332120808014315,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.1,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.28,
+        "other_assets_m": 300.9,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 490.0,
+                "ebit_margin": 0.075,
+                "volume": 520.0,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 0.9423076923076923
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 246.0,
+                "ebit_margin": 0.337,
+                "volume": 288.0,
+                "volume_unit": "million average monthly active users",
+                "price": 0.8541666666666666
+              },
+              {
+                "name": "Other",
+                "revenue": 2.0,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 18.45,
+            "capex": 24.354000000000003,
+            "delta_nwc": 8.622249999999998,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 29.52,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 5.535,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 612.5,
+                "ebit_margin": 0.09,
+                "volume": 582.4000000000001,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.051682692307692
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 287.82,
+                "ebit_margin": 0.35,
+                "volume": 302.40000000000003,
+                "volume_unit": "million average monthly active users",
+                "price": 0.9517857142857141
+              },
+              {
+                "name": "Other",
+                "revenue": 2.06,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 22.5595,
+            "capex": 29.778539999999996,
+            "delta_nwc": 11.506599999999993,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 36.0952,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 6.76785,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 753.375,
+                "ebit_margin": 0.1,
+                "volume": 646.4640000000002,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.1653781185031182
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 330.993,
+                "ebit_margin": 0.36,
+                "volume": 314.49600000000004,
+                "volume_unit": "million average monthly active users",
+                "price": 1.052455357142857
+              },
+              {
+                "name": "Other",
+                "revenue": 2.1218,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 27.162245,
+            "capex": 35.8541634,
+            "delta_nwc": 12.887685999999997,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 43.459592,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 8.148673500000001,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 904.05,
+                "ebit_margin": 0.11,
+                "volume": 711.1104000000003,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.2713215838215832
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 370.71216000000004,
+                "ebit_margin": 0.37,
+                "volume": 325.50336,
+                "volume_unit": "million average monthly active users",
+                "price": 1.138888888888889
+              },
+              {
+                "name": "Other",
+                "revenue": 2.185454,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 31.92369035,
+            "capex": 42.139271262,
+            "delta_nwc": 13.332046980000008,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 51.07790456,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 9.577107105,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1057.7385,
+                "ebit_margin": 0.12,
+                "volume": 767.9992320000003,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.3772650491400484
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 407.7833760000001,
+                "ebit_margin": 0.38,
+                "volume": 335.2684608,
+                "volume_unit": "million average monthly active users",
+                "price": 1.2162891046386195
+              },
+              {
+                "name": "Other",
+                "revenue": 2.2510176200000003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 36.6943223405,
+            "capex": 48.436505489460004,
+            "delta_nwc": 13.357769573400013,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 58.710915744800005,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 11.00829670215,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1205.82189,
+                "ebit_margin": 0.13,
+                "volume": 814.0791859200004,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.481209581150618
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 440.4060460800001,
+                "ebit_margin": 0.38,
+                "volume": 345.326514624,
+                "volume_unit": "million average monthly active users",
+                "price": 1.27533226505797
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3185481486,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 41.213662105715,
+            "capex": 54.40203397954381,
+            "delta_nwc": 12.654151342602,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 65.941859369144,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 12.3640986317145,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1338.4622979,
+                "ebit_margin": 0.13,
+                "volume": 854.7831452160005,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.565850128644939
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 466.83040884480016,
+                "ebit_margin": 0.38,
+                "volume": 353.9596774896,
+                "volume_unit": "million average monthly active users",
+                "price": 1.3188801960599497
+              },
+              {
+                "name": "Other",
+                "revenue": 2.3881045930580003,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 45.19202028344645,
+            "capex": 59.65346677414932,
+            "delta_nwc": 11.139402897648063,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 72.30723245351433,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 13.557606085033935,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1458.9239047110002,
+                "ebit_margin": 0.13,
+                "volume": 888.9744710246406,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.641131384829792
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 490.1719292870402,
+                "ebit_margin": 0.38,
+                "volume": 361.038871039392,
+                "volume_unit": "million average monthly active users",
+                "price": 1.3576707900617129
+              },
+              {
+                "name": "Other",
+                "revenue": 2.4597477308497404,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 48.78888954322226,
+            "capex": 64.40133419705339,
+            "delta_nwc": 10.071233927372251,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 78.06222326915561,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 14.636666862966674,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1561.0485780407703,
+                "ebit_margin": 0.13,
+                "volume": 915.6437051553798,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.704864642493085
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 509.77880645852184,
+                "ebit_margin": 0.38,
+                "volume": 368.25964846017985,
+                "volume_unit": "million average monthly active users",
+                "price": 1.384291785945276
+              },
+              {
+                "name": "Other",
+                "revenue": 2.5335401627752328,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 51.83402311655169,
+            "capex": 68.42091051384824,
+            "delta_nwc": 8.526374005322417,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 82.9344369864827,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 15.550206934965503,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Advertising (issuer revenue category; allocated margin)",
+                "revenue": 1654.7114927232167,
+                "ebit_margin": 0.13,
+                "volume": 943.1130163100413,
+                "volume_unit": "million average monthly reachable users, estimated; not unique inventory units",
+                "price": 1.7545208942161845
+              },
+              {
+                "name": "Query (issuer revenue category; allocated margin)",
+                "revenue": 530.1699587168628,
+                "ebit_margin": 0.38,
+                "volume": 375.6248414293834,
+                "volume_unit": "million average monthly active users",
+                "price": 1.4114347621402816
+              },
+              {
+                "name": "Other",
+                "revenue": 2.60954636765849,
+                "ebit_margin": 0.2,
+                "volume": null,
+                "price": null,
+                "volume_unit": "not material"
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.2,
+            "da": 54.687274945193444,
+            "capex": 72.18720292765535,
+            "delta_nwc": 7.989105120196896,
+            "shares_m": 91.076,
+            "dividend_per_share": 0.8,
+            "stub_dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Allocated segment EBIT includes corporate overhead, SBC and cash rent. Price fields mean annual category revenue per monthly active/reachable user, combining intensity, mix and monetization, not an observed price. ARPU is full-year revenue/average users, not Q2 annualized ARPU. No MiniPay standalone revenue or AI scarcity premium.",
+            "forecast_sbc_m": 87.49963991230952,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 16.406182483558034,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      }
+    },
+    "status": "Modelled; moderate valuation gap, not extreme undervaluation",
+    "accounting_notes": "One ADS equals one ordinary share. Starting cash deducts known July dividend of $35.6m from June cash; no invented July\u2013September operating cash. $35m operating cash reserve is an assumption. $6m senior reserve=$1m repurchase payable+$5m remaining MiniPay commitments; no value assigned to MiniPay associates. Base OPay value is 75% of $300.9m carrying amount; downside zero, upside full carrying value, not an independent OPay valuation. Future EBIT retains SBC and cash rent; DA excludes ROU depreciation and leases are excluded from debt. No future award issuance or repurchase accretion: ongoing SBC is treated as cash-equivalent compensation, existing awards represented by Q2 diluted count. Capitalized development, equipment and allowance for noncash development additions are deducted in capex. Reported DA in history includes leases; forecast DA excludes them. No material defined-benefit pension or minority interest reported in reviewed statements.",
+    "latest_interim": {
+      "period": "H1 2026",
+      "revenue": 353.839,
+      "ebit": 55.672,
+      "da_including_leases": 10.636,
+      "cfo": 64.337,
+      "cash_capex": 9.291,
+      "sbc_total_expense": 14.242,
+      "noncash_awards": 12.949,
+      "lease_principal": 2.629,
+      "lease_interest": 0.225,
+      "opay_non_cash_gain": 6.3,
+      "source_ids": [
+        "DN02"
+      ]
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  },
+  {
+    "ticker": "GRSD",
+    "company": "Grandstand Limited (formerly Gambling.com Group)",
+    "currency": "USD",
+    "valuation_method": "fcff",
+    "valuation_date": "2026-09-08",
+    "price": 1.9199,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "basic_shares_m": 35.597464,
+    "shares_m": 38.200398,
+    "balance_date": "2026-06-30",
+    "cash_m": 8.809,
+    "minimum_cash_m": 5,
+    "debt_m": 126.438,
+    "senior_claims_m": 27.105,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0.08,
+    "sources": [
+      {
+        "id": "DN04",
+        "title": "Gambling.com / Grandstand 2025 Form 20-F",
+        "publication_date": "2026-03-19",
+        "url": "https://www.sec.gov/Archives/edgar/data/1839799/000183979926000048/gamb-20251231.htm",
+        "section": "Items 3,5,15; notes 5,8,13\u201316,19\u201323",
+        "supports": "2023\u201325 history; control weaknesses; acquired growth; customers and capital commitments",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN05",
+        "title": "Grandstand Q2 2026 earnings release",
+        "publication_date": "2026-08-13",
+        "url": "https://www.sec.gov/Archives/edgar/data/1839799/000183979926000138/gamb-q22026xpressrelease.htm",
+        "section": "Highlights, outlook and financial statements",
+        "supports": "2026 revenue/EBITDA guidance; current operations",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN06",
+        "title": "Grandstand H1 2026 Form 6-K financial report",
+        "publication_date": "2026-08-13",
+        "url": "https://grandstand.com/investors/media/document/e380013d-af9f-4fb0-aee0-e9204372f868/assets/d293d430-1bb9-4014-98c1-3cba4702ff92.pdf?disposition=inline",
+        "section": "pp.2\u20136,12,18\u201329,32\u201339,58\u201364; notes 4\u201316,25",
+        "supports": "Principal debt, cash, awards, acquisition claims, contracts, tax, litigation and NDCs",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN07",
+        "title": "Grandstand Q2 2026 management call transcript",
+        "publication_date": "2026-08-13",
+        "url": "https://grandstand.com/investors/media/document/f609d165-085f-481b-9e8e-39ab434073cc/assets/GRSD_Q2_2026_Transcript.pdf?disposition=inline",
+        "section": "pp.2\u20135,7,11",
+        "supports": "Management statements: 67% non-SEO marketing, 25% workforce reduction, $13m annual savings",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN08",
+        "title": "OpticOdds API technical documentation",
+        "publication_date": null,
+        "url": "https://developer.opticodds.com/docs/opticodds-for-prediction-market-makers",
+        "section": "Prediction-market integrations, streams and order books",
+        "supports": "Observable product functionality; does not establish paid customer relationships or data rights",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN09",
+        "title": "Sportradar Q2 2026 results",
+        "publication_date": "2026-08-03",
+        "url": "https://investors.sportradar.com/news-releases/news-release-details/sportradar-reports-second-quarter-2026-financial-results",
+        "section": "Revenue and Business Highlights",
+        "supports": "Competitor demand and competitive supply; prediction-market contracts; growth partly acquired",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN22",
+        "title": "US Treasury daily yield curve",
+        "publication_date": "2026-09-04",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "section": "2026-09-04 row",
+        "supports": "Five-year 4.54%, ten-year 4.78%; nominal USD discount-rate anchor",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      },
+      {
+        "id": "DN23",
+        "title": "OpticOdds litigation opposition update",
+        "publication_date": "2026-08-05",
+        "url": "https://opticodds.com/blog/opticodds-litigation-update",
+        "section": "Issuer statement and link to proposed counterclaims filed August 4",
+        "supports": "Issuer disputes allegations and seeks counterclaims; allegations are not adjudicated facts",
+        "type": "primary",
+        "accessed": "2026-09-08"
+      }
+    ],
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 108.652,
+        "ebit": 21.778,
+        "da": 2.088,
+        "capex": 9.243,
+        "cfo": 17.91,
+        "sbc": 3.6,
+        "marketing": 101.0,
+        "data": 7.652,
+        "acquisition_cash_in_cfo": 7.497,
+        "source_ids": [
+          "DN04"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 127.182,
+        "ebit": 35.675,
+        "da": 5.802,
+        "capex": 24.286,
+        "cfo": 37.638,
+        "sbc": 5.0,
+        "marketing": 118.815,
+        "data": 8.367,
+        "acquisition_cash_in_cfo": 7.156,
+        "source_ids": [
+          "DN04"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 165.447,
+        "ebit": -31.788,
+        "da": 14.419,
+        "capex": 4.756,
+        "cfo": 19.104,
+        "sbc": 6.9,
+        "marketing": 124.32,
+        "data": 41.127,
+        "acquisition_cash_in_cfo": 18.59,
+        "source_ids": [
+          "DN04"
+        ]
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.4,
+        "wacc": 0.16,
+        "terminal_growth": 0,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 121.0,
+                "ebit_margin": 0.14728358208955225,
+                "volume": 0.52,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 232.69230769230768
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 46.5,
+                "ebit_margin": 0.19228358208955226,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 4.3,
+            "tax_rate": 0.2,
+            "da": 13.0175,
+            "capex": 6.7,
+            "delta_nwc": 0.16423999999999978,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 6.7,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.5074999999999998,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 90.75,
+                "ebit_margin": 0.03418123667377397,
+                "volume": 0.442,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 205.31674208144796
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 34.875,
+                "ebit_margin": 0.03418123667377397,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 9.075,
+            "tax_rate": 0.2,
+            "da": 10.780982142857145,
+            "capex": 5.025,
+            "delta_nwc": 2.5,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 5.025,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.130625,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 72.60000000000001,
+                "ebit_margin": 0.012631989381118314,
+                "volume": 0.3757,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 193.23928666489223
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 29.64375,
+                "ebit_margin": 0.04263198938111831,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 9.151875,
+            "tax_rate": 0.2,
+            "da": 8.932833035714285,
+            "capex": 4.08975,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 4.08975,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.92019375,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 61.71000000000001,
+                "ebit_margin": 0.01859633862411786,
+                "volume": 0.33813,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 182.5037707390649
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.06859633862411785,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.2306718749999987,
+            "tax_rate": 0.2,
+            "da": 7.315874241071429,
+            "capex": 3.5948625000000005,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 3.5948625000000005,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.8088440625000001,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 55.53900000000001,
+                "ebit_margin": 0.030357213741203093,
+                "volume": 0.31784219999999996,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 174.7376528352749
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.1003572137412031,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.3114386718749986,
+            "tax_rate": 0.2,
+            "da": 5.829140383928572,
+            "capex": 3.3480225000000003,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 3.3480225000000003,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.7533050625,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 52.20666000000001,
+                "ebit_margin": 0.045226878860164986,
+                "volume": 0.308306934,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 169.33339553109113
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.12522687886016498,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.394224638671873,
+            "tax_rate": 0.23,
+            "da": 4.4020183867857146,
+            "capex": 3.2147289000000003,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 3.2147289000000003,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.7233140025,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 49.596327,
+                "ebit_margin": 0.06154655745070271,
+                "volume": 0.29905772597999997,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 165.84198531395523
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.14154655745070271,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.47908025463867,
+            "tax_rate": 0.23,
+            "da": 2.9900585366428576,
+            "capex": 3.1103155800000004,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 3.1103155800000004,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.6998210055,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 47.11651065,
+                "ebit_margin": 0.079,
+                "volume": 0.29008599420059994,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 162.42256293634793
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.159,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.566057261004637,
+            "tax_rate": 0.23,
+            "da": 1.58083953615,
+            "capex": 3.011122926,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 3.011122926,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.6775026583499999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 44.7606851175,
+                "ebit_margin": 0.079,
+                "volume": 0.2813834143745819,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 159.0736441129181
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.159,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.655208692529752,
+            "tax_rate": 0.23,
+            "da": 1.5313671999675003,
+            "capex": 2.9168899047,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 2.9168899047,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.6563002285575,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 42.522650861625,
+                "ebit_margin": 0.079,
+                "volume": 0.27294191194334444,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 155.79377516213628
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 28.1615625,
+                "ebit_margin": 0.159,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.7465889098429956,
+            "tax_rate": 0.23,
+            "da": 1.484368480594125,
+            "capex": 2.827368534465,
+            "delta_nwc": 0.0,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 2.827368534465,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 0.6361579202546249,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.45,
+        "wacc": 0.12,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.22,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 121.0,
+                "ebit_margin": 0.14728358208955225,
+                "volume": 0.52,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 232.69230769230768
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 46.5,
+                "ebit_margin": 0.19228358208955226,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 4.3,
+            "tax_rate": 0.2,
+            "da": 13.0175,
+            "capex": 6.7,
+            "delta_nwc": 0.16423999999999978,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 6.7,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.5074999999999998,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 111.32000000000001,
+                "ebit_margin": 0.18000272493617459,
+                "volume": 0.5304,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 209.8793363499246
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 54.87,
+                "ebit_margin": 0.22000272493617457,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.0749999999999997,
+            "tax_rate": 0.2,
+            "da": 11.632847142857145,
+            "capex": 6.6476,
+            "delta_nwc": 2.5,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 6.6476,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.4957099999999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 106.8672,
+                "ebit_margin": 0.18920491703018427,
+                "volume": 0.541008,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 197.53349303522313
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 63.64919999999999,
+                "ebit_margin": 0.23920491703018426,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.1518749999999995,
+            "tax_rate": 0.2,
+            "da": 10.366558685714285,
+            "capex": 6.820656,
+            "delta_nwc": 0.34611199999999825,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 6.820656,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.5346475999999998,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 104.729856,
+                "ebit_margin": 0.19838026316613067,
+                "volume": 0.55182816,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 189.78708154364574
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 72.560088,
+                "ebit_margin": 0.25838026316613066,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.2306718749999987,
+            "tax_rate": 0.2,
+            "da": 9.151660252571428,
+            "capex": 7.09159776,
+            "delta_nwc": 0.5418835200000013,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 7.09159776,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.5956094959999998,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 104.729856,
+                "ebit_margin": 0.2071102642077506,
+                "volume": 0.5628647232,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 186.06576621926052
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 81.26729856,
+                "ebit_margin": 0.27711026420775065,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.3114386718749986,
+            "tax_rate": 0.2,
+            "da": 7.977368817188573,
+            "capex": 7.4398861824,
+            "delta_nwc": 0.6965768448000017,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 7.4398861824,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.67397439104,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 105.77715456,
+                "ebit_margin": 0.21509279467953274,
+                "volume": 0.5741220176640001,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 184.24159204064034
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 89.39402841600001,
+                "ebit_margin": 0.28509279467953275,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.394224638671873,
+            "tax_rate": 0.23,
+            "da": 6.812880556781714,
+            "capex": 7.806847319040001,
+            "delta_nwc": 0.7339222732799999,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 7.806847319040001,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.756540646784,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 107.8926976512,
+                "ebit_margin": 0.22236160005204791,
+                "volume": 0.5856044580172801,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 184.2415920406403
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 96.54555068928002,
+                "ebit_margin": 0.2923616000520479,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.47908025463867,
+            "tax_rate": 0.23,
+            "da": 5.650346072292939,
+            "capex": 8.177529933619201,
+            "delta_nwc": 0.7413652291584003,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 8.177529933619201,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.83994423506432,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 110.050551604224,
+                "ebit_margin": 0.229,
+                "volume": 0.5973165471776257,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 184.2415920406403
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 103.30373923752963,
+                "ebit_margin": 0.299,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.566057261004637,
+            "tax_rate": 0.23,
+            "da": 4.480440107676826,
+            "capex": 8.534171633670145,
+            "delta_nwc": 0.7132834001018887,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 8.534171633670145,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.9201886175757825,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 112.25156263630848,
+                "ebit_margin": 0.229,
+                "volume": 0.6092628781211783,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 184.24159204064028
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 109.5019635917814,
+                "ebit_margin": 0.299,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.655208692529752,
+            "tax_rate": 0.23,
+            "da": 4.656824050789887,
+            "capex": 8.870141049123594,
+            "delta_nwc": 0.6719388309068995,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 8.870141049123594,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.9957817360528087,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 114.49659388903466,
+                "ebit_margin": 0.229,
+                "volume": 0.6214481356836019,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 184.24159204064028
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 114.97706177137047,
+                "ebit_margin": 0.299,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.7465889098429956,
+            "tax_rate": 0.23,
+            "da": 4.818946768868508,
+            "capex": 9.178946226416206,
+            "delta_nwc": 0.6176103545852221,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 9.178946226416206,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.065262900943646,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.15,
+        "wacc": 0.11,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.25,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 121.0,
+                "ebit_margin": 0.14728358208955225,
+                "volume": 0.52,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 232.69230769230768
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 46.5,
+                "ebit_margin": 0.19228358208955226,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 4.3,
+            "tax_rate": 0.2,
+            "da": 13.0175,
+            "capex": 7.5375,
+            "delta_nwc": 0.16423999999999978,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 6.7,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.5074999999999998,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 124.63000000000001,
+                "ebit_margin": 0.2047813893952911,
+                "volume": 0.5564,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 223.99352983465135
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 59.52,
+                "ebit_margin": 0.2547813893952911,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.0749999999999997,
+            "tax_rate": 0.2,
+            "da": 12.010007142857145,
+            "capex": 8.28675,
+            "delta_nwc": 3.8320000000000007,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 7.3660000000000005,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.6573499999999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 130.8615,
+                "ebit_margin": 0.22594112492740098,
+                "volume": 0.600912,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 217.77148733924435
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 74.4,
+                "ebit_margin": 0.285941124927401,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.1518749999999995,
+            "tax_rate": 0.2,
+            "da": 11.096205785714286,
+            "capex": 9.236767500000001,
+            "delta_nwc": 1.6889200000000006,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 8.210460000000001,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 1.8473534999999999,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 138.71319000000003,
+                "ebit_margin": 0.23534415514155466,
+                "volume": 0.64898496,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 213.73868201814724
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 90.768,
+                "ebit_margin": 0.3053441551415546,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.2306718749999987,
+            "tax_rate": 0.2,
+            "da": 10.247676418571428,
+            "capex": 10.326653550000001,
+            "delta_nwc": 1.9375752000000013,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 9.179247600000002,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.06533071,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 147.03598140000003,
+                "ebit_margin": 0.24297972383730582,
+                "volume": 0.6944139072000001,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 211.74112424227673
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 107.10624,
+                "ebit_margin": 0.3229797238373058,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.3114386718749986,
+            "tax_rate": 0.2,
+            "da": 9.408415220828573,
+            "capex": 11.436399963000001,
+            "delta_nwc": 1.972882512000001,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 10.165688856000001,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.2872799926000003,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 154.38778047000002,
+                "ebit_margin": 0.2492209030841267,
+                "volume": 0.7360787416320002,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 209.74356646640615
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 123.172176,
+                "ebit_margin": 0.32922090308412666,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.394224638671873,
+            "tax_rate": 0.23,
+            "da": 8.543044800155714,
+            "capex": 12.49019804115,
+            "delta_nwc": 1.8734188055999994,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 11.102398258800001,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.49803960823,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 160.56329168880004,
+                "ebit_margin": 0.25445370341442386,
+                "volume": 0.7728826787136002,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 207.74600869053563
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 137.95283712,
+                "ebit_margin": 0.3344537034144238,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.47908025463867,
+            "tax_rate": 0.23,
+            "da": 7.6259815621276585,
+            "capex": 13.433225796396002,
+            "delta_nwc": 1.6764937871040002,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 11.940645152352001,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.6866451592792,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 166.98582335635203,
+                "ebit_margin": 0.259,
+                "volume": 0.8115268126492802,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 205.76747527443527
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 151.748120832,
+                "ebit_margin": 0.33899999999999997,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.566057261004637,
+            "tax_rate": 0.23,
+            "da": 6.6934128279553935,
+            "capex": 14.343027488475842,
+            "delta_nwc": 1.6174252303641605,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 12.749357767534082,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 2.8686054976951683,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 171.9953980570426,
+                "ebit_margin": 0.259,
+                "volume": 0.8439878851552514,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 203.78894185833494
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 163.88797049856004,
+                "ebit_margin": 0.33899999999999997,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.655208692529752,
+            "tax_rate": 0.23,
+            "da": 7.053550739667655,
+            "capex": 15.114751585002116,
+            "delta_nwc": 1.3719539493800448,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 13.435334742224104,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 3.022950317000423,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Marketing (issuer category; allocated margin)",
+                "revenue": 177.15525999875388,
+                "ebit_margin": 0.259,
+                "volume": 0.8777474005614615,
+                "volume_unit": "million annual NDC referrals; revenue also includes retained-cohort share and ticket/other",
+                "price": 201.8294328020048
+              },
+              {
+                "name": "Sports data subscriptions (issuer category; allocated margin)",
+                "revenue": 173.72124872847365,
+                "ebit_margin": 0.33899999999999997,
+                "volume": null,
+                "price": null,
+                "volume_unit": "paying seat/client counts undisclosed; see indexed driver decomposition"
+              }
+            ],
+            "corporate_cost": 3.7465889098429956,
+            "tax_rate": 0.23,
+            "da": 7.368406683271779,
+            "capex": 15.789442892725239,
+            "delta_nwc": 1.1994512137299944,
+            "shares_m": 38.200398,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forecasts analyst assumptions. Marketing/data contribution margins are after recurring SBC, cash rent, sales/content/R&D and cloud expense, before allocated DA and explicit corporate/legal costs. 2026 anchor adopts $167.5m issuer-guidance midpoint, but forecast cash economics are independent of adjusted EBITDA. No acquisitions or Rollcard revenue are assumed. Marketing revenue per NDC is a blended diagnostic, not a CPA price. NDCs do not count retained revenue-share cohorts twice. Financing stress separately settles old acquisition claims and tests 2028 refinancing.",
+            "forecast_sbc_m": 14.035060349089102,
+            "sbc_note": "Analyst recurring compensation allowance of 4% revenue included in segment margins; do not subtract again. Existing awards included in initial diluted shares.",
+            "forecast_cash_rent_m": 3.1578885785450477,
+            "lease_note": "Cash rent allowance is included in segment margins; DA excludes leases and lease liabilities are excluded from debt."
+          }
+        ]
+      }
+    },
+    "status": "Unconfirmed research candidate: potential large gap; data-rights litigation, refinancing and controls unresolved",
+    "accounting_notes": "June principal debt $126.438m exceeds balance-sheet amortized-cost borrowings $122.325m. $26.479m deferred purchase consideration and $0.126m contingent consideration are senior claims; a further $0.5m analyst reserve covers separately undisclosed accrued interest, not a reported balance. Face amounts $27.966m due April 2027 and $0.149m April 2028 enter separate dated financing stress, not FCFF. Existing 2.602934m RSUs included fully in initial shares; options at $2.47\u201314.71 excluded from base and tested separately in upside. Future EBIT retains recurring SBC cash-equivalent cost; no future buyback accretion. Cash rent is in operating margins; DA excludes ROU amortization; leases excluded from debt. Development additions include noncash additions (H1 book addition $2.600m versus cash $2.489m), so potential capitalized awards are not silently omitted. Acquired amortization declines as current customer/software assets expire; replacement development, sales, content and legal expense remain. $2.5m FY27 working-capital settlement allowance covers acquired-employee bonuses/accrued costs; it is not another purchase earnout. Deferred tax assets not valued separately: operating tax forecasts incorporate normalization. Swish litigation exposure is unquantified; downside models business destruction, with separate damages sensitivities. No material minority interest reported.",
+    "latest_interim": {
+      "period": "H1 2026",
+      "revenue": 78.204,
+      "marketing": 55.743,
+      "data": 22.461,
+      "ebit": 2.095,
+      "da_including_leases": 7.152,
+      "lease_da": 0.639,
+      "cfo": 2.702,
+      "cash_capex": 2.812,
+      "noncash_development_difference": 0.111,
+      "sbc": 3.447,
+      "acquisition_cash_in_cfo": 9.784,
+      "acquired_employee_bonus_cash": 2.813,
+      "source_ids": [
+        "DN05",
+        "DN06"
+      ]
+    },
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
+  }
+]

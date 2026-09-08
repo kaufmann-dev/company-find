@@ -1,0 +1,244 @@
+[
+  {
+    "ticker": "STLA",
+    "company": "Stellantis",
+    "country": "Netherlands",
+    "value_chain": "Automotive manufacturing and captive finance",
+    "listing_exchange": "NYSE",
+    "price": 5.415,
+    "price_timestamp": "2026-09-08T15:38:00Z",
+    "role": "Five regional vehicle businesses; financial operations separately reported.",
+    "role_evidence": {
+      "publication_date": "2026-07-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548426000064/stellantisnv20260630semi-a.htm",
+      "section": "Results by segment pp22\u201339; liquidity pp40\u201346; notes10\u201313,18\u201319"
+    },
+    "financial_mechanism": "Vehicle replacement, a better product range and reduced factory underutilization could restore ordinary cash margins, without a return to2023 record profitability.",
+    "decision": "advance",
+    "reason": "Corrected DCF base $7.25 / weighted $7.72; serious turnaround risk. Fails extreme-gap hurdle after cash research spending and replacement investment are aligned. Combined stress is zero; hybrids, pension claims and operating cash reserve deducted.",
+    "source_ids": [
+      "DC3",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "DINO",
+    "company": "HF Sinclair",
+    "country": "United States",
+    "value_chain": "Refined fuels and lubricants",
+    "listing_exchange": "NYSE",
+    "price": 109.132,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Refineries, renewable diesel, marketing, lubricants and midstream assets.",
+    "role_evidence": {
+      "publication_date": "2026-07-28",
+      "url": "https://www.hfsinclair.com/investor-relations/press-releases/Press-Release-Details/2026/HF-Sinclair-Reports-2026-Second-Quarter-Results-and-Announces-Increase-in-Regular-Cash-Dividend/default.aspx",
+      "section": "Refining; lubricants; financial results"
+    },
+    "financial_mechanism": "Regional supply closures and distribution advantages can improve refining and lubricant margins.",
+    "decision": "not advanced",
+    "reason": "Q2 refining margin of $25.95/barrel and lubricant FIFO gains were unusually favorable. Current price requires normalized cash flow analysis; one-quarter annualization is insufficient. Not advanced, rather than proven overvalued.",
+    "source_ids": [
+      "DC12",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "HUN",
+    "company": "Huntsman",
+    "country": "United States",
+    "value_chain": "Polyurethanes and specialty materials",
+    "listing_exchange": "NYSE",
+    "price": 9.655,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Polyurethanes, performance products and advanced materials manufacturing.",
+    "role_evidence": {
+      "publication_date": "2026-07-30",
+      "url": "https://www.huntsman.com/investors/newsroom/news-releases/detail/629/huntsman-announces-second-quarter-2026-earnings",
+      "section": "Highlights and segment analysis"
+    },
+    "financial_mechanism": "Construction and insulation recovery can improve plant utilization and cash margins.",
+    "decision": "not advanced",
+    "reason": "The signed all-stock Olin merger changes the security being purchased. A standalone model would misstate future economics; the combined merger valuation remains unresolved. Q2 free cash outflow was $90m.",
+    "source_ids": [
+      "DC13",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "CE",
+    "company": "Celanese",
+    "country": "United States",
+    "value_chain": "Acetyl chemicals and engineering polymers",
+    "listing_exchange": "NYSE",
+    "price": 44.8291,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Acetyl chemicals and qualified engineering polymers.",
+    "role_evidence": {
+      "publication_date": "2026-08-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000114/q220268-kex991a.htm",
+      "section": "Acetyl Chain; Engineered Materials; Q3 outlook"
+    },
+    "financial_mechanism": "Low-cost Western plants and better medical/electronics product mix can improve cash generation.",
+    "decision": "not advanced",
+    "reason": "Management expects temporary supply opportunities to normalize, while raw-material costs catch up. $12.007bn debt puts creditors ahead of common shareholders. A full cycle and liability model is unresolved.",
+    "source_ids": [
+      "DC14",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "ASIX",
+    "company": "AdvanSix",
+    "country": "United States",
+    "value_chain": "Integrated nylon and ammonium sulfate",
+    "listing_exchange": "NYSE",
+    "price": 17.37,
+    "price_timestamp": "2026-09-08T15:34:00Z",
+    "role": "Integrated cumene-to-phenol/acetone, caprolactam and nylon production, with ammonium sulfate coproduct.",
+    "role_evidence": {
+      "publication_date": "2026-02-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/1673985/000167398526000008/asix-20251231.htm",
+      "section": "Business; statements pp43\u201346; notes8\u201310"
+    },
+    "financial_mechanism": "Lower project spending and more granular nutrient output could increase cash conversion.",
+    "decision": "reject after model",
+    "reason": "Detailed DCF rejects the stock: $12.04 base and $12.94 weighted value versus $17.37. Even a 6% normalized EBIT margin fails to support the price after capital spending. Nylon oversupply and October2027 refinancing remain material.",
+    "source_ids": [
+      "DC10",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "SBSW",
+    "company": "Sibanye-Stillwater",
+    "country": "South Africa",
+    "value_chain": "PGM and gold mining",
+    "listing_exchange": "NYSE",
+    "price": 13.2515,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "South African platinum-group-metals and gold mining, US PGM mining and recycling.",
+    "role_evidence": {
+      "publication_date": "2026-09-01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1786909/000162828026059701/form6-kh137.htm",
+      "section": "Operating results; liquidity pp12\u201314; all-in costs"
+    },
+    "financial_mechanism": "Mine closures and cost discipline can strengthen commodity prices and operating cash margins.",
+    "decision": "not advanced",
+    "reason": "H1 earnings rebounded with metal prices and a ZAR9.361bn working-capital benefit. Published net debt excludes Burnstone. ADR, convertible dilution and full mining liability bridges remain unresolved.",
+    "source_ids": [
+      "DC16",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "VALE",
+    "company": "Vale",
+    "country": "Brazil",
+    "value_chain": "Iron ore and base metals",
+    "listing_exchange": "NYSE",
+    "price": 15.7283,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Iron ore, copper and nickel mines supported by logistics infrastructure.",
+    "role_evidence": {
+      "publication_date": "2026-07-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426004002/valepr2q26_6k.htm",
+      "section": "Financial highlights; Iron Ore Solutions and Base Metals"
+    },
+    "financial_mechanism": "Low-cost ore output and copper projects could support cash generation despite lower ore premiums.",
+    "decision": "not advanced",
+    "reason": "Its own Serra Sul expansion adds20Mt of annual ore capacity. Q2 copper prices were already $14,062/t, while expanded net debt was $16.677bn. Supply normalization and liability modeling are still required.",
+    "source_ids": [
+      "DC17",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "EC",
+    "company": "Ecopetrol",
+    "country": "Colombia",
+    "value_chain": "Integrated oil and regulated infrastructure",
+    "listing_exchange": "NYSE",
+    "price": 17.695,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Oil and gas production, refining, transport and ISA electricity transmission.",
+    "role_evidence": {
+      "publication_date": "2026-08-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/1444406/000129281426004040/ex99-1.htm",
+      "section": "Financial/operational summary and keymessages"
+    },
+    "financial_mechanism": "Refinery utilization and regulated infrastructure can diversify cash generation across the oil cycle.",
+    "decision": "not advanced",
+    "reason": "Record refining margins of $29.8/barrel are cyclical. Natural upstream decline around18% requires replacement investment; COP8tn FEPC receivables lock up cash. Acquisition and political claims remain unresolved.",
+    "source_ids": [
+      "DC18",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "PBR",
+    "company": "Petrobras",
+    "country": "Brazil",
+    "value_chain": "Offshore oil and refining",
+    "listing_exchange": "NYSE",
+    "price": 20.885,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Brazilian pre-salt oil production, refining and transport.",
+    "role_evidence": {
+      "publication_date": "2026-08-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1119639/000129281426004129/pbrrmf2q26usd_6k.htm",
+      "section": "Results; liquidity; debt; financial statements"
+    },
+    "financial_mechanism": "Low lifting costs and new offshore platforms can increase output and cash flow.",
+    "decision": "not advanced",
+    "reason": "Q2 Brent averaged $104.52/barrel and reported free cash flow excludes lease principal. Net debt of $60.388bn includes leased platforms. No complete normalized reserve and decommissioning valuation was established.",
+    "source_ids": [
+      "DC19",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "MEOH",
+    "company": "Methanex",
+    "country": "Canada",
+    "value_chain": "Methanol",
+    "listing_exchange": "Nasdaq",
+    "price": 58.785,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Global methanol production and distribution, including partially owned plants.",
+    "role_evidence": {
+      "publication_date": "2026-07-28",
+      "url": "https://www.methanex.com/news/release/methanex-reports-record-north-american-production-and-second-quarter-2026-earnings/",
+      "section": "Operational data"
+    },
+    "financial_mechanism": "Gas-constrained shutdowns can improve margins for low-cost North American supply.",
+    "decision": "not advanced",
+    "reason": "Q2 realized price of $529/t versus $351/t in Q1 already captures disruption. The September1 announcement sells New Zealand gas entitlements and idles production from2027, transferring some value away from manufacturing. Peak spreads are not sustainable valuation inputs.",
+    "source_ids": [
+      "DC20",
+      "DC1"
+    ]
+  },
+  {
+    "ticker": "MOS",
+    "company": "Mosaic",
+    "country": "United States",
+    "value_chain": "Phosphate and potash fertilizers",
+    "listing_exchange": "NYSE",
+    "price": 26.5633,
+    "price_timestamp": "2026-09-08T15:34 UTC; exact nanosecond tick in market_capture.json",
+    "role": "Phosphate and potash mining, fertilizer production and Brazilian distribution.",
+    "role_evidence": {
+      "publication_date": "2026-08-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000109/pressreleaseq22026-ex991.htm",
+      "section": "Results; production and third-quarteroutlook"
+    },
+    "financial_mechanism": "Lower sulfur costs could restore phosphate margins and cash conversion.",
+    "decision": "not advanced",
+    "reason": "The current bottleneck hurts cash: Q3 sulfur contracts were $705/long ton and Q2 operating loss was $36m. $1.2bn capital spending and Brazilian curtailments constrain near-term cash. The Maaden investment needs separate valuation.",
+    "source_ids": [
+      "DC21",
+      "DC1"
+    ]
+  }
+]

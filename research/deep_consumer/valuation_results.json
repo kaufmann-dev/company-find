@@ -1,0 +1,155 @@
+{
+  "ticker": "DECK",
+  "company": "Deckers Outdoor Corporation",
+  "currency": "USD",
+  "price": 83.6399,
+  "price_timestamp": "2026-09-08T15:38:00Z",
+  "current_equity_m": 11409.6723048573,
+  "diluted_equity_m": 11457.096128157298,
+  "scenarios": {
+    "downside": {
+      "probability": 0.3,
+      "enterprise_value_m": 3839.2793019672145,
+      "equity_value_m": 4859.378621967215,
+      "residual_after_senior_claims_m": 4859.378621967215,
+      "nonoperating_assets_value_m": 0,
+      "fair_value_per_share": 35.474778029015724,
+      "terminal_pv_m": 717.1918459557712,
+      "terminal_share_of_ev": 0.18680376954817748,
+      "terminal_next_fcff_m": 429.4792673914955,
+      "annualized_return": -0.09390591534762643,
+      "future_equity_per_share": 51.08686987606998,
+      "future_operating_ev_m": 3541.0550128434297,
+      "retained_excess_cash_m": 3456.887106369973,
+      "future_nonoperating_assets_m": 0,
+      "horizon_debt_m": 0.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -83.6399
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 51.08686987606998
+        }
+      ]
+    },
+    "base": {
+      "probability": 0.5,
+      "enterprise_value_m": 12034.945027273825,
+      "equity_value_m": 13055.044347273824,
+      "residual_after_senior_claims_m": 13055.044347273824,
+      "nonoperating_assets_value_m": 0,
+      "fair_value_per_share": 95.30535412180112,
+      "terminal_pv_m": 4106.080749574056,
+      "terminal_share_of_ev": 0.3411798508650249,
+      "terminal_next_fcff_m": 1315.8016773993422,
+      "annualized_return": 0.11105884384314157,
+      "future_equity_per_share": 141.6013855070647,
+      "future_operating_ev_m": 13634.3635995391,
+      "retained_excess_cash_m": 5762.367932118637,
+      "future_nonoperating_assets_m": 0,
+      "horizon_debt_m": 0.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -83.6399
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 141.6013855070647
+        }
+      ]
+    },
+    "upside": {
+      "probability": 0.2,
+      "enterprise_value_m": 17973.5499895015,
+      "equity_value_m": 18993.6493095015,
+      "residual_after_senior_claims_m": 18993.6493095015,
+      "nonoperating_assets_value_m": 0,
+      "fair_value_per_share": 138.65877628254492,
+      "terminal_pv_m": 7302.253127809287,
+      "terminal_share_of_ev": 0.40627773211605916,
+      "terminal_next_fcff_m": 1916.1088740619803,
+      "annualized_return": 0.19784394973894137,
+      "future_equity_per_share": 206.23437786735525,
+      "future_operating_ev_m": 21565.62726655281,
+      "retained_excess_cash_m": 6684.610863299153,
+      "future_nonoperating_assets_m": 0,
+      "horizon_debt_m": 0.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -83.6399
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 206.23437786735525
+        }
+      ]
+    }
+  },
+  "current_ev_m": 10389.572984857301,
+  "conventional_ev_m": 9839.572984857301,
+  "probability_weighted_fair_value": 86.02686572611427,
+  "upside": 0.0285386009083497,
+  "margin_of_safety": 0.027746747553417883,
+  "expected_scenario_annualized_return": 0.06692643726507114,
+  "expected_cashflow_annualized_return": 0.08777282638034334,
+  "reverse_margin": {
+    "parallel_margin_change_percentage_points": -2.5783839291139685,
+    "price_justifying_2030_margin": 0.18421616070886032,
+    "fair_value_at_solution": 83.6399
+  },
+  "sensitivity": [
+    {
+      "wacc": 0.09000000000000001,
+      "g": 0.01,
+      "fair_value": 101.66102610817256
+    },
+    {
+      "wacc": 0.09000000000000001,
+      "g": 0.02,
+      "fair_value": 108.1198659609417
+    },
+    {
+      "wacc": 0.09000000000000001,
+      "g": 0.03,
+      "fair_value": 114.23771176374797
+    },
+    {
+      "wacc": 0.1,
+      "g": 0.01,
+      "fair_value": 90.72675527384966
+    },
+    {
+      "wacc": 0.1,
+      "g": 0.02,
+      "fair_value": 95.30535412180112
+    },
+    {
+      "wacc": 0.1,
+      "g": 0.03,
+      "fair_value": 99.26679260593149
+    },
+    {
+      "wacc": 0.11,
+      "g": 0.01,
+      "fair_value": 82.00484922147277
+    },
+    {
+      "wacc": 0.11,
+      "g": 0.02,
+      "fair_value": 85.3476065818266
+    },
+    {
+      "wacc": 0.11,
+      "g": 0.03,
+      "fair_value": 88.00703811260908
+    }
+  ],
+  "probability_sensitivity_shift_10pp_upside_to_downside": 75.70846590076135
+}

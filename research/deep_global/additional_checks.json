@@ -1,0 +1,738 @@
+{
+  "PDD": {
+    "persistent_discount_returns": {
+      "downside": {
+        "0": {
+          "annualized_return": 0.012536638250285281,
+          "terminal_price": 84.74747099943585,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 84.74747099943585
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": -0.03166397159995554,
+          "terminal_price": 67.79797679954868,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 67.79797679954868
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": -0.0858132502792715,
+          "terminal_price": 50.84848259966151,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 50.84848259966151
+            }
+          ]
+        }
+      },
+      "base": {
+        "0": {
+          "annualized_return": 0.1576960344647954,
+          "terminal_price": 165.57925187047564,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 165.57925187047564
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": 0.10715873160435263,
+          "terminal_price": 132.46340149638053,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 132.46340149638053
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": 0.045246497688055,
+          "terminal_price": 99.34755112228538,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 99.34755112228538
+            }
+          ]
+        }
+      },
+      "upside": {
+        "0": {
+          "annualized_return": 0.23118353612540588,
+          "terminal_price": 225.23137579142383,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 225.23137579142383
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": 0.17743825809936065,
+          "terminal_price": 180.1851006331391,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 180.1851006331391
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": 0.11159599828914246,
+          "terminal_price": 135.1388254748543,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -79.63
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 135.1388254748543
+            }
+          ]
+        }
+      }
+    },
+    "unchanged_current_base_discount": {
+      "discount": 0.3468793018604025,
+      "annualized_return": 0.06313439589180614,
+      "terminal_price": 108.14323657907731,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -79.63
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 108.14323657907731
+        }
+      ]
+    },
+    "loss_of_all_shareholder_access_tail": {
+      "0.05": {
+        "weighted_value": 110.83085423258036,
+        "upside": 0.39182285862841093
+      },
+      "0.1": {
+        "weighted_value": 104.99765137823404,
+        "upside": 0.31856902396375797
+      }
+    },
+    "current_financial_asset_access_sensitivity": {
+      "0": 72.38350144820365,
+      "0.5": 97.15291779997662,
+      "1": 121.92233415174961
+    },
+    "fx_sensitivity": {
+      "-0.1": 135.46926016861067,
+      "0": 121.92233415174961,
+      "0.1": 110.83848559249964
+    },
+    "probability_sensitivity": {
+      "[0.25, 0.55, 0.2]": 116.6640570869267,
+      "[0.4, 0.5, 0.1]": 105.43712356076942,
+      "[0.5, 0.4, 0.1]": 100.39855190310806
+    },
+    "combined_adverse": {
+      "fair_value": 83.88101536056553,
+      "returns_at_40pct_persistent_discount": {
+        "annualized_return": -0.040912053349628386,
+        "terminal_price": 64.6221343811199,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 64.6221343811199
+          }
+        ]
+      },
+      "notes": "Base2027onwardrevenue20%lower,marginsPDD4pp/VIPS2pplower,capex30%higher,NWCadditional1bn/0.3bnRMBannual,terminalg0,otherinvestments50%loss,40%futuretradingdiscount."
+    },
+    "flat_2025_EBIT": {
+      "fair_value": 110.30294110352462,
+      "return_at_20pct_discount": {
+        "annualized_return": 0.08007412029826189,
+        "terminal_price": 117.03657886051897,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 117.03657886051897
+          }
+        ]
+      },
+      "return_at_40pct_discount": {
+        "annualized_return": 0.01967645583153621,
+        "terminal_price": 87.77743414538922,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -79.63
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 87.77743414538922
+          }
+        ]
+      },
+      "notes": "EBITfixedRMB93.102bn2026-35;2026knownH147.33bn;maintainbasecapex/NWC/tax. Thereafterterminalnominalg1.5%withrequiredreinvestment."
+    },
+    "onshore_only_asset_access_stress": {
+      "assumed_accessible_offshore_USD_m": 39061.214758300055,
+      "assumed_onshore_USD_m": 33934.25523037492,
+      "base_if_onshore_current_assets_zero": 98.8926393907215,
+      "notes": "Decoutside-mainlandcash+shortinvestment282132mRMB heldconstant;subtract20000operatingcash; Junegeographyunknown. Excludesallcurrentonshoreassetvaluebutdoesnotdeletefutureoperatingearnings; diagnostic, notcompletepermanentVIEfailurecase."
+    },
+    "portfolio_shock": {
+      "fair_value_after_50pct_loss_on_Dec_equity_security_proxy": 118.58337953116819
+    },
+    "remittance_tax_sensitivity": {
+      "undistributed_earnings_RMB_m": 150575.935,
+      "recorded_tax_payable_reserved_RMB_m": 27637,
+      "additional_unrecorded_remittance_reserve_RMB_m": 10000,
+      "reserve_percent_of_earnings_pool": 0.06641167461453917,
+      "base_with_full_10pct_reserve_on_existing_pool": 121.41086495398405,
+      "base_without_additional_reserve": 122.9336238051501,
+      "base_with_10pct_withholding_on_all_future_after_tax_operating_profit": 114.05214740278022,
+      "notes": "20-F Note15 F-34/F-36:10% statutory outbound withholding subject to treaty relief; majority of earnings intended indefinitely reinvested and associated deferred tax not provided. Existing recorded taxes payable and additional unprovided remittance reserve are distinct. Future-profit test increases operating cash tax25% to32.5%, retaining the existing cash reserve; maximum all-profit remittance assumption, not a legal conclusion on each entity. No shareholder-level tax modeled."
+    }
+  },
+  "VIPS": {
+    "persistent_discount_returns": {
+      "downside": {
+        "0": {
+          "annualized_return": -0.1277364508004742,
+          "terminal_price": 5.29169280946276,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 5.29169280946276
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": -0.16134783189117025,
+          "terminal_price": 4.233354247570208,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 4.233354247570208
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": -0.20178452575163025,
+          "terminal_price": 3.175015685677656,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.3
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 3.175015685677656
+            }
+          ]
+        }
+      },
+      "base": {
+        "0": {
+          "annualized_return": 0.16390399976768066,
+          "terminal_price": 23.248168325590967,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 23.248168325590967
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": 0.11754197395444133,
+          "terminal_price": 18.598534660472776,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 18.598534660472776
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": 0.061414922053852794,
+          "terminal_price": 13.94890099535458,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.62
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 13.94890099535458
+            }
+          ]
+        }
+      },
+      "upside": {
+        "0": {
+          "annualized_return": 0.22927426809105766,
+          "terminal_price": 30.823608416263724,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.6386000000000001
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.657758
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.67749074
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.6978154622000001
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.7187499260660001
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 30.823608416263724
+            }
+          ]
+        },
+        "0.2": {
+          "annualized_return": 0.17998624113563888,
+          "terminal_price": 24.65888673301098,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.6386000000000001
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.657758
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.67749074
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.6978154622000001
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.7187499260660001
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 24.65888673301098
+            }
+          ]
+        },
+        "0.4": {
+          "annualized_return": 0.12025527286079807,
+          "terminal_price": 18.494165049758234,
+          "cashflows": [
+            {
+              "date": "2026-09-08",
+              "per_share": -13.015
+            },
+            {
+              "date": "2027-04-24",
+              "per_share": 0.6386000000000001
+            },
+            {
+              "date": "2028-04-24",
+              "per_share": 0.657758
+            },
+            {
+              "date": "2029-04-24",
+              "per_share": 0.67749074
+            },
+            {
+              "date": "2030-04-24",
+              "per_share": 0.6978154622000001
+            },
+            {
+              "date": "2031-04-24",
+              "per_share": 0.7187499260660001
+            },
+            {
+              "date": "2031-09-08",
+              "per_share": 18.494165049758234
+            }
+          ]
+        }
+      }
+    },
+    "unchanged_current_base_discount": {
+      "discount": 0.3228822567304217,
+      "annualized_return": 0.08451217507883346,
+      "terminal_price": 15.741747271775447,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -13.015
+        },
+        {
+          "date": "2027-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2028-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2029-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2030-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2031-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 15.741747271775447
+        }
+      ]
+    },
+    "loss_of_all_shareholder_access_tail": {
+      "0.05": {
+        "weighted_value": 16.30529901719814,
+        "upside": 0.25280822260454405
+      },
+      "0.1": {
+        "weighted_value": 15.44712538471403,
+        "upside": 0.18687094773062074
+      }
+    },
+    "current_financial_asset_access_sensitivity": {
+      "0": 7.860219491289753,
+      "0.5": 13.540698250647608,
+      "1": 19.221177010005466
+    },
+    "fx_sensitivity": {
+      "-0.1": 21.356863344450517,
+      "0": 19.221177010005466,
+      "0.1": 17.47379728182315
+    },
+    "probability_sensitivity": {
+      "[0.25, 0.55, 0.2]": 17.163472649682255,
+      "[0.4, 0.5, 0.1]": 14.870794747570923,
+      "[0.5, 0.4, 0.1]": 13.662965626744402
+    },
+    "combined_adverse": {
+      "fair_value": 8.42718244421845,
+      "returns_at_40pct_persistent_discount": {
+        "annualized_return": -0.12626561172498102,
+        "terminal_price": 4.3368007886887305,
+        "cashflows": [
+          {
+            "date": "2026-09-08",
+            "per_share": -13.015
+          },
+          {
+            "date": "2027-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2028-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2029-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2030-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2031-04-24",
+            "per_share": 0.62
+          },
+          {
+            "date": "2031-09-08",
+            "per_share": 4.3368007886887305
+          }
+        ]
+      },
+      "notes": "Base2027onwardrevenue20%lower,marginsPDD4pp/VIPS2pplower,capex30%higher,NWCadditional1bn/0.3bnRMBannual,terminalg0,otherinvestments50%loss,40%futuretradingdiscount."
+    },
+    "supplemental_buyback_case": {
+      "annualized_return": 0.10024800342716056,
+      "terminal_price": 17.058174293192735,
+      "events": [
+        {
+          "year": 2026,
+          "buyback_m": 0,
+          "execution_price": 12.769988309683866,
+          "retired_shares_m": 0.0,
+          "shares_after_m": 482.390225
+        },
+        {
+          "year": 2027,
+          "buyback_m": 400,
+          "execution_price": 13.284921674997957,
+          "retired_shares_m": 30.109323169950983,
+          "shares_after_m": 452.280901830049
+        },
+        {
+          "year": 2028,
+          "buyback_m": 400,
+          "execution_price": 14.176734159246012,
+          "retired_shares_m": 28.215243052936952,
+          "shares_after_m": 424.06565877711205
+        },
+        {
+          "year": 2029,
+          "buyback_m": 400,
+          "execution_price": 15.157093738681802,
+          "retired_shares_m": 26.390283447226846,
+          "shares_after_m": 397.6753753298852
+        },
+        {
+          "year": 2030,
+          "buyback_m": 400,
+          "execution_price": 16.23733051902573,
+          "retired_shares_m": 24.634591229839717,
+          "shares_after_m": 373.04078410004547
+        }
+      ],
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -13.015
+        },
+        {
+          "date": "2027-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2028-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2029-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2030-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2031-04-24",
+          "per_share": 0.62
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 17.058174293192735
+        }
+      ],
+      "notes": "Supplemental assumption:400mUSDyearly2027-2030, sharesrepurchasedat35%discounttopre-buybackintrinsicclaims. Noautomaticdiscountclosure. BaseDCFdoesnotassumethis. Aprildivdates; buybacksDecember31; noneafter2030asfiveyearhorizonSep2031. SBCalreadychargedGAAPEBITsoallmodeledrepurchasesincremental."
+    },
+    "claim_uncertainties": {
+      "if_REIT_tax_already_paid": 19.724694788788312,
+      "if_other_investments_realized_at_full_book": 19.99048761450359,
+      "if_all_nonoperating_investments_worth_zero": 15.850061228478856
+    }
+  }
+}

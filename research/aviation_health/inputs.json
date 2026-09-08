@@ -4,8 +4,8 @@
     "company": "IQVIA",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 261.17,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 261.89,
+    "price_timestamp": "2026-09-08T15:38:00Z",
     "shares_m": 165.8,
     "basic_shares_m": 164.6,
     "balance_date": "2026-06-30",
@@ -1167,15 +1167,15 @@
     "probability_basis": "Subjective 30% demand/efficiency disappointment, 50% measured recovery and 20% stronger growth and margin recovery. Positive bookings support recovery, but flat GAAP EBIT and mixed industry trial starts prevent assigning the upside the highest weight.",
     "terminal_transition_note": "The common engine extends the forecast with explicit 2036-40 economic reinvestment normalization. It preserves required replacement capital and phases reinvestment to at least NOPAT*g/ROIC. The additional spending is a transparent analyst economic capital assumption, not disclosed cash capex guidance.",
     "shares_date": "2026-07-21",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   },
   {
     "ticker": "AER",
     "company": "AerCap",
     "currency": "USD",
     "valuation_date": "2026-09-08",
-    "price": 145.165,
-    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "price": 145.4819,
+    "price_timestamp": "2026-09-08T15:36:00Z",
     "shares_m": 157.184065,
     "basic_shares_m": 154.430065,
     "balance_date": "2026-06-30",
@@ -3146,6 +3146,6 @@
     },
     "capital_bridge_note": "Annual capex is an all-in asset investment proxy: replacement and growth lease assets plus growth in pre-delivery payments. The same prepayment change is reported as delta_nwc for visibility and is already inside capex; do not subtract it again in the custom equity bridge. Opening unrestricted cash is inside required book equity; no extra cash is added to equity DCF value.",
     "probability_basis": "Subjective 30% combined adverse, 50% orderly normalization and 20% persistent scarcity. These are judgment weights, not statistical frequencies. Leverage, airline profitability and demonstrated manufacturer additions support meaningful downside weight.",
-    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+    "quote_field": "Massive min.c; minute start min.t; delayed snapshot captured2026-09-08T15:54:39Z"
   }
 ]
