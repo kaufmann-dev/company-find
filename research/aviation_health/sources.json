@@ -1,0 +1,302 @@
+[
+  {
+    "id": "AH1",
+    "title": "AerCap Q2 2026 results",
+    "publication_date": "2026-07-29",
+    "url": "https://www.aercap.com/investors/news-events/news/detail/643/aercap-holdings-n-v-reports-strong-financial-results-for",
+    "section": "Revenue and Net Spread; Financial Position; Book Value; guidance",
+    "supports": "Q2 results, share repurchases, guidance; single underlying source with interim financials",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH2",
+    "title": "AerCap 2025 Form 20-F",
+    "publication_date": "2026-02-12",
+    "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-007513/aer-20251231.htm",
+    "section": "pp44,54; F-5,F-7; Notes15,31",
+    "supports": "2023-25 history, lease economics, purchase commitments and financing",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH3",
+    "title": "AerCap H1 2026 interim report",
+    "publication_date": "2026-07-29",
+    "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-050456/aer-20260630_d2.htm",
+    "section": "pp4-7,35-46; Notes22,25,27",
+    "supports": "Balance/share count; fleet utilization; deposits; June additions and July Boeing order",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH4",
+    "title": "IATA Global Outlook for Air Transport June 2026",
+    "publication_date": "2026-06",
+    "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/global-outlook-for-air-transport-june-2026/",
+    "section": "pp27-29, charts22-25; pp38-39 industry financial outlook",
+    "supports": "Effective and hypothetical shortages distinguished; industry estimates, not individual funded airline orders",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH5",
+    "title": "Airbus H1 2026 results",
+    "publication_date": "2026-07-29",
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results",
+    "section": "Commercial aircraft; production ramp; outlook",
+    "supports": "Observed351 H1 deliveries; management targets A32070-75/month end2027, A35012/month2028",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH6",
+    "title": "Boeing Q2 2026 results",
+    "publication_date": "2026-07-28",
+    "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Second-Quarter-Results/default.aspx",
+    "section": "Commercial Airplanes",
+    "supports": "Observed314 H1 deliveries; transitioning737 to47/month; first737-7/-10 and777X deliveries2027 forecasts",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH7",
+    "title": "AAR FY2026 Q4 results",
+    "publication_date": "2026-07-21",
+    "url": "https://www.aarcorp.com/globalassets/investors/earnings/fy-2026-q4-results/aar-fy-2026-q4-earnings.pdf",
+    "section": "pp1-2",
+    "supports": "Parts distribution, component and airframe MRO, Trax; FY26EPS5.05 adjusted",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH8",
+    "title": "GE Aerospace Q2 2026 results",
+    "publication_date": "2026-07-16",
+    "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results",
+    "section": "Commercial Engines & Services",
+    "supports": "Engine installed base and service exposure; higher volume with margin decline",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH9",
+    "title": "HEICO Q3 fiscal2026 results",
+    "publication_date": "2026-08-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/46619/000004661926000018/a07312026ex991earningsrele.htm",
+    "section": "Flight Support Group; consolidated results",
+    "supports": "PMA/replacement parts and repair mix; FSG25.9%Q3 margin; EPS1.67",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH10",
+    "title": "MTU H1 2026 results",
+    "publication_date": "2026-07-30",
+    "url": "https://www.mtu.de/investors/publications-events/latest-ir-news/ir-news-details/mtu-aero-engines-remains-on-track-with-growth-in-first-half-of-2026-and-raises-free-cash-flow-guidance-1-1/",
+    "section": "Commercial maintenance; capex; guidance",
+    "supports": "MRO3.4bn revenue, margin8.0%; GTF46%MRO; capacity expansion",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH11",
+    "title": "Rolls-Royce H1 2026 results",
+    "publication_date": "2026-07-30",
+    "url": "https://www.rolls-royce.com/investors/results-reports-and-presentations/financial-results/rr-holdings-plc-2026-half-year-results.aspx",
+    "section": "Civil Aerospace; guidance; non-GAAP reconciliation",
+    "supports": "EFH and shop visits; contract catchups; PowerSystems exposure",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH12",
+    "title": "Lufthansa H1 2026 shareholder information",
+    "publication_date": "2026-08",
+    "url": "https://investor-relations.lufthansagroup.com/en/financial-reports-publications/shareholder-information/2-2026.html",
+    "section": "MRO; group results",
+    "supports": "Technik315mEBIT despitegroup-229mEBIT; value capture diluted by airlines",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH13",
+    "title": "IQVIA Q2 2026 results",
+    "publication_date": "2026-07-28",
+    "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Reports-Second-Quarter-2026-Results/default.aspx",
+    "section": "Tables1-5; Financial Position; Segment Results",
+    "supports": "2026recast segments, interim results/balance/shares, guidance/bookings",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH14",
+    "title": "IQVIA 2025 Form10-K",
+    "publication_date": "2026-02-17",
+    "url": "https://s201.q4cdn.com/580005511/files/doc_financials/2025/q4/IQV-2025-12-31-10K_Filed-with-exhibits.pdf",
+    "section": "pp5,50-55,69-73,103-107; Notes17,23",
+    "supports": "2023-25history, software capex, workforce, pension claims and backlog limits",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH15",
+    "title": "IQVIA Global R&D Trends2026 public summary",
+    "publication_date": "2026-03-25",
+    "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/global-r-and-d-trends-2026",
+    "section": "Key findings; Exhibits18,33,55",
+    "supports": "2025funding/starts not uniform recovery; oncology starts-4%; public summary only; paid report not accessed",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH16",
+    "title": "ICON Q2 2026 results",
+    "publication_date": "2026-07-29",
+    "url": "https://investor.iconplc.com/node/18466/pdf",
+    "section": "pp1-2; financial tables",
+    "supports": "Clinical outsourcing, bookings1.51x, EBITDA15.9%,EPSguidance10-11",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH17",
+    "title": "ICON FY2025 results and investigation outcome",
+    "publication_date": "2026-05-27",
+    "url": "https://investor.iconplc.com/news-releases/news-release-details/icon-reports-fourth-quarter-and-full-year-2025-results-and",
+    "section": "Conclusion of Investigation and Restatement",
+    "supports": "Improper revenue adjustments; material weaknesses; revised backlog policy",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH18",
+    "title": "Charles River Q2 2026 results",
+    "publication_date": "2026-08-05",
+    "url": "https://ir.criver.com/news-releases/news-release-details/charles-river-laboratories-announces-second-quarter-2026-results",
+    "section": "Segments and guidance",
+    "supports": "Earlystage research and manufacturing; organicflat, improvingDSA",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH19",
+    "title": "Danaher Q2 2026 results",
+    "publication_date": "2026-07-21",
+    "url": "https://investors.danaher.com/2026-07-21-Danaher-Reports-Second-Quarter-2026-Results",
+    "section": "Key results; guidance",
+    "supports": "Bioprocess/diagnostics supplier; core3%, Masimo acquisition",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH20",
+    "title": "Thermo Fisher Q2 2026 results",
+    "publication_date": "2026-07-23",
+    "url": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Second-Quarter-2026-Results/",
+    "section": "Highlights; financial results",
+    "supports": "Lab instruments, bioprocess and clinical services; 5%organic growth",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH21",
+    "title": "Eurofins investor update",
+    "publication_date": "2026-07-23",
+    "url": "https://www.eurofins.com/en/investors/",
+    "section": "H1results; July20acquisition",
+    "supports": "Analytical lab testing and NA life-science testing expansion; release detail403",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH22",
+    "title": "Sonic FY2026 preliminary final report",
+    "publication_date": "2026-08-20",
+    "url": "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/FR/Preliminary_Final_Report_30_June_2026.pdf",
+    "section": "Principal activities; segment results",
+    "supports": "Pathology/lab network and clinical services; detailed currency/ADR bridge not modelled",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH23",
+    "title": "FDA effectiveness evidence revised draft guidance",
+    "publication_date": "2026-06",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-evidence-effectiveness-human-drug-and-biological-products",
+    "section": "Summary; status; comment deadline",
+    "supports": "One adequate study plus confirmatory evidence; draft not for implementation",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH24",
+    "title": "IATA February2021 passenger analysis",
+    "publication_date": "2021-04",
+    "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/air-passenger-market-analysis---february-2021/",
+    "section": "Globaltraffic table",
+    "supports": "Historical demand shock erased operating scarcity despite physical capital still existing",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH25",
+    "title": "FDA novel drug approvals2025",
+    "publication_date": "2026-01",
+    "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025",
+    "section": "2025approval summary",
+    "supports": "46novelCDER drugs; not directly comparable with IQVIA global53USlaunches",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH26",
+    "title": "Eurofins analytical testing services",
+    "publication_date": "2026-07-23",
+    "url": "https://www.eurofins.com/en/",
+    "section": "Testing for Life",
+    "supports": "Primary datedrole evidence",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH27",
+    "title": "IQVIA Global Trends in R&D 2025",
+    "publication_date": "2025-03",
+    "url": "https://makingpharmaindustry.it/wp-content/uploads/2025/03/iqvia-institute-rd-trends-2025-forweb.pdf",
+    "section": "Printed pp14-15, clinical trial starts; funding and R&D budget sections",
+    "supports": "Primary authored IQVIA report hosted on a third-party mirror; 2023 starts 5302 and 2024 starts 5318; 2021 peak 6432",
+    "source_type": "primary authored report, mirrored",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH28",
+    "title": "AerCap 2021 Form 20-F",
+    "publication_date": "2022-03-30",
+    "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001378789-22-000006/aer-20211231.htm",
+    "section": "pp53-55; F-7; 2020 comparative financial statements",
+    "supports": "Adverse history: 2020 common-shareholder net loss $298.566m, asset impairment $1086.983m, operating cash flow $2130.4m",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH29",
+    "title": "US Treasury daily nominal yield curve",
+    "publication_date": "2026-09-04",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+    "section": "September 4 2026 row",
+    "supports": "Ten-year Treasury 4.78%, five-year 4.54%, USD discount rate anchor",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  },
+  {
+    "id": "AH30",
+    "title": "IQVIA Q2 2026 Form 10-Q",
+    "publication_date": "2026-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026050211/iqv-20260630.htm",
+    "section": "Cover; condensed statements; Notes9,12,14",
+    "supports": "Latest cover shares 164.6 million as of July21; interim financials, segment reconciliation, debt and SBC",
+    "source_type": "primary",
+    "access_date": "2026-09-08"
+  }
+]

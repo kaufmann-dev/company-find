@@ -1,0 +1,177 @@
+[
+  {
+    "id": "PW01",
+    "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042025000152/powl-20250930.htm",
+    "publication_date": "2025-11-19",
+    "section": "pp.39-43 financial statements; pp.58,61 deferred compensation; pp.63-64 segments",
+    "supports": "Powell 2023-25 history, accounting"
+  },
+  {
+    "id": "PW02",
+    "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000107/powl-20260630.htm",
+    "publication_date": "2026-08-04",
+    "section": "cover; pp.3-4,8,10,13-14,18,26-30",
+    "supports": "Powell latest balance, shares, existing dilution, end market revenues, backlog, customer advances"
+  },
+  {
+    "id": "PW03",
+    "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+    "publication_date": "2026-08-03",
+    "section": "key highlights and outlook",
+    "supports": "Powell orders and mega-project concentration"
+  },
+  {
+    "id": "PW04",
+    "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/mwa-20250930.htm",
+    "publication_date": "2025-11-19",
+    "section": "pp.2-5,10,34; F-4,F-5,F-8; notes 9,14",
+    "supports": "Mueller 2023-25 history, segments, customer concentration, pension, capex"
+  },
+  {
+    "id": "PW05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000036/mwa-20260630.htm",
+    "publication_date": "2026-08-06",
+    "section": "cover; pp.3-4,8,24; MD&A",
+    "supports": "Mueller current shares, balance, Q3 and 9m results, SBC and dividends"
+  },
+  {
+    "id": "PW06",
+    "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+    "publication_date": "2026-08-05",
+    "section": "segment results, fiscal 2026 outlook",
+    "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs"
+  },
+  {
+    "id": "PW07",
+    "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+    "publication_date": "2026-07-31",
+    "section": "business segment results and outlook",
+    "supports": "Eaton role, growth, operating margins and forward EPS"
+  },
+  {
+    "id": "PW08",
+    "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+    "publication_date": "2026-07-28",
+    "section": "quarterly results",
+    "supports": "Hubbell grid component comparison"
+  },
+  {
+    "id": "PW09",
+    "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+    "publication_date": "2026-07-22",
+    "section": "highlights and CEO comments",
+    "supports": "GEV end market order growth and announced annual turbine output 20/24/30 GW"
+  },
+  {
+    "id": "PW10",
+    "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+    "publication_date": "2026-08-05",
+    "section": "Q3 FY26 earnings release summary",
+    "supports": "Siemens grid/gas role and returning wind profitability"
+  },
+  {
+    "id": "PW11",
+    "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+    "publication_date": "2026-07-28",
+    "section": "second-quarter results and outlook",
+    "supports": "Xylem water solutions, sales growth and cash margin"
+  },
+  {
+    "id": "PW12",
+    "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+    "publication_date": "2026-07-22",
+    "section": "highlights and outlook",
+    "supports": "Badger metering, phasing and slower AMI deployments"
+  },
+  {
+    "id": "PW13",
+    "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+    "publication_date": "2026-07-24",
+    "section": "second-quarter highlights",
+    "supports": "Gorman-Rupp pumps, volumes and pricing"
+  },
+  {
+    "id": "PW14",
+    "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+    "publication_date": "2025-08-13",
+    "section": "pp.1-2; company-authored Q&A",
+    "supports": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only"
+  },
+  {
+    "id": "PW15",
+    "url": "https://www.iea.org/reports/building-the-future-transmission-grid/executive-summary",
+    "publication_date": "2025-02; exact day not captured",
+    "section": "executive summary",
+    "supports": "grid component lead times and permitting constraint; publication day to recheck"
+  },
+  {
+    "id": "PW16",
+    "url": "https://www.energy.gov/oe/articles/strengthening-americas-grid-supply-chain",
+    "publication_date": "2026-08-10",
+    "section": "supply-chain program",
+    "supports": "US load growth around 3%, customization and standardization supply response"
+  },
+  {
+    "id": "PW17",
+    "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-expands-manufacturing-for-modular-electrical-enclosures.html",
+    "publication_date": "2026-09-02",
+    "section": "investment announcement",
+    "supports": "Eaton Fibrebond $242m+ Arkansas factory doubles US enclosure capacity; ramp date not specified"
+  },
+  {
+    "id": "PW18",
+    "url": "https://www.epa.gov/dwsrf/epas-7th-drinking-water-infrastructure-needs-survey-and-assessment",
+    "publication_date": "2026-06",
+    "section": "survey summary; original 2023 study",
+    "supports": "$625bn 20-year drinking water need; need is not funded order"
+  },
+  {
+    "id": "PW19",
+    "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/AMERICAN-WATER-REPORTS-SOLID-SECOND-QUARTER-2026-RESULTS-AFFIRMS-2026-EPS-GUIDANCE-AND-LONG-TERM-TARGETS/default.aspx",
+    "publication_date": "2026-07-29",
+    "section": "infrastructure investment and regulated businesses",
+    "supports": "downstream customer budget $3.7bn includes acquisitions; H1 $1.8bn includes $346m acquisitions; rate recovery"
+  },
+  {
+    "id": "PW20",
+    "url": "https://www.census.gov/construction/nrc/current/",
+    "publication_date": "2026-08-18",
+    "section": "July housing starts and completions",
+    "supports": "housing starts 1.239m SAAR and completions 1.212m SAAR; new connection affordability pressure"
+  },
+  {
+    "id": "PW21",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67284",
+    "publication_date": "2026-03-05",
+    "section": "US electricity generation 2025",
+    "supports": "2025 4430TWh generation vs consumption distinction"
+  },
+  {
+    "id": "PW22",
+    "url": "https://www.eia.gov/energyexplained/electricity/use-of-electricity.php",
+    "publication_date": "2026; exact update date not captured",
+    "section": "2025 electricity consumption",
+    "supports": "2025 US consumption 4200TWh starting stock of annual energy use"
+  },
+  {
+    "id": "PW23",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=34172",
+    "publication_date": "2017; exact day not captured",
+    "section": "natural gas generation capacity",
+    "supports": "2000-05 gas plant build-out and subsequent low capacity factors as historical supply-response analogue"
+  },
+  {
+    "id": "PW24",
+    "url": "https://www.epa.gov/emergency-response-research/stormwater-management-technologies-hydrant-flushing-chlorination",
+    "publication_date": "2025-10; exact update day not captured",
+    "section": "hydrant flushing and chlorination",
+    "supports": "2.2million miles water pipe, attributable to ASCE2021, stale stock proxy"
+  },
+  {
+    "id": "PW25",
+    "url": "https://www.epa.gov/sites/default/files/2018-10/documents/corrected_sixth_drinking_water_infrastructure_needs_survey_and_assessment.pdf",
+    "publication_date": "2018-03",
+    "section": "p24, approaches to reporting pipe rehabilitation/replacement need",
+    "supports": "legacy0.5% annual renewal rate; explicitly historic rather than current observation"
+  }
+]

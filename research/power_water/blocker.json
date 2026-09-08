@@ -1,0 +1,48 @@
+{
+  "status": "optional standardized financial convenience data unavailable; required market quotes working",
+  "date": "2026-09-08",
+  "reason": "Massive standardized financial endpoints returned HTTP 403 NOT_AUTHORIZED. User prohibits permission workarounds.",
+  "working_endpoints": [
+    "/v2/snapshot/locale/us/markets/stocks/tickers/{ticker}",
+    "/stocks/v1/splits"
+  ],
+  "blocked_endpoints": [
+    "/stocks/financials/v1/income-statements",
+    "/stocks/financials/v1/cash-flow-statements",
+    "/stocks/financials/v1/balance-sheets"
+  ],
+  "required_access": "Massive plan entitlement for requested standardized financial endpoints if they are required for this task",
+  "quotes": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nPOWL,-1.126014240768335,-2.039999999999992,1788878045397865465,92756.370232,183.08,184.52,179.13,179.13,92756,180.7265,5444.395600,92756.370232,92756,1788877980000,179,179.74,179.74,179.13,179.13,5444,179.4173,175.51,182.5845,175.51,181.17,475485,180.4134\n"
+          }
+        ],
+        "structuredContent": {
+          "result": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nPOWL,-1.126014240768335,-2.039999999999992,1788878045397865465,92756.370232,183.08,184.52,179.13,179.13,92756,180.7265,5444.395600,92756.370232,92756,1788877980000,179,179.74,179.74,179.13,179.13,5444,179.4173,175.51,182.5845,175.51,181.17,475485,180.4134\n"
+        },
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nMWA,-0.3549060542797531,-0.08500000000000085,1788878040000000000,42598.782307,23.99,24.04,23.79,23.865,42598,23.9155,666.0,42597.782307,42597,1788877980000,29,23.87,23.87,23.86,23.865,666,23.8667,23.93,24.18,23.9,23.95,858710,23.9719\n"
+          }
+        ],
+        "structuredContent": {
+          "result": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nMWA,-0.3549060542797531,-0.08500000000000085,1788878040000000000,42598.782307,23.99,24.04,23.79,23.865,42598,23.9155,666.0,42597.782307,42597,1788877980000,29,23.87,23.87,23.86,23.865,666,23.8667,23.93,24.18,23.9,23.95,858710,23.9719\n"
+        },
+        "isError": false
+      }
+    }
+  ],
+  "resolution": "Root confirmed primary filings were always required financial basis. No denied endpoint retried. Original collection of public filings continued."
+}

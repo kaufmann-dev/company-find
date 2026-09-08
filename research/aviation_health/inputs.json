@@ -1,0 +1,3151 @@
+[
+  {
+    "ticker": "IQV",
+    "company": "IQVIA",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 261.17,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 165.8,
+    "basic_shares_m": 164.6,
+    "balance_date": "2026-06-30",
+    "cash_m": 1909,
+    "minimum_cash_m": 600,
+    "debt_m": 15999,
+    "senior_claims_m": 389,
+    "other_assets_m": 482.25,
+    "debt_interest_rate": 0.049,
+    "status": "modelled comparison; rejects at observed price",
+    "accounting_notes": "June30basic164.6m plus Q2diluted-minus-basic1.2m gives analystcurrentdiluted165.8m; no unobserved buybacks assumed. Forecast GAAP-equivalent EBIT retains SBC; D&A includes software/amortization, no SBC addback or additional dilution. Forecast capex includes software. Operating leases remain expenses; do not deduct lease liabilities again. Otherassets=(171+82+390)*75%; minority130 + gross underfundedpensions259 (2025footnote:US26/non-US233; ignore inaccessible pension surpluses). Pension provision heldconstant; servicecost in margins. Minimumcash600 assumed. Acquisitiongrowth beyond2026excluded. LatestbalanceJune30notreal-time; financialeffectsJuly-Sepunknown.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 14984,
+        "ebit": 1977,
+        "da": 1125,
+        "capex": 649,
+        "cfo": 2149,
+        "sbc": 217,
+        "segments": {
+          "TechnologyAnalytics": 5862,
+          "RD": 8395,
+          "ContractSales": 727
+        },
+        "source_ids": [
+          "AH14"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 15405,
+        "ebit": 2202,
+        "da": 1114,
+        "capex": 602,
+        "cfo": 2716,
+        "sbc": 206,
+        "segments": {
+          "TechnologyAnalytics": 6160,
+          "RD": 8527,
+          "ContractSales": 718
+        },
+        "source_ids": [
+          "AH14"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 16310,
+        "ebit": 2182,
+        "da": 1144,
+        "capex": 603,
+        "cfo": 2654,
+        "sbc": 247,
+        "segments": {
+          "TechnologyAnalytics": 6626,
+          "RD": 8896,
+          "ContractSales": 788
+        },
+        "source_ids": [
+          "AH14"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "AH13",
+        "title": "IQVIA Q2 2026 results",
+        "publication_date": "2026-07-28",
+        "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Reports-Second-Quarter-2026-Results/default.aspx",
+        "section": "Tables1-5; Financial Position; Segment Results",
+        "supports": "2026recast segments, interim results/balance/shares, guidance/bookings",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH14",
+        "title": "IQVIA 2025 Form10-K",
+        "publication_date": "2026-02-17",
+        "url": "https://s201.q4cdn.com/580005511/files/doc_financials/2025/q4/IQV-2025-12-31-10K_Filed-with-exhibits.pdf",
+        "section": "pp5,50-55,69-73,103-107; Notes17,23",
+        "supports": "2023-25history, software capex, workforce, pension claims and backlog limits",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH15",
+        "title": "IQVIA Global R&D Trends2026 public summary",
+        "publication_date": "2026-03-25",
+        "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/global-r-and-d-trends-2026",
+        "section": "Key findings; Exhibits18,33,55",
+        "supports": "2025funding/starts not uniform recovery; oncology starts-4%; public summary only; paid report not accessed",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH16",
+        "title": "ICON Q2 2026 results",
+        "publication_date": "2026-07-29",
+        "url": "https://investor.iconplc.com/node/18466/pdf",
+        "section": "pp1-2; financial tables",
+        "supports": "Clinical outsourcing, bookings1.51x, EBITDA15.9%,EPSguidance10-11",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH23",
+        "title": "FDA effectiveness evidence revised draft guidance",
+        "publication_date": "2026-06",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-evidence-effectiveness-human-drug-and-biological-products",
+        "section": "Summary; status; comment deadline",
+        "supports": "One adequate study plus confirmatory evidence; draft not for implementation",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH30",
+        "title": "IQVIA Q2 2026 Form 10-Q",
+        "publication_date": "2026-07-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026050211/iqv-20260630.htm",
+        "section": "Cover; condensed statements; Notes9,12,14",
+        "supports": "Latest cover shares 164.6 million as of July21; interim financials, segment reconciliation, debt and SBC",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.11,
+        "terminal_growth": 0.01,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7100,
+                "ebit_margin": 0.17,
+                "volume": 35500.0,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10250,
+                "ebit_margin": 0.098,
+                "volume": 51250.0,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              }
+            ],
+            "corporate_cost": 80.0,
+            "tax_rate": 0.24,
+            "da": 1160.0,
+            "capex": 780.75,
+            "delta_nwc": 124.8,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 312.29999999999995,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7029.0,
+                "ebit_margin": 0.15,
+                "volume": 34287.8049,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.205
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 9840.0,
+                "ebit_margin": 0.075,
+                "volume": 48235.2941,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20400000000000001
+              }
+            ],
+            "corporate_cost": 82.0,
+            "tax_rate": 0.24,
+            "da": 1177.3999999999999,
+            "capex": 759.105,
+            "delta_nwc": 120.0,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 303.642,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7169.58,
+                "ebit_margin": 0.15,
+                "volume": 34120.5473,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.210125
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 9840.0,
+                "ebit_margin": 0.08,
+                "volume": 47289.504,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20808000000000001
+              }
+            ],
+            "corporate_cost": 84.05,
+            "tax_rate": 0.24,
+            "da": 1195.0609999999997,
+            "capex": 765.4311,
+            "delta_nwc": 16.869600000000208,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 306.17244,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7348.8195,
+                "ebit_margin": 0.155,
+                "volume": 34120.5473,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.21537812499999995
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10036.8,
+                "ebit_margin": 0.085,
+                "volume": 47289.504,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.21224160000000003
+              }
+            ],
+            "corporate_cost": 86.15124999999998,
+            "tax_rate": 0.24,
+            "da": 1212.9869149999995,
+            "capex": 782.3528775,
+            "delta_nwc": 45.124739999999875,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 312.941151,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7569.2841,
+                "ebit_margin": 0.16,
+                "volume": 34286.989,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.22076257812499991
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10287.72,
+                "ebit_margin": 0.09,
+                "volume": 47521.3153,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.216486432
+              }
+            ],
+            "corporate_cost": 88.30503124999996,
+            "tax_rate": 0.24,
+            "da": 1231.1817187249997,
+            "capex": 803.5651838249998,
+            "delta_nwc": 56.566150199999534,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 321.42607352999994,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7796.3626,
+                "ebit_margin": 0.165,
+                "volume": 34454.2426,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2262816425781249
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10544.913,
+                "ebit_margin": 0.095,
+                "volume": 47754.263,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22081616064
+              }
+            ],
+            "corporate_cost": 90.51265703124996,
+            "tax_rate": 0.24,
+            "da": 1249.6494445058745,
+            "capex": 825.3574023397498,
+            "delta_nwc": 58.112582705999955,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 330.1429609358999,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7991.2717,
+                "ebit_margin": 0.17,
+                "volume": 34454.2426,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.231938683642578
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10808.5358,
+                "ebit_margin": 0.1,
+                "volume": 47988.3525,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22523248385280004
+              }
+            ],
+            "corporate_cost": 92.7754734570312,
+            "tax_rate": 0.24,
+            "da": 1268.3941861734622,
+            "capex": 845.9913373982434,
+            "delta_nwc": 55.02382682264972,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 338.39653495929736,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8191.0535,
+                "ebit_margin": 0.175,
+                "volume": 34454.2426,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.23773715073364246
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 11024.7065,
+                "ebit_margin": 0.105,
+                "volume": 47988.3525,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22973713352985603
+              }
+            ],
+            "corporate_cost": 95.09486029345697,
+            "tax_rate": 0.24,
+            "da": 1287.4200989660642,
+            "capex": 864.7092002725747,
+            "delta_nwc": 49.91430099821649,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 345.88368010902985,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8354.8745,
+                "ebit_margin": 0.175,
+                "volume": 34286.1731,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24368057950198346
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 11245.2007,
+                "ebit_margin": 0.11,
+                "volume": 47988.3525,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23433187620045315
+              }
+            ],
+            "corporate_cost": 97.47223180079338,
+            "tax_rate": 0.24,
+            "da": 1306.7314004505552,
+            "capex": 882.003384278026,
+            "delta_nwc": 46.117824014537035,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 352.8013537112104,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8521.972,
+                "ebit_margin": 0.175,
+                "volume": 34118.9235,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24977259398953305
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 11470.1047,
+                "ebit_margin": 0.11,
+                "volume": 47988.3525,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23901851372446223
+              }
+            ],
+            "corporate_cost": 99.90903759581322,
+            "tax_rate": 0.24,
+            "da": 1326.3323714573132,
+            "capex": 899.6434519635866,
+            "delta_nwc": 47.04018049482809,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 359.8573807854346,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.095,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.15,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7100,
+                "ebit_margin": 0.18,
+                "volume": 35500.0,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10250,
+                "ebit_margin": 0.105,
+                "volume": 51250.0,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              }
+            ],
+            "corporate_cost": 80.0,
+            "tax_rate": 0.23,
+            "da": 1160.0,
+            "capex": 694.0,
+            "delta_nwc": 83.2,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 312.29999999999995,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7561.5,
+                "ebit_margin": 0.185,
+                "volume": 36885.3659,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.205
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10865.0,
+                "ebit_margin": 0.115,
+                "volume": 53259.8039,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20400000000000001
+              }
+            ],
+            "corporate_cost": 82.0,
+            "tax_rate": 0.23,
+            "da": 1177.3999999999999,
+            "capex": 737.0600000000001,
+            "delta_nwc": 86.12,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 331.67699999999996,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8052.9975,
+                "ebit_margin": 0.19,
+                "volume": 38324.7948,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.210125
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 11571.225,
+                "ebit_margin": 0.125,
+                "volume": 55609.5012,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20808000000000001
+              }
+            ],
+            "corporate_cost": 84.05,
+            "tax_rate": 0.23,
+            "da": 1195.0609999999997,
+            "capex": 784.9688999999998,
+            "delta_nwc": 95.81779999999969,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 353.2360049999999,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8536.1773,
+                "ebit_margin": 0.195,
+                "volume": 39633.4463,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.21537812499999995
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 12265.4985,
+                "ebit_margin": 0.13,
+                "volume": 57790.2659,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.21224160000000003
+              }
+            ],
+            "corporate_cost": 86.15124999999998,
+            "tax_rate": 0.23,
+            "da": 1212.9869149999995,
+            "capex": 832.067034,
+            "delta_nwc": 94.19626800000027,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 374.43016529999994,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 9048.348,
+                "ebit_margin": 0.2,
+                "volume": 40986.7835,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.22076257812499991
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 12940.1009,
+                "ebit_margin": 0.135,
+                "volume": 59773.2652,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.216486432
+              }
+            ],
+            "corporate_cost": 88.30503124999996,
+            "tax_rate": 0.23,
+            "da": 1231.1817187249997,
+            "capex": 879.5379563399999,
+            "delta_nwc": 94.94184467999992,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 395.79208035299996,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 9500.7654,
+                "ebit_margin": 0.205,
+                "volume": 41986.4611,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2262816425781249
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 13587.106,
+                "ebit_margin": 0.14,
+                "volume": 61531.3024,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22081616064
+              }
+            ],
+            "corporate_cost": 90.51265703124996,
+            "tax_rate": 0.23,
+            "da": 1249.6494445058745,
+            "capex": 923.5148541570001,
+            "delta_nwc": 87.95379563400027,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 415.58168437065,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 9928.2998,
+                "ebit_margin": 0.21,
+                "volume": 42805.7092,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.231938683642578
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 14198.5257,
+                "ebit_margin": 0.145,
+                "volume": 63039.4226,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22523248385280004
+              }
+            ],
+            "corporate_cost": 92.7754734570312,
+            "tax_rate": 0.23,
+            "da": 1268.3941861734622,
+            "capex": 965.073022594065,
+            "delta_nwc": 83.11633687412977,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 434.2828601673292,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 10325.4318,
+                "ebit_margin": 0.21,
+                "volume": 43432.1342,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.23773715073364246
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 14766.4668,
+                "ebit_margin": 0.145,
+                "volume": 64275.4897,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22973713352985603
+              }
+            ],
+            "corporate_cost": 95.09486029345697,
+            "tax_rate": 0.23,
+            "da": 1287.4200989660642,
+            "capex": 1003.6759434978277,
+            "delta_nwc": 77.20584180752543,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 451.6541745740224,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 10686.8219,
+                "ebit_margin": 0.21,
+                "volume": 43855.8623,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24368057950198346
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 15283.2931,
+                "ebit_margin": 0.145,
+                "volume": 65220.7175,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23433187620045315
+              }
+            ],
+            "corporate_cost": 97.47223180079338,
+            "tax_rate": 0.23,
+            "da": 1306.7314004505552,
+            "capex": 1038.8046015202515,
+            "delta_nwc": 70.25731604484754,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 467.46207068411314,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 11007.4266,
+                "ebit_margin": 0.21,
+                "volume": 44069.7933,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24977259398953305
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 15741.7919,
+                "ebit_margin": 0.145,
+                "volume": 65860.1363,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23901851372446223
+              }
+            ],
+            "corporate_cost": 99.90903759581322,
+            "tax_rate": 0.23,
+            "da": 1326.3323714573132,
+            "capex": 1069.968739565859,
+            "delta_nwc": 62.32827609121538,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 481.4859328046366,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.09,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.18,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7100,
+                "ebit_margin": 0.19,
+                "volume": 35500.0,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 10250,
+                "ebit_margin": 0.115,
+                "volume": 51250.0,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.2
+              }
+            ],
+            "corporate_cost": 80.0,
+            "tax_rate": 0.22,
+            "da": 1160.0,
+            "capex": 711.35,
+            "delta_nwc": 62.4,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 312.29999999999995,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 7739.0,
+                "ebit_margin": 0.2,
+                "volume": 37751.2195,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.205
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 11121.25,
+                "ebit_margin": 0.13,
+                "volume": 54515.9314,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20400000000000001
+              }
+            ],
+            "corporate_cost": 82.0,
+            "tax_rate": 0.22,
+            "da": 1177.3999999999999,
+            "capex": 773.27025,
+            "delta_nwc": 90.615,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 339.48449999999997,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 8435.51,
+                "ebit_margin": 0.21,
+                "volume": 40145.1993,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.210125
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 12122.1625,
+                "ebit_margin": 0.14,
+                "volume": 58257.2208,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.20808000000000001
+              }
+            ],
+            "corporate_cost": 84.05,
+            "tax_rate": 0.22,
+            "da": 1195.0609999999997,
+            "capex": 842.8645725,
+            "delta_nwc": 101.84535000000002,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 370.038105,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 9152.5284,
+                "ebit_margin": 0.22,
+                "volume": 42495.1622,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.21537812499999995
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 13091.9355,
+                "ebit_margin": 0.15,
+                "volume": 61684.1161,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.21224160000000003
+              }
+            ],
+            "corporate_cost": 86.15124999999998,
+            "tax_rate": 0.22,
+            "da": 1212.9869149999995,
+            "capex": 912.0230178500002,
+            "delta_nwc": 101.20748100000019,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 400.4003493,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 9884.7306,
+                "ebit_margin": 0.225,
+                "volume": 44775.3904,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.22076257812499991
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 14073.8307,
+                "ebit_margin": 0.16,
+                "volume": 65010.2204,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.216486432
+              }
+            ],
+            "corporate_cost": 88.30503124999996,
+            "tax_rate": 0.22,
+            "da": 1231.1817187249997,
+            "capex": 982.3010125005003,
+            "delta_nwc": 102.8458458300001,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 431.2541030490001,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 10576.6618,
+                "ebit_margin": 0.23,
+                "volume": 46741.1392,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.2262816425781249
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 14988.6297,
+                "ebit_margin": 0.165,
+                "volume": 67878.3184,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22081616064
+              }
+            ],
+            "corporate_cost": 90.51265703124996,
+            "tax_rate": 0.22,
+            "da": 1249.6494445058745,
+            "capex": 1048.1769480897226,
+            "delta_nwc": 96.40380817934987,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 460.175245502805,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 11211.2615,
+                "ebit_margin": 0.23,
+                "volume": 48337.1781,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.231938683642578
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 15813.0043,
+                "ebit_margin": 0.17,
+                "volume": 70207.4764,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22523248385280004
+              }
+            ],
+            "corporate_cost": 92.7754734570312,
+            "tax_rate": 0.22,
+            "da": 1268.3941861734622,
+            "capex": 1107.9948958957157,
+            "delta_nwc": 87.53846020389231,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 486.4367835639727,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 11771.8245,
+                "ebit_margin": 0.23,
+                "volume": 49516.1337,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.23773715073364246
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 16603.6545,
+                "ebit_margin": 0.17,
+                "volume": 72272.4021,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.22973713352985603
+              }
+            ],
+            "corporate_cost": 95.09486029345697,
+            "tax_rate": 0.22,
+            "da": 1287.4200989660642,
+            "capex": 1163.3946406905015,
+            "delta_nwc": 81.07279726066197,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 510.7586227421713,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 12242.6975,
+                "ebit_margin": 0.23,
+                "volume": 50240.76,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24368057950198346
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 17267.8007,
+                "ebit_margin": 0.17,
+                "volume": 73689.5081,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23433187620045315
+              }
+            ],
+            "corporate_cost": 97.47223180079338,
+            "tax_rate": 0.22,
+            "da": 1306.7314004505552,
+            "capex": 1209.9304263181216,
+            "delta_nwc": 68.1011496989562,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 531.1889676518582,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Commercial Solutions",
+                "revenue": 12671.1919,
+                "ebit_margin": 0.23,
+                "volume": 50730.9138,
+                "volume_unit": "standardized annual commercial-service workload equivalents; modelled, not actual headcount",
+                "price": 0.24977259398953305
+              },
+              {
+                "name": "R&D Solutions",
+                "revenue": 17872.1737,
+                "ebit_margin": 0.17,
+                "volume": 74773.1773,
+                "volume_unit": "standardized annual clinical/lab workload equivalents; modelled, not actual headcount",
+                "price": 0.23901851372446223
+              }
+            ],
+            "corporate_cost": 99.90903759581322,
+            "tax_rate": 0.22,
+            "da": 1326.3323714573132,
+            "capex": 1252.277991239256,
+            "delta_nwc": 61.972046226050296,
+            "shares_m": 165.8,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "sbc_included_in_ebit": 549.7805815196732,
+            "notes": "Analyst assumptions. 2026revenue17.35bn nearJul28guidancemid17.375bn; segment splitfromH1runrate. No futureM&A contribution; cash replacement of continuingSBCalreadyinEBIT. Sharesstatic. DAdeclinesaspercentofrevenueasacquisitionamortizationrunsoff,withgrowingsoftwaremaintenance."
+          }
+        ]
+      }
+    },
+    "latest_interim": {
+      "period_end": "2026-06-30",
+      "revenue": 8519,
+      "ebit": 1020,
+      "da": 580,
+      "capex": 325,
+      "cfo": 1176,
+      "sbc": 160,
+      "segments": {
+        "CommercialSolutions": 3547,
+        "RDSolutions": 4972
+      },
+      "source_ids": [
+        "AH13"
+      ]
+    },
+    "probability_basis": "Subjective 30% demand/efficiency disappointment, 50% measured recovery and 20% stronger growth and margin recovery. Positive bookings support recovery, but flat GAAP EBIT and mixed industry trial starts prevent assigning the upside the highest weight.",
+    "terminal_transition_note": "The common engine extends the forecast with explicit 2036-40 economic reinvestment normalization. It preserves required replacement capital and phases reinvestment to at least NOPAT*g/ROIC. The additional spending is a transparent analyst economic capital assumption, not disclosed cash capex guidance.",
+    "shares_date": "2026-07-21",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  {
+    "ticker": "AER",
+    "company": "AerCap",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 145.165,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 157.184065,
+    "basic_shares_m": 154.430065,
+    "balance_date": "2026-06-30",
+    "cash_m": 1686.367,
+    "minimum_cash_m": 1500,
+    "debt_m": 42773.528,
+    "senior_claims_m": 0.207,
+    "other_assets_m": 0,
+    "book_equity_m": 18409.373,
+    "productive_assets_m": 61543.224,
+    "prepayments_m": 4106.902,
+    "owned_aircraft": 1461,
+    "status": "modelled equity-cash-flow candidate; gap assessed after conservative normalization",
+    "valuation_method": "custom_equity_cash_flow",
+    "accounting_notes": "EquityDCF already deducts all booked debt, maintenance deposits, lessee deposits, taxes and other seniorclaims through equitycapital/earnings: do not subtract debt again. EV is descriptiveprice*fullydilutedshares+grossdebt-unrestrictedcash. Restrictedcash113.052 excluded. All2.754mrestrictedunvestedshares countednow; futureSBCcashreplacement retainedinSG&A; sharesstatic. No furtherRussianrecoveries; temporarysalesgainsfade. Equitymethodearnings treatedasdistributablewithrequiredreinvestmentcapturedinbookgrowth; sensitivityrequired ifcashtrapped. Operatingofficeleasesexpense. June30balance remainsstale, no assumedJuly-Septbuybackaccretion. NopostJunevaluationgaininopeningbook.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 7580.418,
+        "net_income": 3136.091,
+        "da": 2480.578,
+        "capex": 6232.386,
+        "cfo": 5261.435,
+        "basic_lease": 6248.994,
+        "maintenance": 611.326,
+        "sale_gain": 489.62,
+        "other_income": 230.478,
+        "interest": 1806.442,
+        "leasing_expense": 756.438,
+        "sga": 464.128,
+        "source_ids": [
+          "AH2"
+        ],
+        "note": "Capexflightpurchases+prepayments; incomeincludesRussiarecoveriesandnotnormalized. Do not inferFCFE=CFO-capex."
+      },
+      {
+        "year": 2024,
+        "revenue": 7996.644,
+        "net_income": 2098.632,
+        "da": 2580.037,
+        "capex": 6616.358,
+        "cfo": 5436.643,
+        "basic_lease": 6377.181,
+        "maintenance": 626.816,
+        "sale_gain": 651.142,
+        "other_income": 341.505,
+        "interest": 1990.732,
+        "leasing_expense": 810.358,
+        "sga": 488.916,
+        "source_ids": [
+          "AH2"
+        ],
+        "note": "Capexflightpurchases+prepayments; incomeincludesRussiarecoveriesandnotnormalized. Do not inferFCFE=CFO-capex."
+      },
+      {
+        "year": 2025,
+        "revenue": 8516.668,
+        "net_income": 3750.612,
+        "da": 2647.168,
+        "capex": 6074.298,
+        "cfo": 5393.124,
+        "basic_lease": 6679.477,
+        "maintenance": 689.993,
+        "sale_gain": 819.482,
+        "other_income": 327.716,
+        "interest": 1981.928,
+        "leasing_expense": 647.571,
+        "sga": 545.933,
+        "source_ids": [
+          "AH2"
+        ],
+        "note": "Capexflightpurchases+prepayments; incomeincludesRussiarecoveriesandnotnormalized. Do not inferFCFE=CFO-capex."
+      }
+    ],
+    "sources": [
+      {
+        "id": "AH1",
+        "title": "AerCap Q2 2026 results",
+        "publication_date": "2026-07-29",
+        "url": "https://www.aercap.com/investors/news-events/news/detail/643/aercap-holdings-n-v-reports-strong-financial-results-for",
+        "section": "Revenue and Net Spread; Financial Position; Book Value; guidance",
+        "supports": "Q2 results, share repurchases, guidance; single underlying source with interim financials",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH2",
+        "title": "AerCap 2025 Form 20-F",
+        "publication_date": "2026-02-12",
+        "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-007513/aer-20251231.htm",
+        "section": "pp44,54; F-5,F-7; Notes15,31",
+        "supports": "2023-25 history, lease economics, purchase commitments and financing",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH3",
+        "title": "AerCap H1 2026 interim report",
+        "publication_date": "2026-07-29",
+        "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-050456/aer-20260630_d2.htm",
+        "section": "pp4-7,35-46; Notes22,25,27",
+        "supports": "Balance/share count; fleet utilization; deposits; June additions and July Boeing order",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH4",
+        "title": "IATA Global Outlook for Air Transport June 2026",
+        "publication_date": "2026-06",
+        "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/global-outlook-for-air-transport-june-2026/",
+        "section": "pp27-29, charts22-25",
+        "supports": "Effective and hypothetical shortages distinguished; industry estimates, not individual funded airline orders",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH5",
+        "title": "Airbus H1 2026 results",
+        "publication_date": "2026-07-29",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results",
+        "section": "Commercial aircraft; production ramp; outlook",
+        "supports": "Observed351 H1 deliveries; management targets A32070-75/month end2027, A35012/month2028",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH6",
+        "title": "Boeing Q2 2026 results",
+        "publication_date": "2026-07-29",
+        "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Second-Quarter-Results/default.aspx",
+        "section": "Commercial Airplanes",
+        "supports": "Observed314 H1 deliveries; transitioning737 to47/month; first737-7/-10 and777X deliveries2027 forecasts",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      },
+      {
+        "id": "AH24",
+        "title": "IATA February2021 passenger analysis",
+        "publication_date": "2021-04",
+        "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/air-passenger-market-analysis---february-2021/",
+        "section": "Globaltraffic table",
+        "supports": "Historical demand shock erased operating scarcity despite physical capital still existing",
+        "source_type": "primary",
+        "access_date": "2026-09-08"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "cost_of_equity": 0.12,
+        "terminal_growth": 0.015,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "asset_growth": 0.01,
+            "begin_lease_assets": 61543.224,
+            "avg_lease_assets": 61850.94011999999,
+            "end_lease_assets": 62158.656240000004,
+            "owned_aircraft_equivalents": 1475.61,
+            "lease_rent_yield": 0.108,
+            "basic_lease": 6679.901532959999,
+            "maintenance_revenue": 700,
+            "gain_on_sale": 550,
+            "other_income": 330.0,
+            "equity_method_earnings": 220.0,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6679.901532959999
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 700
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 550
+              },
+              {
+                "name": "Other income",
+                "revenue": 330.0
+              }
+            ],
+            "revenue": 8259.901532959999,
+            "ebit": 4350.311107799999,
+            "tax_rate": 0.17,
+            "da": 2659.5904251599995,
+            "capex": 5866.0916851599995,
+            "delta_nwc": 41.06902,
+            "disposal_book_value": 2400.0,
+            "disposal_cash": 2950.0,
+            "impairment": 150,
+            "sga": 540.0,
+            "sbc_included_in_sga": 130.0,
+            "leasing_expense": 560.0,
+            "interest": 1891.4454081599997,
+            "debt_interest_rate": 0.044,
+            "begin_debt": 42773.528,
+            "end_debt": 43201.26328,
+            "net_debt_issuance": 427.73528,
+            "net_deposit_and_other_funding": 44.67225000000002,
+            "begin_book_equity": 18409.373,
+            "end_book_equity": 18593.46673,
+            "net_income": 2260.8585307011995,
+            "fcfe": 2076.7648007011994,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.6,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "asset_growth": -0.03,
+            "begin_lease_assets": 61735.309627269,
+            "avg_lease_assets": 60809.27998285997,
+            "end_lease_assets": 59883.25033845093,
+            "owned_aircraft_equivalents": 1421.5932,
+            "lease_rent_yield": 0.1,
+            "basic_lease": 6080.927998285997,
+            "maintenance_revenue": 600,
+            "gain_on_sale": 0,
+            "other_income": 338.24999999999994,
+            "equity_method_earnings": 225.49999999999997,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6080.927998285997
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 600
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 0
+              },
+              {
+                "name": "Other income",
+                "revenue": 338.24999999999994
+              }
+            ],
+            "revenue": 7019.177998285997,
+            "ebit": 2132.291839091579,
+            "tax_rate": 0.17,
+            "da": 2858.0361591944184,
+            "capex": 4242.38526267368,
+            "delta_nwc": -123.59160770266942,
+            "disposal_book_value": 2460.0,
+            "disposal_cash": 2460.0,
+            "impairment": 900,
+            "sga": 554.85,
+            "sbc_included_in_sga": 133.57500000000002,
+            "leasing_expense": 574.0,
+            "interest": 2070.9078315482516,
+            "debt_interest_rate": 0.049,
+            "begin_debt": 42907.03059252567,
+            "end_debt": 41619.8196747499,
+            "net_debt_issuance": -1287.21091777577,
+            "net_deposit_and_other_funding": -134.43503636550332,
+            "begin_book_equity": 18466.831412648873,
+            "end_book_equity": 17912.826470269407,
+            "net_income": 276.44872626096156,
+            "fcfe": 830.4536686404278,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.64,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "asset_growth": -0.02,
+            "begin_lease_assets": 59883.25033845093,
+            "avg_lease_assets": 59284.41783506642,
+            "end_lease_assets": 58685.58533168192,
+            "owned_aircraft_equivalents": 1393.1613360000001,
+            "lease_rent_yield": 0.098,
+            "basic_lease": 5809.87294783651,
+            "maintenance_revenue": 550,
+            "gain_on_sale": -250,
+            "other_income": 346.70624999999995,
+            "equity_method_earnings": 231.1375,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 5809.87294783651
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 550
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": -250
+              },
+              {
+                "name": "Other income",
+                "revenue": 346.70624999999995
+              }
+            ],
+            "revenue": 6456.5791978365105,
+            "ebit": 1861.7531845883886,
+            "tax_rate": 0.17,
+            "da": 2786.3676382481217,
+            "capex": 4680.280058498049,
+            "delta_nwc": -79.92257298105956,
+            "disposal_book_value": 2521.5,
+            "disposal_cash": 2271.5,
+            "impairment": 650,
+            "sga": 570.1083750000001,
+            "sbc_included_in_sga": 137.24831250000003,
+            "leasing_expense": 588.3499999999999,
+            "interest": 2183.7919383341273,
+            "debt_interest_rate": 0.053,
+            "begin_debt": 41619.8196747499,
+            "end_debt": 40787.4232812549,
+            "net_debt_issuance": -832.396393494998,
+            "net_deposit_and_other_funding": -86.93465684969205,
+            "begin_book_equity": 17912.826470269407,
+            "end_book_equity": 17554.569940864018,
+            "net_income": -36.15466560896306,
+            "fcfe": 322.10186379642624,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.681,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "asset_growth": 0,
+            "begin_lease_assets": 58685.58533168192,
+            "avg_lease_assets": 58685.58533168192,
+            "end_lease_assets": 58685.58533168192,
+            "owned_aircraft_equivalents": 1393.1613360000001,
+            "lease_rent_yield": 0.098,
+            "basic_lease": 5751.187362504828,
+            "maintenance_revenue": 550,
+            "gain_on_sale": 0,
+            "other_income": 355.3739062499999,
+            "equity_method_earnings": 236.91593749999993,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 5751.187362504828
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 550
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 0
+              },
+              {
+                "name": "Other income",
+                "revenue": 355.3739062499999
+              }
+            ],
+            "revenue": 6656.561268754828,
+            "ebit": 2526.8648235166424,
+            "tax_rate": 0.17,
+            "da": 2640.851339925686,
+            "capex": 5525.388839925685,
+            "delta_nwc": 0.0,
+            "disposal_book_value": 2584.537499999999,
+            "disposal_cash": 2584.537499999999,
+            "impairment": 300,
+            "sga": 585.7863553125001,
+            "sbc_included_in_sga": 141.02264109375002,
+            "leasing_expense": 603.0587499999998,
+            "interest": 2202.5208571877647,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 40787.4232812549,
+            "end_debt": 40787.4232812549,
+            "net_debt_issuance": 0.0,
+            "net_deposit_and_other_funding": 0.0,
+            "begin_book_equity": 17554.569940864018,
+            "end_book_equity": 17554.569940864018,
+            "net_income": 506.12142955296844,
+            "fcfe": 506.12142955296844,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7230249999999996,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "asset_growth": 0.01,
+            "begin_lease_assets": 58685.58533168192,
+            "avg_lease_assets": 58979.013258340325,
+            "end_lease_assets": 59272.44118499873,
+            "owned_aircraft_equivalents": 1407.0929493600001,
+            "lease_rent_yield": 0.099,
+            "basic_lease": 5838.922312575692,
+            "maintenance_revenue": 575,
+            "gain_on_sale": 100,
+            "other_income": 364.2582539062499,
+            "equity_method_earnings": 242.8388359374999,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 5838.922312575692
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 575
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 100
+              },
+              {
+                "name": "Other income",
+                "revenue": 364.2582539062499
+              }
+            ],
+            "revenue": 6878.180566481941,
+            "ebit": 2863.073284281374,
+            "tax_rate": 0.17,
+            "da": 2595.076583366974,
+            "capex": 6070.245434944502,
+            "delta_nwc": 39.162060760719186,
+            "disposal_book_value": 2649.1509374999987,
+            "disposal_cash": 2749.1509374999987,
+            "impairment": 200,
+            "sga": 601.8954800835938,
+            "sbc_included_in_sga": 144.90076372382816,
+            "leasing_expense": 618.1352187499997,
+            "interest": 2213.5334614737035,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 40787.4232812549,
+            "end_debt": 41195.29751406745,
+            "net_debt_issuance": 407.87423281254905,
+            "net_deposit_and_other_funding": 42.59798185634911,
+            "begin_book_equity": 17554.569940864018,
+            "end_book_equity": 17730.11564027266,
+            "net_income": 781.9568888678665,
+            "fcfe": 606.4111894592248,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7661006249999993,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "asset_growth": 0.015,
+            "begin_lease_assets": 59272.44118499873,
+            "avg_lease_assets": 59716.98449388623,
+            "end_lease_assets": 60161.527802773715,
+            "owned_aircraft_equivalents": 1428.1993436004,
+            "lease_rent_yield": 0.1,
+            "basic_lease": 5971.698449388624,
+            "maintenance_revenue": 600,
+            "gain_on_sale": 150,
+            "other_income": 373.3647102539061,
+            "equity_method_earnings": 248.9098068359374,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 5971.698449388624
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 600
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 150
+              },
+              {
+                "name": "Other income",
+                "revenue": 373.3647102539061
+              }
+            ],
+            "revenue": 7095.06315964253,
+            "ebit": 3125.19662140078,
+            "tax_rate": 0.17,
+            "da": 2567.830333237108,
+            "capex": 6381.627184002081,
+            "delta_nwc": 59.33052205248956,
+            "disposal_book_value": 2715.3797109374987,
+            "disposal_cash": 2865.3797109374987,
+            "impairment": 150,
+            "sga": 618.4476057858928,
+            "sbc_included_in_sga": 148.88553472623346,
+            "leasing_expense": 633.5885992187497,
+            "interest": 2241.23016125284,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 41195.29751406745,
+            "end_debt": 41813.22697677847,
+            "net_debt_issuance": 617.9294627110119,
+            "net_deposit_and_other_funding": 64.53594251236882,
+            "begin_book_equity": 17730.11564027266,
+            "end_book_equity": 17996.067374876748,
+            "net_income": 982.6019687587275,
+            "fcfe": 716.6502341546391,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.810253140624999,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "asset_growth": 0.015,
+            "begin_lease_assets": 60161.527802773715,
+            "avg_lease_assets": 60612.73926129452,
+            "end_lease_assets": 61063.95071981532,
+            "owned_aircraft_equivalents": 1449.6223337544059,
+            "lease_rent_yield": 0.101,
+            "basic_lease": 6121.886665390747,
+            "maintenance_revenue": 625,
+            "gain_on_sale": 150,
+            "other_income": 382.6988280102537,
+            "equity_method_earnings": 255.1325520068358,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6121.886665390747
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 625
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 150
+              },
+              {
+                "name": "Other income",
+                "revenue": 382.6988280102537
+              }
+            ],
+            "revenue": 7279.585493401,
+            "ebit": 3238.3544760211134,
+            "tax_rate": 0.17,
+            "da": 2606.3477882356638,
+            "capex": 6502.255388871485,
+            "delta_nwc": 60.22047988327691,
+            "disposal_book_value": 2783.264203710936,
+            "disposal_cash": 2933.264203710936,
+            "impairment": 150,
+            "sga": 635.4549149450049,
+            "sbc_included_in_sga": 152.97988693120487,
+            "leasing_expense": 649.4283141992183,
+            "interest": 2274.8486136716324,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 41813.22697677847,
+            "end_debt": 42440.42538143014,
+            "net_debt_issuance": 627.1984046516769,
+            "net_deposit_and_other_funding": 65.50398165005446,
+            "begin_book_equity": 17996.067374876748,
+            "end_book_equity": 18266.0083854999,
+            "net_income": 1054.842417756905,
+            "fcfe": 784.9014071337533,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.855509469140624,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "asset_growth": 0.015,
+            "begin_lease_assets": 61063.95071981532,
+            "avg_lease_assets": 61521.93035021394,
+            "end_lease_assets": 61979.90998061255,
+            "owned_aircraft_equivalents": 1471.3666687607217,
+            "lease_rent_yield": 0.101,
+            "basic_lease": 6213.714965371608,
+            "maintenance_revenue": 650,
+            "gain_on_sale": 150,
+            "other_income": 392.26629871051006,
+            "equity_method_earnings": 261.5108658070067,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6213.714965371608
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 650
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 150
+              },
+              {
+                "name": "Other income",
+                "revenue": 392.26629871051006
+              }
+            ],
+            "revenue": 7405.981264082118,
+            "ebit": 3291.9443118627264,
+            "tax_rate": 0.17,
+            "da": 2645.4430050591995,
+            "capex": 6625.371861741665,
+            "delta_nwc": 61.12378708152607,
+            "disposal_book_value": 2852.8458088037096,
+            "disposal_cash": 3002.8458088037096,
+            "impairment": 150,
+            "sga": 652.9299251059927,
+            "sbc_included_in_sga": 157.18683382181302,
+            "leasing_expense": 665.6640220541989,
+            "interest": 2308.971342876707,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 42440.42538143014,
+            "end_debt": 43077.03176215159,
+            "net_debt_issuance": 636.6063807214521,
+            "net_deposit_and_other_funding": 66.48654137480519,
+            "begin_book_equity": 18266.0083854999,
+            "end_book_equity": 18539.9985112824,
+            "net_income": 1077.3784300654029,
+            "fcfe": 803.3883042829025,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9018972058691397,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "asset_growth": 0.015,
+            "begin_lease_assets": 61979.90998061255,
+            "avg_lease_assets": 62444.75930546715,
+            "end_lease_assets": 62909.60863032174,
+            "owned_aircraft_equivalents": 1493.4371687921323,
+            "lease_rent_yield": 0.101,
+            "basic_lease": 6306.9206898521825,
+            "maintenance_revenue": 650,
+            "gain_on_sale": 150,
+            "other_income": 402.0729561782727,
+            "equity_method_earnings": 268.0486374521818,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6306.9206898521825
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 650
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 150
+              },
+              {
+                "name": "Other income",
+                "revenue": 402.0729561782727
+              }
+            ],
+            "revenue": 7508.993646030455,
+            "ebit": 3320.677875243407,
+            "tax_rate": 0.17,
+            "da": 2685.124650135087,
+            "capex": 6751.030897755823,
+            "delta_nwc": 62.040643887748956,
+            "disposal_book_value": 2924.1669540238013,
+            "disposal_cash": 3074.1669540238013,
+            "impairment": 150,
+            "sga": 670.8854980464074,
+            "sbc_included_in_sga": 161.50947175191288,
+            "leasing_expense": 682.3056226055537,
+            "interest": 2343.6059130198573,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 43077.03176215159,
+            "end_debt": 43723.187238583865,
+            "net_debt_issuance": 646.1554764322739,
+            "net_deposit_and_other_funding": 67.48383949542728,
+            "begin_book_equity": 18539.9985112824,
+            "end_book_equity": 18818.098488951637,
+            "net_income": 1079.018366097728,
+            "fcfe": 800.918388428491,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9494446360158677,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "asset_growth": 0.015,
+            "begin_lease_assets": 62909.60863032174,
+            "avg_lease_assets": 63381.43069504915,
+            "end_lease_assets": 63853.252759776566,
+            "owned_aircraft_equivalents": 1515.8387263240143,
+            "lease_rent_yield": 0.101,
+            "basic_lease": 6401.524500199965,
+            "maintenance_revenue": 650,
+            "gain_on_sale": 150,
+            "other_income": 412.1247800827295,
+            "equity_method_earnings": 274.7498533884864,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6401.524500199965
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 650
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 150
+              },
+              {
+                "name": "Other income",
+                "revenue": 412.1247800827295
+              }
+            ],
+            "revenue": 7613.649280282694,
+            "ebit": 3349.549647982205,
+            "tax_rate": 0.17,
+            "da": 2725.4015198871134,
+            "capex": 6879.288030762403,
+            "delta_nwc": 62.971253546065206,
+            "disposal_book_value": 2997.2711278743964,
+            "disposal_cash": 3147.2711278743964,
+            "impairment": 150,
+            "sga": 689.3348492426837,
+            "sbc_included_in_sga": 165.9509822250905,
+            "leasing_expense": 699.3632631706926,
+            "interest": 2378.7600017151553,
+            "debt_interest_rate": 0.054,
+            "begin_debt": 43723.187238583865,
+            "end_debt": 44379.03504716262,
+            "net_debt_issuance": 655.847808578758,
+            "net_deposit_and_other_funding": 68.49609708785881,
+            "begin_book_equity": 18818.098488951637,
+            "end_book_equity": 19100.369966285914,
+            "net_income": 1080.5052597901376,
+            "fcfe": 798.2337824558599,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9981807519162644,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "cost_of_equity": 0.105,
+        "terminal_growth": 0.025,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "asset_growth": 0.03,
+            "begin_lease_assets": 61543.224,
+            "avg_lease_assets": 62466.372359999994,
+            "end_lease_assets": 63389.52072,
+            "owned_aircraft_equivalents": 1504.83,
+            "lease_rent_yield": 0.1098,
+            "basic_lease": 6858.807685127999,
+            "maintenance_revenue": 730,
+            "gain_on_sale": 750,
+            "other_income": 330.0,
+            "equity_method_earnings": 220.0,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6858.807685127999
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 730
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 750
+              },
+              {
+                "name": "Other income",
+                "revenue": 330.0
+              }
+            ],
+            "revenue": 8668.807685127998,
+            "ebit": 4925.2200460079985,
+            "tax_rate": 0.16,
+            "da": 2623.58763912,
+            "capex": 7253.09141912,
+            "delta_nwc": 123.20706,
+            "disposal_book_value": 2600.0,
+            "disposal_cash": 3350.0,
+            "impairment": 60,
+            "sga": 540.0,
+            "sbc_included_in_sga": 130.0,
+            "leasing_expense": 520.0,
+            "interest": 1910.2657604799997,
+            "debt_interest_rate": 0.044,
+            "begin_debt": 42773.528,
+            "end_debt": 44056.73384,
+            "net_debt_issuance": 1283.2058399999999,
+            "net_deposit_and_other_funding": 134.01675000000023,
+            "begin_book_equity": 18409.373,
+            "end_book_equity": 18961.65419,
+            "net_income": 2752.5615998435187,
+            "fcfe": 2200.280409843519,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.6,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "asset_growth": 0.045,
+            "begin_lease_assets": 62119.48088180699,
+            "avg_lease_assets": 63517.16920164764,
+            "end_lease_assets": 64914.857521488295,
+            "owned_aircraft_equivalents": 1541.0405999999998,
+            "lease_rent_yield": 0.111,
+            "basic_lease": 7050.405781382889,
+            "maintenance_revenue": 750,
+            "gain_on_sale": 700,
+            "other_income": 338.24999999999994,
+            "equity_method_earnings": 225.49999999999997,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7050.405781382889
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 750
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 700
+              },
+              {
+                "name": "Other income",
+                "revenue": 338.24999999999994
+              }
+            ],
+            "revenue": 8838.655781382888,
+            "ebit": 5039.84325951451,
+            "tax_rate": 0.16,
+            "da": 2635.9625218683773,
+            "capex": 8357.880216211697,
+            "delta_nwc": 186.5410546620123,
+            "disposal_book_value": 2664.9999999999995,
+            "disposal_cash": 3364.9999999999995,
+            "impairment": 75,
+            "sga": 554.85,
+            "sbc_included_in_sga": 133.57500000000002,
+            "leasing_expense": 533.0,
+            "interest": 1942.3998696331892,
+            "debt_interest_rate": 0.044,
+            "begin_debt": 43174.035777577,
+            "end_debt": 45116.86738756797,
+            "net_debt_issuance": 1942.831609990965,
+            "net_deposit_and_other_funding": 202.90741364476355,
+            "begin_book_equity": 18581.748237946613,
+            "end_book_equity": 19417.92690865421,
+            "net_income": 2827.352447500309,
+            "fcfe": 1991.1737767927102,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.64,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "asset_growth": 0.045,
+            "begin_lease_assets": 64914.857521488295,
+            "avg_lease_assets": 66375.44181572179,
+            "end_lease_assets": 67836.02610995526,
+            "owned_aircraft_equivalents": 1610.387427,
+            "lease_rent_yield": 0.111,
+            "basic_lease": 7367.674041545119,
+            "maintenance_revenue": 770,
+            "gain_on_sale": 650,
+            "other_income": 346.70624999999995,
+            "equity_method_earnings": 231.1375,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7367.674041545119
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 770
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 650
+              },
+              {
+                "name": "Other income",
+                "revenue": 346.70624999999995
+              }
+            ],
+            "revenue": 9134.380291545118,
+            "ebit": 5211.553802100525,
+            "tax_rate": 0.16,
+            "da": 2721.3931144445933,
+            "capex": 8654.122105033359,
+            "delta_nwc": 194.93540212180287,
+            "disposal_book_value": 2731.625,
+            "disposal_cash": 3381.625,
+            "impairment": 85,
+            "sga": 570.1083750000001,
+            "sbc_included_in_sga": 137.24831250000003,
+            "leasing_expense": 546.3249999999999,
+            "interest": 2075.939860670471,
+            "debt_interest_rate": 0.045,
+            "begin_debt": 45116.86738756797,
+            "end_debt": 47147.12642000852,
+            "net_debt_issuance": 2030.2590324405583,
+            "net_deposit_and_other_funding": 212.03824725877806,
+            "begin_book_equity": 19417.92690865421,
+            "end_book_equity": 20291.733619543655,
+            "net_income": 2865.0532108012453,
+            "fcfe": 1991.2464999118024,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.681,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "asset_growth": 0.04,
+            "begin_lease_assets": 67836.02610995526,
+            "avg_lease_assets": 69192.74663215436,
+            "end_lease_assets": 70549.46715435348,
+            "owned_aircraft_equivalents": 1674.80292408,
+            "lease_rent_yield": 0.11,
+            "basic_lease": 7611.20212953698,
+            "maintenance_revenue": 780,
+            "gain_on_sale": 550,
+            "other_income": 355.3739062499999,
+            "equity_method_earnings": 236.91593749999993,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7611.20212953698
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 780
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 550
+              },
+              {
+                "name": "Other income",
+                "revenue": 355.3739062499999
+              }
+            ],
+            "revenue": 9296.57603578698,
+            "ebit": 5253.500316872229,
+            "tax_rate": 0.16,
+            "da": 2802.3062386022516,
+            "capex": 8591.736237082501,
+            "delta_nwc": 181.0733290820302,
+            "disposal_book_value": 2799.915624999999,
+            "disposal_cash": 3349.915624999999,
+            "impairment": 95,
+            "sga": 585.7863553125001,
+            "sbc_included_in_sga": 141.02264109375002,
+            "leasing_expense": 559.9831249999999,
+            "interest": 2212.1431716268,
+            "debt_interest_rate": 0.046,
+            "begin_debt": 47147.12642000852,
+            "end_debt": 49033.01147680887,
+            "net_debt_issuance": 1885.885056800341,
+            "net_deposit_and_other_funding": 196.95997189815347,
+            "begin_book_equity": 20291.733619543655,
+            "end_book_equity": 21103.4029643254,
+            "net_income": 2791.65593950616,
+            "fcfe": 1979.9865947244148,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7230249999999996,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "asset_growth": 0.035,
+            "begin_lease_assets": 70549.46715435348,
+            "avg_lease_assets": 71784.08282955467,
+            "end_lease_assets": 73018.69850475586,
+            "owned_aircraft_equivalents": 1733.4210264227997,
+            "lease_rent_yield": 0.109,
+            "basic_lease": 7824.465028421459,
+            "maintenance_revenue": 790,
+            "gain_on_sale": 450,
+            "other_income": 364.2582539062499,
+            "equity_method_earnings": 242.8388359374999,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7824.465028421459
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 790
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 450
+              },
+              {
+                "name": "Other income",
+                "revenue": 364.2582539062499
+              }
+            ],
+            "revenue": 9428.723282327708,
+            "ebit": 5276.481785936929,
+            "tax_rate": 0.16,
+            "da": 2871.363313182186,
+            "capex": 8480.28490867421,
+            "delta_nwc": 164.7767294646475,
+            "disposal_book_value": 2869.913515624999,
+            "disposal_cash": 3319.913515624999,
+            "impairment": 105,
+            "sga": 601.8954800835938,
+            "sbc_included_in_sga": 144.90076372382816,
+            "leasing_expense": 573.9827031249997,
+            "interest": 2344.881191349692,
+            "debt_interest_rate": 0.047,
+            "begin_debt": 49033.01147680887,
+            "end_debt": 50749.16687849718,
+            "net_debt_issuance": 1716.1554016883103,
+            "net_deposit_and_other_funding": 179.23357442731975,
+            "begin_book_equity": 21103.4029643254,
+            "end_book_equity": 21842.02206807679,
+            "net_income": 2705.3833353907785,
+            "fcfe": 1966.7642316393894,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7661006249999993,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "asset_growth": 0.03,
+            "begin_lease_assets": 73018.69850475586,
+            "avg_lease_assets": 74113.97898232717,
+            "end_lease_assets": 75209.25945989853,
+            "owned_aircraft_equivalents": 1785.4236572154837,
+            "lease_rent_yield": 0.108,
+            "basic_lease": 8004.309730091334,
+            "maintenance_revenue": 800,
+            "gain_on_sale": 350,
+            "other_income": 373.3647102539061,
+            "equity_method_earnings": 248.9098068359374,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8004.309730091334
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 800
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 350
+              },
+              {
+                "name": "Other income",
+                "revenue": 373.3647102539061
+              }
+            ],
+            "revenue": 9527.67444034524,
+            "ebit": 5241.335404563135,
+            "tax_rate": 0.16,
+            "da": 2964.559159293087,
+            "capex": 8357.961966519308,
+            "delta_nwc": 146.18049856792297,
+            "disposal_book_value": 2941.6613535156234,
+            "disposal_cash": 3291.6613535156234,
+            "impairment": 115,
+            "sga": 618.4476057858928,
+            "sbc_included_in_sga": 148.88553472623346,
+            "leasing_expense": 588.3322707031247,
+            "interest": 2472.499410320382,
+            "debt_interest_rate": 0.048,
+            "begin_debt": 50749.16687849718,
+            "end_debt": 52271.64188485209,
+            "net_debt_issuance": 1522.4750063549152,
+            "net_deposit_and_other_funding": 159.00578531337945,
+            "begin_book_equity": 21842.02206807679,
+            "end_book_equity": 22497.282730119092,
+            "net_income": 2574.7320419998496,
+            "fcfe": 1919.4713799575466,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.810253140624999,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "asset_growth": 0.03,
+            "begin_lease_assets": 75209.25945989853,
+            "avg_lease_assets": 76337.39835179699,
+            "end_lease_assets": 77465.53724369548,
+            "owned_aircraft_equivalents": 1838.9863669319482,
+            "lease_rent_yield": 0.107,
+            "basic_lease": 8168.101623642278,
+            "maintenance_revenue": 820,
+            "gain_on_sale": 300,
+            "other_income": 382.6988280102537,
+            "equity_method_earnings": 255.1325520068358,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8168.101623642278
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 820
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 300
+              },
+              {
+                "name": "Other income",
+                "revenue": 382.6988280102537
+              }
+            ],
+            "revenue": 9670.800451652533,
+            "ebit": 5253.809025164945,
+            "tax_rate": 0.16,
+            "da": 3053.4959340718797,
+            "capex": 8600.542518747303,
+            "delta_nwc": 150.56591352496065,
+            "disposal_book_value": 3015.2028873535137,
+            "disposal_cash": 3315.2028873535137,
+            "impairment": 125,
+            "sga": 635.4549149450049,
+            "sbc_included_in_sga": 152.97988693120487,
+            "leasing_expense": 603.0405774707028,
+            "interest": 2546.6743926299937,
+            "debt_interest_rate": 0.048,
+            "begin_debt": 52271.64188485209,
+            "end_debt": 53839.79114139765,
+            "net_debt_issuance": 1568.1492565455626,
+            "net_deposit_and_other_funding": 163.77595887278093,
+            "begin_book_equity": 22497.282730119092,
+            "end_book_equity": 23172.20121202267,
+            "net_income": 2529.1256433361946,
+            "fcfe": 1854.2071614326182,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.855509469140624,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "asset_growth": 0.0275,
+            "begin_lease_assets": 77465.53724369548,
+            "avg_lease_assets": 78530.68838079629,
+            "end_lease_assets": 79595.83951789711,
+            "owned_aircraft_equivalents": 1889.558492022577,
+            "lease_rent_yield": 0.1065,
+            "basic_lease": 8363.518312554805,
+            "maintenance_revenue": 840,
+            "gain_on_sale": 275,
+            "other_income": 392.26629871051006,
+            "equity_method_earnings": 261.5108658070067,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8363.518312554805
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 840
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 275
+              },
+              {
+                "name": "Other income",
+                "revenue": 392.26629871051006
+              }
+            ],
+            "revenue": 9870.784611265315,
+            "ebit": 5328.510559020001,
+            "tax_rate": 0.16,
+            "da": 3141.227535231851,
+            "capex": 8634.27208565732,
+            "delta_nwc": 142.15931668648372,
+            "disposal_book_value": 3090.582959537352,
+            "disposal_cash": 3365.582959537352,
+            "impairment": 130,
+            "sga": 652.9299251059927,
+            "sbc_included_in_sga": 157.18683382181302,
+            "leasing_expense": 618.1165919074704,
+            "interest": 2619.8442369404097,
+            "debt_interest_rate": 0.048,
+            "begin_debt": 53839.79114139765,
+            "end_debt": 55320.385397786085,
+            "net_debt_issuance": 1480.5942563884353,
+            "net_deposit_and_other_funding": 154.63180116905065,
+            "begin_book_equity": 23172.20121202267,
+            "end_book_equity": 23809.43674535329,
+            "net_income": 2536.7905763538633,
+            "fcfe": 1899.555043023241,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9018972058691397,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "asset_growth": 0.025,
+            "begin_lease_assets": 79595.83951789711,
+            "avg_lease_assets": 80590.78751187082,
+            "end_lease_assets": 81585.73550584454,
+            "owned_aircraft_equivalents": 1936.7974543231412,
+            "lease_rent_yield": 0.106,
+            "basic_lease": 8542.623476258306,
+            "maintenance_revenue": 860,
+            "gain_on_sale": 250,
+            "other_income": 402.0729561782727,
+            "equity_method_earnings": 268.0486374521818,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8542.623476258306
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 860
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 250
+              },
+              {
+                "name": "Other income",
+                "revenue": 402.0729561782727
+              }
+            ],
+            "revenue": 10054.696432436578,
+            "ebit": 5391.609927210182,
+            "tax_rate": 0.16,
+            "da": 3223.631500474832,
+            "capex": 8649.164747307464,
+            "delta_nwc": 132.78972535942003,
+            "disposal_book_value": 3167.847533525785,
+            "disposal_cash": 3417.847533525785,
+            "impairment": 135,
+            "sga": 670.8854980464074,
+            "sbc_included_in_sga": 161.50947175191288,
+            "leasing_expense": 633.569506705157,
+            "interest": 2688.570730332404,
+            "debt_interest_rate": 0.048,
+            "begin_debt": 55320.385397786085,
+            "end_debt": 56703.39503273074,
+            "net_debt_issuance": 1383.0096349446521,
+            "net_deposit_and_other_funding": 144.44015972836297,
+            "begin_book_equity": 23809.43674535329,
+            "end_book_equity": 24404.672663987123,
+            "net_income": 2538.6015628295154,
+            "fcfe": 1943.3656441956828,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9494446360158677,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "asset_growth": 0.025,
+            "begin_lease_assets": 81585.73550584454,
+            "avg_lease_assets": 82605.55719966759,
+            "end_lease_assets": 83625.37889349065,
+            "owned_aircraft_equivalents": 1985.2173906812197,
+            "lease_rent_yield": 0.106,
+            "basic_lease": 8756.189063164764,
+            "maintenance_revenue": 880,
+            "gain_on_sale": 250,
+            "other_income": 412.1247800827295,
+            "equity_method_earnings": 274.7498533884864,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8756.189063164764
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 880
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 250
+              },
+              {
+                "name": "Other income",
+                "revenue": 412.1247800827295
+              }
+            ],
+            "revenue": 10298.313843247493,
+            "ebit": 5515.3479616453205,
+            "tax_rate": 0.16,
+            "da": 3304.222287986703,
+            "capex": 8867.018865990147,
+            "delta_nwc": 136.10946849340553,
+            "disposal_book_value": 3247.0437218639295,
+            "disposal_cash": 3497.0437218639295,
+            "impairment": 140,
+            "sga": 689.3348492426837,
+            "sbc_included_in_sga": 165.9509822250905,
+            "leasing_expense": 649.4087443727859,
+            "interest": 2755.784998590714,
+            "debt_interest_rate": 0.048,
+            "begin_debt": 56703.39503273074,
+            "end_debt": 58120.97990854901,
+            "net_debt_issuance": 1417.5848758182685,
+            "net_deposit_and_other_funding": 148.05116372157227,
+            "begin_book_equity": 24404.672663987123,
+            "end_book_equity": 25014.7894805868,
+            "net_income": 2592.782742354356,
+            "fcfe": 1982.6659257546771,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9981807519162644,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "cost_of_equity": 0.095,
+        "terminal_growth": 0.03,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "asset_growth": 0.035,
+            "begin_lease_assets": 61543.224,
+            "avg_lease_assets": 62620.23042000001,
+            "end_lease_assets": 63697.236840000005,
+            "owned_aircraft_equivalents": 1512.135,
+            "lease_rent_yield": 0.111,
+            "basic_lease": 6950.84557662,
+            "maintenance_revenue": 760,
+            "gain_on_sale": 850,
+            "other_income": 330.0,
+            "equity_method_earnings": 220.0,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 6950.84557662
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 760
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 850
+              },
+              {
+                "name": "Other income",
+                "revenue": 330.0
+              }
+            ],
+            "revenue": 8890.84557662,
+            "ebit": 5160.79589898,
+            "tax_rate": 0.16,
+            "da": 2630.0496776400005,
+            "capex": 7567.804087640001,
+            "delta_nwc": 143.74157000000002,
+            "disposal_book_value": 2600.0,
+            "disposal_cash": 3450.0,
+            "impairment": 40,
+            "sga": 540.0,
+            "sbc_included_in_sga": 130.0,
+            "leasing_expense": 520.0,
+            "interest": 1871.44878382,
+            "debt_interest_rate": 0.043,
+            "begin_debt": 42773.528,
+            "end_debt": 44270.60148,
+            "net_debt_issuance": 1497.07348,
+            "net_deposit_and_other_funding": 156.3528750000005,
+            "begin_book_equity": 18409.373,
+            "end_book_equity": 19053.701055,
+            "net_income": 2983.0515767343995,
+            "fcfe": 2338.7235217343996,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.6,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "asset_growth": 0.055,
+            "begin_lease_assets": 62215.52369544149,
+            "avg_lease_assets": 63926.45059706613,
+            "end_lease_assets": 65637.37749869077,
+            "owned_aircraft_equivalents": 1558.1927999999998,
+            "lease_rent_yield": 0.114,
+            "basic_lease": 7287.615368065539,
+            "maintenance_revenue": 800,
+            "gain_on_sale": 850,
+            "other_income": 338.24999999999994,
+            "equity_method_earnings": 225.49999999999997,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7287.615368065539
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 800
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 850
+              },
+              {
+                "name": "Other income",
+                "revenue": 338.24999999999994
+              }
+            ],
+            "revenue": 9275.865368065539,
+            "ebit": 5517.030893585827,
+            "tax_rate": 0.16,
+            "da": 2620.9844744797115,
+            "capex": 8986.185402154453,
+            "delta_nwc": 228.34712442546203,
+            "disposal_book_value": 2664.9999999999995,
+            "disposal_cash": 3514.9999999999995,
+            "impairment": 50,
+            "sga": 554.85,
+            "sbc_included_in_sga": 133.57500000000002,
+            "leasing_expense": 533.0,
+            "interest": 1910.4860748899284,
+            "debt_interest_rate": 0.043,
+            "begin_debt": 43240.787073839834,
+            "end_debt": 45619.03036290103,
+            "net_debt_issuance": 2378.243289061191,
+            "net_deposit_and_other_funding": 248.38137917864503,
+            "begin_book_equity": 18610.477444271048,
+            "end_book_equity": 19634.05370370596,
+            "net_income": 3254.9976477045543,
+            "fcfe": 2231.4213882696436,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.64,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "asset_growth": 0.055,
+            "begin_lease_assets": 65637.37749869077,
+            "avg_lease_assets": 67442.40537990477,
+            "end_lease_assets": 69247.43326111876,
+            "owned_aircraft_equivalents": 1643.893404,
+            "lease_rent_yield": 0.116,
+            "basic_lease": 7823.319024068954,
+            "maintenance_revenue": 850,
+            "gain_on_sale": 850,
+            "other_income": 346.70624999999995,
+            "equity_method_earnings": 231.1375,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 7823.319024068954
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 850
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 850
+              },
+              {
+                "name": "Other income",
+                "revenue": 346.70624999999995
+              }
+            ],
+            "revenue": 9870.025274068954,
+            "ebit": 5962.174481182811,
+            "tax_rate": 0.16,
+            "da": 2731.4174178861435,
+            "capex": 9374.004396582995,
+            "delta_nwc": 240.90621626886247,
+            "disposal_book_value": 2731.625,
+            "disposal_cash": 3581.625,
+            "impairment": 60,
+            "sga": 570.1083750000001,
+            "sbc_included_in_sga": 137.24831250000003,
+            "leasing_expense": 546.3249999999999,
+            "interest": 2015.5628090088746,
+            "debt_interest_rate": 0.043,
+            "begin_debt": 45619.03036290103,
+            "end_debt": 48128.07703286059,
+            "net_debt_issuance": 2509.0466699595568,
+            "net_deposit_and_other_funding": 262.04235503347024,
+            "begin_book_equity": 19634.05370370596,
+            "end_book_equity": 20713.926657409786,
+            "net_income": 3546.291304626106,
+            "fcfe": 2466.418350922279,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.681,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "asset_growth": 0.055,
+            "begin_lease_assets": 69247.43326111876,
+            "avg_lease_assets": 71151.73767579952,
+            "end_lease_assets": 73056.04209048029,
+            "owned_aircraft_equivalents": 1734.3075412199998,
+            "lease_rent_yield": 0.117,
+            "basic_lease": 8324.753308068546,
+            "maintenance_revenue": 900,
+            "gain_on_sale": 800,
+            "other_income": 355.3739062499999,
+            "equity_method_earnings": 236.91593749999993,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8324.753308068546
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 900
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 800
+              },
+              {
+                "name": "Other income",
+                "revenue": 355.3739062499999
+              }
+            ],
+            "revenue": 10380.127214318545,
+            "ebit": 6318.288226974065,
+            "tax_rate": 0.16,
+            "da": 2846.0695070319807,
+            "capex": 9778.750019557161,
+            "delta_nwc": 254.1560581636499,
+            "disposal_book_value": 2799.915624999999,
+            "disposal_cash": 3599.915624999999,
+            "impairment": 70,
+            "sga": 585.7863553125001,
+            "sbc_included_in_sga": 141.02264109375002,
+            "leasing_expense": 559.9831249999999,
+            "interest": 2175.870362655627,
+            "debt_interest_rate": 0.044,
+            "begin_debt": 48128.07703286059,
+            "end_debt": 50775.121269667914,
+            "net_debt_issuance": 2647.0442368073323,
+            "net_deposit_and_other_funding": 276.45468456031153,
+            "begin_book_equity": 20713.926657409786,
+            "end_book_equity": 21853.19262356732,
+            "net_income": 3716.5469435274877,
+            "fcfe": 2577.2809773699532,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7230249999999996,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "asset_growth": 0.05,
+            "begin_lease_assets": 73056.04209048029,
+            "avg_lease_assets": 74882.44314274228,
+            "end_lease_assets": 76708.8441950043,
+            "owned_aircraft_equivalents": 1821.0229182809996,
+            "lease_rent_yield": 0.117,
+            "basic_lease": 8761.245847700848,
+            "maintenance_revenue": 950,
+            "gain_on_sale": 750,
+            "other_income": 364.2582539062499,
+            "equity_method_earnings": 242.8388359374999,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 8761.245847700848
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 950
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 750
+              },
+              {
+                "name": "Other income",
+                "revenue": 364.2582539062499
+              }
+            ],
+            "revenue": 10825.504101607097,
+            "ebit": 6574.328192688812,
+            "tax_rate": 0.16,
+            "da": 2995.2977257096913,
+            "capex": 9841.772110733846,
+            "delta_nwc": 243.7587648751369,
+            "disposal_book_value": 2869.913515624999,
+            "disposal_cash": 3619.913515624999,
+            "impairment": 80,
+            "sga": 601.8954800835938,
+            "sbc_included_in_sga": 144.90076372382816,
+            "leasing_expense": 573.9827031249997,
+            "interest": 2289.9579692620227,
+            "debt_interest_rate": 0.044,
+            "begin_debt": 50775.121269667914,
+            "end_debt": 53313.877333151315,
+            "net_debt_issuance": 2538.7560634833962,
+            "net_deposit_and_other_funding": 265.145174737389,
+            "begin_book_equity": 21853.19262356732,
+            "end_book_equity": 22945.85225474569,
+            "net_income": 3841.7098236160027,
+            "fcfe": 2749.050192437634,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.7661006249999993,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "asset_growth": 0.045,
+            "begin_lease_assets": 76708.8441950043,
+            "avg_lease_assets": 78434.7931893919,
+            "end_lease_assets": 80160.7421837795,
+            "owned_aircraft_equivalents": 1902.9689496036447,
+            "lease_rent_yield": 0.116,
+            "basic_lease": 9098.43600996946,
+            "maintenance_revenue": 975,
+            "gain_on_sale": 650,
+            "other_income": 373.3647102539061,
+            "equity_method_earnings": 248.9098068359374,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 9098.43600996946
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 975
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 650
+              },
+              {
+                "name": "Other income",
+                "revenue": 373.3647102539061
+              }
+            ],
+            "revenue": 11096.800720223366,
+            "ebit": 6662.629116158671,
+            "tax_rate": 0.16,
+            "da": 3137.3917275756767,
+            "capex": 9851.303102673497,
+            "delta_nwc": 230.35203280700438,
+            "disposal_book_value": 2941.6613535156234,
+            "disposal_cash": 3591.6613535156234,
+            "impairment": 90,
+            "sga": 618.4476057858928,
+            "sbc_included_in_sga": 148.88553472623346,
+            "leasing_expense": 588.3322707031247,
+            "interest": 2453.1047807916243,
+            "debt_interest_rate": 0.045,
+            "begin_debt": 53313.877333151315,
+            "end_debt": 55713.00181314312,
+            "net_debt_issuance": 2399.124479991809,
+            "net_deposit_and_other_funding": 250.56219012683354,
+            "begin_book_equity": 22945.85225474569,
+            "end_book_equity": 23978.415606209244,
+            "net_income": 3784.9102485442563,
+            "fcfe": 2752.3468970807007,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.810253140624999,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "asset_growth": 0.04,
+            "begin_lease_assets": 80160.7421837795,
+            "avg_lease_assets": 81763.9570274551,
+            "end_lease_assets": 83367.17187113067,
+            "owned_aircraft_equivalents": 1979.0877075877904,
+            "lease_rent_yield": 0.114,
+            "basic_lease": 9321.091101129881,
+            "maintenance_revenue": 1000,
+            "gain_on_sale": 500,
+            "other_income": 382.6988280102537,
+            "equity_method_earnings": 255.1325520068358,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 9321.091101129881
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 1000
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 500
+              },
+              {
+                "name": "Other income",
+                "revenue": 382.6988280102537
+              }
+            ],
+            "revenue": 11203.789929140135,
+            "ebit": 6594.736155626224,
+            "tax_rate": 0.16,
+            "da": 3270.5582810982037,
+            "capex": 9806.16229961029,
+            "delta_nwc": 213.97144380739516,
+            "disposal_book_value": 3015.2028873535137,
+            "disposal_cash": 3515.2028873535137,
+            "impairment": 100,
+            "sga": 635.4549149450049,
+            "sbc_included_in_sga": 152.97988693120487,
+            "leasing_expense": 603.0405774707028,
+            "interest": 2614.0540450726753,
+            "debt_interest_rate": 0.046,
+            "begin_debt": 55713.00181314312,
+            "end_debt": 57941.521885668844,
+            "net_debt_issuance": 2228.520072525725,
+            "net_deposit_and_other_funding": 232.74443438448063,
+            "begin_book_equity": 23978.415606209244,
+            "end_book_equity": 24937.552230457615,
+            "net_income": 3598.9055248718164,
+            "fcfe": 2639.7689006234455,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.855509469140624,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "asset_growth": 0.035,
+            "begin_lease_assets": 83367.17187113067,
+            "avg_lease_assets": 84826.09737887548,
+            "end_lease_assets": 86285.02288662025,
+            "owned_aircraft_equivalents": 2048.355777353363,
+            "lease_rent_yield": 0.112,
+            "basic_lease": 9500.522906434055,
+            "maintenance_revenue": 1030,
+            "gain_on_sale": 400,
+            "other_income": 392.26629871051006,
+            "equity_method_earnings": 261.5108658070067,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 9500.522906434055
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 1030
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 400
+              },
+              {
+                "name": "Other income",
+                "revenue": 392.26629871051006
+              }
+            ],
+            "revenue": 11322.789205144565,
+            "ebit": 6548.6987929760835,
+            "tax_rate": 0.16,
+            "da": 3393.043895155019,
+            "capex": 9706.191884046679,
+            "delta_nwc": 194.71401386472962,
+            "disposal_book_value": 3090.582959537352,
+            "disposal_cash": 3490.582959537352,
+            "impairment": 110,
+            "sga": 652.9299251059927,
+            "sbc_included_in_sga": 157.18683382181302,
+            "leasing_expense": 618.1165919074704,
+            "interest": 2711.9529318587306,
+            "debt_interest_rate": 0.046,
+            "begin_debt": 57941.521885668844,
+            "end_debt": 59969.475151667255,
+            "net_debt_issuance": 2027.9532659984097,
+            "net_deposit_and_other_funding": 211.7974352898771,
+            "begin_book_equity": 24937.552230457615,
+            "end_book_equity": 25810.36655852363,
+            "net_income": 3484.377389145583,
+            "fcfe": 2611.563061079568,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9018972058691397,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "asset_growth": 0.03,
+            "begin_lease_assets": 86285.02288662025,
+            "avg_lease_assets": 87579.29822991954,
+            "end_lease_assets": 88873.57357321886,
+            "owned_aircraft_equivalents": 2109.8064506739643,
+            "lease_rent_yield": 0.11,
+            "basic_lease": 9633.72280529115,
+            "maintenance_revenue": 1060,
+            "gain_on_sale": 350,
+            "other_income": 402.0729561782727,
+            "equity_method_earnings": 268.0486374521818,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 9633.72280529115
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 1060
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 350
+              },
+              {
+                "name": "Other income",
+                "revenue": 402.0729561782727
+              }
+            ],
+            "revenue": 11445.795761469422,
+            "ebit": 6518.168827521076,
+            "tax_rate": 0.16,
+            "da": 3503.171929196782,
+            "capex": 9552.309295906887,
+            "delta_nwc": 172.73914658571013,
+            "disposal_book_value": 3167.847533525785,
+            "disposal_cash": 3517.847533525785,
+            "impairment": 120,
+            "sga": 670.8854980464074,
+            "sbc_included_in_sga": 161.50947175191288,
+            "leasing_expense": 633.569506705157,
+            "interest": 2799.974794831344,
+            "debt_interest_rate": 0.046,
+            "begin_debt": 59969.475151667255,
+            "end_debt": 61768.559406217275,
+            "net_debt_issuance": 1799.0842545500175,
+            "net_deposit_and_other_funding": 187.89458187859094,
+            "begin_book_equity": 25810.36655852363,
+            "end_book_equity": 26584.677555279337,
+            "net_income": 3391.3316249115574,
+            "fcfe": 2617.0206281558508,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9494446360158677,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "asset_growth": 0.03,
+            "begin_lease_assets": 88873.57357321886,
+            "avg_lease_assets": 90206.67717681715,
+            "end_lease_assets": 91539.78078041543,
+            "owned_aircraft_equivalents": 2173.100644194183,
+            "lease_rent_yield": 0.109,
+            "basic_lease": 9832.527812273069,
+            "maintenance_revenue": 1090,
+            "gain_on_sale": 300,
+            "other_income": 412.1247800827295,
+            "equity_method_earnings": 274.7498533884864,
+            "segments": [
+              {
+                "name": "Basic lease rents",
+                "revenue": 9832.527812273069
+              },
+              {
+                "name": "Maintenance rents and receipts",
+                "revenue": 1090
+              },
+              {
+                "name": "Asset trading gains",
+                "revenue": 300
+              },
+              {
+                "name": "Other income",
+                "revenue": 412.1247800827295
+              }
+            ],
+            "revenue": 11634.652592355798,
+            "ebit": 6562.641911667643,
+            "tax_rate": 0.16,
+            "da": 3608.2670870726856,
+            "capex": 9824.439337116462,
+            "delta_nwc": 177.92132098328142,
+            "disposal_book_value": 3247.0437218639295,
+            "disposal_cash": 3547.0437218639295,
+            "impairment": 125,
+            "sga": 689.3348492426837,
+            "sbc_included_in_sga": 165.9509822250905,
+            "leasing_expense": 649.4087443727859,
+            "interest": 2883.974038676284,
+            "debt_interest_rate": 0.046,
+            "begin_debt": 61768.559406217275,
+            "end_debt": 63621.61618840379,
+            "net_debt_issuance": 1853.0567821865181,
+            "net_deposit_and_other_funding": 193.53141933494896,
+            "begin_book_equity": 26584.677555279337,
+            "end_book_equity": 27382.21788193772,
+            "net_income": 3364.830866701228,
+            "fcfe": 2567.2905400428463,
+            "shares_m": 157.184065,
+            "dividend_per_share": 1.9981807519162644,
+            "new_equity_issuance": 0,
+            "notes": "Allforecastsanalystassumptions. Fleetvalueincludingengine/helicoptermix isrevenueunit; aircraft_equivalentsnotphysicaldeliveryforecast. Capexpurchasesincludesreplacement,disposals,assetgrowth,prepayments,andreplacementofimpairment. FCFE=NI-requiredbookequityincrease. No forecastbuybacks. Allpostvaluationresidualcashretainedatzeroreturnfor5yrreturncalculation; intrinsicDCFvaluescashwhengenerated."
+          }
+        ]
+      }
+    },
+    "latest_interim": {
+      "period_end": "2026-06-30",
+      "revenue": 4408.94,
+      "net_income": 1543.849,
+      "da": 1280.762,
+      "capex": 2820.368,
+      "cfo": 2889.806,
+      "sbc": 64.434,
+      "basic_lease": 3359.957,
+      "maintenance": 366.718,
+      "sale_gain": 513.718,
+      "other_income": 168.547,
+      "interest": 935.557,
+      "source_ids": [
+        "AH3"
+      ]
+    },
+    "stub_year_fraction": 0.31211498973305957,
+    "annual_row_note": "FY2026operatingflows areannualnormalizedrunrates, multipliedbyremainingyearfraction byengine. FY2027openingcapitalincludesonlyremainingFY2026growth; no pre-valuationcashcounted.",
+    "adverse_history": {
+      "year": 2020,
+      "net_income_attributable_common": -298.566,
+      "asset_impairment": 1086.983,
+      "cfo": 2130.4,
+      "source_ids": [
+        "AH28"
+      ],
+      "note": "Pre-GECAS scale; comparable shock mechanism, not directly comparable fleet size."
+    },
+    "capital_bridge_note": "Annual capex is an all-in asset investment proxy: replacement and growth lease assets plus growth in pre-delivery payments. The same prepayment change is reported as delta_nwc for visibility and is already inside capex; do not subtract it again in the custom equity bridge. Opening unrestricted cash is inside required book equity; no extra cash is added to equity DCF value.",
+    "probability_basis": "Subjective 30% combined adverse, 50% orderly normalization and 20% persistent scarcity. These are judgment weights, not statistical frequencies. Leverage, airline profitability and demonstrated manufacturer additions support meaningful downside weight.",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  }
+]

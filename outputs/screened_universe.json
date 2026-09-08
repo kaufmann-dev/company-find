@@ -1,0 +1,1747 @@
+{
+  "metadata": {
+    "research_date": "2026-09-08",
+    "investigated_company_count": 44,
+    "conservative_economic_chain_count": 10,
+    "jurisdiction_label_count": 14,
+    "detailed_model_count": 9,
+    "economic_chains": {
+      "Aircraft leasing and aerospace aftermarket": 7,
+      "Connectivity and entertainment distribution": 4,
+      "Crop nutrients and agricultural distribution": 5,
+      "Drug research and analytical testing": 7,
+      "Grid equipment": 5,
+      "LNG liquefaction": 1,
+      "Payments and bank processing": 4,
+      "Seaborne transport and logistics": 5,
+      "Vehicle propulsion": 1,
+      "Water systems": 5
+    },
+    "jurisdictions": {
+      "Australia": 1,
+      "Bermuda": 1,
+      "Canada": 1,
+      "Denmark": 1,
+      "Germany": 3,
+      "Ireland": 3,
+      "Israel": 1,
+      "Japan": 1,
+      "Luxembourg": 1,
+      "Marshall Islands": 3,
+      "Netherlands": 1,
+      "Norway": 1,
+      "United Kingdom": 1,
+      "United States": 25
+    },
+    "geographic_caveat": "Jurisdiction labels reproduce incorporation/headquarters/primary-listing locations in mixed source records; they are not independent revenue exposures. Marshall Islands/Bermuda incorporation does not imply local operating demand. AerCap label refers to Ireland headquarters, not Netherlands incorporation.",
+    "coverage_caveats": [
+      "This is investigated breadth, not a globally exhaustive cheap-stock screen.",
+      "Some non-US ordinary prices and ADR/currency/share bridges remain unavailable; those names were not ranked as bargains.",
+      "Rolling investor pages and older role sources are explicitly weaker evidence than dated annual/interim releases.",
+      "Only nine companies have detailed intrinsic models; screening multiples are triage, not intrinsic valuation."
+    ]
+  },
+  "companies": [
+    {
+      "ticker": "POWL",
+      "company": "Powell Industries",
+      "economic_chain": "Grid equipment",
+      "original_value_chain": "grid equipment",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Custom engineered medium-voltage switchgear, enclosures and electrical systems.",
+      "role_source": {
+        "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+        "date": "2026-08-03",
+        "section": "key highlights and outlook",
+        "source_ids": [
+          "PW03"
+        ]
+      },
+      "financial_mechanism": "Backlog conversion lifts volume; engineering qualification and favorable contract milestones support margins and capital turns.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed DCF: qualified switchgear backlog and strong cash generation warrant testing normalized margins against price. Final valuation decision is in REPORT.md.",
+      "raw_screen_decision": "advance to DCF \u2014 Cash-rich specialist with strongly accelerating orders; test current price against margin normalization rather than infer cheapness.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "POWL",
+        "company": "Powell Industries",
+        "value_chain": "grid equipment",
+        "listing": "US",
+        "role": "Custom engineered medium-voltage switchgear, enclosures and electrical systems.",
+        "dated_role_source": {
+          "id": "PW03",
+          "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+          "publication_date": "2026-08-03",
+          "section": "key highlights and outlook",
+          "supports": "Powell orders and mega-project concentration"
+        },
+        "financial_mechanism": "Backlog conversion lifts volume; engineering qualification and favorable contract milestones support margins and capital turns.",
+        "decision": "advance to DCF",
+        "reason": "Cash-rich specialist with strongly accelerating orders; test current price against margin normalization rather than infer cheapness."
+      }
+    },
+    {
+      "ticker": "ETN",
+      "company": "Eaton",
+      "economic_chain": "Grid equipment",
+      "original_value_chain": "grid equipment",
+      "research_package": "power_water",
+      "listing": "Ireland/NYSE",
+      "jurisdiction_label": "Ireland",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Diversified electrical components, distribution and aerospace leader.",
+      "role_source": {
+        "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+        "date": "2026-07-31",
+        "section": "business segment results and outlook",
+        "source_ids": [
+          "PW07"
+        ]
+      },
+      "financial_mechanism": "Electrical Americas volume +18% organic in Q2, but margin27.5% already strong; integration, expansion and Mobility disposal matter.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 At $423.94 roughly31.4x management FY26 adjusted EPS midpoint13.50 before adjustment-quality review, needs prolonged success; direct new enclosure supply competes with specialists.",
+      "raw_screen_decision": "reject at screen \u2014 At $423.94 roughly31.4x management FY26 adjusted EPS midpoint13.50 before adjustment-quality review, needs prolonged success; direct new enclosure supply competes with specialists.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "ETN",
+        "company": "Eaton",
+        "value_chain": "grid equipment",
+        "listing": "Ireland/NYSE",
+        "role": "Diversified electrical components, distribution and aerospace leader.",
+        "dated_role_source": {
+          "id": "PW07",
+          "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+          "publication_date": "2026-07-31",
+          "section": "business segment results and outlook",
+          "supports": "Eaton role, growth, operating margins and forward EPS"
+        },
+        "financial_mechanism": "Electrical Americas volume +18% organic in Q2, but margin27.5% already strong; integration, expansion and Mobility disposal matter.",
+        "decision": "reject at screen",
+        "reason": "At $423.94 roughly31.4x management FY26 adjusted EPS midpoint13.50 before adjustment-quality review, needs prolonged success; direct new enclosure supply competes with specialists."
+      }
+    },
+    {
+      "ticker": "HUBB",
+      "company": "Hubbell",
+      "economic_chain": "Grid equipment",
+      "original_value_chain": "grid equipment",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Transmission/distribution components and utility solutions.",
+      "role_source": {
+        "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+        "date": "2026-07-28",
+        "section": "quarterly results",
+        "source_ids": [
+          "PW08"
+        ]
+      },
+      "financial_mechanism": "Higher grid capex drives component volume and pricing; distributor inventory can amplify reversals.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 Useful broad leader comparator; current $461.62 and Q2 sales +15.3% do not themselves establish value gap. No stronger mispricing mechanism than specialist test; valuation not completed.",
+      "raw_screen_decision": "reject at screen \u2014 Useful broad leader comparator; current $461.62 and Q2 sales +15.3% do not themselves establish value gap. No stronger mispricing mechanism than specialist test; valuation not completed.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "HUBB",
+        "company": "Hubbell",
+        "value_chain": "grid equipment",
+        "listing": "US",
+        "role": "Transmission/distribution components and utility solutions.",
+        "dated_role_source": {
+          "id": "PW08",
+          "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+          "publication_date": "2026-07-28",
+          "section": "quarterly results",
+          "supports": "Hubbell grid component comparison"
+        },
+        "financial_mechanism": "Higher grid capex drives component volume and pricing; distributor inventory can amplify reversals.",
+        "decision": "reject at screen",
+        "reason": "Useful broad leader comparator; current $461.62 and Q2 sales +15.3% do not themselves establish value gap. No stronger mispricing mechanism than specialist test; valuation not completed."
+      }
+    },
+    {
+      "ticker": "GEV",
+      "company": "GE Vernova",
+      "economic_chain": "Grid equipment",
+      "original_value_chain": "grid equipment",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Gas turbines, grid electrification and wind equipment/services.",
+      "role_source": {
+        "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+        "date": "2026-07-22",
+        "section": "highlights and CEO comments",
+        "source_ids": [
+          "PW09"
+        ]
+      },
+      "financial_mechanism": "Equipment scarcity and subsequent installed-base services capture cash; customer deposits accelerate cash without proving earnings.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 At $965.12, avoid inferring undervaluation from $11.5-12.5bn management FCF outlook because advance payments inflate it. Complex wind and services bridge outside two-model allocation; no intrinsic-value conclusion.",
+      "raw_screen_decision": "reject at screen \u2014 At $965.12, avoid inferring undervaluation from $11.5-12.5bn management FCF outlook because advance payments inflate it. Complex wind and services bridge outside two-model allocation; no intrinsic-value conclusion.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "GEV",
+        "company": "GE Vernova",
+        "value_chain": "grid equipment",
+        "listing": "US",
+        "role": "Gas turbines, grid electrification and wind equipment/services.",
+        "dated_role_source": {
+          "id": "PW09",
+          "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+          "publication_date": "2026-07-22",
+          "section": "highlights and CEO comments",
+          "supports": "GEV end market order growth and announced annual turbine output 20/24/30 GW"
+        },
+        "financial_mechanism": "Equipment scarcity and subsequent installed-base services capture cash; customer deposits accelerate cash without proving earnings.",
+        "decision": "reject at screen",
+        "reason": "At $965.12, avoid inferring undervaluation from $11.5-12.5bn management FCF outlook because advance payments inflate it. Complex wind and services bridge outside two-model allocation; no intrinsic-value conclusion."
+      }
+    },
+    {
+      "ticker": "ENR.DE",
+      "company": "Siemens Energy",
+      "economic_chain": "Grid equipment",
+      "original_value_chain": "grid equipment",
+      "research_package": "power_water",
+      "listing": "Germany",
+      "jurisdiction_label": "Germany",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Grid Technologies, Gas Services, industrial transformation and wind.",
+      "role_source": {
+        "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+        "date": "2026-08-05",
+        "section": "Q3 FY26 earnings release summary",
+        "source_ids": [
+          "PW10"
+        ]
+      },
+      "financial_mechanism": "Backlog repricing and grid capacity expansion plus wind loss reduction.",
+      "investigation": null,
+      "screen_decision": "unconfirmed, not advanced \u2014 Q3 recovery confirmed, but German quote/corporate-action/currency bridge and segment cash reinvestment not completed. Valuation ranking inappropriate.",
+      "raw_screen_decision": "unconfirmed, not advanced \u2014 Q3 recovery confirmed, but German quote/corporate-action/currency bridge and segment cash reinvestment not completed. Valuation ranking inappropriate.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "ENR.DE",
+        "company": "Siemens Energy",
+        "value_chain": "grid equipment",
+        "listing": "Germany",
+        "role": "Grid Technologies, Gas Services, industrial transformation and wind.",
+        "dated_role_source": {
+          "id": "PW10",
+          "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+          "publication_date": "2026-08-05",
+          "section": "Q3 FY26 earnings release summary",
+          "supports": "Siemens grid/gas role and returning wind profitability"
+        },
+        "financial_mechanism": "Backlog repricing and grid capacity expansion plus wind loss reduction.",
+        "decision": "unconfirmed, not advanced",
+        "reason": "Q3 recovery confirmed, but German quote/corporate-action/currency bridge and segment cash reinvestment not completed. Valuation ranking inappropriate."
+      }
+    },
+    {
+      "ticker": "MWA",
+      "company": "Mueller Water Products",
+      "economic_chain": "Water systems",
+      "original_value_chain": "water networks",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Valves, service brass, hydrants, repair, metering and water network management.",
+      "role_source": {
+        "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+        "date": "2026-08-05",
+        "section": "segment results, fiscal 2026 outlook",
+        "source_ids": [
+          "PW06"
+        ]
+      },
+      "financial_mechanism": "Specified installed base supports price, lower foundry costs and normalization improve cash flow without water-volume growth.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed DCF: replacement-driven water infrastructure demand and operating improvement warrant testing budget, competition and reinvestment assumptions. Final valuation decision is in REPORT.md.",
+      "raw_screen_decision": "advance to DCF \u2014 Test pricing durability vs flat physical volume, higher capex and distributor power; latest net cash makes financing resilient.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "MWA",
+        "company": "Mueller Water Products",
+        "value_chain": "water networks",
+        "listing": "US",
+        "role": "Valves, service brass, hydrants, repair, metering and water network management.",
+        "dated_role_source": {
+          "id": "PW06",
+          "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+          "publication_date": "2026-08-05",
+          "section": "segment results, fiscal 2026 outlook",
+          "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs"
+        },
+        "financial_mechanism": "Specified installed base supports price, lower foundry costs and normalization improve cash flow without water-volume growth.",
+        "decision": "advance to DCF",
+        "reason": "Test pricing durability vs flat physical volume, higher capex and distributor power; latest net cash makes financing resilient."
+      }
+    },
+    {
+      "ticker": "XYL",
+      "company": "Xylem",
+      "economic_chain": "Water systems",
+      "original_value_chain": "water networks",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Water infrastructure equipment, measurement and recurring solutions.",
+      "role_source": {
+        "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+        "date": "2026-07-28",
+        "section": "second-quarter results and outlook",
+        "source_ids": [
+          "PW11"
+        ]
+      },
+      "financial_mechanism": "Water utility reliability/reuse budgets support service and product volumes, digital leak detection lowers lost-water cost.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 At $108.865 and ~236m diluted shares inferred from quarterly NI/EPS, roughly$25.7bn equity vs management~$0.94-1.01bn FY26FCF, ~26x; Q2 revenue+1% organic means orders need deployment proof.",
+      "raw_screen_decision": "reject at screen \u2014 At $108.865 and ~236m diluted shares inferred from quarterly NI/EPS, roughly$25.7bn equity vs management~$0.94-1.01bn FY26FCF, ~26x; Q2 revenue+1% organic means orders need deployment proof.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "XYL",
+        "company": "Xylem",
+        "value_chain": "water networks",
+        "listing": "US",
+        "role": "Water infrastructure equipment, measurement and recurring solutions.",
+        "dated_role_source": {
+          "id": "PW11",
+          "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+          "publication_date": "2026-07-28",
+          "section": "second-quarter results and outlook",
+          "supports": "Xylem water solutions, sales growth and cash margin"
+        },
+        "financial_mechanism": "Water utility reliability/reuse budgets support service and product volumes, digital leak detection lowers lost-water cost.",
+        "decision": "reject at screen",
+        "reason": "At $108.865 and ~236m diluted shares inferred from quarterly NI/EPS, roughly$25.7bn equity vs management~$0.94-1.01bn FY26FCF, ~26x; Q2 revenue+1% organic means orders need deployment proof."
+      }
+    },
+    {
+      "ticker": "BMI",
+      "company": "Badger Meter",
+      "economic_chain": "Water systems",
+      "original_value_chain": "water networks",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Smart water metering, AMI and network monitoring.",
+      "role_source": {
+        "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+        "date": "2026-07-22",
+        "section": "highlights and outlook",
+        "source_ids": [
+          "PW12"
+        ]
+      },
+      "financial_mechanism": "Replacement cycle converts manual meters to recurring communications and analytics; deployment timing governs cash.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 $130.64 about32x annualized Q2 EPS1.02, revenue-7% despite secular story; expected return needs independent adoption upside beyond management high-single-digit ambition.",
+      "raw_screen_decision": "reject at screen \u2014 $130.64 about32x annualized Q2 EPS1.02, revenue-7% despite secular story; expected return needs independent adoption upside beyond management high-single-digit ambition.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "BMI",
+        "company": "Badger Meter",
+        "value_chain": "water networks",
+        "listing": "US",
+        "role": "Smart water metering, AMI and network monitoring.",
+        "dated_role_source": {
+          "id": "PW12",
+          "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+          "publication_date": "2026-07-22",
+          "section": "highlights and outlook",
+          "supports": "Badger metering, phasing and slower AMI deployments"
+        },
+        "financial_mechanism": "Replacement cycle converts manual meters to recurring communications and analytics; deployment timing governs cash.",
+        "decision": "reject at screen",
+        "reason": "$130.64 about32x annualized Q2 EPS1.02, revenue-7% despite secular story; expected return needs independent adoption upside beyond management high-single-digit ambition."
+      }
+    },
+    {
+      "ticker": "GRC",
+      "company": "Gorman-Rupp",
+      "economic_chain": "Water systems",
+      "original_value_chain": "water networks",
+      "research_package": "power_water",
+      "listing": "US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Pumps and pumping systems serving municipal water, industrial, construction and agriculture markets.",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+        "date": "2026-07-24",
+        "section": "second-quarter highlights",
+        "source_ids": [
+          "PW13"
+        ]
+      },
+      "financial_mechanism": "Improving volumes, mix and acquired Fill-Rite economics increase operating leverage and debt reduction.",
+      "investigation": null,
+      "screen_decision": "reject at screen \u2014 $75.22 about25.4x annualized record Q2 EPS0.74; only3.9% sales growth and no demonstrated durable supply shortage. Good business; insufficient valuation gap evidence.",
+      "raw_screen_decision": "reject at screen \u2014 $75.22 about25.4x annualized record Q2 EPS0.74; only3.9% sales growth and no demonstrated durable supply shortage. Good business; insufficient valuation gap evidence.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "GRC",
+        "company": "Gorman-Rupp",
+        "value_chain": "water networks",
+        "listing": "US",
+        "role": "Pumps and pumping systems serving municipal water, industrial, construction and agriculture markets.",
+        "dated_role_source": {
+          "id": "PW13",
+          "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+          "publication_date": "2026-07-24",
+          "section": "second-quarter highlights",
+          "supports": "Gorman-Rupp pumps, volumes and pricing"
+        },
+        "financial_mechanism": "Improving volumes, mix and acquired Fill-Rite economics increase operating leverage and debt reduction.",
+        "decision": "reject at screen",
+        "reason": "$75.22 about25.4x annualized record Q2 EPS0.74; only3.9% sales growth and no demonstrated durable supply shortage. Good business; insufficient valuation gap evidence."
+      }
+    },
+    {
+      "ticker": "6370.T",
+      "company": "Kurita Water Industries",
+      "economic_chain": "Water systems",
+      "original_value_chain": "water treatment",
+      "research_package": "power_water",
+      "listing": "Japan",
+      "jurisdiction_label": "Japan",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Ultrapure/electronics water treatment plus general-industry chemicals, facilities and services.",
+      "role_source": {
+        "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+        "date": "2025-08-13",
+        "section": "pp.1-2; company-authored Q&A",
+        "source_ids": [
+          "PW14"
+        ]
+      },
+      "financial_mechanism": "Semiconductor quality requirements raise treatment intensity; recurring installed-base operations can capture savings.",
+      "investigation": null,
+      "screen_decision": "unconfirmed, not advanced \u2014 Specific customer construction delays and biogas execution costs disprove automatic water-scarcity benefit. Current Japan quote and segment cash bridge not completed; cannot recommend.",
+      "raw_screen_decision": "unconfirmed, not advanced \u2014 Specific customer construction delays and biogas execution costs disprove automatic water-scarcity benefit. Current Japan quote and segment cash bridge not completed; cannot recommend.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "6370.T",
+        "company": "Kurita Water Industries",
+        "value_chain": "water treatment",
+        "listing": "Japan",
+        "role": "Ultrapure/electronics water treatment plus general-industry chemicals, facilities and services.",
+        "dated_role_source": {
+          "id": "PW14",
+          "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+          "publication_date": "2025-08-13",
+          "section": "pp.1-2; company-authored Q&A",
+          "supports": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only"
+        },
+        "financial_mechanism": "Semiconductor quality requirements raise treatment intensity; recurring installed-base operations can capture savings.",
+        "decision": "unconfirmed, not advanced",
+        "reason": "Specific customer construction delays and biogas execution costs disprove automatic water-scarcity benefit. Current Japan quote and segment cash bridge not completed; cannot recommend."
+      }
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "economic_chain": "Payments and bank processing",
+      "original_value_chain": "Digital commerce and payments",
+      "research_package": "payments",
+      "listing": "NASDAQ, US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Consumer wallet, merchant checkout and unbranded processing",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+        "date": "2026-07-28",
+        "section": "MD&A revenue and key metrics pp51-52",
+        "source_ids": [
+          "PAY1"
+        ]
+      },
+      "financial_mechanism": "More digital transactions can fund recurring fees, but merchant bargaining and lower-fee processing mix reduce take rate and profit capture.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed DCF: normalized fees, customer balances, lending and capital needs leave no established material discount. Final valuation is in REPORT.md.",
+      "raw_screen_decision": "Advance to full DCF; final weighted value only near price under normalized fees and capital needs.",
+      "model_completed": true,
+      "original_record": {
+        "company": "PayPal Holdings",
+        "ticker": "PYPL",
+        "listing": "NASDAQ, US",
+        "value_chain": "Digital commerce and payments",
+        "role": "Consumer wallet, merchant checkout and unbranded processing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+        "source_date": "2026-07-28",
+        "source_section": "MD&A revenue and key metrics pp51-52",
+        "mechanism": "More digital transactions can fund recurring fees, but merchant bargaining and lower-fee processing mix reduce take rate and profit capture.",
+        "decision": "Advance to full DCF; final weighted value only near price under normalized fees and capital needs."
+      }
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "economic_chain": "Payments and bank processing",
+      "original_value_chain": "Digital commerce and bank processing",
+      "research_package": "payments",
+      "listing": "NASDAQ, US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Merchant acquiring, Clover and financial-institution processing",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+        "date": "2026-08-06",
+        "section": "Notes3,18 and MD&A",
+        "source_ids": [
+          "PAY4"
+        ]
+      },
+      "financial_mechanism": "Recurring account and payment volume can support operating leverage if client-service costs normalize; debt magnifies failure.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed DCF; unconfirmed turnaround because restoration of profitable growth and service economics remain unresolved. Final valuation is in REPORT.md.",
+      "raw_screen_decision": "Advance to full DCF; current operational data do not establish restoration of profitable growth. Unconfirmed turnaround, not recommended.",
+      "model_completed": true,
+      "original_record": {
+        "company": "Fiserv",
+        "ticker": "FISV",
+        "listing": "NASDAQ, US",
+        "value_chain": "Digital commerce and bank processing",
+        "role": "Merchant acquiring, Clover and financial-institution processing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+        "source_date": "2026-08-06",
+        "source_section": "Notes3,18 and MD&A",
+        "mechanism": "Recurring account and payment volume can support operating leverage if client-service costs normalize; debt magnifies failure.",
+        "decision": "Advance to full DCF; current operational data do not establish restoration of profitable growth. Unconfirmed turnaround, not recommended."
+      }
+    },
+    {
+      "ticker": "V",
+      "company": "Visa",
+      "economic_chain": "Payments and bank processing",
+      "original_value_chain": "Digital commerce and payments",
+      "research_package": "payments",
+      "listing": "NYSE, US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Global payment network connecting banks, consumers and merchants",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+        "date": "2026-07-28",
+        "section": "Operating metrics and income summary",
+        "source_ids": [
+          "PAY9"
+        ]
+      },
+      "financial_mechanism": "Network transaction volume and cross-border mix monetize digital spending without merchant credit funding.",
+      "investigation": null,
+      "screen_decision": "Quality comparison: quote370.51 versus quarter adjustedEPS3.32 implies about27.9x annualized quarter earnings; no demonstrated undervaluation. Screen only, not a full intrinsic valuation.",
+      "raw_screen_decision": "Quality comparison: quote370.51 versus quarter adjustedEPS3.32 implies about27.9x annualized quarter earnings; no demonstrated undervaluation. Screen only, not a full intrinsic valuation.",
+      "model_completed": false,
+      "original_record": {
+        "company": "Visa",
+        "ticker": "V",
+        "listing": "NYSE, US",
+        "value_chain": "Digital commerce and payments",
+        "role": "Global payment network connecting banks, consumers and merchants",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+        "source_date": "2026-07-28",
+        "source_section": "Operating metrics and income summary",
+        "mechanism": "Network transaction volume and cross-border mix monetize digital spending without merchant credit funding.",
+        "decision": "Quality comparison: quote370.51 versus quarter adjustedEPS3.32 implies about27.9x annualized quarter earnings; no demonstrated undervaluation. Screen only, not a full intrinsic valuation."
+      }
+    },
+    {
+      "ticker": "ADYEN.AS",
+      "company": "Adyen",
+      "economic_chain": "Payments and bank processing",
+      "original_value_chain": "Digital commerce and payments",
+      "research_package": "payments",
+      "listing": "Euronext Amsterdam, Netherlands",
+      "jurisdiction_label": "Netherlands",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Integrated merchant processing and financial technology platform",
+      "role_source": {
+        "url": "https://www.adyen.com/press-and-media/adyen-publishes-h1-2026-financial-results-3wjne",
+        "date": "2026-08-13",
+        "section": "H1 key metrics and financial objectives",
+        "source_ids": [
+          "PAY8"
+        ]
+      },
+      "financial_mechanism": "Merchant consolidation onto one platform expands processed volume; gross/net revenue recognition differs from PayPal and hardware/data-center investment responds to usage.",
+      "investigation": null,
+      "screen_decision": "Investigated competitor: volume24% exceeds revenue19% growth, revealing fee/mix pressure despite success. Current primary-listing quote not obtained through Massive; not ranked on valuation, remains unsynchronized research lead.",
+      "raw_screen_decision": "Investigated competitor: volume24% exceeds revenue19% growth, revealing fee/mix pressure despite success. Current primary-listing quote not obtained through Massive; not ranked on valuation, remains unsynchronized research lead.",
+      "model_completed": false,
+      "original_record": {
+        "company": "Adyen",
+        "ticker": "ADYEN.AS",
+        "listing": "Euronext Amsterdam, Netherlands",
+        "value_chain": "Digital commerce and payments",
+        "role": "Integrated merchant processing and financial technology platform",
+        "source_url": "https://www.adyen.com/press-and-media/adyen-publishes-h1-2026-financial-results-3wjne",
+        "source_date": "2026-08-13",
+        "source_section": "H1 key metrics and financial objectives",
+        "mechanism": "Merchant consolidation onto one platform expands processed volume; gross/net revenue recognition differs from PayPal and hardware/data-center investment responds to usage.",
+        "decision": "Investigated competitor: volume24% exceeds revenue19% growth, revealing fee/mix pressure despite success. Current primary-listing quote not obtained through Massive; not ranked on valuation, remains unsynchronized research lead."
+      }
+    },
+    {
+      "ticker": "BWA",
+      "company": "BorgWarner",
+      "economic_chain": "Vehicle propulsion",
+      "original_value_chain": "Vehicle propulsion and industrial power equipment",
+      "research_package": "payments",
+      "listing": "NYSE, US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Combustion, hybrid and electric propulsion components; emerging turbine generation products",
+      "role_source": {
+        "url": "https://www.borgwarner.com/newsroom/press-releases/2026/08/05/borgwarner-reports-strong-second-quarter-2026-results--increases-2026-adjusted-eps-guidance-and-share-repurchase-authorization-by--1-billion--announces-7-awards-across-portfolio-to-support-long-term-profitable-growth",
+        "date": "2026-08-05",
+        "section": "New awards and FY2026 guidance",
+        "source_ids": [
+          "SCREEN_BWA"
+        ]
+      },
+      "financial_mechanism": "Hybrid content and cost control can preserve cash flow as vehicle mix migrates; new industrial applications are optionality, not evidence that whole-company margins re-rate.",
+      "investigation": null,
+      "screen_decision": "Screen rejection at66.99: FY26 guided freecashflow0.9-1.1bn offers only roughly7% on approximate13.8bn marketcap, with sales flat/down. Data-center narrative not assigned to full revenue. Debt tender Aug17 would need bridge before any full model.",
+      "raw_screen_decision": "Screen rejection at66.99: FY26 guided freecashflow0.9-1.1bn offers only roughly7% on approximate13.8bn marketcap, with sales flat/down. Data-center narrative not assigned to full revenue. Debt tender Aug17 would need bridge before any full model.",
+      "model_completed": false,
+      "original_record": {
+        "company": "BorgWarner",
+        "ticker": "BWA",
+        "listing": "NYSE, US",
+        "value_chain": "Vehicle propulsion and industrial power equipment",
+        "role": "Combustion, hybrid and electric propulsion components; emerging turbine generation products",
+        "source_url": "https://www.borgwarner.com/newsroom/press-releases/2026/08/05/borgwarner-reports-strong-second-quarter-2026-results--increases-2026-adjusted-eps-guidance-and-share-repurchase-authorization-by--1-billion--announces-7-awards-across-portfolio-to-support-long-term-profitable-growth",
+        "source_date": "2026-08-05",
+        "source_section": "New awards and FY2026 guidance",
+        "mechanism": "Hybrid content and cost control can preserve cash flow as vehicle mix migrates; new industrial applications are optionality, not evidence that whole-company margins re-rate.",
+        "decision": "Screen rejection at66.99: FY26 guided freecashflow0.9-1.1bn offers only roughly7% on approximate13.8bn marketcap, with sales flat/down. Data-center narrative not assigned to full revenue. Debt tender Aug17 would need bridge before any full model."
+      }
+    },
+    {
+      "ticker": "AER",
+      "company": "AerCap",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "NYSE / Ireland",
+      "jurisdiction_label": "Ireland",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Global aircraft, engine and helicopter leasing",
+      "role_source": {
+        "url": "https://www.aercap.com/investors/news-events/news/detail/643/aercap-holdings-n-v-reports-strong-financial-results-for",
+        "date": "2026-07-29",
+        "section": "Revenue and Net Spread; Financial Position; Book Value; guidance",
+        "source_ids": [
+          "AH1"
+        ]
+      },
+      "financial_mechanism": "Persistent aircraft shortages support residual values and re-leasing economics; scale financing and asset trading can generate shareholder cash.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed equity DCF: rent repricing, financing and normalized disposal gains constrain the apparent aircraft-shortage benefit. Final valuation decision is in REPORT.md.",
+      "raw_screen_decision": "Detailed equity DCF completed: weighted value $122.56 versus sampled $145.17. Reject at this price; modest rent repricing and normalized disposal gains limit the gap.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "AER",
+        "company": "AerCap",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "NYSE / Ireland",
+        "role": "Global aircraft, engine and helicopter leasing",
+        "source_id": "AH1",
+        "source_date": "2026-07-29",
+        "mechanism": "Persistent aircraft shortages support residual values and re-leasing economics; scale financing and asset trading can generate shareholder cash.",
+        "decision": "Detailed equity DCF completed: weighted value $122.56 versus sampled $145.17. Reject at this price; modest rent repricing and normalized disposal gains limit the gap.",
+        "price_usd_snapshot": 145.165,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "AIR",
+      "company": "AAR",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Parts distribution; component/airframe MRO; Trax software",
+      "role_source": {
+        "url": "https://www.aarcorp.com/globalassets/investors/earnings/fy-2026-q4-results/aar-fy-2026-q4-earnings.pdf",
+        "date": "2026-07-21",
+        "section": "pp1-2",
+        "source_ids": [
+          "AH7"
+        ]
+      },
+      "financial_mechanism": "An older fleet needs more spares, repair labor and maintenance software.",
+      "investigation": null,
+      "screen_decision": "Do not advance: price $126.67 is 25.1x FY2026 adjusted EPS $5.05; cash conversion also requires inventory and acquisition capital. FY2026 CFO was only $98.7m. This is a screening hurdle, not a completed intrinsic valuation.",
+      "raw_screen_decision": "Do not advance: price $126.67 is 25.1x FY2026 adjusted EPS $5.05; cash conversion also requires inventory and acquisition capital. FY2026 CFO was only $98.7m. This is a screening hurdle, not a completed intrinsic valuation.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "AIR",
+        "company": "AAR",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "NYSE / US",
+        "role": "Parts distribution; component/airframe MRO; Trax software",
+        "source_id": "AH7",
+        "source_date": "2026-07-21",
+        "mechanism": "An older fleet needs more spares, repair labor and maintenance software.",
+        "decision": "Do not advance: price $126.67 is 25.1x FY2026 adjusted EPS $5.05; cash conversion also requires inventory and acquisition capital. FY2026 CFO was only $98.7m. This is a screening hurdle, not a completed intrinsic valuation.",
+        "price_usd_snapshot": 126.67,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Commercial and military propulsion and installed-base service",
+      "role_source": {
+        "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results",
+        "date": "2026-07-16",
+        "section": "Commercial Engines & Services",
+        "source_ids": [
+          "AH8"
+        ]
+      },
+      "financial_mechanism": "Engine flight hours and shop visits drive proprietary spare parts and service revenue.",
+      "investigation": null,
+      "screen_decision": "Comparison leader: CES revenue grew 27%, but margin contracted 160 basis points as new engines and investment absorbed cash. No independently established price gap; no full valuation.",
+      "raw_screen_decision": "Comparison leader: CES revenue grew 27%, but margin contracted 160 basis points as new engines and investment absorbed cash. No independently established price gap; no full valuation.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "GE",
+        "company": "GE Aerospace",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "NYSE / US",
+        "role": "Commercial and military propulsion and installed-base service",
+        "source_id": "AH8",
+        "source_date": "2026-07-16",
+        "mechanism": "Engine flight hours and shop visits drive proprietary spare parts and service revenue.",
+        "decision": "Comparison leader: CES revenue grew 27%, but margin contracted 160 basis points as new engines and investment absorbed cash. No independently established price gap; no full valuation.",
+        "price_usd_snapshot": 338.43,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "HEI",
+      "company": "HEICO",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Qualified alternative replacement parts and repair; electronics",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/46619/000004661926000018/a07312026ex991earningsrele.htm",
+        "date": "2026-08-25",
+        "section": "Flight Support Group; consolidated results",
+        "source_ids": [
+          "AH9"
+        ]
+      },
+      "financial_mechanism": "Airline customers seek cheaper OEM alternatives; qualification protects replacement-parts share and margins.",
+      "investigation": null,
+      "screen_decision": "Screen rejection: $318.23 equals 47.6x annualized Q3 EPS. FSG margin of 25.9% supports business quality but does not establish undervaluation. No completed DCF.",
+      "raw_screen_decision": "Screen rejection: $318.23 equals 47.6x annualized Q3 EPS. FSG margin of 25.9% supports business quality but does not establish undervaluation. No completed DCF.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "HEI",
+        "company": "HEICO",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "NYSE / US",
+        "role": "Qualified alternative replacement parts and repair; electronics",
+        "source_id": "AH9",
+        "source_date": "2026-08-25",
+        "mechanism": "Airline customers seek cheaper OEM alternatives; qualification protects replacement-parts share and margins.",
+        "decision": "Screen rejection: $318.23 equals 47.6x annualized Q3 EPS. FSG margin of 25.9% supports business quality but does not establish undervaluation. No completed DCF.",
+        "price_usd_snapshot": 318.2273,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "MTU",
+      "company": "MTU Aero Engines",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "Xetra / Germany; USOTC MTUAY",
+      "jurisdiction_label": "Germany",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "OEM engine partnership and commercial maintenance",
+      "role_source": {
+        "url": "https://www.mtu.de/investors/publications-events/latest-ir-news/ir-news-details/mtu-aero-engines-remains-on-track-with-growth-in-first-half-of-2026-and-raises-free-cash-flow-guidance-1-1/",
+        "date": "2026-07-30",
+        "section": "Commercial maintenance; capex; guidance",
+        "source_ids": [
+          "AH10"
+        ]
+      },
+      "financial_mechanism": "GTF shop visits and spare parts increase volumes, while construction and qualification slow expansion.",
+      "investigation": null,
+      "screen_decision": "Do not advance: MRO revenue grew 21%, but margin fell to 8.0% from 8.6%. The $204.41 ADR quote lacks a verified native-share, currency and ADR bridge; no cheapness conclusion.",
+      "raw_screen_decision": "Do not advance: MRO revenue grew 21%, but margin fell to 8.0% from 8.6%. The $204.41 ADR quote lacks a verified native-share, currency and ADR bridge; no cheapness conclusion.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "MTU",
+        "company": "MTU Aero Engines",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "Xetra / Germany; USOTC MTUAY",
+        "role": "OEM engine partnership and commercial maintenance",
+        "source_id": "AH10",
+        "source_date": "2026-07-30",
+        "mechanism": "GTF shop visits and spare parts increase volumes, while construction and qualification slow expansion.",
+        "decision": "Do not advance: MRO revenue grew 21%, but margin fell to 8.0% from 8.6%. The $204.41 ADR quote lacks a verified native-share, currency and ADR bridge; no cheapness conclusion.",
+        "price_usd_snapshot": 204.41,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "RR.",
+      "company": "Rolls-Royce",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "LSE / UK; USOTC RYCEY",
+      "jurisdiction_label": "United Kingdom",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Widebody engine service contracts; defence; power generation",
+      "role_source": {
+        "url": "https://www.rolls-royce.com/investors/results-reports-and-presentations/financial-results/rr-holdings-plc-2026-half-year-results.aspx",
+        "date": "2026-07-30",
+        "section": "Civil Aerospace; guidance; non-GAAP reconciliation",
+        "source_ids": [
+          "AH11"
+        ]
+      },
+      "financial_mechanism": "Flight hours and durability upgrades can improve long-term service contract economics; power generation is another material segment.",
+      "investigation": null,
+      "screen_decision": "Comparison case: H1 contract margin catchups of GBP497m and timing of shop visits need normalization. The $20.05 ADR lacks an aligned native-share valuation; not advanced.",
+      "raw_screen_decision": "Comparison case: H1 contract margin catchups of GBP497m and timing of shop visits need normalization. The $20.05 ADR lacks an aligned native-share valuation; not advanced.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "RR.",
+        "company": "Rolls-Royce",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "LSE / UK; USOTC RYCEY",
+        "role": "Widebody engine service contracts; defence; power generation",
+        "source_id": "AH11",
+        "source_date": "2026-07-30",
+        "mechanism": "Flight hours and durability upgrades can improve long-term service contract economics; power generation is another material segment.",
+        "decision": "Comparison case: H1 contract margin catchups of GBP497m and timing of shop visits need normalization. The $20.05 ADR lacks an aligned native-share valuation; not advanced.",
+        "price_usd_snapshot": 20.05,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "LHA",
+      "company": "Deutsche Lufthansa",
+      "economic_chain": "Aircraft leasing and aerospace aftermarket",
+      "original_value_chain": "aviation fleet and aftermarket",
+      "research_package": "aviation_health",
+      "listing": "Xetra / Germany; USOTC DLAKY",
+      "jurisdiction_label": "Germany",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Airlines/cargo plus Lufthansa Technik maintenance",
+      "role_source": {
+        "url": "https://investor-relations.lufthansagroup.com/en/financial-reports-publications/shareholder-information/2-2026.html",
+        "date": "2026-08",
+        "section": "MRO; group results",
+        "source_ids": [
+          "AH12"
+        ]
+      },
+      "financial_mechanism": "Lufthansa Technik repairs older fleets and third-party engines.",
+      "investigation": null,
+      "screen_decision": "Reject as a direct bottleneck expression: Technik H1 EBIT was EUR315m while group EBIT was negative EUR229m. Airline fuel and labor costs can absorb repair profits. No completed sum-of-parts valuation.",
+      "raw_screen_decision": "Reject as a direct bottleneck expression: Technik H1 EBIT was EUR315m while group EBIT was negative EUR229m. Airline fuel and labor costs can absorb repair profits. No completed sum-of-parts valuation.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "LHA",
+        "company": "Deutsche Lufthansa",
+        "value_chain": "aviation fleet and aftermarket",
+        "listing": "Xetra / Germany; USOTC DLAKY",
+        "role": "Airlines/cargo plus Lufthansa Technik maintenance",
+        "source_id": "AH12",
+        "source_date": "2026-08",
+        "mechanism": "Lufthansa Technik repairs older fleets and third-party engines.",
+        "decision": "Reject as a direct bottleneck expression: Technik H1 EBIT was EUR315m while group EBIT was negative EUR229m. Airline fuel and labor costs can absorb repair profits. No completed sum-of-parts valuation.",
+        "price_usd_snapshot": 9.02,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "IQV",
+      "company": "IQVIA",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Clinical outsourcing and commercial data and analytics",
+      "role_source": {
+        "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Reports-Second-Quarter-2026-Results/default.aspx",
+        "date": "2026-07-28",
+        "section": "Tables1-5; Financial Position; Segment Results",
+        "source_ids": [
+          "AH13"
+        ]
+      },
+      "financial_mechanism": "Clinical complexity, outsourcing share and proprietary longitudinal data can support recurring services and analytics.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed DCF: revenue/bookings recovery must become GAAP operating profit and cash after capital needs. Final valuation decision is in REPORT.md.",
+      "raw_screen_decision": "Detailed DCF completed: weighted value $117.13 versus sampled $261.17. Reject; recovery in revenue and bookings has not yet produced matching GAAP operating profit growth.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "IQV",
+        "company": "IQVIA",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "NYSE / US",
+        "role": "Clinical outsourcing and commercial data and analytics",
+        "source_id": "AH13",
+        "source_date": "2026-07-28",
+        "mechanism": "Clinical complexity, outsourcing share and proprietary longitudinal data can support recurring services and analytics.",
+        "decision": "Detailed DCF completed: weighted value $117.13 versus sampled $261.17. Reject; recovery in revenue and bookings has not yet produced matching GAAP operating profit growth.",
+        "price_usd_snapshot": 261.17,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "ICLR",
+      "company": "ICON",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "NASDAQ / Ireland",
+      "jurisdiction_label": "Ireland",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Clinical development outsourcing specialist",
+      "role_source": {
+        "url": "https://investor.iconplc.com/node/18466/pdf",
+        "date": "2026-07-29",
+        "section": "pp1-2; financial tables",
+        "source_ids": [
+          "AH16"
+        ]
+      },
+      "financial_mechanism": "Backlog conversion and labor utilization can recover when clients fund delayed trials.",
+      "investigation": null,
+      "screen_decision": "Unconfirmed turnaround: Q2 book-to-bill was 1.51x, but adjusted EBITDA fell 21.7%. The concluded investigation identified improper historical revenue adjustments and material weaknesses; controls remediation and revised backlog comparability remain unresolved.",
+      "raw_screen_decision": "Unconfirmed turnaround: Q2 book-to-bill was 1.51x, but adjusted EBITDA fell 21.7%. The concluded investigation identified improper historical revenue adjustments and material weaknesses; controls remediation and revised backlog comparability remain unresolved.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "ICLR",
+        "company": "ICON",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "NASDAQ / Ireland",
+        "role": "Clinical development outsourcing specialist",
+        "source_id": "AH16",
+        "source_date": "2026-07-29",
+        "mechanism": "Backlog conversion and labor utilization can recover when clients fund delayed trials.",
+        "decision": "Unconfirmed turnaround: Q2 book-to-bill was 1.51x, but adjusted EBITDA fell 21.7%. The concluded investigation identified improper historical revenue adjustments and material weaknesses; controls remediation and revised backlog comparability remain unresolved.",
+        "price_usd_snapshot": 161.2138,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "CRL",
+      "company": "Charles River Laboratories",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Preclinical drug safety/research models and manufacturingtesting",
+      "role_source": {
+        "url": "https://ir.criver.com/news-releases/news-release-details/charles-river-laboratories-announces-second-quarter-2026-results",
+        "date": "2026-08-05",
+        "section": "Segments and guidance",
+        "source_ids": [
+          "AH18"
+        ]
+      },
+      "financial_mechanism": "Biotech funding can improve preclinical laboratory utilization; manufacturing tests recur.",
+      "investigation": null,
+      "screen_decision": "Screen rejection: organic revenue was flat and $282.11 equals 23.4x annualized Q2 adjusted EPS. Recovery is not enough to demonstrate a large value gap; future testing intensity is uncertain.",
+      "raw_screen_decision": "Screen rejection: organic revenue was flat and $282.11 equals 23.4x annualized Q2 adjusted EPS. Recovery is not enough to demonstrate a large value gap; future testing intensity is uncertain.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "CRL",
+        "company": "Charles River Laboratories",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "NYSE / US",
+        "role": "Preclinical drug safety/research models and manufacturingtesting",
+        "source_id": "AH18",
+        "source_date": "2026-08-05",
+        "mechanism": "Biotech funding can improve preclinical laboratory utilization; manufacturing tests recur.",
+        "decision": "Screen rejection: organic revenue was flat and $282.11 equals 23.4x annualized Q2 adjusted EPS. Recovery is not enough to demonstrate a large value gap; future testing intensity is uncertain.",
+        "price_usd_snapshot": 282.105,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "DHR",
+      "company": "Danaher",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Bioprocess consumables, life-science tools and diagnostics",
+      "role_source": {
+        "url": "https://investors.danaher.com/2026-07-21-Danaher-Reports-Second-Quarter-2026-Results",
+        "date": "2026-07-21",
+        "section": "Key results; guidance",
+        "source_ids": [
+          "AH19"
+        ]
+      },
+      "financial_mechanism": "Recurring bioprocess consumables and diagnostics installed bases stabilize consumption.",
+      "investigation": null,
+      "screen_decision": "Comparison case: 3% core growth and the Masimo acquisition require a full segment and financing bridge. Price is about 26.6x annualized Q2 adjusted EPS; no established material gap.",
+      "raw_screen_decision": "Comparison case: 3% core growth and the Masimo acquisition require a full segment and financing bridge. Price is about 26.6x annualized Q2 adjusted EPS; no established material gap.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "DHR",
+        "company": "Danaher",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "NYSE / US",
+        "role": "Bioprocess consumables, life-science tools and diagnostics",
+        "source_id": "AH19",
+        "source_date": "2026-07-21",
+        "mechanism": "Recurring bioprocess consumables and diagnostics installed bases stabilize consumption.",
+        "decision": "Comparison case: 3% core growth and the Masimo acquisition require a full segment and financing bridge. Price is about 26.6x annualized Q2 adjusted EPS; no established material gap.",
+        "price_usd_snapshot": 206.67,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "TMO",
+      "company": "Thermo Fisher Scientific",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Laboratory instruments and consumables; drug development and manufacturing services",
+      "role_source": {
+        "url": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Second-Quarter-2026-Results/",
+        "date": "2026-07-23",
+        "section": "Highlights; financial results",
+        "source_ids": [
+          "AH20"
+        ]
+      },
+      "financial_mechanism": "Outsourced development and manufacturing, including PPD, plus instrument utilization generate service and consumables demand.",
+      "investigation": null,
+      "screen_decision": "Screen rejection: $604.19 is about 25.0x annualized Q2 adjusted EPS. Organic growth of 5% is encouraging but does not establish undervaluation; acquisition normalization remains needed.",
+      "raw_screen_decision": "Screen rejection: $604.19 is about 25.0x annualized Q2 adjusted EPS. Organic growth of 5% is encouraging but does not establish undervaluation; acquisition normalization remains needed.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "TMO",
+        "company": "Thermo Fisher Scientific",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "NYSE / US",
+        "role": "Laboratory instruments and consumables; drug development and manufacturing services",
+        "source_id": "AH20",
+        "source_date": "2026-07-23",
+        "mechanism": "Outsourced development and manufacturing, including PPD, plus instrument utilization generate service and consumables demand.",
+        "decision": "Screen rejection: $604.19 is about 25.0x annualized Q2 adjusted EPS. Organic growth of 5% is encouraging but does not establish undervaluation; acquisition normalization remains needed.",
+        "price_usd_snapshot": 604.19,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "ERF",
+      "company": "Eurofins Scientific",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "Euronext Paris / Luxembourg",
+      "jurisdiction_label": "Luxembourg",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Analytical testing labnetwork across food, environment and biopharma",
+      "role_source": {
+        "url": "https://www.eurofins.com/en/",
+        "date": "2026-07-23",
+        "section": "Testing for Life",
+        "source_ids": [
+          "AH26"
+        ]
+      },
+      "financial_mechanism": "Regulatory test intensity, laboratory utilization and maturing capital investment can improve cash conversion.",
+      "investigation": null,
+      "screen_decision": "Investigated but not advanced: H1 margin recovery and a $400m acquisition are relevant. The detailed release returned HTTP403 and Massive ERFSY was unavailable; ordinary-share price and claims were not aligned.",
+      "raw_screen_decision": "Investigated but not advanced: H1 margin recovery and a $400m acquisition are relevant. The detailed release returned HTTP403 and Massive ERFSY was unavailable; ordinary-share price and claims were not aligned.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "ERF",
+        "company": "Eurofins Scientific",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "Euronext Paris / Luxembourg",
+        "role": "Analytical testing labnetwork across food, environment and biopharma",
+        "source_id": "AH26",
+        "source_date": "2026-07-23",
+        "mechanism": "Regulatory test intensity, laboratory utilization and maturing capital investment can improve cash conversion.",
+        "decision": "Investigated but not advanced: H1 margin recovery and a $400m acquisition are relevant. The detailed release returned HTTP403 and Massive ERFSY was unavailable; ordinary-share price and claims were not aligned.",
+        "price_usd_snapshot": null,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "SHL",
+      "company": "Sonic Healthcare",
+      "economic_chain": "Drug research and analytical testing",
+      "original_value_chain": "healthcare research and analytical testing",
+      "research_package": "aviation_health",
+      "listing": "ASX / Australia; USOTC SKHHY",
+      "jurisdiction_label": "Australia",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Pathology and clinical laboratory network",
+      "role_source": {
+        "url": "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/FR/Preliminary_Final_Report_30_June_2026.pdf",
+        "date": "2026-08-20",
+        "section": "Principal activities; segment results",
+        "source_ids": [
+          "AH22"
+        ]
+      },
+      "financial_mechanism": "Aging populations and test volumes can raise laboratory utilization, while fee schedules constrain pricing.",
+      "investigation": null,
+      "screen_decision": "Specialist investigated but not advanced: labor inflation, reimbursement and acquisition investment must be reconciled. The $13.97 ADR is available, but the AUD native-share and ADR bridge is unresolved.",
+      "raw_screen_decision": "Specialist investigated but not advanced: labor inflation, reimbursement and acquisition investment must be reconciled. The $13.97 ADR is available, but the AUD native-share and ADR bridge is unresolved.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "SHL",
+        "company": "Sonic Healthcare",
+        "value_chain": "healthcare research and analytical testing",
+        "listing": "ASX / Australia; USOTC SKHHY",
+        "role": "Pathology and clinical laboratory network",
+        "source_id": "AH22",
+        "source_date": "2026-08-20",
+        "mechanism": "Aging populations and test volumes can raise laboratory utilization, while fee schedules constrain pricing.",
+        "decision": "Specialist investigated but not advanced: labor inflation, reimbursement and acquisition investment must be reconciled. The $13.97 ADR is available, but the AUD native-share and ADR bridge is unresolved.",
+        "price_usd_snapshot": 13.97,
+        "price_source": "Massive /v3/snapshot, 2026-09-08. Non-US OTC observations are ADR prices, not native ordinary-share prices."
+      }
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries",
+      "economic_chain": "Crop nutrients and agricultural distribution",
+      "original_value_chain": "nitrogen fertilizer",
+      "research_package": "agri_transport",
+      "listing": "US/NYSE",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+      "role_source": {
+        "url": "https://ir.cfindustries.com/Investors/news/news-details/2026/CF-Industries-Holdings-Inc--Reports-First-Half-2026-Net-Earnings-of-1-34-Billion-Adjusted-EBITDA-of-2-18-Billion/default.aspx",
+        "date": "2026-08-05",
+        "section": "Consolidated results; five product segments; capital expenditures; CHS distribution",
+        "source_ids": [
+          "AT1"
+        ]
+      },
+      "financial_mechanism": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed attributable DCF: nitrogen margins normalize and Blue Point absorbs construction cash. No proven discount in the completed research; final valuation is in REPORT.md.",
+      "raw_screen_decision": "Advanced for complete operating/DCF comparison; reject at 135.84 because weighted fair value 66.53 requires normalization rather than permanent 2026 rents.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "CF",
+        "company": "CF Industries",
+        "listing": "US/NYSE",
+        "value_chain": "nitrogen fertilizer",
+        "role": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+        "mechanism": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+        "source_ids": [
+          "AT1"
+        ],
+        "source_date": "2026-08-05",
+        "decision": "Advanced for complete operating/DCF comparison; reject at 135.84 because weighted fair value 66.53 requires normalization rather than permanent 2026 rents."
+      }
+    },
+    {
+      "ticker": "NTR",
+      "company": "Nutrien",
+      "economic_chain": "Crop nutrients and agricultural distribution",
+      "original_value_chain": "crop input distribution / potash",
+      "research_package": "agri_transport",
+      "listing": "Canada/TSX & NYSE",
+      "jurisdiction_label": "Canada",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+      "role_source": {
+        "url": "https://www.nutrien.com/news/press-releases/nutrien-reports-second-quarter-2026-results-1753",
+        "date": "2026-08-05",
+        "section": "Highlights;SegmentResults;guidance",
+        "source_ids": [
+          "AT13"
+        ]
+      },
+      "financial_mechanism": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+      "investigation": null,
+      "screen_decision": "Reject from deep shortlist: $81.47 and mine additions elsewhere leave uncertain gap; retail working capital and fertilizer cross-budget affordability limit simple potash thesis.",
+      "raw_screen_decision": "Reject from deep shortlist: $81.47 and mine additions elsewhere leave uncertain gap; retail working capital and fertilizer cross-budget affordability limit simple potash thesis.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "NTR",
+        "company": "Nutrien",
+        "listing": "Canada/TSX & NYSE",
+        "value_chain": "crop input distribution / potash",
+        "role": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+        "mechanism": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+        "source_ids": [
+          "AT13"
+        ],
+        "source_date": "2026-08-05",
+        "decision": "Reject from deep shortlist: $81.47 and mine additions elsewhere leave uncertain gap; retail working capital and fertilizer cross-budget affordability limit simple potash thesis."
+      }
+    },
+    {
+      "ticker": "MOS",
+      "company": "Mosaic",
+      "economic_chain": "Crop nutrients and agricultural distribution",
+      "original_value_chain": "phosphate and potash",
+      "research_package": "agri_transport",
+      "listing": "US/NYSE",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000109/pressreleaseq22026-ex991.htm",
+        "date": "2026-08-04",
+        "section": "Pages1-4;PotashandPhosphates",
+        "source_ids": [
+          "AT12"
+        ]
+      },
+      "financial_mechanism": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+      "investigation": null,
+      "screen_decision": "Unconfirmed research candidate: $26.64 looks cyclical-value-like, but Q2negativeFCF and $705/longton sulfur contracts make normalization economically decisive. No recommendation without sulfur supply/model and Maaden asset valuation.",
+      "raw_screen_decision": "Unconfirmed research candidate: $26.64 looks cyclical-value-like, but Q2negativeFCF and $705/longton sulfur contracts make normalization economically decisive. No recommendation without sulfur supply/model and Maaden asset valuation.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "MOS",
+        "company": "Mosaic",
+        "listing": "US/NYSE",
+        "value_chain": "phosphate and potash",
+        "role": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+        "mechanism": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+        "source_ids": [
+          "AT12"
+        ],
+        "source_date": "2026-08-04",
+        "decision": "Unconfirmed research candidate: $26.64 looks cyclical-value-like, but Q2negativeFCF and $705/longton sulfur contracts make normalization economically decisive. No recommendation without sulfur supply/model and Maaden asset valuation."
+      }
+    },
+    {
+      "ticker": "YAR.OL",
+      "company": "Yara International",
+      "economic_chain": "Crop nutrients and agricultural distribution",
+      "original_value_chain": "nitrogen fertilizer",
+      "research_package": "agri_transport",
+      "listing": "Norway/Oslo",
+      "jurisdiction_label": "Norway",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+      "role_source": {
+        "url": "https://www.yara.com/corporate-releases/yara-reports-strong-q2-margins-despite-market-volatility/",
+        "date": "2026-07-17",
+        "section": "Highlights",
+        "source_ids": [
+          "AT14"
+        ]
+      },
+      "financial_mechanism": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+      "investigation": null,
+      "screen_decision": "Reject from deep shortlist: current primary listing price unavailable from installed US-market feed, and European gas exposure versus CF adds dependence on input-price normalization. Role screened, not valued.",
+      "raw_screen_decision": "Reject from deep shortlist: current primary listing price unavailable from installed US-market feed, and European gas exposure versus CF adds dependence on input-price normalization. Role screened, not valued.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "YAR.OL",
+        "company": "Yara International",
+        "listing": "Norway/Oslo",
+        "value_chain": "nitrogen fertilizer",
+        "role": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+        "mechanism": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+        "source_ids": [
+          "AT14"
+        ],
+        "source_date": "2026-07-17",
+        "decision": "Reject from deep shortlist: current primary listing price unavailable from installed US-market feed, and European gas exposure versus CF adds dependence on input-price normalization. Role screened, not valued."
+      }
+    },
+    {
+      "ticker": "ICL",
+      "company": "ICL Group",
+      "economic_chain": "Crop nutrients and agricultural distribution",
+      "original_value_chain": "specialty minerals and crop nutrition",
+      "research_package": "agri_transport",
+      "listing": "Israel/NYSE & TASE",
+      "jurisdiction_label": "Israel",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+      "role_source": {
+        "url": "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Reports-Second-Quarter-2026-Results/default.aspx",
+        "date": "2026-08-05",
+        "section": "IndustrialProducts,Potash,PhosphateSolutions;liquidity",
+        "source_ids": [
+          "AT15"
+        ]
+      },
+      "financial_mechanism": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+      "investigation": null,
+      "screen_decision": "Unconfirmed: industrial segment Q2sales414m of2135m total, ~19%; cannot assign bromine upside to wholecompany. Netdebt2635m and geopolitical/concession economics need deeper work.",
+      "raw_screen_decision": "Unconfirmed: industrial segment Q2sales414m of2135m total, ~19%; cannot assign bromine upside to wholecompany. Netdebt2635m and geopolitical/concession economics need deeper work.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "ICL",
+        "company": "ICL Group",
+        "listing": "Israel/NYSE & TASE",
+        "value_chain": "specialty minerals and crop nutrition",
+        "role": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+        "mechanism": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+        "source_ids": [
+          "AT15"
+        ],
+        "source_date": "2026-08-05",
+        "decision": "Unconfirmed: industrial segment Q2sales414m of2135m total, ~19%; cannot assign bromine upside to wholecompany. Netdebt2635m and geopolitical/concession economics need deeper work."
+      }
+    },
+    {
+      "ticker": "GSL",
+      "company": "Global Ship Lease",
+      "economic_chain": "Seaborne transport and logistics",
+      "original_value_chain": "containership leasing",
+      "research_package": "agri_transport",
+      "listing": "Marshall Islands/NYSE; Greek operations",
+      "jurisdiction_label": "Marshall Islands",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+      "role_source": {
+        "url": "https://globalshiplease.gcs-web.com/news-releases/news-release-details/global-ship-lease-reports-results-second-quarter-2026",
+        "date": "2026-08-05",
+        "section": "Highlights; fleet; operating expenses; interim balance/income/cashflow",
+        "source_ids": [
+          "AT8"
+        ]
+      },
+      "financial_mechanism": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+      "investigation": null,
+      "screen_decision": "Advanced to a detailed finite-fleet DCF: charter cash must fund newbuilds, refinancing, preferred claims and asset depletion. No proven discount in the completed research; final valuation is in REPORT.md.",
+      "raw_screen_decision": "Advanced for complete cohort/DCF comparison; reject at 45.36 because weighted finite-life fair value 26.41 incorporates newbuild capex, refinancing, and old-fleet depletion.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "GSL",
+        "company": "Global Ship Lease",
+        "listing": "Marshall Islands/NYSE; Greek operations",
+        "value_chain": "containership leasing",
+        "role": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+        "mechanism": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+        "source_ids": [
+          "AT8"
+        ],
+        "source_date": "2026-08-05",
+        "decision": "Advanced for complete cohort/DCF comparison; reject at 45.36 because weighted finite-life fair value 26.41 incorporates newbuild capex, refinancing, and old-fleet depletion."
+      }
+    },
+    {
+      "ticker": "STNG",
+      "company": "Scorpio Tankers",
+      "economic_chain": "Seaborne transport and logistics",
+      "original_value_chain": "refined-product shipping",
+      "research_package": "agri_transport",
+      "listing": "Marshall Islands/NYSE; Monaco operations",
+      "jurisdiction_label": "Marshall Islands",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+      "role_source": {
+        "url": "https://www.scorpiotankers.com/scorpio-tankers-inc-announces-financial-results-for-the-second-quarter-of-2026-and-the-declaration-of-a-dividend/",
+        "date": "2026-07-30",
+        "section": "Results;CurrentLiquidity;ConvertibleNotes",
+        "source_ids": [
+          "AT16"
+        ]
+      },
+      "financial_mechanism": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+      "investigation": null,
+      "screen_decision": "Reject from deep shortlist: current ~$81.44 already reflects record2026conditions; newconvertible dilution (basic vs dilutedEPS) and fleet disposals complicate sustainableper-sharecash. Cannot capitalize vesselsalegains.",
+      "raw_screen_decision": "Reject from deep shortlist: current ~$81.44 already reflects record2026conditions; newconvertible dilution (basic vs dilutedEPS) and fleet disposals complicate sustainableper-sharecash. Cannot capitalize vesselsalegains.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "STNG",
+        "company": "Scorpio Tankers",
+        "listing": "Marshall Islands/NYSE; Monaco operations",
+        "value_chain": "refined-product shipping",
+        "role": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+        "mechanism": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+        "source_ids": [
+          "AT16"
+        ],
+        "source_date": "2026-07-30",
+        "decision": "Reject from deep shortlist: current ~$81.44 already reflects record2026conditions; newconvertible dilution (basic vs dilutedEPS) and fleet disposals complicate sustainableper-sharecash. Cannot capitalize vesselsalegains."
+      }
+    },
+    {
+      "ticker": "TNK",
+      "company": "Teekay Tankers",
+      "economic_chain": "Seaborne transport and logistics",
+      "original_value_chain": "crude oil shipping",
+      "research_package": "agri_transport",
+      "listing": "Marshall Islands/NYSE",
+      "jurisdiction_label": "Marshall Islands",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+      "role_source": {
+        "url": "https://www.teekay.com/blog/2026/07/29/teekay-tankers-ltd-reports-second-quarter-2026-results-and-declares-dividend/",
+        "date": "2026-07-29",
+        "section": "AboutTeekayTankers",
+        "source_ids": [
+          "AT17"
+        ]
+      },
+      "financial_mechanism": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+      "investigation": null,
+      "screen_decision": "Reject from deep shortlist: ~$92.07 price, predominantly spot exposure and record-disruption backdrop; persistent scarcity not evidenced through fiveyears.",
+      "raw_screen_decision": "Reject from deep shortlist: ~$92.07 price, predominantly spot exposure and record-disruption backdrop; persistent scarcity not evidenced through fiveyears.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "TNK",
+        "company": "Teekay Tankers",
+        "listing": "Marshall Islands/NYSE",
+        "value_chain": "crude oil shipping",
+        "role": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+        "mechanism": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+        "source_ids": [
+          "AT17"
+        ],
+        "source_date": "2026-07-29",
+        "decision": "Reject from deep shortlist: ~$92.07 price, predominantly spot exposure and record-disruption backdrop; persistent scarcity not evidenced through fiveyears."
+      }
+    },
+    {
+      "ticker": "FLNG",
+      "company": "Flex LNG",
+      "economic_chain": "Seaborne transport and logistics",
+      "original_value_chain": "LNG shipping",
+      "research_package": "agri_transport",
+      "listing": "Bermuda/NYSE & Oslo",
+      "jurisdiction_label": "Bermuda",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+      "role_source": {
+        "url": "https://www.flexlng.com/flex-lng-second-quarter-2026-earnings-release/",
+        "date": "2026-08-19",
+        "section": "Highlights;CEOremarks",
+        "source_ids": [
+          "AT18"
+        ]
+      },
+      "financial_mechanism": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+      "investigation": null,
+      "screen_decision": "Reject: $31.10 against $3annualdividend is not a self-sufficient valuation; 2026higherquarters driven by twospotships, whilecapacitygrowth risk survivesLNGdemandgrowth.",
+      "raw_screen_decision": "Reject: $31.10 against $3annualdividend is not a self-sufficient valuation; 2026higherquarters driven by twospotships, whilecapacitygrowth risk survivesLNGdemandgrowth.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "FLNG",
+        "company": "Flex LNG",
+        "listing": "Bermuda/NYSE & Oslo",
+        "value_chain": "LNG shipping",
+        "role": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+        "mechanism": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+        "source_ids": [
+          "AT18"
+        ],
+        "source_date": "2026-08-19",
+        "decision": "Reject: $31.10 against $3annualdividend is not a self-sufficient valuation; 2026higherquarters driven by twospotships, whilecapacitygrowth risk survivesLNGdemandgrowth."
+      }
+    },
+    {
+      "ticker": "LNG",
+      "company": "Cheniere Energy",
+      "economic_chain": "LNG liquefaction",
+      "original_value_chain": "LNG liquefaction infrastructure",
+      "research_package": "agri_transport",
+      "listing": "US/NYSE",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+      "role_source": {
+        "url": "https://lngir.cheniere.com/news-events/press-releases/detail/343/cheniere-reports-second-quarter-2026-results-and-raises",
+        "date": "2026-08-06",
+        "section": "Summary;full-yearguidance;operatinghighlights",
+        "source_ids": [
+          "AT19"
+        ]
+      },
+      "financial_mechanism": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+      "investigation": null,
+      "screen_decision": "Reserve comparison: at ~$279.63, requires complete NCI/growthcapex reconciliation; reported distributablecash is not FCFF. Contractedbusiness strongerthan shipping but not provencheap.",
+      "raw_screen_decision": "Reserve comparison: at ~$279.63, requires complete NCI/growthcapex reconciliation; reported distributablecash is not FCFF. Contractedbusiness strongerthan shipping but not provencheap.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "LNG",
+        "company": "Cheniere Energy",
+        "listing": "US/NYSE",
+        "value_chain": "LNG liquefaction infrastructure",
+        "role": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+        "mechanism": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+        "source_ids": [
+          "AT19"
+        ],
+        "source_date": "2026-08-06",
+        "decision": "Reserve comparison: at ~$279.63, requires complete NCI/growthcapex reconciliation; reported distributablecash is not FCFF. Contractedbusiness strongerthan shipping but not provencheap."
+      }
+    },
+    {
+      "ticker": "MAERSK-B.CO",
+      "company": "A.P. Moller-Maersk",
+      "economic_chain": "Seaborne transport and logistics",
+      "original_value_chain": "container liner and logistics",
+      "research_package": "agri_transport",
+      "listing": "Denmark/Copenhagen",
+      "jurisdiction_label": "Denmark",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+      "role_source": {
+        "url": "https://investor.maersk.com/static-files/5b6d7db2-1859-463f-a152-07ad65ced1c6",
+        "date": "2026-08-13",
+        "section": "Slide4",
+        "source_ids": [
+          "AT11"
+        ]
+      },
+      "financial_mechanism": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+      "investigation": null,
+      "screen_decision": "Leader/customer comparison; reject from recommendation: current localprice unavailable and customer earnings showvisible2026windfall, no independent valuationgap established.",
+      "raw_screen_decision": "Leader/customer comparison; reject from recommendation: current localprice unavailable and customer earnings showvisible2026windfall, no independent valuationgap established.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "MAERSK-B.CO",
+        "company": "A.P. Moller-Maersk",
+        "listing": "Denmark/Copenhagen",
+        "value_chain": "container liner and logistics",
+        "role": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+        "mechanism": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+        "source_ids": [
+          "AT11"
+        ],
+        "source_date": "2026-08-13",
+        "decision": "Leader/customer comparison; reject from recommendation: current localprice unavailable and customer earnings showvisible2026windfall, no independent valuationgap established."
+      }
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast Corporation",
+      "economic_chain": "Connectivity and entertainment distribution",
+      "original_value_chain": "connectivity and entertainment distribution",
+      "research_package": "connectivity",
+      "listing": "NASDAQ / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Domestic broadband and MVNO wireless platform; NBCUniversal/Peacock/content/theme parks and Sky presently remain economic claims of current shareholders",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+        "date": "2026-07-23",
+        "section": "cover; pp.1-4 statements; Notes 2,3,6,7,9; MD&A capital resources",
+        "source_ids": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C11"
+        ]
+      },
+      "financial_mechanism": "Existing network replacement advantage plus paid wireless conversion may stabilize consumer cash earnings while business connectivity and content/parks improve. Value combined claims after announced separation; no multiple rerating.",
+      "investigation": "Q2 broadband revenue -5.5%, residential EBITDA -8%; 28.486m broadband users; 10.187m wireless lines; Peacock48m paid users, first profitable quarter. Latest balance/shares and post-Versant financial perimeter modeled in10annualyears/3scenarios.",
+      "screen_decision": "Advanced to a detailed DCF; unconfirmed research candidate because the discount depends on wireless conversion, retention, competitor overlap and separation claims. Final valuation is in REPORT.md.",
+      "raw_screen_decision": "Advance to DCF; unconfirmed research candidate after valuation \u2014 Weighted fair value31.24 versus26.115, but probability shift10pp fromupside todownside removesheadroom and combined adverse assumptions yield15.12 underpersistentreplacementfloor. Long-term conversion/retention economics and local competitor overlap unresolved.",
+      "model_completed": true,
+      "original_record": {
+        "ticker": "CMCSA",
+        "company": "Comcast Corporation",
+        "value_chain": "connectivity and entertainment distribution",
+        "role": "Domestic broadband and MVNO wireless platform; NBCUniversal/Peacock/content/theme parks and Sky presently remain economic claims of current shareholders",
+        "role_source_date": "2026-07-23",
+        "role_source": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+        "mechanism": "Existing network replacement advantage plus paid wireless conversion may stabilize consumer cash earnings while business connectivity and content/parks improve. Value combined claims after announced separation; no multiple rerating.",
+        "investigation": "Q2 broadband revenue -5.5%, residential EBITDA -8%; 28.486m broadband users; 10.187m wireless lines; Peacock48m paid users, first profitable quarter. Latest balance/shares and post-Versant financial perimeter modeled in10annualyears/3scenarios.",
+        "decision": "Advance to DCF; unconfirmed research candidate after valuation",
+        "reason": "Weighted fair value31.24 versus26.115, but probability shift10pp fromupside todownside removesheadroom and combined adverse assumptions yield15.12 underpersistentreplacementfloor. Long-term conversion/retention economics and local competitor overlap unresolved.",
+        "price": 26.115,
+        "price_timestamp": "2026-09-08T15:02:00Z",
+        "country": "US",
+        "source_ids": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C11"
+        ],
+        "listing_exchange": "NASDAQ"
+      },
+      "listing_exchange": "NASDAQ"
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "economic_chain": "Connectivity and entertainment distribution",
+      "original_value_chain": "connectivity and entertainment distribution",
+      "research_package": "connectivity",
+      "listing": "NASDAQ / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Spectrum cable broadband, mobile and video operator investing in network upgrades and rural expansion",
+      "role_source": {
+        "url": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+        "date": "2026-07-24",
+        "section": "operating results, Capital Expenditures, Liquidity and Financing",
+        "source_ids": [
+          "C6"
+        ]
+      },
+      "financial_mechanism": "Network expansion and cheaper upgrades could offset cable churn; completion of upgrade investment might release free cash flow, but leverage directs much cash to lenders.",
+      "investigation": "Q2 EBITDA5.4bn down4.3%; capital plan11.4bn for2026 excluding previously announced Cox transaction; debt principal93.8bn against509m cash; Q2 FCF969m. Inspected current results and financing rather than infer value from EPS uplift.",
+      "screen_decision": "Do not advance in this pass; unconfirmed alternative \u2014 Very low share price may offer upside, but Cox perimeter/financing and93.8bn debt create a distinct combined-claims modeling requirement; existing evidence cannot establish enough downside resilience to prioritize over Comcast. This is a risk/evidence rejection, not a claim that intrinsic value is below price.",
+      "raw_screen_decision": "Do not advance in this pass; unconfirmed alternative \u2014 Very low share price may offer upside, but Cox perimeter/financing and93.8bn debt create a distinct combined-claims modeling requirement; existing evidence cannot establish enough downside resilience to prioritize over Comcast. This is a risk/evidence rejection, not a claim that intrinsic value is below price.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "CHTR",
+        "company": "Charter Communications",
+        "value_chain": "connectivity and entertainment distribution",
+        "role": "Spectrum cable broadband, mobile and video operator investing in network upgrades and rural expansion",
+        "role_source_date": "2026-07-24",
+        "role_source": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+        "mechanism": "Network expansion and cheaper upgrades could offset cable churn; completion of upgrade investment might release free cash flow, but leverage directs much cash to lenders.",
+        "investigation": "Q2 EBITDA5.4bn down4.3%; capital plan11.4bn for2026 excluding previously announced Cox transaction; debt principal93.8bn against509m cash; Q2 FCF969m. Inspected current results and financing rather than infer value from EPS uplift.",
+        "decision": "Do not advance in this pass; unconfirmed alternative",
+        "reason": "Very low share price may offer upside, but Cox perimeter/financing and93.8bn debt create a distinct combined-claims modeling requirement; existing evidence cannot establish enough downside resilience to prioritize over Comcast. This is a risk/evidence rejection, not a claim that intrinsic value is below price.",
+        "price": 147.185,
+        "price_timestamp": "2026-09-08T14:53:00Z",
+        "country": "US",
+        "source_ids": [
+          "C6"
+        ],
+        "listing_exchange": "NASDAQ"
+      },
+      "listing_exchange": "NASDAQ"
+    },
+    {
+      "ticker": "T",
+      "company": "AT&T",
+      "economic_chain": "Connectivity and entertainment distribution",
+      "original_value_chain": "connectivity and entertainment distribution",
+      "research_package": "connectivity",
+      "listing": "NYSE / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Fiber and fixed-wireless broadband and mobile network operator",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+        "date": "2026-07-22",
+        "section": "Second-Quarter Highlights; Outlook and Capital Allocation Plan",
+        "source_ids": [
+          "C5"
+        ]
+      },
+      "financial_mechanism": "Fiber penetration and converged mobile/broadband households improve unit economics; capital outlays and acquired assets are required to obtain that growth.",
+      "investigation": "38.6m fiber locations atJune, management >60m2030; Q2fiber additions367k/fixed-wireless279k; capital investment plan23-24bn annually2026-28, FCF18bn+2026;42.5% advanced-home-internet households also takewireless.",
+      "screen_decision": "Do not advance in this pass; credible further-research alternative \u2014 At25.625, roughly11.1x2026 adjusted EPS midpoint2.30, growth is not obviously prohibitively priced. However Lumen acquired-perimeter/JV assets and EchoStar financing/copper closure make a full debt/SOTP bridge necessary. Investigated chiefly as funded competing supply to Comcast; no intrinsic valuation conclusion asserted.",
+      "raw_screen_decision": "Do not advance in this pass; credible further-research alternative \u2014 At25.625, roughly11.1x2026 adjusted EPS midpoint2.30, growth is not obviously prohibitively priced. However Lumen acquired-perimeter/JV assets and EchoStar financing/copper closure make a full debt/SOTP bridge necessary. Investigated chiefly as funded competing supply to Comcast; no intrinsic valuation conclusion asserted.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "T",
+        "company": "AT&T",
+        "value_chain": "connectivity and entertainment distribution",
+        "role": "Fiber and fixed-wireless broadband and mobile network operator",
+        "role_source_date": "2026-07-22",
+        "role_source": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+        "mechanism": "Fiber penetration and converged mobile/broadband households improve unit economics; capital outlays and acquired assets are required to obtain that growth.",
+        "investigation": "38.6m fiber locations atJune, management >60m2030; Q2fiber additions367k/fixed-wireless279k; capital investment plan23-24bn annually2026-28, FCF18bn+2026;42.5% advanced-home-internet households also takewireless.",
+        "decision": "Do not advance in this pass; credible further-research alternative",
+        "reason": "At25.625, roughly11.1x2026 adjusted EPS midpoint2.30, growth is not obviously prohibitively priced. However Lumen acquired-perimeter/JV assets and EchoStar financing/copper closure make a full debt/SOTP bridge necessary. Investigated chiefly as funded competing supply to Comcast; no intrinsic valuation conclusion asserted.",
+        "price": 25.625,
+        "price_timestamp": "2026-09-08T14:53:00Z",
+        "country": "US",
+        "source_ids": [
+          "C5"
+        ],
+        "listing_exchange": "NYSE"
+      },
+      "listing_exchange": "NYSE"
+    },
+    {
+      "ticker": "TMUS",
+      "company": "T-Mobile US",
+      "economic_chain": "Connectivity and entertainment distribution",
+      "original_value_chain": "connectivity and entertainment distribution",
+      "research_package": "connectivity",
+      "listing": "NASDAQ / US",
+      "jurisdiction_label": "United States",
+      "jurisdiction_basis": "Recorded incorporation, headquarters or primary-listing country in the research; not a uniform legal domicile or revenue-exposure classification.",
+      "role": "Mobile network operator and fixed wireless broadband competitor, also a Comcast Business MVNO supplier from2026",
+      "role_source": {
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+        "date": "2026-07-23",
+        "section": "operating highlights; non-GAAP reconciliation",
+        "source_ids": [
+          "C1",
+          "C7"
+        ]
+      },
+      "financial_mechanism": "Spare mobile radio capacity supports broadband monetization; postpaid account growth and price/mix improve service revenue. Capacity is local and not unlimited.",
+      "investigation": "Q2 postpaid accounts34.7m, ARPA152.91 up2%; service revenue19bn up9%, Core EBITDA9.5bn up12%, GAAP EPS2.99, includesUScellular acquisitioneffects. Core EBITDA excludesSBC percompany definition.",
+      "screen_decision": "Do not advance in this pass \u2014 180.68 is15.1x annualized Q2GAAP EPS, an intentionally rough screen notfairvalue. Higher operating growth than cable does not itself establish margin of safety; spectrum/acquisition debt, radio capex and SBC require independentDCF. Useful supply and bargaining-power corroboration for Comcast.",
+      "raw_screen_decision": "Do not advance in this pass \u2014 180.68 is15.1x annualized Q2GAAP EPS, an intentionally rough screen notfairvalue. Higher operating growth than cable does not itself establish margin of safety; spectrum/acquisition debt, radio capex and SBC require independentDCF. Useful supply and bargaining-power corroboration for Comcast.",
+      "model_completed": false,
+      "original_record": {
+        "ticker": "TMUS",
+        "company": "T-Mobile US",
+        "value_chain": "connectivity and entertainment distribution",
+        "role": "Mobile network operator and fixed wireless broadband competitor, also a Comcast Business MVNO supplier from2026",
+        "role_source_date": "2026-07-23",
+        "role_source": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+        "mechanism": "Spare mobile radio capacity supports broadband monetization; postpaid account growth and price/mix improve service revenue. Capacity is local and not unlimited.",
+        "investigation": "Q2 postpaid accounts34.7m, ARPA152.91 up2%; service revenue19bn up9%, Core EBITDA9.5bn up12%, GAAP EPS2.99, includesUScellular acquisitioneffects. Core EBITDA excludesSBC percompany definition.",
+        "decision": "Do not advance in this pass",
+        "reason": "180.68 is15.1x annualized Q2GAAP EPS, an intentionally rough screen notfairvalue. Higher operating growth than cable does not itself establish margin of safety; spectrum/acquisition debt, radio capex and SBC require independentDCF. Useful supply and bargaining-power corroboration for Comcast.",
+        "price": 180.68,
+        "price_timestamp": "2026-09-08T14:53:00Z",
+        "country": "US",
+        "source_ids": [
+          "C1",
+          "C7"
+        ],
+        "listing_exchange": "NASDAQ"
+      },
+      "listing_exchange": "NASDAQ"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "C1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+    "publication_date": "2026-02-03",
+    "section": "pp.62-65 consolidated statements; Note 2 segments; Note 8 investments/VIE; Note 11 benefits; Note 12 shares",
+    "supports": "2023-25 history, segment economics, deferred compensation, ownership and governance"
+  },
+  {
+    "id": "C2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+    "publication_date": "2026-07-23",
+    "section": "cover; pp.1-4 statements; Notes 2,3,6,7,9; MD&A capital resources",
+    "supports": "June balance, July15 shares, Q2 dilution, transactions, H1 results and operating drivers"
+  },
+  {
+    "id": "C3",
+    "url": "https://www.cmcsa.com/node/45906",
+    "publication_date": "2026-07-23",
+    "section": "operating highlights; financial tables and reconciliations",
+    "supports": "48m Peacock paid subscribers, first profitable quarter, broadband/wireless and cash flow"
+  },
+  {
+    "id": "C4",
+    "url": "https://www.cmcsa.com/static-files/ced447a4-4823-4904-b398-bab2a392d1c7",
+    "publication_date": "2026-06-29",
+    "section": "separation presentation",
+    "supports": "planned NBCUniversal and Sky separation mid-2027, no completed distribution yet"
+  },
+  {
+    "id": "C5",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+    "publication_date": "2026-07-22",
+    "section": "Second-Quarter Highlights; Outlook and Capital Allocation Plan",
+    "supports": "AT&T 38.6m fiber locations, management >40m2026 and >60m2030, $23-24bn annual capital plan and convergence competition"
+  },
+  {
+    "id": "C6",
+    "url": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+    "publication_date": "2026-07-24",
+    "section": "operating results, Capital Expenditures, Liquidity and Financing",
+    "supports": "competing cable investment, pressure on EBITDA, debt and Cox integration"
+  },
+  {
+    "id": "C7",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+    "publication_date": "2026-07-23",
+    "section": "operating highlights; non-GAAP reconciliation",
+    "supports": "wireless/broadband competitive platform; Q2 service revenue19bn, Core EBITDA9.5bn; SBC excluded in that measure"
+  },
+  {
+    "id": "C8",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/0001628280-26-049360-index.html",
+    "publication_date": "2026-07-23",
+    "section": "Filing Detail",
+    "supports": "filing publication date"
+  },
+  {
+    "id": "C9",
+    "url": "https://api.massive.com/v2/snapshot/locale/us/markets/stocks/tickers/CMCSA",
+    "publication_date": "2026-09-08",
+    "section": "ticker.min.c and ticker.min.t; raw quote_CMCSA.json",
+    "supports": "intraday stock price; market bridge uses earlier latest disclosed June balance, not an intraday balance"
+  },
+  {
+    "id": "C11",
+    "url": "https://www.cmcsa.com/static-files/b269b35e-94ff-43d2-8f05-858c92bb7488",
+    "publication_date": "2026-07-23",
+    "section": "pp.1-3 pro forma revenue/EBITDA; p.6 subscribers/passings; remaining pages capital and notes",
+    "supports": "recast 2024-25 ongoing business comparison: Media EBITDA -123/164m, proforma total EBITDA35118/34454m; Q2 consumer weakness and cohort monetization required"
+  },
+  {
+    "id": "C10",
+    "url": "https://api.massive.com/v2/aggs/ticker/C:GBPUSD/prev",
+    "publication_date": "2026-09-08",
+    "section": "previous forex daily bar; quote_GBPUSD.json",
+    "supports": "GBPUSD1.3546 bar timestamp2026-09-07T23:59:59.999Z; future 2027 transaction FX remains uncertain"
+  },
+  {
+    "id": "C12",
+    "url": "https://www.nbcuniversal.com/article/nba-and-wnba-return-nbcuniversal-11-year-agreement-regular-season-and-playoff-basketball-nbc-peacock",
+    "publication_date": "2024-07-24",
+    "section": "announcement",
+    "supports": "eleven-year NBA agreement beginning2025-26; rights owner captures spending"
+  }
+]

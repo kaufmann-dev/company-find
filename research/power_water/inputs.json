@@ -1,0 +1,2964 @@
+[
+  {
+    "ticker": "POWL",
+    "company": "Powell Industries",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 180.855,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 36.604564,
+    "basic_shares_m": 36.432564,
+    "balance_date": "2026-06-30",
+    "cash_m": 633.561,
+    "minimum_cash_m": 400.36,
+    "debt_m": 0,
+    "senior_claims_m": 2.628,
+    "other_assets_m": 0.068,
+    "debt_interest_rate": 0,
+    "status": "modeled comparison; no recommendation pending common engine",
+    "accounting_notes": "GAAP consolidated margins retain SBC as an operating cost: no SBC addback and no future SBC dilution on top of that cost; current basic Aug3 plus Q3 incremental restricted awards0.172m. Three-for-one split executed2026-04-06. $350.360m net contract liabilities reserved as nonexcess funding plus $50m operating cash. This is a conservative reserve, not a contractual restricted-cash fact. Forecast NWC excludes new deposit benefits; do not also deduct reserved June advances as debt or unwind them again. Other claims: Remsdaq contingent consideration2.428m plus retiree medical0.2m(last annual). Net rabbi-trust asset16.960 less matching deferred compensation16.892=0.068m. Operating leases remain operating expense, not net debt. Economic end-market revenue forecast uses identical margins solely as consolidated-margin allocation, because no market-level costs are disclosed.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 699.308,
+        "ebit": 62.52,
+        "da": 8.606,
+        "capex": 7.819,
+        "cfo": 182.553,
+        "sbc": 4.599,
+        "source_ids": [
+          "PW01"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 1012.356,
+        "ebit": 178.773,
+        "da": 6.871,
+        "capex": 11.983,
+        "cfo": 108.661,
+        "sbc": 4.747,
+        "source_ids": [
+          "PW01"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 1104.318,
+        "ebit": 217.86,
+        "da": 7.265,
+        "capex": 13.149,
+        "cfo": 167.937,
+        "sbc": 4.635,
+        "source_ids": [
+          "PW01"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "PW01",
+        "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042025000152/powl-20250930.htm",
+        "publication_date": "2025-11-19",
+        "section": "pp.39-43 financial statements; pp.58,61 deferred compensation; pp.63-64 segments",
+        "supports": "Powell 2023-25 history, accounting"
+      },
+      {
+        "id": "PW02",
+        "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000107/powl-20260630.htm",
+        "publication_date": "2026-08-04",
+        "section": "cover; pp.3-4,8,10,13-14,18,26-30",
+        "supports": "Powell latest balance, shares, existing dilution, end market revenues, backlog, customer advances"
+      },
+      {
+        "id": "PW03",
+        "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+        "publication_date": "2026-08-03",
+        "section": "key highlights and outlook",
+        "supports": "Powell orders and mega-project concentration"
+      },
+      {
+        "id": "PW15",
+        "url": "https://www.iea.org/reports/building-the-future-transmission-grid/executive-summary",
+        "publication_date": "2025-02-20",
+        "section": "executive summary",
+        "supports": "grid component lead times and permitting constraint; publication day to recheck"
+      },
+      {
+        "id": "PW16",
+        "url": "https://www.energy.gov/oe/articles/strengthening-americas-grid-supply-chain",
+        "publication_date": "2026-08-10",
+        "section": "supply-chain program",
+        "supports": "US load growth around 3%, customization and standardization supply response"
+      },
+      {
+        "id": "PW17",
+        "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-expands-manufacturing-for-modular-electrical-enclosures.html",
+        "publication_date": "2026-09-02",
+        "section": "investment announcement",
+        "supports": "Eaton Fibrebond $242m+ Arkansas factory doubles US enclosure capacity; ramp date not specified"
+      },
+      {
+        "id": "PW21",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67284",
+        "publication_date": "2026-03-05",
+        "section": "US electricity generation 2025",
+        "supports": "2025 4430TWh generation vs consumption distinction"
+      },
+      {
+        "id": "PW22",
+        "url": "https://www.eia.gov/energyexplained/electricity/use-of-electricity.php",
+        "publication_date": "2026; exact update date not captured",
+        "section": "2025 electricity consumption",
+        "supports": "2025 US consumption 4200TWh starting stock of annual energy use"
+      },
+      {
+        "id": "PW23",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=34172",
+        "publication_date": "2017; exact day not captured",
+        "section": "natural gas generation capacity",
+        "supports": "2000-05 gas plant build-out and subsequent low capacity factors as historical supply-response analogue"
+      }
+    ],
+    "latest_interim": {
+      "period_end": "2026-06-30",
+      "months": 9,
+      "revenue": 859.539,
+      "net_income": 139.437,
+      "da": 6.496,
+      "capex": 10.386,
+      "cfo": 195.038,
+      "sbc": 4.28,
+      "source_ids": [
+        "PW02"
+      ]
+    },
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.11,
+        "terminal_growth": 0.015,
+        "terminal_roic": 0.13,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 425,
+                "ebit_margin": 0.19,
+                "volume": 425,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "electric utility",
+                "revenue": 320,
+                "ebit_margin": 0.19,
+                "volume": 320,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 245,
+                "ebit_margin": 0.19,
+                "volume": 245,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 98,
+                "ebit_margin": 0.19,
+                "volume": 98,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "rail and other",
+                "revenue": 74,
+                "ebit_margin": 0.19,
+                "volume": 74,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 9,
+            "capex": 25,
+            "delta_nwc": 20,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.36,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 445,
+                "ebit_margin": 0.18,
+                "volume": 436.27450980392155,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "electric utility",
+                "revenue": 340,
+                "ebit_margin": 0.18,
+                "volume": 333.3333333333333,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 360,
+                "ebit_margin": 0.18,
+                "volume": 352.94117647058823,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 110,
+                "ebit_margin": 0.18,
+                "volume": 107.84313725490196,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "rail and other",
+                "revenue": 76,
+                "ebit_margin": 0.18,
+                "volume": 74.50980392156863,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 12,
+            "capex": 45,
+            "delta_nwc": 30,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.3744,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 415,
+                "ebit_margin": 0.15,
+                "volume": 398.88504421376393,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "electric utility",
+                "revenue": 345,
+                "ebit_margin": 0.15,
+                "volume": 331.603229527105,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 410,
+                "ebit_margin": 0.15,
+                "volume": 394.079200307574,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 95,
+                "ebit_margin": 0.15,
+                "volume": 91.31103421760861,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "rail and other",
+                "revenue": 75,
+                "ebit_margin": 0.15,
+                "volume": 72.08765859284891,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 15,
+            "capex": 40,
+            "delta_nwc": 5,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.38937600000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 395,
+                "ebit_margin": 0.13,
+                "volume": 372.21732214608255,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "electric utility",
+                "revenue": 348,
+                "ebit_margin": 0.13,
+                "volume": 327.92817242237146,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 370,
+                "ebit_margin": 0.13,
+                "volume": 348.6592637824064,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 90,
+                "ebit_margin": 0.13,
+                "volume": 84.809010109234,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "rail and other",
+                "revenue": 76,
+                "ebit_margin": 0.13,
+                "volume": 71.61649742557537,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 17,
+            "capex": 27,
+            "delta_nwc": -10,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.40495104000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 390,
+                "ebit_margin": 0.13,
+                "volume": 360.29971615034054,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "electric utility",
+                "revenue": 350,
+                "ebit_margin": 0.13,
+                "volume": 323.34589910927997,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 365,
+                "ebit_margin": 0.13,
+                "volume": 337.2035804996777,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 90,
+                "ebit_margin": 0.13,
+                "volume": 83.14608834238628,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "rail and other",
+                "revenue": 77,
+                "ebit_margin": 0.13,
+                "volume": 71.1360978040416,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 18,
+            "capex": 24,
+            "delta_nwc": 0,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4211490816000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 400,
+                "ebit_margin": 0.135,
+                "volume": 362.29232393196634,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "electric utility",
+                "revenue": 360,
+                "ebit_margin": 0.135,
+                "volume": 326.0630915387697,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 380,
+                "ebit_margin": 0.135,
+                "volume": 344.177707735368,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 93,
+                "ebit_margin": 0.135,
+                "volume": 84.23296531418218,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "rail and other",
+                "revenue": 79,
+                "ebit_margin": 0.135,
+                "volume": 71.55273397656336,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 18,
+            "capex": 25,
+            "delta_nwc": 5,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.43799504486400004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 412,
+                "ebit_margin": 0.14,
+                "volume": 365.8442094607111,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "electric utility",
+                "revenue": 371,
+                "ebit_margin": 0.14,
+                "volume": 329.43738279107725,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 398,
+                "ebit_margin": 0.14,
+                "volume": 353.4126101101044,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 96,
+                "ebit_margin": 0.14,
+                "volume": 85.24525268987443,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "rail and other",
+                "revenue": 81,
+                "ebit_margin": 0.14,
+                "volume": 71.92568195708155,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 19,
+            "capex": 26,
+            "delta_nwc": 7,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4555148466585601,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 425,
+                "ebit_margin": 0.14,
+                "volume": 369.9880759109133,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "electric utility",
+                "revenue": 382,
+                "ebit_margin": 0.14,
+                "volume": 332.5539882305151,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 418,
+                "ebit_margin": 0.14,
+                "volume": 363.8941546606159,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 99,
+                "ebit_margin": 0.14,
+                "volume": 86.18545768277747,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "rail and other",
+                "revenue": 83,
+                "ebit_margin": 0.14,
+                "volume": 72.25649482495484,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 20,
+            "capex": 27,
+            "delta_nwc": 7,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.47373544052490246,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 438,
+                "ebit_margin": 0.14,
+                "volume": 373.8287825812688,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "electric utility",
+                "revenue": 393,
+                "ebit_margin": 0.14,
+                "volume": 335.4217158777138,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 439,
+                "ebit_margin": 0.14,
+                "volume": 374.6822729524589,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 102,
+                "ebit_margin": 0.14,
+                "volume": 87.05601786139137,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "rail and other",
+                "revenue": 85,
+                "ebit_margin": 0.14,
+                "volume": 72.54668155115947,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 21,
+            "capex": 28,
+            "delta_nwc": 8,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4926848581458986,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 450,
+                "ebit_margin": 0.14,
+                "volume": 376.5398696426962,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "electric utility",
+                "revenue": 405,
+                "ebit_margin": 0.14,
+                "volume": 338.8858826784266,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 461,
+                "ebit_margin": 0.14,
+                "volume": 385.7441775672955,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 105,
+                "ebit_margin": 0.14,
+                "volume": 87.85930291662912,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "rail and other",
+                "revenue": 88,
+                "ebit_margin": 0.14,
+                "volume": 73.63446339679393,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 22,
+            "capex": 29,
+            "delta_nwc": 8,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.5123922524717346,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.1,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.2,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 430,
+                "ebit_margin": 0.2,
+                "volume": 430,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "electric utility",
+                "revenue": 325,
+                "ebit_margin": 0.2,
+                "volume": 325,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 250,
+                "ebit_margin": 0.2,
+                "volume": 250,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 100,
+                "ebit_margin": 0.2,
+                "volume": 100,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "rail and other",
+                "revenue": 75,
+                "ebit_margin": 0.2,
+                "volume": 75,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 9,
+            "capex": 25,
+            "delta_nwc": 25,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.36,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 480,
+                "ebit_margin": 0.205,
+                "volume": 470.5882352941176,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "electric utility",
+                "revenue": 365,
+                "ebit_margin": 0.205,
+                "volume": 357.84313725490193,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 450,
+                "ebit_margin": 0.205,
+                "volume": 441.1764705882353,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 120,
+                "ebit_margin": 0.205,
+                "volume": 117.6470588235294,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "rail and other",
+                "revenue": 80,
+                "ebit_margin": 0.205,
+                "volume": 78.43137254901961,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 12,
+            "capex": 55,
+            "delta_nwc": 40,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.3744,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 510,
+                "ebit_margin": 0.205,
+                "volume": 490.19607843137254,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "electric utility",
+                "revenue": 400,
+                "ebit_margin": 0.205,
+                "volume": 384.46751249519417,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 620,
+                "ebit_margin": 0.205,
+                "volume": 595.924644367551,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 140,
+                "ebit_margin": 0.205,
+                "volume": 134.56362937331795,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "rail and other",
+                "revenue": 85,
+                "ebit_margin": 0.205,
+                "volume": 81.69934640522875,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 16,
+            "capex": 60,
+            "delta_nwc": 35,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.38937600000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 535,
+                "ebit_margin": 0.2,
+                "volume": 504.1424489826687,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "electric utility",
+                "revenue": 430,
+                "ebit_margin": 0.2,
+                "volume": 405.19860385522907,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 750,
+                "ebit_margin": 0.2,
+                "volume": 706.7417509102833,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 150,
+                "ebit_margin": 0.2,
+                "volume": 141.34835018205666,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "rail and other",
+                "revenue": 90,
+                "ebit_margin": 0.2,
+                "volume": 84.809010109234,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 20,
+            "capex": 52,
+            "delta_nwc": 25,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.40495104000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 560,
+                "ebit_margin": 0.195,
+                "volume": 517.3534385748479,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "electric utility",
+                "revenue": 460,
+                "ebit_margin": 0.195,
+                "volume": 424.96889597219655,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 850,
+                "ebit_margin": 0.195,
+                "volume": 785.2686121225371,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 155,
+                "ebit_margin": 0.195,
+                "volume": 143.1960410341097,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "rail and other",
+                "revenue": 94,
+                "ebit_margin": 0.195,
+                "volume": 86.84147004649233,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 24,
+            "capex": 45,
+            "delta_nwc": 20,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4211490816000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 582,
+                "ebit_margin": 0.19,
+                "volume": 527.135331321011,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "electric utility",
+                "revenue": 485,
+                "ebit_margin": 0.19,
+                "volume": 439.2794427675092,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 935,
+                "ebit_margin": 0.19,
+                "volume": 846.8583071909713,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 160,
+                "ebit_margin": 0.19,
+                "volume": 144.91692957278653,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "rail and other",
+                "revenue": 98,
+                "ebit_margin": 0.19,
+                "volume": 88.76161936333176,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 27,
+            "capex": 46,
+            "delta_nwc": 20,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.43799504486400004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 605,
+                "ebit_margin": 0.185,
+                "volume": 537.2226862226462,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "electric utility",
+                "revenue": 509,
+                "ebit_margin": 0.185,
+                "volume": 451.9774335327717,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1010,
+                "ebit_margin": 0.185,
+                "volume": 896.8510960080539,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 165,
+                "ebit_margin": 0.185,
+                "volume": 146.51527806072167,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "rail and other",
+                "revenue": 102,
+                "ebit_margin": 0.185,
+                "volume": 90.57308098299158,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 29,
+            "capex": 47,
+            "delta_nwc": 18,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4555148466585601,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 629,
+                "ebit_margin": 0.18,
+                "volume": 547.5823523481517,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "electric utility",
+                "revenue": 534,
+                "ebit_margin": 0.18,
+                "volume": 464.87913537982996,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1070,
+                "ebit_margin": 0.18,
+                "volume": 931.4993911168878,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 170,
+                "ebit_margin": 0.18,
+                "volume": 147.99523036436534,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "rail and other",
+                "revenue": 106,
+                "ebit_margin": 0.18,
+                "volume": 92.27937893307485,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 31,
+            "capex": 48,
+            "delta_nwc": 15,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.47373544052490246,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 654,
+                "ebit_margin": 0.18,
+                "volume": 558.1827027583329,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "electric utility",
+                "revenue": 561,
+                "ebit_margin": 0.18,
+                "volume": 478.80809823765253,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1124,
+                "ebit_margin": 0.18,
+                "volume": 959.3231772176853,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 175,
+                "ebit_margin": 0.18,
+                "volume": 149.36081495826951,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "rail and other",
+                "revenue": 110,
+                "ebit_margin": 0.18,
+                "volume": 93.88394083091227,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 33,
+            "capex": 49,
+            "delta_nwc": 15,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4926848581458986,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 680,
+                "ebit_margin": 0.18,
+                "volume": 568.9935807934077,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "electric utility",
+                "revenue": 589,
+                "ebit_margin": 0.18,
+                "volume": 492.84885159899574,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1180,
+                "ebit_margin": 0.18,
+                "volume": 987.3712137297367,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 180,
+                "ebit_margin": 0.18,
+                "volume": 150.61594785707848,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "rail and other",
+                "revenue": 115,
+                "ebit_margin": 0.18,
+                "volume": 96.2268555753557,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 35,
+            "capex": 50,
+            "delta_nwc": 15,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.5123922524717346,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.095,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.23,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 440,
+                "ebit_margin": 0.205,
+                "volume": 440,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "electric utility",
+                "revenue": 330,
+                "ebit_margin": 0.205,
+                "volume": 330,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 260,
+                "ebit_margin": 0.205,
+                "volume": 260,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 105,
+                "ebit_margin": 0.205,
+                "volume": 105,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              },
+              {
+                "name": "rail and other",
+                "revenue": 77,
+                "ebit_margin": 0.205,
+                "volume": 77,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 9,
+            "capex": 30,
+            "delta_nwc": 25,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.36,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 495,
+                "ebit_margin": 0.215,
+                "volume": 485.29411764705884,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "electric utility",
+                "revenue": 385,
+                "ebit_margin": 0.215,
+                "volume": 377.45098039215685,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 490,
+                "ebit_margin": 0.215,
+                "volume": 480.3921568627451,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 130,
+                "ebit_margin": 0.215,
+                "volume": 127.45098039215686,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              },
+              {
+                "name": "rail and other",
+                "revenue": 84,
+                "ebit_margin": 0.215,
+                "volume": 82.35294117647058,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.02
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 14,
+            "capex": 70,
+            "delta_nwc": 55,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.3744,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 555,
+                "ebit_margin": 0.22,
+                "volume": 533.4486735870819,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "electric utility",
+                "revenue": 450,
+                "ebit_margin": 0.22,
+                "volume": 432.52595155709344,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 740,
+                "ebit_margin": 0.22,
+                "volume": 711.2648981161092,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 160,
+                "ebit_margin": 0.22,
+                "volume": 153.78700499807766,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              },
+              {
+                "name": "rail and other",
+                "revenue": 93,
+                "ebit_margin": 0.22,
+                "volume": 89.38869665513265,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0404
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 20,
+            "capex": 90,
+            "delta_nwc": 60,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.38937600000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 610,
+                "ebit_margin": 0.225,
+                "volume": 574.8166240736971,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "electric utility",
+                "revenue": 520,
+                "ebit_margin": 0.225,
+                "volume": 490.0076139644631,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1020,
+                "ebit_margin": 0.225,
+                "volume": 961.1687812379853,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 180,
+                "ebit_margin": 0.225,
+                "volume": 169.618020218468,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              },
+              {
+                "name": "rail and other",
+                "revenue": 102,
+                "ebit_margin": 0.225,
+                "volume": 96.11687812379853,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.0612080000000002
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 28,
+            "capex": 95,
+            "delta_nwc": 55,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.40495104000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 660,
+                "ebit_margin": 0.225,
+                "volume": 609.7379811774994,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "electric utility",
+                "revenue": 590,
+                "ebit_margin": 0.225,
+                "volume": 545.0688013556434,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1280,
+                "ebit_margin": 0.225,
+                "volume": 1182.5221453139382,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 195,
+                "ebit_margin": 0.225,
+                "volume": 180.14985807517027,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              },
+              {
+                "name": "rail and other",
+                "revenue": 110,
+                "ebit_margin": 0.225,
+                "volume": 101.62299686291657,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.08243216
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 35,
+            "capex": 90,
+            "delta_nwc": 45,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4211490816000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 713,
+                "ebit_margin": 0.22,
+                "volume": 645.78606740873,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "electric utility",
+                "revenue": 655,
+                "ebit_margin": 0.22,
+                "volume": 593.2536804385949,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1498,
+                "ebit_margin": 0.22,
+                "volume": 1356.784753125214,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 209,
+                "ebit_margin": 0.22,
+                "volume": 189.2977392544524,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              },
+              {
+                "name": "rail and other",
+                "revenue": 118,
+                "ebit_margin": 0.22,
+                "volume": 106.87623555993008,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1040808032
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 42,
+            "capex": 85,
+            "delta_nwc": 40,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.43799504486400004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 770,
+                "ebit_margin": 0.215,
+                "volume": 683.7379642833679,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "electric utility",
+                "revenue": 721,
+                "ebit_margin": 0.215,
+                "volume": 640.2273665562444,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1678,
+                "ebit_margin": 0.215,
+                "volume": 1490.0159793084301,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 224,
+                "ebit_margin": 0.215,
+                "volume": 198.90558960970702,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              },
+              {
+                "name": "rail and other",
+                "revenue": 126,
+                "ebit_margin": 0.215,
+                "volume": 111.88439415546019,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.126162419264
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 47,
+            "capex": 80,
+            "delta_nwc": 35,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4555148466585601,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 832,
+                "ebit_margin": 0.21,
+                "volume": 724.3060686067762,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "electric utility",
+                "revenue": 779,
+                "ebit_margin": 0.21,
+                "volume": 678.1663791402389,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1846,
+                "ebit_margin": 0.21,
+                "volume": 1607.0540897212848,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 238,
+                "ebit_margin": 0.21,
+                "volume": 207.19332251011147,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              },
+              {
+                "name": "rail and other",
+                "revenue": 134,
+                "ebit_margin": 0.21,
+                "volume": 116.65506393426445,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.14868566764928
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 52,
+            "capex": 78,
+            "delta_nwc": 30,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.47373544052490246,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 882,
+                "ebit_margin": 0.21,
+                "volume": 752.7785073896783,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "electric utility",
+                "revenue": 834,
+                "ebit_margin": 0.21,
+                "volume": 711.810969572553,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 1994,
+                "ebit_margin": 0.21,
+                "volume": 1701.8598001530822,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 250,
+                "ebit_margin": 0.21,
+                "volume": 213.37259279752786,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              },
+              {
+                "name": "rail and other",
+                "revenue": 142,
+                "ebit_margin": 0.21,
+                "volume": 121.19563270899583,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.1716593810022657
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 55,
+            "capex": 75,
+            "delta_nwc": 25,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.4926848581458986,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "oil and gas excluding petrochemical",
+                "revenue": 935,
+                "ebit_margin": 0.21,
+                "volume": 782.3661735909355,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "electric utility",
+                "revenue": 892,
+                "ebit_margin": 0.21,
+                "volume": 746.3856971584112,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "commercial and other industrial",
+                "revenue": 2114,
+                "ebit_margin": 0.21,
+                "volume": 1768.9006320547996,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "petrochemical",
+                "revenue": 263,
+                "ebit_margin": 0.21,
+                "volume": 220.06663492450912,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              },
+              {
+                "name": "rail and other",
+                "revenue": 151,
+                "ebit_margin": 0.21,
+                "volume": 126.35004514677141,
+                "volume_unit": "million USD of 2026-price equivalent custom project workload, not physical units",
+                "price": 1.195092568622311
+              }
+            ],
+            "corporate_cost": 0,
+            "tax_rate": 0.245,
+            "da": 58,
+            "capex": 72,
+            "delta_nwc": 20,
+            "shares_m": 36.604564,
+            "dividend_per_share": 0.5123922524717346,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. End-market physical output and relative unit prices not disclosed. 2% price index is a mix-neutral modeling convention; workload implied by revenue, not independent demand evidence. Detailed independent energy-demand stress test in demand_supply.json."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  {
+    "ticker": "MWA",
+    "company": "Mueller Water Products",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 23.92,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 157.325679,
+    "basic_shares_m": 156.125679,
+    "balance_date": "2026-06-30",
+    "cash_m": 495.3,
+    "minimum_cash_m": 75,
+    "debt_m": 452.9,
+    "senior_claims_m": 0,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0.04,
+    "status": "modeled comparison; no recommendation pending common engine",
+    "accounting_notes": "GAAP-style margins retain stock compensation economic cost, no SBC addback or additional future dilution. Current July31 basic156.125679 plus Q3 weighted-average dilutive increment rounded1.2m; precise at-date option treasury-stock effect unavailable. Debt452.9m reported carrying amount includes finance leases/debt issuance discounts; principal450m4% notes dueJune2029, accounting difference immaterial<0.1% equity. Operating leases in operating expense, not senior claims. Pension surplus19.5m atSept2025 receives zero valuation credit; updated funded status unavailable. Minimum operating cash75m analyst assumption. No minority interest or preferred equity reported. Recurring reorganization expense allowance kept in corporate costs, tariff refund excluded from normalized future margins. All capex deducted; no claimed maintenance/growth split.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 1275.7,
+        "ebit": 127.4,
+        "da": 62.5,
+        "capex": 47.6,
+        "cfo": 109,
+        "sbc": 8.5,
+        "segments": {
+          "water_flow": 634.4,
+          "water_management": 641.3
+        },
+        "source_ids": [
+          "PW04"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 1314.7,
+        "ebit": 181.7,
+        "da": 66.2,
+        "capex": 47.4,
+        "cfo": 238.8,
+        "sbc": 9,
+        "segments": {
+          "water_flow": 755.5,
+          "water_management": 559.2
+        },
+        "source_ids": [
+          "PW04"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 1429.7,
+        "ebit": 260.6,
+        "da": 46.9,
+        "capex": 47.3,
+        "cfo": 219.3,
+        "sbc": 10.7,
+        "segments": {
+          "water_flow": 824.9,
+          "water_management": 604.8
+        },
+        "source_ids": [
+          "PW04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "PW04",
+        "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/mwa-20250930.htm",
+        "publication_date": "2025-11-19",
+        "section": "pp.2-5,10,34; F-4,F-5,F-8; notes 9,14",
+        "supports": "Mueller 2023-25 history, segments, customer concentration, pension, capex"
+      },
+      {
+        "id": "PW05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000036/mwa-20260630.htm",
+        "publication_date": "2026-08-06",
+        "section": "cover; pp.3-4,8,24; MD&A",
+        "supports": "Mueller current shares, balance, Q3 and 9m results, SBC and dividends"
+      },
+      {
+        "id": "PW06",
+        "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+        "publication_date": "2026-08-05",
+        "section": "segment results, fiscal 2026 outlook",
+        "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs"
+      },
+      {
+        "id": "PW12",
+        "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+        "publication_date": "2026-07-22",
+        "section": "highlights and outlook",
+        "supports": "Badger metering, phasing and slower AMI deployments"
+      },
+      {
+        "id": "PW18",
+        "url": "https://www.epa.gov/dwsrf/epas-7th-drinking-water-infrastructure-needs-survey-and-assessment",
+        "publication_date": "2026-06",
+        "section": "survey summary; original 2023 study",
+        "supports": "$625bn 20-year drinking water need; need is not funded order"
+      },
+      {
+        "id": "PW19",
+        "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/AMERICAN-WATER-REPORTS-SOLID-SECOND-QUARTER-2026-RESULTS-AFFIRMS-2026-EPS-GUIDANCE-AND-LONG-TERM-TARGETS/default.aspx",
+        "publication_date": "2026-07-29",
+        "section": "infrastructure investment and regulated businesses",
+        "supports": "downstream customer budget $3.7bn includes acquisitions; H1 $1.8bn includes $346m acquisitions; rate recovery"
+      },
+      {
+        "id": "PW20",
+        "url": "https://www.census.gov/construction/nrc/current/",
+        "publication_date": "2026-08-18",
+        "section": "July housing starts and completions",
+        "supports": "housing starts 1.239m SAAR and completions 1.212m SAAR; new connection affordability pressure"
+      }
+    ],
+    "latest_interim": {
+      "period_end": "2026-06-30",
+      "months": 9,
+      "revenue": 1098.5,
+      "net_income": 169.6,
+      "da": 37.1,
+      "capex": 43.6,
+      "cfo": 154.2,
+      "sbc": 10.5,
+      "source_ids": [
+        "PW05"
+      ]
+    },
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.105,
+        "terminal_growth": 0.015,
+        "terminal_roic": 0.14,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 835,
+                "ebit_margin": 0.26,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 630,
+                "ebit_margin": 0.2,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 79,
+            "tax_rate": 0.245,
+            "da": 50,
+            "capex": 63,
+            "delta_nwc": 65,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.28,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 810,
+                "ebit_margin": 0.245,
+                "volume": 94.63998831605083,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 620,
+                "ebit_margin": 0.18,
+                "volume": 96.01238869531554,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              }
+            ],
+            "corporate_cost": 79,
+            "tax_rate": 0.245,
+            "da": 52.3,
+            "capex": 75,
+            "delta_nwc": -7,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.29400000000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 790,
+                "ebit_margin": 0.23,
+                "volume": 90.05190095715767,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 600,
+                "ebit_margin": 0.16,
+                "volume": 90.64899011359452,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              }
+            ],
+            "corporate_cost": 79,
+            "tax_rate": 0.245,
+            "da": 54.6,
+            "capex": 65,
+            "delta_nwc": -8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.30870000000000003,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 800,
+                "ebit_margin": 0.235,
+                "volume": 88.96760823183224,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 610,
+                "ebit_margin": 0.165,
+                "volume": 89.91200645413443,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              }
+            ],
+            "corporate_cost": 79,
+            "tax_rate": 0.245,
+            "da": 56.9,
+            "capex": 60,
+            "delta_nwc": 4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.32413500000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 820,
+                "ebit_margin": 0.24,
+                "volume": 88.96760823183226,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 630,
+                "ebit_margin": 0.17,
+                "volume": 90.59506447997552,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              }
+            ],
+            "corporate_cost": 80,
+            "tax_rate": 0.245,
+            "da": 59.2,
+            "capex": 60,
+            "delta_nwc": 8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3403417500000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 845,
+                "ebit_margin": 0.24,
+                "volume": 89.44393688982541,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 649,
+                "ebit_margin": 0.175,
+                "volume": 91.05102105691694,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              }
+            ],
+            "corporate_cost": 82,
+            "tax_rate": 0.245,
+            "da": 61.5,
+            "capex": 61,
+            "delta_nwc": 8.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.35735883750000014,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 870,
+                "ebit_margin": 0.24,
+                "volume": 89.84410459708253,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 669,
+                "ebit_margin": 0.18,
+                "volume": 91.56771481390122,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              }
+            ],
+            "corporate_cost": 84,
+            "tax_rate": 0.245,
+            "da": 63.8,
+            "capex": 62,
+            "delta_nwc": 9,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.37522677937500015,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 896,
+                "ebit_margin": 0.24,
+                "volume": 90.27229348919086,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 689,
+                "ebit_margin": 0.18,
+                "volume": 92.0050392019803,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              }
+            ],
+            "corporate_cost": 86,
+            "tax_rate": 0.245,
+            "da": 66.1,
+            "capex": 63,
+            "delta_nwc": 9.2,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3939881183437502,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 923,
+                "ebit_margin": 0.24,
+                "volume": 90.72444130065678,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 710,
+                "ebit_margin": 0.18,
+                "volume": 92.49683575830086,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              }
+            ],
+            "corporate_cost": 88,
+            "tax_rate": 0.245,
+            "da": 68.4,
+            "capex": 64,
+            "delta_nwc": 9.6,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4136875242609377,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 951,
+                "ebit_margin": 0.24,
+                "volume": 91.19672719068213,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 731,
+                "ebit_margin": 0.18,
+                "volume": 92.90990991318164,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              }
+            ],
+            "corporate_cost": 90,
+            "tax_rate": 0.245,
+            "da": 70.7,
+            "capex": 65,
+            "delta_nwc": 9.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4343719004739846,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.095,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.19,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 838,
+                "ebit_margin": 0.285,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 637,
+                "ebit_margin": 0.225,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 83,
+            "tax_rate": 0.245,
+            "da": 50,
+            "capex": 63,
+            "delta_nwc": 65,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.28,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 872,
+                "ebit_margin": 0.29,
+                "volume": 101.51929681587987,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 675,
+                "ebit_margin": 0.23,
+                "volume": 103.38093961787342,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              }
+            ],
+            "corporate_cost": 86,
+            "tax_rate": 0.245,
+            "da": 52.3,
+            "capex": 72,
+            "delta_nwc": 14.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.29400000000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 915,
+                "ebit_margin": 0.29,
+                "volume": 103.92722822390922,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 716,
+                "ebit_margin": 0.235,
+                "volume": 106.98573118901156,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              }
+            ],
+            "corporate_cost": 89,
+            "tax_rate": 0.245,
+            "da": 54.6,
+            "capex": 74,
+            "delta_nwc": 16.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.30870000000000003,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 957,
+                "ebit_margin": 0.285,
+                "volume": 106.04649597257755,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 759,
+                "ebit_margin": 0.24,
+                "volume": 110.64473357740808,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              }
+            ],
+            "corporate_cost": 92,
+            "tax_rate": 0.245,
+            "da": 56.9,
+            "capex": 76,
+            "delta_nwc": 17,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.32413500000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1000,
+                "ebit_margin": 0.28,
+                "volume": 108.1086688305197,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 805,
+                "ebit_margin": 0.24,
+                "volume": 114.48826829887017,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              }
+            ],
+            "corporate_cost": 95,
+            "tax_rate": 0.245,
+            "da": 59.2,
+            "capex": 78,
+            "delta_nwc": 17.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3403417500000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1040,
+                "ebit_margin": 0.275,
+                "volume": 109.69074691096635,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 845,
+                "ebit_margin": 0.24,
+                "volume": 117.24597692779311,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              }
+            ],
+            "corporate_cost": 98,
+            "tax_rate": 0.245,
+            "da": 61.5,
+            "capex": 80,
+            "delta_nwc": 16,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.35735883750000014,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1082,
+                "ebit_margin": 0.27,
+                "volume": 111.33713710850432,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 887,
+                "ebit_margin": 0.24,
+                "volume": 120.07179279544235,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              }
+            ],
+            "corporate_cost": 101,
+            "tax_rate": 0.245,
+            "da": 63.8,
+            "capex": 82,
+            "delta_nwc": 16.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.37522677937500015,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1125,
+                "ebit_margin": 0.27,
+                "volume": 112.93835196525616,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 931,
+                "ebit_margin": 0.24,
+                "volume": 122.95414974296128,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              }
+            ],
+            "corporate_cost": 104,
+            "tax_rate": 0.245,
+            "da": 66.1,
+            "capex": 84,
+            "delta_nwc": 17.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3939881183437502,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1170,
+                "ebit_margin": 0.27,
+                "volume": 114.59110833547946,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 978,
+                "ebit_margin": 0.24,
+                "volume": 126.01101197098966,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              }
+            ],
+            "corporate_cost": 107,
+            "tax_rate": 0.245,
+            "da": 68.4,
+            "capex": 87,
+            "delta_nwc": 18.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4136875242609377,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1217,
+                "ebit_margin": 0.27,
+                "volume": 116.28716184638607,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 1027,
+                "ebit_margin": 0.24,
+                "volume": 129.09702159130768,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              }
+            ],
+            "corporate_cost": 110,
+            "tax_rate": 0.245,
+            "da": 70.7,
+            "capex": 90,
+            "delta_nwc": 19.2,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4343719004739846,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.09,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.23,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 842,
+                "ebit_margin": 0.29,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 638,
+                "ebit_margin": 0.23,
+                "volume": 100,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1
+              }
+            ],
+            "corporate_cost": 82,
+            "tax_rate": 0.245,
+            "da": 50,
+            "capex": 65,
+            "delta_nwc": 65,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.28,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 901,
+                "ebit_margin": 0.3,
+                "volume": 104.3971959909623,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 689,
+                "ebit_margin": 0.245,
+                "volume": 105.35973698294978,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.025
+              }
+            ],
+            "corporate_cost": 86,
+            "tax_rate": 0.245,
+            "da": 52.3,
+            "capex": 82,
+            "delta_nwc": 22,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.29400000000000004,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 973,
+                "ebit_margin": 0.305,
+                "volume": 109.98995338426822,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 751,
+                "ebit_margin": 0.255,
+                "volume": 112.03959428538396,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.050625
+              }
+            ],
+            "corporate_cost": 90,
+            "tax_rate": 0.245,
+            "da": 54.6,
+            "capex": 90,
+            "delta_nwc": 26.8,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.30870000000000003,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1051,
+                "ebit_margin": 0.305,
+                "volume": 115.90949891646748,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 819,
+                "ebit_margin": 0.265,
+                "volume": 119.20421905066998,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.0768906249999997
+              }
+            ],
+            "corporate_cost": 94,
+            "tax_rate": 0.245,
+            "da": 56.9,
+            "capex": 95,
+            "delta_nwc": 29.2,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.32413500000000006,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1135,
+                "ebit_margin": 0.3,
+                "volume": 122.12042539759172,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 893,
+                "ebit_margin": 0.27,
+                "volume": 126.80469056523218,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1038128906249995
+              }
+            ],
+            "corporate_cost": 99,
+            "tax_rate": 0.245,
+            "da": 59.2,
+            "capex": 100,
+            "delta_nwc": 31.6,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3403417500000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1220,
+                "ebit_margin": 0.3,
+                "volume": 128.06439796717473,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 965,
+                "ebit_margin": 0.27,
+                "volume": 133.68642437980944,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1314082128906244
+              }
+            ],
+            "corporate_cost": 104,
+            "tax_rate": 0.245,
+            "da": 61.5,
+            "capex": 105,
+            "delta_nwc": 31.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.35735883750000014,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1305,
+                "ebit_margin": 0.295,
+                "volume": 133.64577316846305,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 1042,
+                "ebit_margin": 0.27,
+                "volume": 140.8328110236436,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.15969341821289
+              }
+            ],
+            "corporate_cost": 109,
+            "tax_rate": 0.245,
+            "da": 63.8,
+            "capex": 110,
+            "delta_nwc": 32.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.37522677937500015,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1383,
+                "ebit_margin": 0.29,
+                "volume": 138.179313553488,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 1115,
+                "ebit_margin": 0.27,
+                "volume": 147.02362650752548,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.1886857536682123
+              }
+            ],
+            "corporate_cost": 114,
+            "tax_rate": 0.245,
+            "da": 66.1,
+            "capex": 112,
+            "delta_nwc": 30.2,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.3939881183437502,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1466,
+                "ebit_margin": 0.29,
+                "volume": 142.89958109406095,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 1193,
+                "ebit_margin": 0.27,
+                "volume": 153.47189012226002,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2184028975099173
+              }
+            ],
+            "corporate_cost": 119,
+            "tax_rate": 0.245,
+            "da": 68.4,
+            "capex": 115,
+            "delta_nwc": 32.2,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4136875242609377,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-09-30",
+            "segments": [
+              {
+                "name": "Water Flow Solutions",
+                "revenue": 1554,
+                "ebit_margin": 0.29,
+                "volume": 147.78288292028796,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              },
+              {
+                "name": "Water Management Solutions",
+                "revenue": 1277,
+                "ebit_margin": 0.27,
+                "volume": 160.2711783665905,
+                "volume_unit": "mix-adjusted shipment volume index; FY2026=100",
+                "price": 1.2488629699476652
+              }
+            ],
+            "corporate_cost": 124,
+            "tax_rate": 0.245,
+            "da": 70.7,
+            "capex": 118,
+            "delta_nwc": 34.4,
+            "shares_m": 157.325679,
+            "dividend_per_share": 0.4343719004739846,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Analyst scenario. Revenue from segment starting revenue times volume index/100 times price index. Price2.5% annual assumption. 2026 working-capital outflow conservatively reflects inventory buildup; subsequent dNWC20% incremental sales. Segment margins before unallocated corporate cost, retaining SBC and routine restructuring allowance."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  }
+]

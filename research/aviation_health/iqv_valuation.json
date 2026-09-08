@@ -1,0 +1,149 @@
+{
+  "ticker": "IQV",
+  "company": "IQVIA",
+  "currency": "USD",
+  "price": 261.17,
+  "price_timestamp": "2026-09-08T15:02:00+00:00",
+  "current_equity_m": 42988.582,
+  "diluted_equity_m": 43301.986000000004,
+  "scenarios": {
+    "downside": {
+      "probability": 0.3,
+      "enterprise_value_m": 18518.772717479358,
+      "equity_value_m": 3922.022717479358,
+      "residual_after_senior_claims_m": 3922.022717479358,
+      "fair_value_per_share": 23.655143048729542,
+      "terminal_pv_m": 4405.396010925801,
+      "terminal_share_of_ev": 0.2378881191607082,
+      "terminal_next_fcff_m": 1962.0708339122152,
+      "annualized_return": -0.2331479375968501,
+      "future_equity_per_share": 69.27238642426043,
+      "future_operating_ev_m": 19950.534768435533,
+      "retained_excess_cash_m": 7440.5769007068475,
+      "horizon_debt_m": 15999.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -261.17
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 69.27238642426043
+        }
+      ]
+    },
+    "base": {
+      "probability": 0.5,
+      "enterprise_value_m": 36331.100157984256,
+      "equity_value_m": 21734.350157984256,
+      "residual_after_senior_claims_m": 21734.350157984256,
+      "fair_value_per_share": 131.08775728579164,
+      "terminal_pv_m": 13033.308298838334,
+      "terminal_share_of_ev": 0.3587369565513718,
+      "terminal_next_fcff_m": 3344.3064723534985,
+      "annualized_return": -0.030895210681479657,
+      "future_equity_per_share": 223.24735239801961,
+      "future_operating_ev_m": 41279.58763816369,
+      "retained_excess_cash_m": 11640.57338942796,
+      "horizon_debt_m": 15999.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -261.17
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 223.24735239801961
+        }
+      ]
+    },
+    "upside": {
+      "probability": 0.2,
+      "enterprise_value_m": 51482.02974034624,
+      "equity_value_m": 36885.27974034624,
+      "residual_after_senior_claims_m": 36885.27974034624,
+      "fair_value_per_share": 222.46851471861422,
+      "terminal_pv_m": 22051.63072618099,
+      "terminal_share_of_ev": 0.42833646686815113,
+      "terminal_next_fcff_m": 4542.506295613535,
+      "annualized_return": 0.06319111604173722,
+      "future_equity_per_share": 354.78215686880264,
+      "future_operating_ev_m": 60826.98897901451,
+      "retained_excess_cash_m": 13901.642629832975,
+      "horizon_debt_m": 15999.0,
+      "unfunded_cash_shortfall_m": 0.0,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -261.17
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 354.78215686880264
+        }
+      ]
+    }
+  },
+  "current_ev_m": 57585.332,
+  "conventional_ev_m": 56985.332,
+  "probability_weighted_fair_value": 117.13412450123752,
+  "upside": -0.551502375842411,
+  "margin_of_safety": -1.2296662147949955,
+  "expected_scenario_annualized_return": -0.07275376341144742,
+  "expected_cashflow_annualized_return": -0.04881224131713907,
+  "reverse_margin": {
+    "parallel_margin_change_percentage_points": 10.154798803324633,
+    "price_justifying_2030_margin": 0.2592798137760799,
+    "fair_value_at_solution": 261.17
+  },
+  "sensitivity": [
+    {
+      "wacc": 0.085,
+      "g": 0.015000000000000001,
+      "fair_value": 153.22053641381058
+    },
+    {
+      "wacc": 0.085,
+      "g": 0.025,
+      "fair_value": 166.01546944342664
+    },
+    {
+      "wacc": 0.085,
+      "g": 0.035,
+      "fair_value": 183.22724836051677
+    },
+    {
+      "wacc": 0.095,
+      "g": 0.015000000000000001,
+      "fair_value": 122.96819611059318
+    },
+    {
+      "wacc": 0.095,
+      "g": 0.025,
+      "fair_value": 131.08775728579164
+    },
+    {
+      "wacc": 0.095,
+      "g": 0.035,
+      "fair_value": 141.3900330200726
+    },
+    {
+      "wacc": 0.105,
+      "g": 0.015000000000000001,
+      "fair_value": 99.36169195384757
+    },
+    {
+      "wacc": 0.105,
+      "g": 0.025,
+      "fair_value": 104.69150321933772
+    },
+    {
+      "wacc": 0.105,
+      "g": 0.035,
+      "fair_value": 111.14115228227607
+    }
+  ],
+  "probability_sensitivity_shift_10pp_upside_to_downside": 97.25278733424905
+}

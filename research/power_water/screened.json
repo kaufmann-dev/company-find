@@ -1,0 +1,172 @@
+[
+  {
+    "ticker": "POWL",
+    "company": "Powell Industries",
+    "value_chain": "grid equipment",
+    "listing": "US",
+    "role": "Custom engineered medium-voltage switchgear, enclosures and electrical systems.",
+    "dated_role_source": {
+      "id": "PW03",
+      "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+      "publication_date": "2026-08-03",
+      "section": "key highlights and outlook",
+      "supports": "Powell orders and mega-project concentration"
+    },
+    "financial_mechanism": "Backlog conversion lifts volume; engineering qualification and favorable contract milestones support margins and capital turns.",
+    "decision": "advance to DCF",
+    "reason": "Cash-rich specialist with strongly accelerating orders; test current price against margin normalization rather than infer cheapness."
+  },
+  {
+    "ticker": "ETN",
+    "company": "Eaton",
+    "value_chain": "grid equipment",
+    "listing": "Ireland/NYSE",
+    "role": "Diversified electrical components, distribution and aerospace leader.",
+    "dated_role_source": {
+      "id": "PW07",
+      "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+      "publication_date": "2026-07-31",
+      "section": "business segment results and outlook",
+      "supports": "Eaton role, growth, operating margins and forward EPS"
+    },
+    "financial_mechanism": "Electrical Americas volume +18% organic in Q2, but margin27.5% already strong; integration, expansion and Mobility disposal matter.",
+    "decision": "reject at screen",
+    "reason": "At $423.94 roughly31.4x management FY26 adjusted EPS midpoint13.50 before adjustment-quality review, needs prolonged success; direct new enclosure supply competes with specialists."
+  },
+  {
+    "ticker": "HUBB",
+    "company": "Hubbell",
+    "value_chain": "grid equipment",
+    "listing": "US",
+    "role": "Transmission/distribution components and utility solutions.",
+    "dated_role_source": {
+      "id": "PW08",
+      "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+      "publication_date": "2026-07-28",
+      "section": "quarterly results",
+      "supports": "Hubbell grid component comparison"
+    },
+    "financial_mechanism": "Higher grid capex drives component volume and pricing; distributor inventory can amplify reversals.",
+    "decision": "reject at screen",
+    "reason": "Useful broad leader comparator; current $461.62 and Q2 sales +15.3% do not themselves establish value gap. No stronger mispricing mechanism than specialist test; valuation not completed."
+  },
+  {
+    "ticker": "GEV",
+    "company": "GE Vernova",
+    "value_chain": "grid equipment",
+    "listing": "US",
+    "role": "Gas turbines, grid electrification and wind equipment/services.",
+    "dated_role_source": {
+      "id": "PW09",
+      "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+      "publication_date": "2026-07-22",
+      "section": "highlights and CEO comments",
+      "supports": "GEV end market order growth and announced annual turbine output 20/24/30 GW"
+    },
+    "financial_mechanism": "Equipment scarcity and subsequent installed-base services capture cash; customer deposits accelerate cash without proving earnings.",
+    "decision": "reject at screen",
+    "reason": "At $965.12, avoid inferring undervaluation from $11.5-12.5bn management FCF outlook because advance payments inflate it. Complex wind and services bridge outside two-model allocation; no intrinsic-value conclusion."
+  },
+  {
+    "ticker": "ENR.DE",
+    "company": "Siemens Energy",
+    "value_chain": "grid equipment",
+    "listing": "Germany",
+    "role": "Grid Technologies, Gas Services, industrial transformation and wind.",
+    "dated_role_source": {
+      "id": "PW10",
+      "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+      "publication_date": "2026-08-05",
+      "section": "Q3 FY26 earnings release summary",
+      "supports": "Siemens grid/gas role and returning wind profitability"
+    },
+    "financial_mechanism": "Backlog repricing and grid capacity expansion plus wind loss reduction.",
+    "decision": "unconfirmed, not advanced",
+    "reason": "Q3 recovery confirmed, but German quote/corporate-action/currency bridge and segment cash reinvestment not completed. Valuation ranking inappropriate."
+  },
+  {
+    "ticker": "MWA",
+    "company": "Mueller Water Products",
+    "value_chain": "water networks",
+    "listing": "US",
+    "role": "Valves, service brass, hydrants, repair, metering and water network management.",
+    "dated_role_source": {
+      "id": "PW06",
+      "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+      "publication_date": "2026-08-05",
+      "section": "segment results, fiscal 2026 outlook",
+      "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs"
+    },
+    "financial_mechanism": "Specified installed base supports price, lower foundry costs and normalization improve cash flow without water-volume growth.",
+    "decision": "advance to DCF",
+    "reason": "Test pricing durability vs flat physical volume, higher capex and distributor power; latest net cash makes financing resilient."
+  },
+  {
+    "ticker": "XYL",
+    "company": "Xylem",
+    "value_chain": "water networks",
+    "listing": "US",
+    "role": "Water infrastructure equipment, measurement and recurring solutions.",
+    "dated_role_source": {
+      "id": "PW11",
+      "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+      "publication_date": "2026-07-28",
+      "section": "second-quarter results and outlook",
+      "supports": "Xylem water solutions, sales growth and cash margin"
+    },
+    "financial_mechanism": "Water utility reliability/reuse budgets support service and product volumes, digital leak detection lowers lost-water cost.",
+    "decision": "reject at screen",
+    "reason": "At $108.865 and ~236m diluted shares inferred from quarterly NI/EPS, roughly$25.7bn equity vs management~$0.94-1.01bn FY26FCF, ~26x; Q2 revenue+1% organic means orders need deployment proof."
+  },
+  {
+    "ticker": "BMI",
+    "company": "Badger Meter",
+    "value_chain": "water networks",
+    "listing": "US",
+    "role": "Smart water metering, AMI and network monitoring.",
+    "dated_role_source": {
+      "id": "PW12",
+      "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "publication_date": "2026-07-22",
+      "section": "highlights and outlook",
+      "supports": "Badger metering, phasing and slower AMI deployments"
+    },
+    "financial_mechanism": "Replacement cycle converts manual meters to recurring communications and analytics; deployment timing governs cash.",
+    "decision": "reject at screen",
+    "reason": "$130.64 about32x annualized Q2 EPS1.02, revenue-7% despite secular story; expected return needs independent adoption upside beyond management high-single-digit ambition."
+  },
+  {
+    "ticker": "GRC",
+    "company": "Gorman-Rupp",
+    "value_chain": "water networks",
+    "listing": "US",
+    "role": "Pumps and pumping systems serving municipal water, industrial, construction and agriculture markets.",
+    "dated_role_source": {
+      "id": "PW13",
+      "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+      "publication_date": "2026-07-24",
+      "section": "second-quarter highlights",
+      "supports": "Gorman-Rupp pumps, volumes and pricing"
+    },
+    "financial_mechanism": "Improving volumes, mix and acquired Fill-Rite economics increase operating leverage and debt reduction.",
+    "decision": "reject at screen",
+    "reason": "$75.22 about25.4x annualized record Q2 EPS0.74; only3.9% sales growth and no demonstrated durable supply shortage. Good business; insufficient valuation gap evidence."
+  },
+  {
+    "ticker": "6370.T",
+    "company": "Kurita Water Industries",
+    "value_chain": "water treatment",
+    "listing": "Japan",
+    "role": "Ultrapure/electronics water treatment plus general-industry chemicals, facilities and services.",
+    "dated_role_source": {
+      "id": "PW14",
+      "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+      "publication_date": "2025-08-13",
+      "section": "pp.1-2; company-authored Q&A",
+      "supports": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only"
+    },
+    "financial_mechanism": "Semiconductor quality requirements raise treatment intensity; recurring installed-base operations can capture savings.",
+    "decision": "unconfirmed, not advanced",
+    "reason": "Specific customer construction delays and biogas execution costs disprove automatic water-scarcity benefit. Current Japan quote and segment cash bridge not completed; cannot recommend."
+  }
+]

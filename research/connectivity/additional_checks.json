@@ -1,0 +1,14 @@
+{
+  "base": 33.1441260320617,
+  "broadband_arpu70_from2027_high_incremental_margin75pct": 27.384999293630436,
+  "additional_permanent_separation_cost1000m_from2027": 30.444156952395225,
+  "peacock_loss500m_every_year_from2027": 27.39514332585559,
+  "all_capital_spending15pct_higher_from2027": 23.581347500919797,
+  "itv_GBPUSD1p50": 33.085496728792364,
+  "itv_incremental_ebit150m_no_extra_reinvestment_sensitivity_only": 33.49007693457922,
+  "additional_noncommon_claim4000m": 32.01883518506404,
+  "portfolio_investments_zero_value_except_insurance": 32.043028938274496,
+  "all291m_antidilutive_awards_as_zero_proceeds_extreme": 30.636104150054816,
+  "combined_arpu70_separation1000m_capex15pct": 15.122251682822059,
+  "probability_mix_40_50_10": 23.90372056272144
+}

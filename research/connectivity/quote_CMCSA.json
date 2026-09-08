@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nCMCSA,-1.0758776896942248,-0.28500000000000014,1788879257062118990,3744783.008104,26.31,26.4,25.96,26.215,3744783.0,26.1662,21751.744669,3744777.957363,3744777,1788879180000,250,26.22,26.2271,26.21,26.215,21751,26.2214,26.62,26.725,26.38,26.49,17284410.0,26.5054\n"
+    }
+  ],
+  "structuredContent": {
+    "result": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nCMCSA,-1.0758776896942248,-0.28500000000000014,1788879257062118990,3744783.008104,26.31,26.4,25.96,26.215,3744783.0,26.1662,21751.744669,3744777.957363,3744777,1788879180000,250,26.22,26.2271,26.21,26.215,21751,26.2214,26.62,26.725,26.38,26.49,17284410.0,26.5054\n"
+  },
+  "isError": false
+}

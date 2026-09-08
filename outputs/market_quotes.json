@@ -1,0 +1,47 @@
+{
+  "AER": {
+    "price": 145.165,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "CF": {
+    "price": 134.99,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "CMCSA": {
+    "price": 26.115,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "FISV": {
+    "price": 51.2201,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "GSL": {
+    "price": 45.21,
+    "price_timestamp": "2026-09-08T15:00:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "IQV": {
+    "price": 261.17,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "MWA": {
+    "price": 23.92,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "POWL": {
+    "price": 180.855,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  },
+  "PYPL": {
+    "price": 53.25,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  }
+}

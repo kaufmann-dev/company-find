@@ -1,0 +1,92 @@
+{
+  "instructions": "Save inputs.json as a list of company objects. All financial amounts and shares in millions of currency units. All future numerical inputs are analyst assumptions unless explicitly identified otherwise. Supply your own annual 2026-2035 arrays; do not only give terminal CAGR. Root engine handles common DCF and return calculations. Can also provide justified custom valuation engine for lessors. Common engine adds five explicit normalization years with a replacement-investment floor, except a finite terminal_value_override. Frozen authoritative prices are in outputs/market_quotes.json; regenerate valuations with python reproduce.py, not the original discovery-stage input generators.",
+  "company_example": {
+    "ticker": "EXAMPLE",
+    "company": "Example plc",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 100.0,
+    "price_timestamp": "2026-09-08T15:00:00Z",
+    "shares_m": 100.0,
+    "basic_shares_m": 99.0,
+    "balance_date": "2026-06-30",
+    "cash_m": 1000.0,
+    "minimum_cash_m": 200.0,
+    "debt_m": 1500.0,
+    "senior_claims_m": 0.0,
+    "other_assets_m": 0.0,
+    "debt_interest_rate": 0.05,
+    "status": "modelled comparison; candidate pending evidence",
+    "accounting_notes": "GAAP operating margins retain SBC economic cost; no SBC addback and no additional future dilution. Existing dilution in shares. Leases treated as operating costs and excluded from net debt unless explicitly capitalized consistently. Identify restricted cash/NCI/pensions. Latest dated balance is not a current intraday balance.",
+    "history": [
+      {
+        "year": 2025,
+        "revenue": 1000,
+        "ebit": 150,
+        "da": 30,
+        "capex": 40,
+        "cfo": 140,
+        "sbc": 5,
+        "source_ids": [
+          "S1"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "S1",
+        "url": "https://example.com",
+        "publication_date": "2026-02-01",
+        "section": "consolidated financial statements",
+        "supports": "history, balance, shares"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.11,
+        "terminal_growth": 0.01,
+        "terminal_roic": 0.12,
+        "years": []
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.095,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.15,
+        "years": []
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.09,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.18,
+        "years": []
+      }
+    },
+    "annual_row_example": {
+      "year": 2026,
+      "period_end": "2026-12-31",
+      "segments": [
+        {
+          "name": "business segment",
+          "revenue": 1000.0,
+          "ebit_margin": 0.15,
+          "volume": 100.0,
+          "volume_unit": "million transactions",
+          "price": 10.0
+        }
+      ],
+      "corporate_cost": 10.0,
+      "tax_rate": 0.24,
+      "da": 30.0,
+      "capex": 50.0,
+      "delta_nwc": 5.0,
+      "shares_m": 100.0,
+      "dividend_per_share": 0.5,
+      "net_debt_issuance": 0.0,
+      "new_equity_issuance": 0.0,
+      "notes": "All amounts full fiscal year, including first FY26 row. Root fractions first annual FCFF for valuation-date stub. Separate source-backed operating drivers from assumed estimates; missing physical capacity explicitly unknown. Revenue equals volume*price where units compatible. Do not add a separate SBC deduction if margins already retain SBC."
+    }
+  }
+}

@@ -1,0 +1,2684 @@
+{
+  "metadata": {
+    "research_date": "2026-09-08",
+    "unique_source_records": 104,
+    "modeled_companies": {
+      "POWL": {
+        "company": "Powell Industries",
+        "package": "power_water",
+        "source_ids": [
+          "PW01",
+          "PW02",
+          "PW03",
+          "PW15",
+          "PW16",
+          "PW17",
+          "PW21",
+          "PW22",
+          "PW23"
+        ]
+      },
+      "MWA": {
+        "company": "Mueller Water Products",
+        "package": "power_water",
+        "source_ids": [
+          "PW04",
+          "PW05",
+          "PW06",
+          "PW12",
+          "PW18",
+          "PW19",
+          "PW20"
+        ]
+      },
+      "PYPL": {
+        "company": "PayPal Holdings",
+        "package": "payments",
+        "source_ids": [
+          "PAY1",
+          "PAY2",
+          "PAY3"
+        ]
+      },
+      "FISV": {
+        "company": "Fiserv",
+        "package": "payments",
+        "source_ids": [
+          "PAY4",
+          "PAY5",
+          "PAY6",
+          "PAY10"
+        ]
+      },
+      "IQV": {
+        "company": "IQVIA",
+        "package": "aviation_health",
+        "source_ids": [
+          "AH13",
+          "AH14",
+          "AH15",
+          "AH16",
+          "AH23",
+          "AH30"
+        ]
+      },
+      "AER": {
+        "company": "AerCap",
+        "package": "aviation_health",
+        "source_ids": [
+          "AH1",
+          "AH2",
+          "AH3",
+          "AH4",
+          "AH5",
+          "AH6",
+          "AH24"
+        ]
+      },
+      "CF": {
+        "company": "CF Industries",
+        "package": "agri_transport",
+        "source_ids": [
+          "AT1",
+          "AT2",
+          "AT3",
+          "AT4",
+          "AT5",
+          "AT6",
+          "AT7",
+          "AT20"
+        ]
+      },
+      "GSL": {
+        "company": "Global Ship Lease",
+        "package": "agri_transport",
+        "source_ids": [
+          "AT8",
+          "AT9",
+          "AT10",
+          "AT11"
+        ]
+      },
+      "CMCSA": {
+        "company": "Comcast Corporation \u2014 combined current economic claims",
+        "package": "connectivity",
+        "source_ids": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C11",
+          "C10",
+          "C12"
+        ]
+      }
+    },
+    "deduplication": "Matching non-market URL and publication date collapsed with alias IDs and raw records retained. Market observations sharing a documentation URL remain separate observations, not independent economic corroboration."
+  },
+  "sources": [
+    {
+      "id": "PW01",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Powell 2023-25 history, accounting",
+      "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042025000152/powl-20250930.htm",
+      "publication_date": "2025-11-19",
+      "section": "pp.39-43 financial statements; pp.58,61 deferred compensation; pp.63-64 segments",
+      "supports": "Powell 2023-25 history, accounting",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW01",
+          "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042025000152/powl-20250930.htm",
+          "publication_date": "2025-11-19",
+          "section": "pp.39-43 financial statements; pp.58,61 deferred compensation; pp.63-64 segments",
+          "supports": "Powell 2023-25 history, accounting"
+        }
+      ]
+    },
+    {
+      "id": "PW02",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Powell latest balance, shares, existing dilution, end market revenues, backlog, customer advances",
+      "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000107/powl-20260630.htm",
+      "publication_date": "2026-08-04",
+      "section": "cover; pp.3-4,8,10,13-14,18,26-30",
+      "supports": "Powell latest balance, shares, existing dilution, end market revenues, backlog, customer advances",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW02",
+          "url": "https://www.sec.gov/Archives/edgar/data/80420/000008042026000107/powl-20260630.htm",
+          "publication_date": "2026-08-04",
+          "section": "cover; pp.3-4,8,10,13-14,18,26-30",
+          "supports": "Powell latest balance, shares, existing dilution, end market revenues, backlog, customer advances"
+        }
+      ]
+    },
+    {
+      "id": "PW03",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Powell orders and mega-project concentration",
+      "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+      "publication_date": "2026-08-03",
+      "section": "key highlights and outlook",
+      "supports": "Powell orders and mega-project concentration",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW03",
+          "url": "https://powellindustriesinc.gcs-web.com/news-releases/news-release-details/powell-industries-announces-third-quarter-fiscal-2026-results",
+          "publication_date": "2026-08-03",
+          "section": "key highlights and outlook",
+          "supports": "Powell orders and mega-project concentration"
+        }
+      ]
+    },
+    {
+      "id": "PW04",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Mueller 2023-25 history, segments, customer concentration, pension, capex",
+      "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/mwa-20250930.htm",
+      "publication_date": "2025-11-19",
+      "section": "pp.2-5,10,34; F-4,F-5,F-8; notes 9,14",
+      "supports": "Mueller 2023-25 history, segments, customer concentration, pension, capex",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW04",
+          "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/mwa-20250930.htm",
+          "publication_date": "2025-11-19",
+          "section": "pp.2-5,10,34; F-4,F-5,F-8; notes 9,14",
+          "supports": "Mueller 2023-25 history, segments, customer concentration, pension, capex"
+        }
+      ]
+    },
+    {
+      "id": "PW05",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Mueller current shares, balance, Q3 and 9m results, SBC and dividends",
+      "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000036/mwa-20260630.htm",
+      "publication_date": "2026-08-06",
+      "section": "cover; pp.3-4,8,24; MD&A",
+      "supports": "Mueller current shares, balance, Q3 and 9m results, SBC and dividends",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW05",
+          "url": "https://www.sec.gov/Archives/edgar/data/1350593/000135059326000036/mwa-20260630.htm",
+          "publication_date": "2026-08-06",
+          "section": "cover; pp.3-4,8,24; MD&A",
+          "supports": "Mueller current shares, balance, Q3 and 9m results, SBC and dividends"
+        }
+      ]
+    },
+    {
+      "id": "PW06",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs",
+      "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+      "publication_date": "2026-08-05",
+      "section": "segment results, fiscal 2026 outlook",
+      "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW06",
+          "url": "https://ir.muellerwaterproducts.com/press-releases/2026/08-05-2026-211118748",
+          "publication_date": "2026-08-05",
+          "section": "segment results, fiscal 2026 outlook",
+          "supports": "Mueller FY26 guidance; price versus volume; tariff refunds and transaction costs"
+        }
+      ]
+    },
+    {
+      "id": "PW07",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Eaton role, growth, operating margins and forward EPS",
+      "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+      "publication_date": "2026-07-31",
+      "section": "business segment results and outlook",
+      "supports": "Eaton role, growth, operating margins and forward EPS",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW07",
+          "url": "https://www.eaton.com/br/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html",
+          "publication_date": "2026-07-31",
+          "section": "business segment results and outlook",
+          "supports": "Eaton role, growth, operating margins and forward EPS"
+        }
+      ]
+    },
+    {
+      "id": "PW08",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Hubbell grid component comparison",
+      "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+      "publication_date": "2026-07-28",
+      "section": "quarterly results",
+      "supports": "Hubbell grid component comparison",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW08",
+          "url": "https://hubbell.gcs-web.com/news-releases/news-release-details/hubbell-reports-second-quarter-2026-results",
+          "publication_date": "2026-07-28",
+          "section": "quarterly results",
+          "supports": "Hubbell grid component comparison"
+        }
+      ]
+    },
+    {
+      "id": "PW09",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "GEV end market order growth and announced annual turbine output 20/24/30 GW",
+      "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+      "publication_date": "2026-07-22",
+      "section": "highlights and CEO comments",
+      "supports": "GEV end market order growth and announced annual turbine output 20/24/30 GW",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW09",
+          "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial",
+          "publication_date": "2026-07-22",
+          "section": "highlights and CEO comments",
+          "supports": "GEV end market order growth and announced annual turbine output 20/24/30 GW"
+        }
+      ]
+    },
+    {
+      "id": "PW10",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Siemens grid/gas role and returning wind profitability",
+      "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+      "publication_date": "2026-08-05",
+      "section": "Q3 FY26 earnings release summary",
+      "supports": "Siemens grid/gas role and returning wind profitability",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW10",
+          "url": "https://www.siemensenergy.com/global/en/home/investor-relations.html",
+          "publication_date": "2026-08-05",
+          "section": "Q3 FY26 earnings release summary",
+          "supports": "Siemens grid/gas role and returning wind profitability"
+        }
+      ]
+    },
+    {
+      "id": "PW11",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Xylem water solutions, sales growth and cash margin",
+      "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+      "publication_date": "2026-07-28",
+      "section": "second-quarter results and outlook",
+      "supports": "Xylem water solutions, sales growth and cash margin",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW11",
+          "url": "https://www.xylem.com/da-dk/about-xylem/newsroom/press-releases/xylem-reports-second-quarter-2026-results/",
+          "publication_date": "2026-07-28",
+          "section": "second-quarter results and outlook",
+          "supports": "Xylem water solutions, sales growth and cash margin"
+        }
+      ]
+    },
+    {
+      "id": "PW12",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Badger metering, phasing and slower AMI deployments",
+      "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "publication_date": "2026-07-22",
+      "section": "highlights and outlook",
+      "supports": "Badger metering, phasing and slower AMI deployments",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW12",
+          "url": "https://investors.badgermeter.com/news-releases/press-release-details/2026/Badger-Meter-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+          "publication_date": "2026-07-22",
+          "section": "highlights and outlook",
+          "supports": "Badger metering, phasing and slower AMI deployments"
+        }
+      ]
+    },
+    {
+      "id": "PW13",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Gorman-Rupp pumps, volumes and pricing",
+      "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+      "publication_date": "2026-07-24",
+      "section": "second-quarter highlights",
+      "supports": "Gorman-Rupp pumps, volumes and pricing",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW13",
+          "url": "https://www.sec.gov/Archives/edgar/data/42682/000119312526315278/grc-ex99.htm",
+          "publication_date": "2026-07-24",
+          "section": "second-quarter highlights",
+          "supports": "Gorman-Rupp pumps, volumes and pricing"
+        }
+      ]
+    },
+    {
+      "id": "PW14",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only",
+      "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+      "publication_date": "2025-08-13",
+      "section": "pp.1-2; company-authored Q&A",
+      "supports": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW14",
+          "url": "https://www.kurita-water.com/content/uploads/en/ir/docs/KWI20250813_FinancialBriefingQA_en.pdf",
+          "publication_date": "2025-08-13",
+          "section": "pp.1-2; company-authored Q&A",
+          "supports": "Kurita electronics water treatment and general-industry services; customer project delays; older role evidence only"
+        }
+      ]
+    },
+    {
+      "id": "PW15",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "grid component lead times and permitting constraint; publication day to recheck",
+      "url": "https://www.iea.org/reports/building-the-future-transmission-grid/executive-summary",
+      "publication_date": "2025-02; exact day not captured",
+      "section": "executive summary",
+      "supports": "grid component lead times and permitting constraint; publication day to recheck",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW15",
+          "url": "https://www.iea.org/reports/building-the-future-transmission-grid/executive-summary",
+          "publication_date": "2025-02; exact day not captured",
+          "section": "executive summary",
+          "supports": "grid component lead times and permitting constraint; publication day to recheck"
+        }
+      ]
+    },
+    {
+      "id": "PW16",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "US load growth around 3%, customization and standardization supply response",
+      "url": "https://www.energy.gov/oe/articles/strengthening-americas-grid-supply-chain",
+      "publication_date": "2026-08-10",
+      "section": "supply-chain program",
+      "supports": "US load growth around 3%, customization and standardization supply response",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW16",
+          "url": "https://www.energy.gov/oe/articles/strengthening-americas-grid-supply-chain",
+          "publication_date": "2026-08-10",
+          "section": "supply-chain program",
+          "supports": "US load growth around 3%, customization and standardization supply response"
+        }
+      ]
+    },
+    {
+      "id": "PW17",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "Eaton Fibrebond $242m+ Arkansas factory doubles US enclosure capacity; ramp date not specified",
+      "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-expands-manufacturing-for-modular-electrical-enclosures.html",
+      "publication_date": "2026-09-02",
+      "section": "investment announcement",
+      "supports": "Eaton Fibrebond $242m+ Arkansas factory doubles US enclosure capacity; ramp date not specified",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW17",
+          "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-expands-manufacturing-for-modular-electrical-enclosures.html",
+          "publication_date": "2026-09-02",
+          "section": "investment announcement",
+          "supports": "Eaton Fibrebond $242m+ Arkansas factory doubles US enclosure capacity; ramp date not specified"
+        }
+      ]
+    },
+    {
+      "id": "PW18",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "$625bn 20-year drinking water need; need is not funded order",
+      "url": "https://www.epa.gov/dwsrf/epas-7th-drinking-water-infrastructure-needs-survey-and-assessment",
+      "publication_date": "2026-06",
+      "section": "survey summary; original 2023 study",
+      "supports": "$625bn 20-year drinking water need; need is not funded order",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW18",
+          "url": "https://www.epa.gov/dwsrf/epas-7th-drinking-water-infrastructure-needs-survey-and-assessment",
+          "publication_date": "2026-06",
+          "section": "survey summary; original 2023 study",
+          "supports": "$625bn 20-year drinking water need; need is not funded order"
+        }
+      ]
+    },
+    {
+      "id": "PW19",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "downstream customer budget $3.7bn includes acquisitions; H1 $1.8bn includes $346m acquisitions; rate recovery",
+      "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/AMERICAN-WATER-REPORTS-SOLID-SECOND-QUARTER-2026-RESULTS-AFFIRMS-2026-EPS-GUIDANCE-AND-LONG-TERM-TARGETS/default.aspx",
+      "publication_date": "2026-07-29",
+      "section": "infrastructure investment and regulated businesses",
+      "supports": "downstream customer budget $3.7bn includes acquisitions; H1 $1.8bn includes $346m acquisitions; rate recovery",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW19",
+          "url": "https://ir.amwater.com/news-and-events/financial-releases/financial-release-details/2026/AMERICAN-WATER-REPORTS-SOLID-SECOND-QUARTER-2026-RESULTS-AFFIRMS-2026-EPS-GUIDANCE-AND-LONG-TERM-TARGETS/default.aspx",
+          "publication_date": "2026-07-29",
+          "section": "infrastructure investment and regulated businesses",
+          "supports": "downstream customer budget $3.7bn includes acquisitions; H1 $1.8bn includes $346m acquisitions; rate recovery"
+        }
+      ]
+    },
+    {
+      "id": "PW20",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "housing starts 1.239m SAAR and completions 1.212m SAAR; new connection affordability pressure",
+      "url": "https://www.census.gov/construction/nrc/current/",
+      "publication_date": "2026-08-18",
+      "section": "July housing starts and completions",
+      "supports": "housing starts 1.239m SAAR and completions 1.212m SAAR; new connection affordability pressure",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW20",
+          "url": "https://www.census.gov/construction/nrc/current/",
+          "publication_date": "2026-08-18",
+          "section": "July housing starts and completions",
+          "supports": "housing starts 1.239m SAAR and completions 1.212m SAAR; new connection affordability pressure"
+        }
+      ]
+    },
+    {
+      "id": "PW21",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "2025 4430TWh generation vs consumption distinction",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67284",
+      "publication_date": "2026-03-05",
+      "section": "US electricity generation 2025",
+      "supports": "2025 4430TWh generation vs consumption distinction",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW21",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=67284",
+          "publication_date": "2026-03-05",
+          "section": "US electricity generation 2025",
+          "supports": "2025 4430TWh generation vs consumption distinction"
+        }
+      ]
+    },
+    {
+      "id": "PW22",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "2025 US consumption 4200TWh starting stock of annual energy use",
+      "url": "https://www.eia.gov/energyexplained/electricity/use-of-electricity.php",
+      "publication_date": "2026; exact update date not captured",
+      "section": "2025 electricity consumption",
+      "supports": "2025 US consumption 4200TWh starting stock of annual energy use",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW22",
+          "url": "https://www.eia.gov/energyexplained/electricity/use-of-electricity.php",
+          "publication_date": "2026; exact update date not captured",
+          "section": "2025 electricity consumption",
+          "supports": "2025 US consumption 4200TWh starting stock of annual energy use"
+        }
+      ]
+    },
+    {
+      "id": "PW23",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "2000-05 gas plant build-out and subsequent low capacity factors as historical supply-response analogue",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=34172",
+      "publication_date": "2017; exact day not captured",
+      "section": "natural gas generation capacity",
+      "supports": "2000-05 gas plant build-out and subsequent low capacity factors as historical supply-response analogue",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW23",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=34172",
+          "publication_date": "2017; exact day not captured",
+          "section": "natural gas generation capacity",
+          "supports": "2000-05 gas plant build-out and subsequent low capacity factors as historical supply-response analogue"
+        }
+      ]
+    },
+    {
+      "id": "PW24",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "2.2million miles water pipe, attributable to ASCE2021, stale stock proxy",
+      "url": "https://www.epa.gov/emergency-response-research/stormwater-management-technologies-hydrant-flushing-chlorination",
+      "publication_date": "2025-10; exact update day not captured",
+      "section": "hydrant flushing and chlorination",
+      "supports": "2.2million miles water pipe, attributable to ASCE2021, stale stock proxy",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW24",
+          "url": "https://www.epa.gov/emergency-response-research/stormwater-management-technologies-hydrant-flushing-chlorination",
+          "publication_date": "2025-10; exact update day not captured",
+          "section": "hydrant flushing and chlorination",
+          "supports": "2.2million miles water pipe, attributable to ASCE2021, stale stock proxy"
+        }
+      ]
+    },
+    {
+      "id": "PW25",
+      "aliases": [],
+      "research_packages": [
+        "power_water"
+      ],
+      "title": "legacy0.5% annual renewal rate; explicitly historic rather than current observation",
+      "url": "https://www.epa.gov/sites/default/files/2018-10/documents/corrected_sixth_drinking_water_infrastructure_needs_survey_and_assessment.pdf",
+      "publication_date": "2018-03",
+      "section": "p24, approaches to reporting pipe rehabilitation/replacement need",
+      "supports": "legacy0.5% annual renewal rate; explicitly historic rather than current observation",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PW25",
+          "url": "https://www.epa.gov/sites/default/files/2018-10/documents/corrected_sixth_drinking_water_infrastructure_needs_survey_and_assessment.pdf",
+          "publication_date": "2018-03",
+          "section": "p24, approaches to reporting pipe rehabilitation/replacement need",
+          "supports": "legacy0.5% annual renewal rate; explicitly historic rather than current observation"
+        }
+      ]
+    },
+    {
+      "id": "PAY1",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "current shares, revenue categories, operating drivers, lending and customer balances, competition",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+      "publication_date": "2026-07-28",
+      "section": "cover; notes 2,3,8,9; MD&A pp48-54",
+      "supports": "current shares, revenue categories, operating drivers, lending and customer balances, competition",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+          "publication_date": "2026-07-28",
+          "section": "cover; notes 2,3,8,9; MD&A pp48-54",
+          "supports": "current shares, revenue categories, operating drivers, lending and customer balances, competition"
+        }
+      ]
+    },
+    {
+      "id": "PAY2",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "2023-2025 financial history; capitalized SBC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+      "publication_date": "2026-02-03",
+      "section": "consolidated income/cash flows pp59-63; note 15 stock compensation",
+      "supports": "2023-2025 financial history; capitalized SBC",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+          "publication_date": "2026-02-03",
+          "section": "consolidated income/cash flows pp59-63; note 15 stock compensation",
+          "supports": "2023-2025 financial history; capitalized SBC"
+        }
+      ]
+    },
+    {
+      "id": "PAY3",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "interim results, guidance and September dividend record date",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm",
+      "publication_date": "2026-07-28",
+      "section": "financial and operating results; cash flow; dividend program; balance sheet",
+      "supports": "interim results, guidance and September dividend record date",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY3",
+          "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm",
+          "publication_date": "2026-07-28",
+          "section": "financial and operating results; cash flow; dividend program; balance sheet",
+          "supports": "interim results, guidance and September dividend record date"
+        }
+      ]
+    },
+    {
+      "id": "PAY4",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "FISV shares, cash restrictions, debt, segment history, service cost deterioration",
+      "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+      "publication_date": "2026-08-06",
+      "section": "cover; notes 1,3,8,10,11,12,16,18; MD&A",
+      "supports": "FISV shares, cash restrictions, debt, segment history, service cost deterioration",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY4",
+          "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+          "publication_date": "2026-08-06",
+          "section": "cover; notes 1,3,8,10,11,12,16,18; MD&A",
+          "supports": "FISV shares, cash restrictions, debt, segment history, service cost deterioration"
+        }
+      ]
+    },
+    {
+      "id": "PAY5",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "2023-2025 history; bank and merchant revenue mechanisms; contracts and financing",
+      "url": "https://investors.fiserv.com/static-files/9e20ef73-0abc-4550-a6b3-95c26b30719f",
+      "publication_date": "2026-02-19",
+      "section": "10-K printed pp1-5,35-42,47,51,63",
+      "supports": "2023-2025 history; bank and merchant revenue mechanisms; contracts and financing",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY5",
+          "url": "https://investors.fiserv.com/static-files/9e20ef73-0abc-4550-a6b3-95c26b30719f",
+          "publication_date": "2026-02-19",
+          "section": "10-K printed pp1-5,35-42,47,51,63",
+          "supports": "2023-2025 history; bank and merchant revenue mechanisms; contracts and financing"
+        }
+      ]
+    },
+    {
+      "id": "PAY6",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "2026 interim and management outlook",
+      "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-second-quarter-2026-results",
+      "publication_date": "2026-08-06",
+      "section": "guidance; segment results; statements of cash flow and balance sheets",
+      "supports": "2026 interim and management outlook",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY6",
+          "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-second-quarter-2026-results",
+          "publication_date": "2026-08-06",
+          "section": "guidance; segment results; statements of cash flow and balance sheets",
+          "supports": "2026 interim and management outlook"
+        }
+      ]
+    },
+    {
+      "id": "PAY7",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "customer spending and affordability cross-check; US e-commerce $340.2bn Q2 adjusted, 12.2% YoY",
+      "url": "https://www.census.gov/retail/ecommerce.html",
+      "publication_date": "2026-08-18",
+      "section": "second quarter 2026 retail e-commerce sales",
+      "supports": "customer spending and affordability cross-check; US e-commerce $340.2bn Q2 adjusted, 12.2% YoY",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY7",
+          "url": "https://www.census.gov/retail/ecommerce.html",
+          "publication_date": "2026-08-18",
+          "section": "second quarter 2026 retail e-commerce sales",
+          "supports": "customer spending and affordability cross-check; US e-commerce $340.2bn Q2 adjusted, 12.2% YoY"
+        }
+      ]
+    },
+    {
+      "id": "PAY8",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "independent competitor volume24% and revenue19% growth; capex7% of net revenue guidance",
+      "url": "https://www.adyen.com/press-and-media/adyen-publishes-h1-2026-financial-results-3wjne",
+      "publication_date": "2026-08-13",
+      "section": "H1 key metrics and financial objectives",
+      "supports": "independent competitor volume24% and revenue19% growth; capex7% of net revenue guidance",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY8",
+          "url": "https://www.adyen.com/press-and-media/adyen-publishes-h1-2026-financial-results-3wjne",
+          "publication_date": "2026-08-13",
+          "section": "H1 key metrics and financial objectives",
+          "supports": "independent competitor volume24% and revenue19% growth; capex7% of net revenue guidance"
+        }
+      ]
+    },
+    {
+      "id": "PAY9",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "network demand payments volume+10%; 71.7bn quarterly processed transactions",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+      "publication_date": "2026-07-28",
+      "section": "volume and transaction operating metrics",
+      "supports": "network demand payments volume+10%; 71.7bn quarterly processed transactions",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY9",
+          "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+          "publication_date": "2026-07-28",
+          "section": "volume and transaction operating metrics",
+          "supports": "network demand payments volume+10%; 71.7bn quarterly processed transactions"
+        }
+      ]
+    },
+    {
+      "id": "PAY10",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "2025 merchant GPV4.6tr; SMB customer definitions; processing throughput test and medium-term management goals",
+      "url": "https://investors.fiserv.com/static-files/af17ec6f-4ca7-4261-804c-2fb24b9d2430",
+      "publication_date": "2026-05-15",
+      "section": "investor day transcript pp5-9",
+      "supports": "2025 merchant GPV4.6tr; SMB customer definitions; processing throughput test and medium-term management goals",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY10",
+          "url": "https://investors.fiserv.com/static-files/af17ec6f-4ca7-4261-804c-2fb24b9d2430",
+          "publication_date": "2026-05-15",
+          "section": "investor day transcript pp5-9",
+          "supports": "2025 merchant GPV4.6tr; SMB customer definitions; processing throughput test and medium-term management goals"
+        }
+      ]
+    },
+    {
+      "id": "PAY11",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "2025 survey average47payments/month, instrument shares stable; publication year is not observation year",
+      "url": "https://www.frbservices.org/news/fed360/issues/060226/cash-2026-diary-of-consumer-payment-choice",
+      "publication_date": "2026-06-02",
+      "section": "survey summary and historical figure",
+      "supports": "2025 survey average47payments/month, instrument shares stable; publication year is not observation year",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "PAY11",
+          "url": "https://www.frbservices.org/news/fed360/issues/060226/cash-2026-diary-of-consumer-payment-choice",
+          "publication_date": "2026-06-02",
+          "section": "survey summary and historical figure",
+          "supports": "2025 survey average47payments/month, instrument shares stable; publication year is not observation year"
+        }
+      ]
+    },
+    {
+      "id": "AH1",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "AerCap Q2 2026 results",
+      "url": "https://www.aercap.com/investors/news-events/news/detail/643/aercap-holdings-n-v-reports-strong-financial-results-for",
+      "publication_date": "2026-07-29",
+      "section": "Revenue and Net Spread; Financial Position; Book Value; guidance",
+      "supports": "Q2 results, share repurchases, guidance; single underlying source with interim financials",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH1",
+          "title": "AerCap Q2 2026 results",
+          "publication_date": "2026-07-29",
+          "url": "https://www.aercap.com/investors/news-events/news/detail/643/aercap-holdings-n-v-reports-strong-financial-results-for",
+          "section": "Revenue and Net Spread; Financial Position; Book Value; guidance",
+          "supports": "Q2 results, share repurchases, guidance; single underlying source with interim financials",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH2",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "AerCap 2025 Form 20-F",
+      "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-007513/aer-20251231.htm",
+      "publication_date": "2026-02-12",
+      "section": "pp44,54; F-5,F-7; Notes15,31",
+      "supports": "2023-25 history, lease economics, purchase commitments and financing",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH2",
+          "title": "AerCap 2025 Form 20-F",
+          "publication_date": "2026-02-12",
+          "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-007513/aer-20251231.htm",
+          "section": "pp44,54; F-5,F-7; Notes15,31",
+          "supports": "2023-25 history, lease economics, purchase commitments and financing",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH3",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "AerCap H1 2026 interim report",
+      "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-050456/aer-20260630_d2.htm",
+      "publication_date": "2026-07-29",
+      "section": "pp4-7,35-46; Notes22,25,27",
+      "supports": "Balance/share count; fleet utilization; deposits; June additions and July Boeing order",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH3",
+          "title": "AerCap H1 2026 interim report",
+          "publication_date": "2026-07-29",
+          "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001628280-26-050456/aer-20260630_d2.htm",
+          "section": "pp4-7,35-46; Notes22,25,27",
+          "supports": "Balance/share count; fleet utilization; deposits; June additions and July Boeing order",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH4",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IATA Global Outlook for Air Transport June 2026",
+      "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/global-outlook-for-air-transport-june-2026/",
+      "publication_date": "2026-06",
+      "section": "pp27-29, charts22-25; pp38-39 industry financial outlook",
+      "supports": "Effective and hypothetical shortages distinguished; industry estimates, not individual funded airline orders",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH4",
+          "title": "IATA Global Outlook for Air Transport June 2026",
+          "publication_date": "2026-06",
+          "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/global-outlook-for-air-transport-june-2026/",
+          "section": "pp27-29, charts22-25; pp38-39 industry financial outlook",
+          "supports": "Effective and hypothetical shortages distinguished; industry estimates, not individual funded airline orders",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH5",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Airbus H1 2026 results",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results",
+      "publication_date": "2026-07-29",
+      "section": "Commercial aircraft; production ramp; outlook",
+      "supports": "Observed351 H1 deliveries; management targets A32070-75/month end2027, A35012/month2028",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH5",
+          "title": "Airbus H1 2026 results",
+          "publication_date": "2026-07-29",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results",
+          "section": "Commercial aircraft; production ramp; outlook",
+          "supports": "Observed351 H1 deliveries; management targets A32070-75/month end2027, A35012/month2028",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH6",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Boeing Q2 2026 results",
+      "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Second-Quarter-Results/default.aspx",
+      "publication_date": "2026-07-28",
+      "section": "Commercial Airplanes",
+      "supports": "Observed314 H1 deliveries; transitioning737 to47/month; first737-7/-10 and777X deliveries2027 forecasts",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH6",
+          "title": "Boeing Q2 2026 results",
+          "publication_date": "2026-07-28",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Second-Quarter-Results/default.aspx",
+          "section": "Commercial Airplanes",
+          "supports": "Observed314 H1 deliveries; transitioning737 to47/month; first737-7/-10 and777X deliveries2027 forecasts",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH7",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "AAR FY2026 Q4 results",
+      "url": "https://www.aarcorp.com/globalassets/investors/earnings/fy-2026-q4-results/aar-fy-2026-q4-earnings.pdf",
+      "publication_date": "2026-07-21",
+      "section": "pp1-2",
+      "supports": "Parts distribution, component and airframe MRO, Trax; FY26EPS5.05 adjusted",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH7",
+          "title": "AAR FY2026 Q4 results",
+          "publication_date": "2026-07-21",
+          "url": "https://www.aarcorp.com/globalassets/investors/earnings/fy-2026-q4-results/aar-fy-2026-q4-earnings.pdf",
+          "section": "pp1-2",
+          "supports": "Parts distribution, component and airframe MRO, Trax; FY26EPS5.05 adjusted",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH8",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "GE Aerospace Q2 2026 results",
+      "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results",
+      "publication_date": "2026-07-16",
+      "section": "Commercial Engines & Services",
+      "supports": "Engine installed base and service exposure; higher volume with margin decline",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH8",
+          "title": "GE Aerospace Q2 2026 results",
+          "publication_date": "2026-07-16",
+          "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-second-quarter-2026-results",
+          "section": "Commercial Engines & Services",
+          "supports": "Engine installed base and service exposure; higher volume with margin decline",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH9",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "HEICO Q3 fiscal2026 results",
+      "url": "https://www.sec.gov/Archives/edgar/data/46619/000004661926000018/a07312026ex991earningsrele.htm",
+      "publication_date": "2026-08-25",
+      "section": "Flight Support Group; consolidated results",
+      "supports": "PMA/replacement parts and repair mix; FSG25.9%Q3 margin; EPS1.67",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH9",
+          "title": "HEICO Q3 fiscal2026 results",
+          "publication_date": "2026-08-25",
+          "url": "https://www.sec.gov/Archives/edgar/data/46619/000004661926000018/a07312026ex991earningsrele.htm",
+          "section": "Flight Support Group; consolidated results",
+          "supports": "PMA/replacement parts and repair mix; FSG25.9%Q3 margin; EPS1.67",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH10",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "MTU H1 2026 results",
+      "url": "https://www.mtu.de/investors/publications-events/latest-ir-news/ir-news-details/mtu-aero-engines-remains-on-track-with-growth-in-first-half-of-2026-and-raises-free-cash-flow-guidance-1-1/",
+      "publication_date": "2026-07-30",
+      "section": "Commercial maintenance; capex; guidance",
+      "supports": "MRO3.4bn revenue, margin8.0%; GTF46%MRO; capacity expansion",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH10",
+          "title": "MTU H1 2026 results",
+          "publication_date": "2026-07-30",
+          "url": "https://www.mtu.de/investors/publications-events/latest-ir-news/ir-news-details/mtu-aero-engines-remains-on-track-with-growth-in-first-half-of-2026-and-raises-free-cash-flow-guidance-1-1/",
+          "section": "Commercial maintenance; capex; guidance",
+          "supports": "MRO3.4bn revenue, margin8.0%; GTF46%MRO; capacity expansion",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH11",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Rolls-Royce H1 2026 results",
+      "url": "https://www.rolls-royce.com/investors/results-reports-and-presentations/financial-results/rr-holdings-plc-2026-half-year-results.aspx",
+      "publication_date": "2026-07-30",
+      "section": "Civil Aerospace; guidance; non-GAAP reconciliation",
+      "supports": "EFH and shop visits; contract catchups; PowerSystems exposure",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH11",
+          "title": "Rolls-Royce H1 2026 results",
+          "publication_date": "2026-07-30",
+          "url": "https://www.rolls-royce.com/investors/results-reports-and-presentations/financial-results/rr-holdings-plc-2026-half-year-results.aspx",
+          "section": "Civil Aerospace; guidance; non-GAAP reconciliation",
+          "supports": "EFH and shop visits; contract catchups; PowerSystems exposure",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH12",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Lufthansa H1 2026 shareholder information",
+      "url": "https://investor-relations.lufthansagroup.com/en/financial-reports-publications/shareholder-information/2-2026.html",
+      "publication_date": "2026-08",
+      "section": "MRO; group results",
+      "supports": "Technik315mEBIT despitegroup-229mEBIT; value capture diluted by airlines",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH12",
+          "title": "Lufthansa H1 2026 shareholder information",
+          "publication_date": "2026-08",
+          "url": "https://investor-relations.lufthansagroup.com/en/financial-reports-publications/shareholder-information/2-2026.html",
+          "section": "MRO; group results",
+          "supports": "Technik315mEBIT despitegroup-229mEBIT; value capture diluted by airlines",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH13",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IQVIA Q2 2026 results",
+      "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Reports-Second-Quarter-2026-Results/default.aspx",
+      "publication_date": "2026-07-28",
+      "section": "Tables1-5; Financial Position; Segment Results",
+      "supports": "2026recast segments, interim results/balance/shares, guidance/bookings",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH13",
+          "title": "IQVIA Q2 2026 results",
+          "publication_date": "2026-07-28",
+          "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Reports-Second-Quarter-2026-Results/default.aspx",
+          "section": "Tables1-5; Financial Position; Segment Results",
+          "supports": "2026recast segments, interim results/balance/shares, guidance/bookings",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH14",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IQVIA 2025 Form10-K",
+      "url": "https://s201.q4cdn.com/580005511/files/doc_financials/2025/q4/IQV-2025-12-31-10K_Filed-with-exhibits.pdf",
+      "publication_date": "2026-02-17",
+      "section": "pp5,50-55,69-73,103-107; Notes17,23",
+      "supports": "2023-25history, software capex, workforce, pension claims and backlog limits",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH14",
+          "title": "IQVIA 2025 Form10-K",
+          "publication_date": "2026-02-17",
+          "url": "https://s201.q4cdn.com/580005511/files/doc_financials/2025/q4/IQV-2025-12-31-10K_Filed-with-exhibits.pdf",
+          "section": "pp5,50-55,69-73,103-107; Notes17,23",
+          "supports": "2023-25history, software capex, workforce, pension claims and backlog limits",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH15",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IQVIA Global R&D Trends2026 public summary",
+      "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/global-r-and-d-trends-2026",
+      "publication_date": "2026-03-25",
+      "section": "Key findings; Exhibits18,33,55",
+      "supports": "2025funding/starts not uniform recovery; oncology starts-4%; public summary only; paid report not accessed",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH15",
+          "title": "IQVIA Global R&D Trends2026 public summary",
+          "publication_date": "2026-03-25",
+          "url": "https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/global-r-and-d-trends-2026",
+          "section": "Key findings; Exhibits18,33,55",
+          "supports": "2025funding/starts not uniform recovery; oncology starts-4%; public summary only; paid report not accessed",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH16",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "ICON Q2 2026 results",
+      "url": "https://investor.iconplc.com/node/18466/pdf",
+      "publication_date": "2026-07-29",
+      "section": "pp1-2; financial tables",
+      "supports": "Clinical outsourcing, bookings1.51x, EBITDA15.9%,EPSguidance10-11",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH16",
+          "title": "ICON Q2 2026 results",
+          "publication_date": "2026-07-29",
+          "url": "https://investor.iconplc.com/node/18466/pdf",
+          "section": "pp1-2; financial tables",
+          "supports": "Clinical outsourcing, bookings1.51x, EBITDA15.9%,EPSguidance10-11",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH17",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "ICON FY2025 results and investigation outcome",
+      "url": "https://investor.iconplc.com/news-releases/news-release-details/icon-reports-fourth-quarter-and-full-year-2025-results-and",
+      "publication_date": "2026-05-27",
+      "section": "Conclusion of Investigation and Restatement",
+      "supports": "Improper revenue adjustments; material weaknesses; revised backlog policy",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH17",
+          "title": "ICON FY2025 results and investigation outcome",
+          "publication_date": "2026-05-27",
+          "url": "https://investor.iconplc.com/news-releases/news-release-details/icon-reports-fourth-quarter-and-full-year-2025-results-and",
+          "section": "Conclusion of Investigation and Restatement",
+          "supports": "Improper revenue adjustments; material weaknesses; revised backlog policy",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH18",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Charles River Q2 2026 results",
+      "url": "https://ir.criver.com/news-releases/news-release-details/charles-river-laboratories-announces-second-quarter-2026-results",
+      "publication_date": "2026-08-05",
+      "section": "Segments and guidance",
+      "supports": "Earlystage research and manufacturing; organicflat, improvingDSA",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH18",
+          "title": "Charles River Q2 2026 results",
+          "publication_date": "2026-08-05",
+          "url": "https://ir.criver.com/news-releases/news-release-details/charles-river-laboratories-announces-second-quarter-2026-results",
+          "section": "Segments and guidance",
+          "supports": "Earlystage research and manufacturing; organicflat, improvingDSA",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH19",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Danaher Q2 2026 results",
+      "url": "https://investors.danaher.com/2026-07-21-Danaher-Reports-Second-Quarter-2026-Results",
+      "publication_date": "2026-07-21",
+      "section": "Key results; guidance",
+      "supports": "Bioprocess/diagnostics supplier; core3%, Masimo acquisition",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH19",
+          "title": "Danaher Q2 2026 results",
+          "publication_date": "2026-07-21",
+          "url": "https://investors.danaher.com/2026-07-21-Danaher-Reports-Second-Quarter-2026-Results",
+          "section": "Key results; guidance",
+          "supports": "Bioprocess/diagnostics supplier; core3%, Masimo acquisition",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH20",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Thermo Fisher Q2 2026 results",
+      "url": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Second-Quarter-2026-Results/",
+      "publication_date": "2026-07-23",
+      "section": "Highlights; financial results",
+      "supports": "Lab instruments, bioprocess and clinical services; 5%organic growth",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH20",
+          "title": "Thermo Fisher Q2 2026 results",
+          "publication_date": "2026-07-23",
+          "url": "https://ir.thermofisher.com/investors/news-events/news/news-details/2026/Thermo-Fisher-Scientific-Reports-Second-Quarter-2026-Results/",
+          "section": "Highlights; financial results",
+          "supports": "Lab instruments, bioprocess and clinical services; 5%organic growth",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH21",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Eurofins investor update",
+      "url": "https://www.eurofins.com/en/investors/",
+      "publication_date": "2026-07-23",
+      "section": "H1results; July20acquisition",
+      "supports": "Analytical lab testing and NA life-science testing expansion; release detail403",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH21",
+          "title": "Eurofins investor update",
+          "publication_date": "2026-07-23",
+          "url": "https://www.eurofins.com/en/investors/",
+          "section": "H1results; July20acquisition",
+          "supports": "Analytical lab testing and NA life-science testing expansion; release detail403",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH22",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Sonic FY2026 preliminary final report",
+      "url": "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/FR/Preliminary_Final_Report_30_June_2026.pdf",
+      "publication_date": "2026-08-20",
+      "section": "Principal activities; segment results",
+      "supports": "Pathology/lab network and clinical services; detailed currency/ADR bridge not modelled",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH22",
+          "title": "Sonic FY2026 preliminary final report",
+          "publication_date": "2026-08-20",
+          "url": "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/FR/Preliminary_Final_Report_30_June_2026.pdf",
+          "section": "Principal activities; segment results",
+          "supports": "Pathology/lab network and clinical services; detailed currency/ADR bridge not modelled",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH23",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "FDA effectiveness evidence revised draft guidance",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-evidence-effectiveness-human-drug-and-biological-products",
+      "publication_date": "2026-06",
+      "section": "Summary; status; comment deadline",
+      "supports": "One adequate study plus confirmatory evidence; draft not for implementation",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH23",
+          "title": "FDA effectiveness evidence revised draft guidance",
+          "publication_date": "2026-06",
+          "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/demonstrating-substantial-evidence-effectiveness-human-drug-and-biological-products",
+          "section": "Summary; status; comment deadline",
+          "supports": "One adequate study plus confirmatory evidence; draft not for implementation",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH24",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IATA February2021 passenger analysis",
+      "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/air-passenger-market-analysis---february-2021/",
+      "publication_date": "2021-04",
+      "section": "Globaltraffic table",
+      "supports": "Historical demand shock erased operating scarcity despite physical capital still existing",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH24",
+          "title": "IATA February2021 passenger analysis",
+          "publication_date": "2021-04",
+          "url": "https://www.iata.org/en/iata-repository/publications/economic-reports/air-passenger-market-analysis---february-2021/",
+          "section": "Globaltraffic table",
+          "supports": "Historical demand shock erased operating scarcity despite physical capital still existing",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH25",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "FDA novel drug approvals2025",
+      "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025",
+      "publication_date": "2026-01",
+      "section": "2025approval summary",
+      "supports": "46novelCDER drugs; not directly comparable with IQVIA global53USlaunches",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH25",
+          "title": "FDA novel drug approvals2025",
+          "publication_date": "2026-01",
+          "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2025",
+          "section": "2025approval summary",
+          "supports": "46novelCDER drugs; not directly comparable with IQVIA global53USlaunches",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH26",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "Eurofins analytical testing services",
+      "url": "https://www.eurofins.com/en/",
+      "publication_date": "2026-07-23",
+      "section": "Testing for Life",
+      "supports": "Primary datedrole evidence",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH26",
+          "title": "Eurofins analytical testing services",
+          "publication_date": "2026-07-23",
+          "url": "https://www.eurofins.com/en/",
+          "section": "Testing for Life",
+          "supports": "Primary datedrole evidence",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH27",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IQVIA Global Trends in R&D 2025",
+      "url": "https://makingpharmaindustry.it/wp-content/uploads/2025/03/iqvia-institute-rd-trends-2025-forweb.pdf",
+      "publication_date": "2025-03",
+      "section": "Printed pp14-15, clinical trial starts; funding and R&D budget sections",
+      "supports": "Primary authored IQVIA report hosted on a third-party mirror; 2023 starts 5302 and 2024 starts 5318; 2021 peak 6432",
+      "source_type": "primary authored report, mirrored",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH27",
+          "title": "IQVIA Global Trends in R&D 2025",
+          "publication_date": "2025-03",
+          "url": "https://makingpharmaindustry.it/wp-content/uploads/2025/03/iqvia-institute-rd-trends-2025-forweb.pdf",
+          "section": "Printed pp14-15, clinical trial starts; funding and R&D budget sections",
+          "supports": "Primary authored IQVIA report hosted on a third-party mirror; 2023 starts 5302 and 2024 starts 5318; 2021 peak 6432",
+          "source_type": "primary authored report, mirrored",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH28",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "AerCap 2021 Form 20-F",
+      "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001378789-22-000006/aer-20211231.htm",
+      "publication_date": "2022-03-30",
+      "section": "pp53-55; F-7; 2020 comparative financial statements",
+      "supports": "Adverse history: 2020 common-shareholder net loss $298.566m, asset impairment $1086.983m, operating cash flow $2130.4m",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH28",
+          "title": "AerCap 2021 Form 20-F",
+          "publication_date": "2022-03-30",
+          "url": "https://www.aercap.com/investors/shareholder-services/sec-filings/content/0001378789-22-000006/aer-20211231.htm",
+          "section": "pp53-55; F-7; 2020 comparative financial statements",
+          "supports": "Adverse history: 2020 common-shareholder net loss $298.566m, asset impairment $1086.983m, operating cash flow $2130.4m",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH29",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "US Treasury daily nominal yield curve",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "publication_date": "2026-09-04",
+      "section": "September 4 2026 row",
+      "supports": "Ten-year Treasury 4.78%, five-year 4.54%, USD discount rate anchor",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH29",
+          "title": "US Treasury daily nominal yield curve",
+          "publication_date": "2026-09-04",
+          "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+          "section": "September 4 2026 row",
+          "supports": "Ten-year Treasury 4.78%, five-year 4.54%, USD discount rate anchor",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AH30",
+      "aliases": [],
+      "research_packages": [
+        "aviation_health"
+      ],
+      "title": "IQVIA Q2 2026 Form 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026050211/iqv-20260630.htm",
+      "publication_date": "2026-07-28",
+      "section": "Cover; condensed statements; Notes9,12,14",
+      "supports": "Latest cover shares 164.6 million as of July21; interim financials, segment reconciliation, debt and SBC",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AH30",
+          "title": "IQVIA Q2 2026 Form 10-Q",
+          "publication_date": "2026-07-28",
+          "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026050211/iqv-20260630.htm",
+          "section": "Cover; condensed statements; Notes9,12,14",
+          "supports": "Latest cover shares 164.6 million as of July21; interim financials, segment reconciliation, debt and SBC",
+          "source_type": "primary",
+          "access_date": "2026-09-08"
+        }
+      ]
+    },
+    {
+      "id": "AT1",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "CF H1 2026 results",
+      "url": "https://ir.cfindustries.com/Investors/news/news-details/2026/CF-Industries-Holdings-Inc--Reports-First-Half-2026-Net-Earnings-of-1-34-Billion-Adjusted-EBITDA-of-2-18-Billion/default.aspx",
+      "publication_date": "2026-08-05",
+      "section": "Consolidated results; five product segments; capital expenditures; CHS distribution",
+      "supports": "H1 revenue4208, EBITDA2175 includes170 litigation; segment tonnage/prices; capex existing550, BP600 consolidated/40% owned, commonfacilities150; grossproduction9.5m shorttons forecast",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT1",
+          "title": "CF H1 2026 results",
+          "url": "https://ir.cfindustries.com/Investors/news/news-details/2026/CF-Industries-Holdings-Inc--Reports-First-Half-2026-Net-Earnings-of-1-34-Billion-Adjusted-EBITDA-of-2-18-Billion/default.aspx",
+          "publication_date": "2026-08-05",
+          "section": "Consolidated results; five product segments; capital expenditures; CHS distribution",
+          "supports": "H1 revenue4208, EBITDA2175 includes170 litigation; segment tonnage/prices; capex existing550, BP600 consolidated/40% owned, commonfacilities150; grossproduction9.5m shorttons forecast",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT2",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "CF 2025 annual report",
+      "url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/annual-reports/cf-industries-2025-annual-report.pdf",
+      "publication_date": "2026-02-25",
+      "section": "10-K printed pp.66-70,78,89-90,102-109; PDF pp.79-83,91,102-104,115-122",
+      "supports": "2023-25 audited statements, product revenue, CHS economics, supply-contract amortization, pensions, physical capacity",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT2",
+          "title": "CF 2025 annual report",
+          "url": "https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/annual-reports/cf-industries-2025-annual-report.pdf",
+          "publication_date": "2026-02-25",
+          "section": "10-K printed pp.66-70,78,89-90,102-109; PDF pp.79-83,91,102-104,115-122",
+          "supports": "2023-25 audited statements, product revenue, CHS economics, supply-contract amortization, pensions, physical capacity",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT3",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "CF Q2 2026 Form10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1324404/000132440426000019/cf-20260630.htm",
+      "publication_date": "2026-08-05",
+      "section": "Cover; notes4,9,10,12,15,18,19; MD&A",
+      "supports": "151338130 sharesAug3 +0.3m diluted awards; debt3250; cash2480 including341BP; JulyCHS246 andpension6 paid; BPpermitlitigation; supplyamort30/year",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT3",
+          "title": "CF Q2 2026 Form10-Q",
+          "url": "https://www.sec.gov/Archives/edgar/data/1324404/000132440426000019/cf-20260630.htm",
+          "publication_date": "2026-08-05",
+          "section": "Cover; notes4,9,10,12,15,18,19; MD&A",
+          "supports": "151338130 sharesAug3 +0.3m diluted awards; debt3250; cash2480 including341BP; JulyCHS246 andpension6 paid; BPpermitlitigation; supplyamort30/year",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT4",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "IFA medium-term outlook 2026-2030",
+      "url": "https://www.fertilizer.org/wp-content/uploads/2026/05/2026_IFA_Medium_Term_Outlook_Report_English.pdf",
+      "publication_date": "2026-05-19",
+      "section": "PDF pp.11-12,19-26",
+      "supports": "Capability includes normal maximum utilization;17MtN capability growth2026-30 forecast; Nfertilizeruse2025/26=118.9Mt and2030/31~123.6; downsideaffordability;2008-09usefell~4%",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT4",
+          "title": "IFA medium-term outlook 2026-2030",
+          "url": "https://www.fertilizer.org/wp-content/uploads/2026/05/2026_IFA_Medium_Term_Outlook_Report_English.pdf",
+          "publication_date": "2026-05-19",
+          "section": "PDF pp.11-12,19-26",
+          "supports": "Capability includes normal maximum utilization;17MtN capability growth2026-30 forecast; Nfertilizeruse2025/26=118.9Mt and2030/31~123.6; downsideaffordability;2008-09usefell~4%",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT5",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "IFA medium-term outlook 2025-2029",
+      "url": "https://www.fertilizer.org/wp-content/uploads/2025/07/2025_IFA_Medium_Term_Outlook_Report.pdf",
+      "publication_date": "2025-06",
+      "section": "Nitrogen balance section",
+      "supports": "2024Ncapability166.6Mt;2029forecast184.9Mt; baseline predecessor used onlytoanchor explicitown2026capacityrange",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT5",
+          "title": "IFA medium-term outlook 2025-2029",
+          "url": "https://www.fertilizer.org/wp-content/uploads/2025/07/2025_IFA_Medium_Term_Outlook_Report.pdf",
+          "publication_date": "2025-06",
+          "section": "Nitrogen balance section",
+          "supports": "2024Ncapability166.6Mt;2029forecast184.9Mt; baseline predecessor used onlytoanchor explicitown2026capacityrange",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT6",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "CF Blue Point project disclosure",
+      "url": "https://www.cfindustries.com/bluepoint",
+      "publication_date": null,
+      "section": "Project economics and construction timeline; accessed2026-09-08",
+      "supports": "1.4Mtmetricannualammonia nameplate;3.7bnJVinvestment;550mCFcommoninfrastructure;2029productionforecast",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT6",
+          "title": "CF Blue Point project disclosure",
+          "url": "https://www.cfindustries.com/bluepoint",
+          "publication_date": null,
+          "section": "Project economics and construction timeline; accessed2026-09-08",
+          "supports": "1.4Mtmetricannualammonia nameplate;3.7bnJVinvestment;550mCFcommoninfrastructure;2029productionforecast",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT7",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "JERA price-gap support certification",
+      "url": "https://www.jera.co.jp/en/news/information/20251219_2329",
+      "publication_date": "2025-12-19",
+      "section": "Main release",
+      "supports": "CertifiedJapanprice-gap scheme; plannedBPammoniaofftakeforHekinanindustrialusers; financingdemand corroboration",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT7",
+          "title": "JERA price-gap support certification",
+          "url": "https://www.jera.co.jp/en/news/information/20251219_2329",
+          "publication_date": "2025-12-19",
+          "section": "Main release",
+          "supports": "CertifiedJapanprice-gap scheme; plannedBPammoniaofftakeforHekinanindustrialusers; financingdemand corroboration",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT8",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "GSL Q2 2026 results",
+      "url": "https://globalshiplease.gcs-web.com/news-releases/news-release-details/global-ship-lease-reports-results-second-quarter-2026",
+      "publication_date": "2026-08-05",
+      "section": "Highlights; fleet; operating expenses; interim balance/income/cashflow",
+      "supports": "71operating15newbuilds;1.33bncontracts;2028Q4-2030Q1deliveries;7.1yearinitialcharters;3.2bncontractrevenue;cash/debt/shares;96.7%Q2utilization",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT8",
+          "title": "GSL Q2 2026 results",
+          "url": "https://globalshiplease.gcs-web.com/news-releases/news-release-details/global-ship-lease-reports-results-second-quarter-2026",
+          "publication_date": "2026-08-05",
+          "section": "Highlights; fleet; operating expenses; interim balance/income/cashflow",
+          "supports": "71operating15newbuilds;1.33bncontracts;2028Q4-2030Q1deliveries;7.1yearinitialcharters;3.2bncontractrevenue;cash/debt/shares;96.7%Q2utilization",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT9",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "GSL 2025 Form20-F",
+      "url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126009637/gsl-20251231.htm",
+      "publication_date": "2026-03-20",
+      "section": "Items3,4,5,7; financialstatementsp.F-4 toF-6; notes16-17",
+      "supports": "2023-25auditedhistory;preferred4.359190mdepositaryshares*$25;relatedpartymanagement;2016/2022charterrateextremes",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT9",
+          "title": "GSL 2025 Form20-F",
+          "url": "https://www.sec.gov/Archives/edgar/data/1430725/000114036126009637/gsl-20251231.htm",
+          "publication_date": "2026-03-20",
+          "section": "Items3,4,5,7; financialstatementsp.F-4 toF-6; notes16-17",
+          "supports": "2023-25auditedhistory;preferred4.359190mdepositaryshares*$25;relatedpartymanagement;2016/2022charterrateextremes",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT10",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "GSL Q2 2026 presentation",
+      "url": "https://globalshiplease.gcs-web.com/static-files/785047b1-1534-4f53-8682-d8ade9d07edf",
+      "publication_date": "2026-08-05",
+      "section": "Slides5-8,13-16,27; thirdpartyMSIdatareproducedbyissuer",
+      "supports": "Sub10korderbook/fleet24.7%;total39.1%;netgrowth0.7%onlyifall25+scrapped;50+%newbuildcontractpaymentsondelivery;Sueznormally20%containertrade",
+      "source_type": "issuer disclosure containing third-party industry estimates",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT10",
+          "title": "GSL Q2 2026 presentation",
+          "url": "https://globalshiplease.gcs-web.com/static-files/785047b1-1534-4f53-8682-d8ade9d07edf",
+          "publication_date": "2026-08-05",
+          "section": "Slides5-8,13-16,27; thirdpartyMSIdatareproducedbyissuer",
+          "supports": "Sub10korderbook/fleet24.7%;total39.1%;netgrowth0.7%onlyifall25+scrapped;50+%newbuildcontractpaymentsondelivery;Sueznormally20%containertrade",
+          "access_date": "2026-09-08",
+          "classification": "issuer disclosure containing third-party industry estimates"
+        }
+      ]
+    },
+    {
+      "id": "AT11",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Maersk Q2 2026 presentation highlights",
+      "url": "https://investor.maersk.com/static-files/5b6d7db2-1859-463f-a152-07ad65ced1c6",
+      "publication_date": "2026-08-13",
+      "section": "Slide4",
+      "supports": "Containergrowthabout4%guidance;EBITDA3bn;congestionlandsideandFarEastexports;directchartererfinancialcapacity corroboration",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT11",
+          "title": "Maersk Q2 2026 presentation highlights",
+          "url": "https://investor.maersk.com/static-files/5b6d7db2-1859-463f-a152-07ad65ced1c6",
+          "publication_date": "2026-08-13",
+          "section": "Slide4",
+          "supports": "Containergrowthabout4%guidance;EBITDA3bn;congestionlandsideandFarEastexports;directchartererfinancialcapacity corroboration",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT12",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Mosaic Q2 2026 earnings",
+      "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000109/pressreleaseq22026-ex991.htm",
+      "publication_date": "2026-08-04",
+      "section": "Pages1-4;PotashandPhosphates",
+      "supports": "Q2phosphate1.4Mt,potash2.0Mt,Fertilizantes1.5Mt;3Qsulfur705/longton;negativeFCF153m;capex1.2bnforecast",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT12",
+          "title": "Mosaic Q2 2026 earnings",
+          "url": "https://www.sec.gov/Archives/edgar/data/1285785/000128578526000109/pressreleaseq22026-ex991.htm",
+          "publication_date": "2026-08-04",
+          "section": "Pages1-4;PotashandPhosphates",
+          "supports": "Q2phosphate1.4Mt,potash2.0Mt,Fertilizantes1.5Mt;3Qsulfur705/longton;negativeFCF153m;capex1.2bnforecast",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT13",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Nutrien Q2 2026 earnings",
+      "url": "https://www.nutrien.com/news/press-releases/nutrien-reports-second-quarter-2026-results-1753",
+      "publication_date": "2026-08-05",
+      "section": "Highlights;SegmentResults;guidance",
+      "supports": "Potash14.2-14.8Mtsales2026forecast;cashcostbelow60/t;nitrogen9.2-9.7Mt;Retailmarginandcroprelatedspending",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT13",
+          "title": "Nutrien Q2 2026 earnings",
+          "url": "https://www.nutrien.com/news/press-releases/nutrien-reports-second-quarter-2026-results-1753",
+          "publication_date": "2026-08-05",
+          "section": "Highlights;SegmentResults;guidance",
+          "supports": "Potash14.2-14.8Mtsales2026forecast;cashcostbelow60/t;nitrogen9.2-9.7Mt;Retailmarginandcroprelatedspending",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT14",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Yara Q2 2026 earnings",
+      "url": "https://www.yara.com/corporate-releases/yara-reports-strong-q2-margins-despite-market-volatility/",
+      "publication_date": "2026-07-17",
+      "section": "Highlights",
+      "supports": "Nitrogenproducer/distributor;906mQ2EBITDA;GulfCoastAmmoniaacquisition;volatilenitrogenpricingdelayedoffseasondemand",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT14",
+          "title": "Yara Q2 2026 earnings",
+          "url": "https://www.yara.com/corporate-releases/yara-reports-strong-q2-margins-despite-market-volatility/",
+          "publication_date": "2026-07-17",
+          "section": "Highlights",
+          "supports": "Nitrogenproducer/distributor;906mQ2EBITDA;GulfCoastAmmoniaacquisition;volatilenitrogenpricingdelayedoffseasondemand",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT15",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "ICL Q2 2026 earnings",
+      "url": "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Reports-Second-Quarter-2026-Results/default.aspx",
+      "publication_date": "2026-08-05",
+      "section": "IndustrialProducts,Potash,PhosphateSolutions;liquidity",
+      "supports": "Specialtybromineandfertilizerproducer;potash1.081Mtsales/$376CIF;netdebt2635m;higherbrominepricebutphosphatecostpressure",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT15",
+          "title": "ICL Q2 2026 earnings",
+          "url": "https://investors.icl-group.com/reports-news-and-events/press-releases/press-releases-details/2026/ICL-Reports-Second-Quarter-2026-Results/default.aspx",
+          "publication_date": "2026-08-05",
+          "section": "IndustrialProducts,Potash,PhosphateSolutions;liquidity",
+          "supports": "Specialtybromineandfertilizerproducer;potash1.081Mtsales/$376CIF;netdebt2635m;higherbrominepricebutphosphatecostpressure",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT16",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Scorpio Tankers Q2 2026 earnings",
+      "url": "https://www.scorpiotankers.com/scorpio-tankers-inc-announces-financial-results-for-the-second-quarter-of-2026-and-the-declaration-of-a-dividend/",
+      "publication_date": "2026-07-30",
+      "section": "Results;CurrentLiquidity;ConvertibleNotes",
+      "supports": "Producttankeroperator;adjustedNI243.7m;basic5.33vsdiluted4.68ifconverted;cash2bnJuly28;vesselsalesgainsnotrecurring",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT16",
+          "title": "Scorpio Tankers Q2 2026 earnings",
+          "url": "https://www.scorpiotankers.com/scorpio-tankers-inc-announces-financial-results-for-the-second-quarter-of-2026-and-the-declaration-of-a-dividend/",
+          "publication_date": "2026-07-30",
+          "section": "Results;CurrentLiquidity;ConvertibleNotes",
+          "supports": "Producttankeroperator;adjustedNI243.7m;basic5.33vsdiluted4.68ifconverted;cash2bnJuly28;vesselsalesgainsnotrecurring",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT17",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Teekay Tankers Q2 2026 earnings",
+      "url": "https://www.teekay.com/blog/2026/07/29/teekay-tankers-ltd-reports-second-quarter-2026-results-and-declares-dividend/",
+      "publication_date": "2026-07-29",
+      "section": "AboutTeekayTankers",
+      "supports": "34doublehulltankersincluding2newbuilds;spotandshortmediumcharters;lighteringandAustraliamarineservices",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT17",
+          "title": "Teekay Tankers Q2 2026 earnings",
+          "url": "https://www.teekay.com/blog/2026/07/29/teekay-tankers-ltd-reports-second-quarter-2026-results-and-declares-dividend/",
+          "publication_date": "2026-07-29",
+          "section": "AboutTeekayTankers",
+          "supports": "34doublehulltankersincluding2newbuilds;spotandshortmediumcharters;lighteringandAustraliamarineservices",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT18",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Flex LNG Q2 2026 earnings",
+      "url": "https://www.flexlng.com/flex-lng-second-quarter-2026-earnings-release/",
+      "publication_date": "2026-08-19",
+      "section": "Highlights;CEOremarks",
+      "supports": "LNGships;89%remainder2026contractcover;2026EBITDA255-280mguide;cash397m;no2029priormaturities;shippingfleetgrowthrisk",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT18",
+          "title": "Flex LNG Q2 2026 earnings",
+          "url": "https://www.flexlng.com/flex-lng-second-quarter-2026-earnings-release/",
+          "publication_date": "2026-08-19",
+          "section": "Highlights;CEOremarks",
+          "supports": "LNGships;89%remainder2026contractcover;2026EBITDA255-280mguide;cash397m;no2029priormaturities;shippingfleetgrowthrisk",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT19",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Cheniere Q2 2026 earnings",
+      "url": "https://lngir.cheniere.com/news-events/press-releases/detail/343/cheniere-reports-second-quarter-2026-results-and-raises",
+      "publication_date": "2026-08-06",
+      "section": "Summary;full-yearguidance;operatinghighlights",
+      "supports": "LNGliquefactionexporter;2026adjustedEBITDA7.9-8.4bn/distributablecash5.3-5.8bnmanagementguide;projectcapexandNCIneedreconciliation",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT19",
+          "title": "Cheniere Q2 2026 earnings",
+          "url": "https://lngir.cheniere.com/news-events/press-releases/detail/343/cheniere-reports-second-quarter-2026-results-and-raises",
+          "publication_date": "2026-08-06",
+          "section": "Summary;full-yearguidance;operatinghighlights",
+          "supports": "LNGliquefactionexporter;2026adjustedEBITDA7.9-8.4bn/distributablecash5.3-5.8bnmanagementguide;projectcapexandNCIneedreconciliation",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT20",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "FAO cereal supply/demand brief",
+      "url": "https://www.fao.org/worldfoodsituation/csdb",
+      "publication_date": "2026-09-04",
+      "section": "Production;utilization;stocks",
+      "supports": "2026cerealproduction2980Mt,utilization2965Mt,stocks/use31.6%;latestagriculturalaffordabilitycrosscheck",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT20",
+          "title": "FAO cereal supply/demand brief",
+          "url": "https://www.fao.org/worldfoodsituation/csdb",
+          "publication_date": "2026-09-04",
+          "section": "Production;utilization;stocks",
+          "supports": "2026cerealproduction2980Mt,utilization2965Mt,stocks/use31.6%;latestagriculturalaffordabilitycrosscheck",
+          "access_date": "2026-09-08",
+          "classification": "primary"
+        }
+      ]
+    },
+    {
+      "id": "AT_M_quotes",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Massive quotes",
+      "url": "https://massive.com/docs/rest/stocks",
+      "publication_date": "2026-09-08",
+      "section": "quotes",
+      "supports": "",
+      "source_type": "market data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT_M_quotes",
+          "title": "Massive quotes",
+          "publication_date": "2026-09-08",
+          "section": "quotes",
+          "url": "https://massive.com/docs/rest/stocks",
+          "classification": "market data",
+          "raw": "market_status,name,ticker,type,session_change,session_change_percent,session_early_trading_change,session_early_trading_change_percent,session_regular_trading_change,session_regular_trading_change_percent,session_late_trading_change,session_late_trading_change_percent,session_close,session_high,session_low,session_open,session_volume,session_previous_close,session_price,session_last_updated,session_vwap,session_decimal_volume,last_minute_close,last_minute_high,last_minute_low,last_minute_transactions,last_minute_open,last_minute_volume,last_minute_vwap,last_minute_last_updated,last_minute_decimal_volume\nopen,\"CF Industries Holding, Inc.\",CF,stocks,2.49,1.867,0.75,0.562,2.49,1.867,2.66,1.963,135.48,136.68,134.05,134.06,560337.0,133.35,135.84,1788879206611022297,135.3537,560337.985036,135.48,135.48,135.21,174,135.23,20136,135.3621,1788879206611022297,20136.423870\nopen,Nutrien Ltd. Common Shares,NTR,stocks,2.0,2.517,0.83,1.044,2.0,2.517,-2.08,-2.56,81.39,81.4645,80.12,80.12,674827.0,79.47,81.4697,1788879208016696238,81.0124,674827.769416,81.39,81.39,81.25,161,81.3,11666,81.3454,1788879208016696238,11666.110000\nopen,The Mosaic Company,MOS,stocks,0.79,3.056,0.42,1.625,0.79,3.056,-0.84,-3.15,26.64,26.7,26.0235,26.145,2362837.0,25.85,26.64,1788879206564054425,26.4699,2362837.413229,26.64,26.64,26.595,168,26.609,15396,26.609,1788879206564054425,15396.020000\nopen,ICL Group Ltd.,ICL,stocks,0.0239,0.407,0.04,0.681,0.0239,0.407,-0.025,-0.424,5.895,5.92,5.87,5.89,622245.0,5.87,5.8939,1788879195829771005,5.8893,622245.294836,5.895,5.895,5.895,2,5.895,101,5.895,1788879195829771005,101.0\nopen,\"Global Ship Lease, Inc.\",GSL,stocks,-1.04,-2.24,-0.4,-0.862,-1.04,-2.24,1.04,2.293,45.36,46.19,45.0987,46.15,109806.0,46.4,45.36,1788879195248495575,45.6529,109806.491797,45.36,45.36,45.32,14,45.33,1659,45.3465,1788879195248495575,1659.0\nopen,Scorpio Tankers Inc.,STNG,stocks,-0.906,-1.1,-0.58,-0.704,-0.906,-1.1,0.84,1.031,81.51,82.41,80.61,82.41,135347.0,82.35,81.444,1788879204200607377,81.6273,135347.544593,81.51,81.51,81.5,19,81.5,870,81.5003,1788879204200607377,870.0\nopen,Teekay Tankers Ltd.,TNK,stocks,-1.3,-1.39,1.38,1.478,-1.3,-1.39,-0.28,-0.304,92.08,94.0,90.9625,94.0,40070.0,93.37,92.071,1788879203593130395,92.4448,40070.387076,92.08,92.09,92.08,19,92.08,1638,92.0878,1788879203593130395,1638.0\nopen,Cheniere Energy Inc,LNG,stocks,-12.4,-4.25,-12.0,-4.11,-12.4,-4.25,0.36,0.129,279.57,281.84,274.48,280.68,1636030.0,292.0,279.63,1788879207909635597,278.5048,1636030.658696,279.57,279.71,279.2985,289,279.38,11327,279.5404,1788879207909635597,11327.783464\nopen,FLEX LNG Ltd. Ordinary Shares,FLNG,stocks,-0.41,-1.3,-0.05,-0.159,-0.41,-1.3,0.14,0.45,31.11,31.53,30.9026,31.51,83938.0,31.51,31.1,1788879206413510163,31.2272,83938.582444,31.11,31.11,31.08,26,31.1,906,31.0914,1788879206413510163,906.0\n"
+        }
+      ]
+    },
+    {
+      "id": "AT_M_cf_ref",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Massive cf_ref",
+      "url": "https://massive.com/docs/rest/stocks",
+      "publication_date": "2026-09-08",
+      "section": "cf_ref",
+      "supports": "",
+      "source_type": "market data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT_M_cf_ref",
+          "title": "Massive cf_ref",
+          "publication_date": "2026-09-08",
+          "section": "cf_ref",
+          "url": "https://massive.com/docs/rest/stocks",
+          "classification": "market data",
+          "raw": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,composite_figi,share_class_figi,market_cap,phone_number,address_address1,address_city,address_state,address_postal_code,description,sic_code,sic_description,ticker_root,homepage_url,total_employees,list_date,branding_logo_url,branding_icon_url,share_class_shares_outstanding,weighted_shares_outstanding,round_lot\nCF,\"CF Industries Holding, Inc.\",stocks,us,XNYS,CS,true,usd,0001324404,BBG000BWJFZ4,BBG001SJ8KV8,20180939635.5,(847) 405-2400,2375 WATERVIEW DRIVE,NORTHBROOK,IL,60062,\"CF Industries is a leading producer and distributor of nitrogen, which is primarily used in fertilizers. The company operates nitrogen manufacturing plants primarily in North America. CF also produces nitrogen in the United Kingdom and holds a joint venture interest in a nitrogen production facility in Trinidad and Tobago. CF makes nitrogen primarily using low-cost US natural gas as its feedstock, making the company one of the lowest-cost nitrogen producers globally. It is also investing in carbon-free blue and green ammonia, which can be used as an alternative fuel to hydrogen or as a means to transport hydrogen.\",2870,AGRICULTURAL CHEMICALS,CF,https://www.cfindustries.com,2900,2005-08-11,https://api.massive.com/v1/reference/company-branding/Y2ZpbmR1c3RyaWVzLmNvbQ/images/2026-09-01_logo.svg,https://api.massive.com/v1/reference/company-branding/Y2ZpbmR1c3RyaWVzLmNvbQ/images/2026-09-01_icon.jpeg,151338130,151338130,100\n"
+        }
+      ]
+    },
+    {
+      "id": "AT_M_gsl_ref",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Massive gsl_ref",
+      "url": "https://massive.com/docs/rest/stocks",
+      "publication_date": "2026-09-08",
+      "section": "gsl_ref",
+      "supports": "",
+      "source_type": "market data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT_M_gsl_ref",
+          "title": "Massive gsl_ref",
+          "publication_date": "2026-09-08",
+          "section": "gsl_ref",
+          "url": "https://massive.com/docs/rest/stocks",
+          "classification": "market data",
+          "raw": "ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,market_cap,description,ticker_root,homepage_url,total_employees,list_date,branding_icon_url,share_class_shares_outstanding,weighted_shares_outstanding,round_lot\nGSL,\"Global Ship Lease, Inc.\",stocks,us,XNYS,CS,true,usd,0001430725,1672044137.6,\"Global Ship Lease Inc is a containership owner, leasing ships to container shipping companies under industry-standard, fixed-rate time charters. Its fleet comprises mid-size Post-Panamax, Cypress, and smaller containerships, which tend to serve the faster-growing non-Mainlane and intra-regional trades, collectively representing the majority of the containerized trade volume globally. The company generates revenue from chartering its vessels to liner companies.\",GSL,https://www.globalshiplease.com,7,2008-08-15,https://api.massive.com/v1/reference/company-branding/Z2xvYmFsc2hpcGxlYXNlLmNvbQ/images/2026-06-01_icon.jpeg,35913628,36035434,100\n"
+        }
+      ]
+    },
+    {
+      "id": "AT_M_splits",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Massive splits",
+      "url": "https://massive.com/docs/rest/stocks",
+      "publication_date": "2026-09-08",
+      "section": "splits",
+      "supports": "",
+      "source_type": "market data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT_M_splits",
+          "title": "Massive splits",
+          "publication_date": "2026-09-08",
+          "section": "splits",
+          "url": "https://massive.com/docs/rest/stocks",
+          "classification": "market data",
+          "raw": "Warning [EMPTY]: API returned 0 records. The ticker may be invalid, delisted, or have no data for the requested period."
+        }
+      ]
+    },
+    {
+      "id": "AT_M_dividends",
+      "aliases": [],
+      "research_packages": [
+        "agri_transport"
+      ],
+      "title": "Massive dividends",
+      "url": "https://massive.com/docs/rest/stocks",
+      "publication_date": "2026-09-08",
+      "section": "dividends",
+      "supports": "",
+      "source_type": "market data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "AT_M_dividends",
+          "title": "Massive dividends",
+          "publication_date": "2026-09-08",
+          "section": "dividends",
+          "url": "https://massive.com/docs/rest/stocks",
+          "classification": "market data",
+          "raw": "id,ticker,record_date,pay_date,declaration_date,ex_dividend_date,frequency,cash_amount,currency,distribution_type,historical_adjustment_factor,split_adjusted_cash_amount\nE01bb1c5cdf29239ea599b66838007ec6d3acbe8077927305c21276837fd2470a,CF,2026-02-13,2026-02-27,2026-01-27,2026-02-13,4,0.5,USD,recurring,0.985567,0.5\nEa75761c8a2b95c24f75bf519c8a8673576b8bec579a2dd6666fa7484c6a0b67d,CF,2026-08-14,2026-08-31,2026-07-08,2026-08-14,4,0.6,USD,recurring,0.994874,0.6\nEecf4025558f7000078411e44ceb218f44bc24afd2b9caf495a73cb6b52be02a3,CF,2026-05-15,2026-05-29,2026-04-28,2026-05-15,4,0.5,USD,recurring,0.990829,0.5\nE1dfa245e9c0e357c51e0a78a853097f040f6c225f35aeac950a2451d36409dea,GSL,2026-08-21,2026-09-03,2026-07-30,2026-08-21,4,0.625,USD,recurring,0.985592,0.625\nEaa6f74ced9dc4d152179d341e37696abf96e27d42741c86310391e6e8e2d0cb3,GSL,2026-05-22,2026-06-03,2026-05-11,2026-05-22,4,0.625,USD,recurring,0.970546,0.625\nEb05d3e8189800e1097b490572edcef9ab006b5c31188b919285306313cf110e8,GSL,2026-02-24,2026-03-06,2026-02-11,2026-02-24,4,0.625,USD,recurring,0.955182,0.625\n"
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "2023-25 history, segment economics, deferred compensation, ownership and governance",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+      "publication_date": "2026-02-03",
+      "section": "pp.62-65 consolidated statements; Note 2 segments; Note 8 investments/VIE; Note 11 benefits; Note 12 shares",
+      "supports": "2023-25 history, segment economics, deferred compensation, ownership and governance",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C1",
+          "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+          "publication_date": "2026-02-03",
+          "section": "pp.62-65 consolidated statements; Note 2 segments; Note 8 investments/VIE; Note 11 benefits; Note 12 shares",
+          "supports": "2023-25 history, segment economics, deferred compensation, ownership and governance"
+        }
+      ]
+    },
+    {
+      "id": "C2",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "June balance, July15 shares, Q2 dilution, transactions, H1 results and operating drivers",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+      "publication_date": "2026-07-23",
+      "section": "cover; pp.1-4 statements; Notes 2,3,6,7,9; MD&A capital resources",
+      "supports": "June balance, July15 shares, Q2 dilution, transactions, H1 results and operating drivers",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C2",
+          "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+          "publication_date": "2026-07-23",
+          "section": "cover; pp.1-4 statements; Notes 2,3,6,7,9; MD&A capital resources",
+          "supports": "June balance, July15 shares, Q2 dilution, transactions, H1 results and operating drivers"
+        }
+      ]
+    },
+    {
+      "id": "C3",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "48m Peacock paid subscribers, first profitable quarter, broadband/wireless and cash flow",
+      "url": "https://www.cmcsa.com/node/45906",
+      "publication_date": "2026-07-23",
+      "section": "operating highlights; financial tables and reconciliations",
+      "supports": "48m Peacock paid subscribers, first profitable quarter, broadband/wireless and cash flow",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C3",
+          "url": "https://www.cmcsa.com/node/45906",
+          "publication_date": "2026-07-23",
+          "section": "operating highlights; financial tables and reconciliations",
+          "supports": "48m Peacock paid subscribers, first profitable quarter, broadband/wireless and cash flow"
+        }
+      ]
+    },
+    {
+      "id": "C4",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "planned NBCUniversal and Sky separation mid-2027, no completed distribution yet",
+      "url": "https://www.cmcsa.com/static-files/ced447a4-4823-4904-b398-bab2a392d1c7",
+      "publication_date": "2026-06-29",
+      "section": "separation presentation",
+      "supports": "planned NBCUniversal and Sky separation mid-2027, no completed distribution yet",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C4",
+          "url": "https://www.cmcsa.com/static-files/ced447a4-4823-4904-b398-bab2a392d1c7",
+          "publication_date": "2026-06-29",
+          "section": "separation presentation",
+          "supports": "planned NBCUniversal and Sky separation mid-2027, no completed distribution yet"
+        }
+      ]
+    },
+    {
+      "id": "C5",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "AT&T 38.6m fiber locations, management >40m2026 and >60m2030, $23-24bn annual capital plan and convergence competition",
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+      "publication_date": "2026-07-22",
+      "section": "Second-Quarter Highlights; Outlook and Capital Allocation Plan",
+      "supports": "AT&T 38.6m fiber locations, management >40m2026 and >60m2030, $23-24bn annual capital plan and convergence competition",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C5",
+          "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+          "publication_date": "2026-07-22",
+          "section": "Second-Quarter Highlights; Outlook and Capital Allocation Plan",
+          "supports": "AT&T 38.6m fiber locations, management >40m2026 and >60m2030, $23-24bn annual capital plan and convergence competition"
+        }
+      ]
+    },
+    {
+      "id": "C6",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "competing cable investment, pressure on EBITDA, debt and Cox integration",
+      "url": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+      "publication_date": "2026-07-24",
+      "section": "operating results, Capital Expenditures, Liquidity and Financing",
+      "supports": "competing cable investment, pressure on EBITDA, debt and Cox integration",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C6",
+          "url": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+          "publication_date": "2026-07-24",
+          "section": "operating results, Capital Expenditures, Liquidity and Financing",
+          "supports": "competing cable investment, pressure on EBITDA, debt and Cox integration"
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "wireless/broadband competitive platform; Q2 service revenue19bn, Core EBITDA9.5bn; SBC excluded in that measure",
+      "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+      "publication_date": "2026-07-23",
+      "section": "operating highlights; non-GAAP reconciliation",
+      "supports": "wireless/broadband competitive platform; Q2 service revenue19bn, Core EBITDA9.5bn; SBC excluded in that measure",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C7",
+          "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+          "publication_date": "2026-07-23",
+          "section": "operating highlights; non-GAAP reconciliation",
+          "supports": "wireless/broadband competitive platform; Q2 service revenue19bn, Core EBITDA9.5bn; SBC excluded in that measure"
+        }
+      ]
+    },
+    {
+      "id": "C8",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "filing publication date",
+      "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/0001628280-26-049360-index.html",
+      "publication_date": "2026-07-23",
+      "section": "Filing Detail",
+      "supports": "filing publication date",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C8",
+          "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/0001628280-26-049360-index.html",
+          "publication_date": "2026-07-23",
+          "section": "Filing Detail",
+          "supports": "filing publication date"
+        }
+      ]
+    },
+    {
+      "id": "C9",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "intraday stock price; market bridge uses earlier latest disclosed June balance, not an intraday balance",
+      "url": "https://api.massive.com/v2/snapshot/locale/us/markets/stocks/tickers/CMCSA",
+      "publication_date": "2026-09-08",
+      "section": "ticker.min.c and ticker.min.t; raw quote_CMCSA.json",
+      "supports": "intraday stock price; market bridge uses earlier latest disclosed June balance, not an intraday balance",
+      "source_type": "market_data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C9",
+          "url": "https://api.massive.com/v2/snapshot/locale/us/markets/stocks/tickers/CMCSA",
+          "publication_date": "2026-09-08",
+          "section": "ticker.min.c and ticker.min.t; raw quote_CMCSA.json",
+          "supports": "intraday stock price; market bridge uses earlier latest disclosed June balance, not an intraday balance"
+        }
+      ]
+    },
+    {
+      "id": "C11",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "recast 2024-25 ongoing business comparison: Media EBITDA -123/164m, proforma total EBITDA35118/34454m; Q2 consumer weakness and cohort monetization required",
+      "url": "https://www.cmcsa.com/static-files/b269b35e-94ff-43d2-8f05-858c92bb7488",
+      "publication_date": "2026-07-23",
+      "section": "pp.1-3 pro forma revenue/EBITDA; p.6 subscribers/passings; remaining pages capital and notes",
+      "supports": "recast 2024-25 ongoing business comparison: Media EBITDA -123/164m, proforma total EBITDA35118/34454m; Q2 consumer weakness and cohort monetization required",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C11",
+          "url": "https://www.cmcsa.com/static-files/b269b35e-94ff-43d2-8f05-858c92bb7488",
+          "publication_date": "2026-07-23",
+          "section": "pp.1-3 pro forma revenue/EBITDA; p.6 subscribers/passings; remaining pages capital and notes",
+          "supports": "recast 2024-25 ongoing business comparison: Media EBITDA -123/164m, proforma total EBITDA35118/34454m; Q2 consumer weakness and cohort monetization required"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "GBPUSD1.3546 bar timestamp2026-09-07T23:59:59.999Z; future 2027 transaction FX remains uncertain",
+      "url": "https://api.massive.com/v2/aggs/ticker/C:GBPUSD/prev",
+      "publication_date": "2026-09-08",
+      "section": "previous forex daily bar; quote_GBPUSD.json",
+      "supports": "GBPUSD1.3546 bar timestamp2026-09-07T23:59:59.999Z; future 2027 transaction FX remains uncertain",
+      "source_type": "market_data",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C10",
+          "url": "https://api.massive.com/v2/aggs/ticker/C:GBPUSD/prev",
+          "publication_date": "2026-09-08",
+          "section": "previous forex daily bar; quote_GBPUSD.json",
+          "supports": "GBPUSD1.3546 bar timestamp2026-09-07T23:59:59.999Z; future 2027 transaction FX remains uncertain"
+        }
+      ]
+    },
+    {
+      "id": "SCREEN_BWA",
+      "aliases": [],
+      "research_packages": [
+        "payments"
+      ],
+      "title": "BorgWarner role and operating update",
+      "url": "https://www.borgwarner.com/newsroom/press-releases/2026/08/05/borgwarner-reports-strong-second-quarter-2026-results--increases-2026-adjusted-eps-guidance-and-share-repurchase-authorization-by--1-billion--announces-7-awards-across-portfolio-to-support-long-term-profitable-growth",
+      "publication_date": "2026-08-05",
+      "section": "New awards and FY2026 guidance",
+      "supports": "Combustion, hybrid and electric propulsion components; emerging turbine generation products; Hybrid content and cost control can preserve cash flow as vehicle mix migrates; new industrial applications are optionality, not evidence that whole-company margins re-rate.",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "derived_from_screened_record": {
+            "company": "BorgWarner",
+            "ticker": "BWA",
+            "listing": "NYSE, US",
+            "value_chain": "Vehicle propulsion and industrial power equipment",
+            "role": "Combustion, hybrid and electric propulsion components; emerging turbine generation products",
+            "source_url": "https://www.borgwarner.com/newsroom/press-releases/2026/08/05/borgwarner-reports-strong-second-quarter-2026-results--increases-2026-adjusted-eps-guidance-and-share-repurchase-authorization-by--1-billion--announces-7-awards-across-portfolio-to-support-long-term-profitable-growth",
+            "source_date": "2026-08-05",
+            "source_section": "New awards and FY2026 guidance",
+            "mechanism": "Hybrid content and cost control can preserve cash flow as vehicle mix migrates; new industrial applications are optionality, not evidence that whole-company margins re-rate.",
+            "decision": "Screen rejection at66.99: FY26 guided freecashflow0.9-1.1bn offers only roughly7% on approximate13.8bn marketcap, with sales flat/down. Data-center narrative not assigned to full revenue. Debt tender Aug17 would need bridge before any full model."
+          }
+        }
+      ]
+    },
+    {
+      "id": "C12",
+      "aliases": [],
+      "research_packages": [
+        "connectivity"
+      ],
+      "title": "eleven-year NBA agreement beginning2025-26; rights owner captures spending",
+      "url": "https://www.nbcuniversal.com/article/nba-and-wnba-return-nbcuniversal-11-year-agreement-regular-season-and-playoff-basketball-nbc-peacock",
+      "publication_date": "2024-07-24",
+      "section": "announcement",
+      "supports": "eleven-year NBA agreement beginning2025-26; rights owner captures spending",
+      "source_type": "primary",
+      "access_date": "2026-09-08",
+      "raw_records": [
+        {
+          "id": "C12",
+          "url": "https://www.nbcuniversal.com/article/nba-and-wnba-return-nbcuniversal-11-year-agreement-regular-season-and-playoff-basketball-nbc-peacock",
+          "publication_date": "2024-07-24",
+          "section": "announcement",
+          "supports": "eleven-year NBA agreement beginning2025-26; rights owner captures spending"
+        }
+      ]
+    }
+  ]
+}

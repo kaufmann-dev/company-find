@@ -1,0 +1,190 @@
+{
+  "ticker": "AER",
+  "price": 145.165,
+  "price_timestamp": "2026-09-08T15:02:00+00:00",
+  "currency": "USD",
+  "current_equity_m": 22417.840385725,
+  "diluted_equity_m": 22817.624795724998,
+  "current_ev_m": 63505.001385725,
+  "ev_note": "Descriptive equity plus debt less unrestrictedcash; maintenance/customer deposits included in equityDCF capital, no industrialEVcomparison",
+  "scenarios": {
+    "downside": {
+      "probability": 0.3,
+      "equity_value_m": 6712.6082758915945,
+      "fair_value_per_share": 42.70539940477805,
+      "terminal_pv_m": 2686.0658059123025,
+      "terminal_share_of_equity_value": 0.4001523246275724,
+      "annualized_return": -0.14609108507457008,
+      "future_equity_per_share": 60.801036966878,
+      "retained_excess_cash_m": 2273.2244364214316,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -145.165
+        },
+        {
+          "date": "2026-12-31",
+          "per_share": 0.4
+        },
+        {
+          "date": "2027-12-31",
+          "per_share": 1.64
+        },
+        {
+          "date": "2028-12-31",
+          "per_share": 1.681
+        },
+        {
+          "date": "2029-12-31",
+          "per_share": 1.7230249999999996
+        },
+        {
+          "date": "2030-12-31",
+          "per_share": 1.7661006249999993
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 60.801036966878
+        }
+      ]
+    },
+    "base": {
+      "probability": 0.5,
+      "equity_value_m": 21382.185302275917,
+      "fair_value_per_share": 136.03277980039462,
+      "terminal_pv_m": 10025.789499052771,
+      "terminal_share_of_equity_value": 0.4688851657265185,
+      "annualized_return": 0.07704407603842445,
+      "future_equity_per_share": 201.79545357150218,
+      "retained_excess_cash_m": 8803.030366229075,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -145.165
+        },
+        {
+          "date": "2026-12-31",
+          "per_share": 0.4
+        },
+        {
+          "date": "2027-12-31",
+          "per_share": 1.64
+        },
+        {
+          "date": "2028-12-31",
+          "per_share": 1.681
+        },
+        {
+          "date": "2029-12-31",
+          "per_share": 1.7230249999999996
+        },
+        {
+          "date": "2030-12-31",
+          "per_share": 1.7661006249999993
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 201.79545357150218
+        }
+      ]
+    },
+    "upside": {
+      "probability": 0.2,
+      "equity_value_m": 32797.88425933462,
+      "fair_value_per_share": 208.65909186999724,
+      "terminal_pv_m": 17474.190101675802,
+      "terminal_share_of_equity_value": 0.5327840650789072,
+      "annualized_return": 0.16820947263747132,
+      "future_equity_per_share": 305.3094916258418,
+      "retained_excess_cash_m": 11514.014472306768,
+      "cashflows": [
+        {
+          "date": "2026-09-08",
+          "per_share": -145.165
+        },
+        {
+          "date": "2026-12-31",
+          "per_share": 0.4
+        },
+        {
+          "date": "2027-12-31",
+          "per_share": 1.64
+        },
+        {
+          "date": "2028-12-31",
+          "per_share": 1.681
+        },
+        {
+          "date": "2029-12-31",
+          "per_share": 1.7230249999999996
+        },
+        {
+          "date": "2030-12-31",
+          "per_share": 1.7661006249999993
+        },
+        {
+          "date": "2031-09-08",
+          "per_share": 305.3094916258418
+        }
+      ]
+    }
+  },
+  "probability_weighted_fair_value": 122.55982809563018,
+  "upside": -0.15572053803857555,
+  "margin_of_safety": -0.1844419354662572,
+  "expected_scenario_annualized_return": 0.02833660702433547,
+  "expected_cashflow_annualized_return": 0.05346615181995229,
+  "reverse_lease_yield": {
+    "parallel_basis_point_change": 20.55779049790203,
+    "normalized_2035_lease_yield": 0.1080557790497902,
+    "note": "All rentalyields shift; capital,creditcosts,salesgains,fundingandterminalgrowthheldfixed. Onejustifyingpath,notuniqueimpliedconsensus."
+  },
+  "sensitivity": [
+    {
+      "cost_of_equity": 0.095,
+      "rental_yield_change_bp": -50.0,
+      "fair_value": 129.12070658234572
+    },
+    {
+      "cost_of_equity": 0.095,
+      "rental_yield_change_bp": 0,
+      "fair_value": 154.5347352213486
+    },
+    {
+      "cost_of_equity": 0.095,
+      "rental_yield_change_bp": 50.0,
+      "fair_value": 179.9487638603515
+    },
+    {
+      "cost_of_equity": 0.105,
+      "rental_yield_change_bp": -50.0,
+      "fair_value": 113.8216861506727
+    },
+    {
+      "cost_of_equity": 0.105,
+      "rental_yield_change_bp": 0,
+      "fair_value": 136.03277980039462
+    },
+    {
+      "cost_of_equity": 0.105,
+      "rental_yield_change_bp": 50.0,
+      "fair_value": 158.24387345011658
+    },
+    {
+      "cost_of_equity": 0.115,
+      "rental_yield_change_bp": -50.0,
+      "fair_value": 101.89258038397807
+    },
+    {
+      "cost_of_equity": 0.115,
+      "rental_yield_change_bp": 0,
+      "fair_value": 121.61388551478254
+    },
+    {
+      "cost_of_equity": 0.115,
+      "rental_yield_change_bp": 50.0,
+      "fair_value": 141.33519064558698
+    }
+  ],
+  "probability_sensitivity_shift_10pp_upside_to_downside": 105.96445884910825
+}

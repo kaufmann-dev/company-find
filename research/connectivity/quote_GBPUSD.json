@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "T,v,vw,o,c,h,l,t,n\nC:GBPUSD,179176,1.353,1.35165,1.3546,1.3549,1.3504,1788825599999,179176\n"
+    }
+  ],
+  "structuredContent": {
+    "result": "T,v,vw,o,c,h,l,t,n\nC:GBPUSD,179176,1.353,1.35165,1.3546,1.3549,1.3504,1788825599999,179176\n"
+  },
+  "isError": false
+}

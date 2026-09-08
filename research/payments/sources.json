@@ -1,0 +1,79 @@
+[
+  {
+    "id": "PAY1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+    "publication_date": "2026-07-28",
+    "section": "cover; notes 2,3,8,9; MD&A pp48-54",
+    "supports": "current shares, revenue categories, operating drivers, lending and customer balances, competition"
+  },
+  {
+    "id": "PAY2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+    "publication_date": "2026-02-03",
+    "section": "consolidated income/cash flows pp59-63; note 15 stock compensation",
+    "supports": "2023-2025 financial history; capitalized SBC"
+  },
+  {
+    "id": "PAY3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm",
+    "publication_date": "2026-07-28",
+    "section": "financial and operating results; cash flow; dividend program; balance sheet",
+    "supports": "interim results, guidance and September dividend record date"
+  },
+  {
+    "id": "PAY4",
+    "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+    "publication_date": "2026-08-06",
+    "section": "cover; notes 1,3,8,10,11,12,16,18; MD&A",
+    "supports": "FISV shares, cash restrictions, debt, segment history, service cost deterioration"
+  },
+  {
+    "id": "PAY5",
+    "url": "https://investors.fiserv.com/static-files/9e20ef73-0abc-4550-a6b3-95c26b30719f",
+    "publication_date": "2026-02-19",
+    "section": "10-K printed pp1-5,35-42,47,51,63",
+    "supports": "2023-2025 history; bank and merchant revenue mechanisms; contracts and financing"
+  },
+  {
+    "id": "PAY6",
+    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-second-quarter-2026-results",
+    "publication_date": "2026-08-06",
+    "section": "guidance; segment results; statements of cash flow and balance sheets",
+    "supports": "2026 interim and management outlook"
+  },
+  {
+    "id": "PAY7",
+    "url": "https://www.census.gov/retail/ecommerce.html",
+    "publication_date": "2026-08-18",
+    "section": "second quarter 2026 retail e-commerce sales",
+    "supports": "customer spending and affordability cross-check; US e-commerce $340.2bn Q2 adjusted, 12.2% YoY"
+  },
+  {
+    "id": "PAY8",
+    "url": "https://www.adyen.com/press-and-media/adyen-publishes-h1-2026-financial-results-3wjne",
+    "publication_date": "2026-08-13",
+    "section": "H1 key metrics and financial objectives",
+    "supports": "independent competitor volume24% and revenue19% growth; capex7% of net revenue guidance"
+  },
+  {
+    "id": "PAY9",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm",
+    "publication_date": "2026-07-28",
+    "section": "volume and transaction operating metrics",
+    "supports": "network demand payments volume+10%; 71.7bn quarterly processed transactions"
+  },
+  {
+    "id": "PAY10",
+    "url": "https://investors.fiserv.com/static-files/af17ec6f-4ca7-4261-804c-2fb24b9d2430",
+    "publication_date": "2026-05-15",
+    "section": "investor day transcript pp5-9",
+    "supports": "2025 merchant GPV4.6tr; SMB customer definitions; processing throughput test and medium-term management goals"
+  },
+  {
+    "id": "PAY11",
+    "url": "https://www.frbservices.org/news/fed360/issues/060226/cash-2026-diary-of-consumer-payment-choice",
+    "publication_date": "2026-06-02",
+    "section": "survey summary and historical figure",
+    "supports": "2025 survey average47payments/month, instrument shares stable; publication year is not observation year"
+  }
+]

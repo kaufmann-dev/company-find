@@ -1,0 +1,83 @@
+[
+  {
+    "ticker": "CMCSA",
+    "company": "Comcast Corporation",
+    "value_chain": "connectivity and entertainment distribution",
+    "role": "Domestic broadband and MVNO wireless platform; NBCUniversal/Peacock/content/theme parks and Sky presently remain economic claims of current shareholders",
+    "role_source_date": "2026-07-23",
+    "role_source": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+    "mechanism": "Existing network replacement advantage plus paid wireless conversion may stabilize consumer cash earnings while business connectivity and content/parks improve. Value combined claims after announced separation; no multiple rerating.",
+    "investigation": "Q2 broadband revenue -5.5%, residential EBITDA -8%; 28.486m broadband users; 10.187m wireless lines; Peacock48m paid users, first profitable quarter. Latest balance/shares and post-Versant financial perimeter modeled in10annualyears/3scenarios.",
+    "decision": "Advance to DCF; unconfirmed research candidate after valuation",
+    "reason": "Weighted fair value31.24 versus26.115, but probability shift10pp fromupside todownside removesheadroom and combined adverse assumptions yield15.12 underpersistentreplacementfloor. Long-term conversion/retention economics and local competitor overlap unresolved.",
+    "price": 26.115,
+    "price_timestamp": "2026-09-08T15:02:00Z",
+    "country": "US",
+    "source_ids": [
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C11"
+    ],
+    "listing_exchange": "NASDAQ"
+  },
+  {
+    "ticker": "CHTR",
+    "company": "Charter Communications",
+    "value_chain": "connectivity and entertainment distribution",
+    "role": "Spectrum cable broadband, mobile and video operator investing in network upgrades and rural expansion",
+    "role_source_date": "2026-07-24",
+    "role_source": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+    "mechanism": "Network expansion and cheaper upgrades could offset cable churn; completion of upgrade investment might release free cash flow, but leverage directs much cash to lenders.",
+    "investigation": "Q2 EBITDA5.4bn down4.3%; capital plan11.4bn for2026 excluding previously announced Cox transaction; debt principal93.8bn against509m cash; Q2 FCF969m. Inspected current results and financing rather than infer value from EPS uplift.",
+    "decision": "Do not advance in this pass; unconfirmed alternative",
+    "reason": "Very low share price may offer upside, but Cox perimeter/financing and93.8bn debt create a distinct combined-claims modeling requirement; existing evidence cannot establish enough downside resilience to prioritize over Comcast. This is a risk/evidence rejection, not a claim that intrinsic value is below price.",
+    "price": 147.185,
+    "price_timestamp": "2026-09-08T14:53:00Z",
+    "country": "US",
+    "source_ids": [
+      "C6"
+    ],
+    "listing_exchange": "NASDAQ"
+  },
+  {
+    "ticker": "T",
+    "company": "AT&T",
+    "value_chain": "connectivity and entertainment distribution",
+    "role": "Fiber and fixed-wireless broadband and mobile network operator",
+    "role_source_date": "2026-07-22",
+    "role_source": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+    "mechanism": "Fiber penetration and converged mobile/broadband households improve unit economics; capital outlays and acquired assets are required to obtain that growth.",
+    "investigation": "38.6m fiber locations atJune, management >60m2030; Q2fiber additions367k/fixed-wireless279k; capital investment plan23-24bn annually2026-28, FCF18bn+2026;42.5% advanced-home-internet households also takewireless.",
+    "decision": "Do not advance in this pass; credible further-research alternative",
+    "reason": "At25.625, roughly11.1x2026 adjusted EPS midpoint2.30, growth is not obviously prohibitively priced. However Lumen acquired-perimeter/JV assets and EchoStar financing/copper closure make a full debt/SOTP bridge necessary. Investigated chiefly as funded competing supply to Comcast; no intrinsic valuation conclusion asserted.",
+    "price": 25.625,
+    "price_timestamp": "2026-09-08T14:53:00Z",
+    "country": "US",
+    "source_ids": [
+      "C5"
+    ],
+    "listing_exchange": "NYSE"
+  },
+  {
+    "ticker": "TMUS",
+    "company": "T-Mobile US",
+    "value_chain": "connectivity and entertainment distribution",
+    "role": "Mobile network operator and fixed wireless broadband competitor, also a Comcast Business MVNO supplier from2026",
+    "role_source_date": "2026-07-23",
+    "role_source": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+    "mechanism": "Spare mobile radio capacity supports broadband monetization; postpaid account growth and price/mix improve service revenue. Capacity is local and not unlimited.",
+    "investigation": "Q2 postpaid accounts34.7m, ARPA152.91 up2%; service revenue19bn up9%, Core EBITDA9.5bn up12%, GAAP EPS2.99, includesUScellular acquisitioneffects. Core EBITDA excludesSBC percompany definition.",
+    "decision": "Do not advance in this pass",
+    "reason": "180.68 is15.1x annualized Q2GAAP EPS, an intentionally rough screen notfairvalue. Higher operating growth than cable does not itself establish margin of safety; spectrum/acquisition debt, radio capex and SBC require independentDCF. Useful supply and bargaining-power corroboration for Comcast.",
+    "price": 180.68,
+    "price_timestamp": "2026-09-08T14:53:00Z",
+    "country": "US",
+    "source_ids": [
+      "C1",
+      "C7"
+    ],
+    "listing_exchange": "NASDAQ"
+  }
+]

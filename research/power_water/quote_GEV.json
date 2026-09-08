@@ -1,0 +1,15 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "content": [
+      {
+        "type": "text",
+        "text": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nGEV,2.381230426243426,22.42999999999995,1788878225734322365,416414.157189,950.56,971,945.02,965.12,416414,960.3733,1845.431452,416407.647189,416407,1788878160000,278,965.57,965.57,964.42,965.12,1845,965.034,950,959,939.315,941.95,1238000.0,945.4084\n"
+      }
+    ],
+    "structuredContent": {
+      "result": "ticker_ticker,ticker_todaysChangePerc,ticker_todaysChange,ticker_updated,ticker_day_dv,ticker_day_o,ticker_day_h,ticker_day_l,ticker_day_c,ticker_day_v,ticker_day_vw,ticker_min_dv,ticker_min_dav,ticker_min_av,ticker_min_t,ticker_min_n,ticker_min_o,ticker_min_h,ticker_min_l,ticker_min_c,ticker_min_v,ticker_min_vw,ticker_prevDay_o,ticker_prevDay_h,ticker_prevDay_l,ticker_prevDay_c,ticker_prevDay_v,ticker_prevDay_vw\nGEV,2.381230426243426,22.42999999999995,1788878225734322365,416414.157189,950.56,971,945.02,965.12,416414,960.3733,1845.431452,416407.647189,416407,1788878160000,278,965.57,965.57,964.42,965.12,1845,965.034,950,959,939.315,941.95,1238000.0,945.4084\n"
+    },
+    "isError": false
+  }
+}

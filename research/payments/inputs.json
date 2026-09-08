@@ -1,0 +1,2478 @@
+[
+  {
+    "ticker": "PYPL",
+    "company": "PayPal Holdings",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 53.25,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z",
+    "shares_m": 860.460874,
+    "basic_shares_m": 855.460874,
+    "shares_date": "2026-07-22",
+    "balance_date": "2026-06-30",
+    "cash_m": 11256,
+    "minimum_cash_m": 5000,
+    "debt_m": 13400,
+    "senior_claims_m": 119.76452236,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0.046,
+    "status": "modelled candidate pending comparative ranking",
+    "accounting_notes": "Cash=8306+2950 short-term investments. Reserve3000 operating liquidity plus2000 matching customer-funds deficit; not customer cash. Exclude all4009 long-term investments conservatively, including strategic interests. Reserve119.765 for September dividend whose record date preceded purchase; paid to prior holders. July22 basic+Q2 5m incremental awards. GAAP operating margin includes SBC; do not add back. Capex includes assumed capitalized SBC cash equivalent. No future buybacks or extra dilution counted; financing remains flat. Loans remain operating assets; their incremental funding is NWC, never cash added to equity. Operating leases remain operating costs. Balance not rolled forward using invented cash flows; undisclosed July-Sep movements are sensitivity, not facts.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 29771,
+        "ebit": 5028,
+        "da": 1072,
+        "capex": 623,
+        "cfo": 4843,
+        "sbc_cashflow_addback": 1475,
+        "source_ids": [
+          "PAY2"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 31797,
+        "ebit": 5325,
+        "da": 1032,
+        "capex": 683,
+        "cfo": 7450,
+        "sbc_cashflow_addback": 1230,
+        "source_ids": [
+          "PAY2"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 33172,
+        "ebit": 6065,
+        "da": 963,
+        "capex": 852,
+        "cfo": 6416,
+        "sbc_cashflow_addback": 1002,
+        "source_ids": [
+          "PAY2"
+        ]
+      }
+    ],
+    "interim": {
+      "period": "H1 2026",
+      "revenue": 17035,
+      "ebit": 2915,
+      "da": 484,
+      "sbc": 534,
+      "active_accounts_m": 439,
+      "transactions_m": 13225,
+      "tpv_m": 950403,
+      "transaction_revenue": 15333,
+      "ovas_revenue": 1702,
+      "source_ids": [
+        "PAY1",
+        "PAY3"
+      ]
+    },
+    "sources": [
+      {
+        "id": "PAY1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+        "publication_date": "2026-07-28",
+        "section": "cover; notes 2,3,8,9; MD&A pp48-54",
+        "supports": "current shares, revenue categories, operating drivers, lending and customer balances, competition"
+      },
+      {
+        "id": "PAY2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+        "publication_date": "2026-02-03",
+        "section": "consolidated income/cash flows pp59-63; note 15 stock compensation",
+        "supports": "2023-2025 financial history; capitalized SBC"
+      },
+      {
+        "id": "PAY3",
+        "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/pypl2q-26earningsrelease.htm",
+        "publication_date": "2026-07-28",
+        "section": "financial and operating results; cash flow; dividend program; balance sheet",
+        "supports": "interim results, guidance and September dividend record date"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.115,
+        "terminal_growth": 0,
+        "terminal_roic": 0.12,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 31447.02,
+                "ebit_margin": 0.163,
+                "volume": 1977800.0,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0159
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3400,
+                "ebit_margin": 0.163,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 975.71656,
+            "capex": 1184.79868,
+            "delta_nwc": 101.1004,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.56,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths.",
+            "stub_dividend_per_share": 0.14
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 30487.393901,
+                "ebit_margin": 0.135,
+                "volume": 1986990.8366,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015343500000000001
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3366.0,
+                "ebit_margin": 0.135,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 947.895029,
+            "capex": 1151.015393,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5712,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 29557.051412,
+                "ebit_margin": 0.12,
+                "volume": 1996224.383018,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0148064775
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3332.34,
+                "ebit_margin": 0.12,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 920.90296,
+            "capex": 1118.239308,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.582624,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 28655.098924,
+                "ebit_margin": 0.11,
+                "volume": 2005500.837726,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0142882507875
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3299.0166,
+                "ebit_margin": 0.11,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 894.715235,
+            "capex": 1086.439928,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5942764800000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 28064.146323,
+                "ebit_margin": 0.105,
+                "volume": 2035379.791956,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0137881620099375
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3266.026434,
+                "ebit_margin": 0.105,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 877.244837,
+            "capex": 1065.225874,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6061620096,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 27485.380907,
+                "ebit_margin": 0.1,
+                "volume": 2065703.897787,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.013305576339589687
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3233.36617,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 860.124918,
+            "capex": 1044.437401,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6182852497920001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 27190.455899,
+                "ebit_margin": 0.1,
+                "volume": 2117656.350816,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.012839881167704048
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3201.032508,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 850.961675,
+            "capex": 1033.310606,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6306509547878401,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 26898.695509,
+                "ebit_margin": 0.1,
+                "volume": 2170915.408039,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.012390485326834406
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3169.022183,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 841.896095,
+            "capex": 1022.302402,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6432639738835969,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 26610.065782,
+                "ebit_margin": 0.1,
+                "volume": 2225513.930551,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.011956818340395203
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3137.331961,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 832.927137,
+            "capex": 1011.411523,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6561292533612689,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 26324.533123,
+                "ebit_margin": 0.1,
+                "volume": 2281485.605905,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.01153832969848137
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3105.958641,
+                "ebit_margin": 0.1,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 824.053769,
+            "capex": 1000.63672,
+            "delta_nwc": 100,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6692518384284942,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.1,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.2,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 31447.02,
+                "ebit_margin": 0.163,
+                "volume": 1977800.0,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0159
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3400,
+                "ebit_margin": 0.163,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 975.71656,
+            "capex": 1184.79868,
+            "delta_nwc": 101.1004,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.56,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths.",
+            "stub_dividend_per_share": 0.14
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 32955.855315,
+                "ebit_margin": 0.155,
+                "volume": 2108540.4912,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0156297
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3468.0,
+                "ebit_margin": 0.155,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1019.867949,
+            "capex": 1238.411081,
+            "delta_nwc": 208.336706,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5712,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 34708.911192,
+                "ebit_margin": 0.16,
+                "volume": 2259107.150596,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0153639951
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3537.36,
+                "ebit_margin": 0.16,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1070.895593,
+            "capex": 1300.373221,
+            "delta_nwc": 216.784318,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.582624,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 36379.472989,
+                "ebit_margin": 0.163,
+                "volume": 2408788.813073,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0151028071833
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3608.1072,
+                "ebit_margin": 0.163,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1119.652245,
+            "capex": 1359.577726,
+            "delta_nwc": 218.7689,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5942764800000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 37946.234955,
+                "ebit_margin": 0.165,
+                "volume": 2555980.262284,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0148460594611839
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3680.269344,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1165.54212,
+            "capex": 1415.301146,
+            "delta_nwc": 220.400057,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6061620096,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 39384.530034,
+                "ebit_margin": 0.165,
+                "volume": 2698739.427874,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.014593676450343774
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3753.874731,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1207.875333,
+            "capex": 1466.705762,
+            "delta_nwc": 221.612015,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6182852497920001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 40678.907832,
+                "ebit_margin": 0.165,
+                "volume": 2835639.732201,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.01434558395068793
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3828.952225,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1246.220082,
+            "capex": 1513.267242,
+            "delta_nwc": 222.590592,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6306509547878401,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 42015.825528,
+                "ebit_margin": 0.165,
+                "volume": 2979484.646716,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.014101709023526235
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3905.53127,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1285.79799,
+            "capex": 1561.326131,
+            "delta_nwc": 227.375451,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6432639738835969,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 43184.990073,
+                "ebit_margin": 0.165,
+                "volume": 3115355.105576,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.013861979970126288
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3983.641895,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1320.721695,
+            "capex": 1603.733487,
+            "delta_nwc": 228.033129,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6561292533612689,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 44386.688687,
+                "ebit_margin": 0.165,
+                "volume": 3257421.5291,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.013626326310634141
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 4063.314733,
+                "ebit_margin": 0.165,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1356.600096,
+            "capex": 1647.300116,
+            "delta_nwc": 232.776808,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6692518384284942,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.095,
+        "terminal_growth": 0.03,
+        "terminal_roic": 0.23,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 31447.02,
+                "ebit_margin": 0.163,
+                "volume": 1977800.0,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0159
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3400,
+                "ebit_margin": 0.163,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 975.71656,
+            "capex": 1219.6457,
+            "delta_nwc": 101.1004,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.56,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths.",
+            "stub_dividend_per_share": 0.14
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 34165.420536,
+                "ebit_margin": 0.17,
+                "volume": 2170473.3204,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015741
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3570.0,
+                "ebit_margin": 0.17,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1056.591775,
+            "capex": 1320.739719,
+            "delta_nwc": 499.768011,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5712,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 37301.66128,
+                "ebit_margin": 0.18,
+                "volume": 2393650.069097,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015583590000000001
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3748.5,
+                "ebit_margin": 0.18,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1149.404516,
+            "capex": 1436.755645,
+            "delta_nwc": 530.394815,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.582624,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 40341.590008,
+                "ebit_margin": 0.19,
+                "volume": 2614871.208483,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015427754100000001
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 3935.925,
+                "ebit_margin": 0.19,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1239.77042,
+            "capex": 1549.713025,
+            "delta_nwc": 551.852075,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.5942764800000001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 43415.391236,
+                "ebit_margin": 0.195,
+                "volume": 2842534.970249,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015273476559000002
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 4132.72125,
+                "ebit_margin": 0.195,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1331.34715,
+            "capex": 1664.183937,
+            "delta_nwc": 577.0822,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6061620096,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 46050.441519,
+                "ebit_margin": 0.195,
+                "volume": 3045514.707405,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.015120741793410001
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 4339.357313,
+                "ebit_margin": 0.195,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1410.914367,
+            "capex": 1763.642959,
+            "delta_nwc": 594.087489,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6182852497920001,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 48610.589566,
+                "ebit_margin": 0.19,
+                "volume": 3247301.375373,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.0149695343754759
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 4556.325178,
+                "ebit_margin": 0.19,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1488.673613,
+            "capex": 1860.842016,
+            "delta_nwc": 619.658769,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6306509547878401,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 51065.17837,
+                "ebit_margin": 0.19,
+                "volume": 3445730.973217,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.014819839031721141
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 4784.141437,
+                "ebit_margin": 0.19,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1563.780955,
+            "capex": 1954.726193,
+            "delta_nwc": 645.970374,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6432639738835969,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 53643.711488,
+                "ebit_margin": 0.19,
+                "volume": 3656285.810066,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.01467164064140393
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 5023.348509,
+                "ebit_margin": 0.19,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1642.67768,
+            "capex": 2053.3471,
+            "delta_nwc": 678.293191,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6561292533612689,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Transaction fees",
+                "revenue": 56078.89191,
+                "ebit_margin": 0.19,
+                "volume": 3860873.282569,
+                "volume_unit": "USD million total payment volume",
+                "price": 0.01452492423498989
+              },
+              {
+                "name": "Other value added services",
+                "revenue": 5274.515934,
+                "ebit_margin": 0.19,
+                "volume": null,
+                "volume_unit": "not disclosed separately",
+                "price": null
+              }
+            ],
+            "tax_rate": 0.22,
+            "da": 1717.89542,
+            "capex": 2147.369275,
+            "delta_nwc": 706.762263,
+            "corporate_cost": 0,
+            "shares_m": 860.460874,
+            "dividend_per_share": 0.6692518384284942,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Consolidated margin allocated proportionally across disclosed revenue categories; separate brand/product profitability is NOT disclosed or inferred. Capex includes maintenance,growth,capitalized SBC cash equivalent. Forecast computed from analyst driver paths."
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ticker": "FISV",
+    "company": "Fiserv",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 51.2201,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 538.566721,
+    "basic_shares_m": 531.766721,
+    "shares_date": "2026-07-31",
+    "balance_date": "2026-06-30",
+    "cash_m": 627,
+    "minimum_cash_m": 500,
+    "debt_m": 28058,
+    "senior_claims_m": 100,
+    "other_assets_m": 0,
+    "debt_interest_rate": 0.052,
+    "status": "unconfirmed turnaround: retention and normalized service costs not observable",
+    "accounting_notes": "Debt includes finance leases and172 of unamortized discounts/hedge adjustments restored to principal. July2bn maturity assumed paid with cash or refinanced: no invented net-debt reduction. Operating leases left in costs. Cash capex plus financed additions are both deducted; FY2026 additions1190=twice disclosed H1595 (126software+19hardware+450financeleases), an annualization assumption, normalizing to650 from2030; no new lease financing credited. Settlement cash1341 and restrictedcash35 excluded; only627 corporate cash less500 reserve. Senior claim100 is conservative NCI value assumption vs22 book; affiliate investments excluded, no nonoperating affiliate profit added. Shares July31 plus1.1m current dilution+5.7m antidilutive RSUs conservatively included; SBC retained in GAAP costs, no extra future dilution. Fading acquisition amortization reduces DA as well as corporate cost; no noncash amortization perpetual windfall. NWC includes merchant lending, contract acquisition payments and cash tax timing. No buyback accretion; no dividend.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 19093,
+        "ebit": 5014,
+        "da": 3121,
+        "capex": 1388,
+        "cfo": 5162,
+        "sbc": 342,
+        "source_ids": [
+          "PAY5"
+        ]
+      },
+      {
+        "year": 2024,
+        "revenue": 20456,
+        "ebit": 5879,
+        "da": 3095,
+        "capex": 1569,
+        "cfo": 6631,
+        "sbc": 367,
+        "source_ids": [
+          "PAY5"
+        ]
+      },
+      {
+        "year": 2025,
+        "revenue": 21193,
+        "ebit": 5818,
+        "da": 3161,
+        "capex": 1763,
+        "cfo": 6062,
+        "sbc": 357,
+        "source_ids": [
+          "PAY5"
+        ]
+      }
+    ],
+    "interim": {
+      "period": "H1 2026",
+      "revenue": 10319,
+      "ebit": 1933,
+      "da": 1676,
+      "capex": 956,
+      "noncash_financed_additions": 595,
+      "cfo": 2082,
+      "sbc": 235,
+      "source_ids": [
+        "PAY4",
+        "PAY6"
+      ]
+    },
+    "sources": [
+      {
+        "id": "PAY4",
+        "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+        "publication_date": "2026-08-06",
+        "section": "cover; notes 1,3,8,10,11,12,16,18; MD&A",
+        "supports": "FISV shares, cash restrictions, debt, segment history, service cost deterioration"
+      },
+      {
+        "id": "PAY5",
+        "url": "https://investors.fiserv.com/static-files/9e20ef73-0abc-4550-a6b3-95c26b30719f",
+        "publication_date": "2026-02-19",
+        "section": "10-K printed pp1-5,35-42,47,51,63",
+        "supports": "2023-2025 history; bank and merchant revenue mechanisms; contracts and financing"
+      },
+      {
+        "id": "PAY6",
+        "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-reports-second-quarter-2026-results",
+        "publication_date": "2026-08-06",
+        "section": "guidance; segment results; statements of cash flow and balance sheets",
+        "supports": "2026 interim and management outlook"
+      },
+      {
+        "id": "PAY10",
+        "url": "https://investors.fiserv.com/static-files/af17ec6f-4ca7-4261-804c-2fb24b9d2430",
+        "publication_date": "2026-05-15",
+        "section": "investor day transcript pp5-9",
+        "supports": "2025 merchant GPV4.6tr; SMB customer definitions; processing throughput test and medium-term management goals"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.35,
+        "wacc": 0.115,
+        "terminal_growth": 0,
+        "terminal_roic": 0.1,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10200,
+                "ebit_margin": 0.285,
+                "volume": 4876000.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002091878589007383
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9400,
+                "ebit_margin": 0.385,
+                "volume": 100.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1380,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.26,
+            "da": 3033.3,
+            "capex": 3288.0,
+            "cash_capex": 2098.0,
+            "financed_capex": 1190,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9894.0,
+                "ebit_margin": 0.245,
+                "volume": 4973520.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.001989335520918786
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8836.0,
+                "ebit_margin": 0.32,
+                "volume": 94.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1393.8,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2500,
+            "tax_rate": 0.26,
+            "da": 2820.523,
+            "capex": 3012.38,
+            "cash_capex": 2012.38,
+            "financed_capex": 1000,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9696.12,
+                "ebit_margin": 0.235,
+                "volume": 5072990.4,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0019113223632356963
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8482.56,
+                "ebit_margin": 0.3,
+                "volume": 90.24,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1407.738,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2400,
+            "tax_rate": 0.26,
+            "da": 2634.84553,
+            "capex": 2808.6418,
+            "cash_capex": 1958.6418,
+            "financed_capex": 850,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9696.12,
+                "ebit_margin": 0.23,
+                "volume": 5174450.208,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018738454541526433
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1421.81538,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2300,
+            "tax_rate": 0.26,
+            "da": 2481.621755,
+            "capex": 2693.084418,
+            "cash_capex": 1943.084418,
+            "financed_capex": 750,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9793.0812,
+                "ebit_margin": 0.23,
+                "volume": 5277939.21216,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018554744202884017
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1436.033534,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2200,
+            "tax_rate": 0.26,
+            "da": 2351.072,
+            "capex": 2604.202353,
+            "cash_capex": 1954.202353,
+            "financed_capex": 650,
+            "delta_nwc": 257.782555,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9891.012012,
+                "ebit_margin": 0.23,
+                "volume": 5383497.996403,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018372834945992996
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1450.393869,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2100,
+            "tax_rate": 0.26,
+            "da": 2220.616748,
+            "capex": 2615.431468,
+            "cash_capex": 1965.431468,
+            "financed_capex": 650,
+            "delta_nwc": 257.86038,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 9989.922132,
+                "ebit_margin": 0.23,
+                "volume": 5491167.956331,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.001819270911297061
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1464.897808,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2000,
+            "tax_rate": 0.26,
+            "da": 2090.256943,
+            "capex": 2626.772874,
+            "cash_capex": 1976.772874,
+            "financed_capex": 650,
+            "delta_nwc": 257.938984,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10089.821353,
+                "ebit_margin": 0.23,
+                "volume": 5600991.315458,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018014349219134865
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1479.546786,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1900,
+            "tax_rate": 0.26,
+            "da": 1959.99354,
+            "capex": 2638.227694,
+            "cash_capex": 1988.227694,
+            "financed_capex": 650,
+            "delta_nwc": 258.018374,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10190.719567,
+                "ebit_margin": 0.23,
+                "volume": 5713011.141767,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0017837737953103287
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1494.342254,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1900,
+            "tax_rate": 0.26,
+            "da": 1849.827503,
+            "capex": 2649.797062,
+            "cash_capex": 1999.797062,
+            "financed_capex": 650,
+            "delta_nwc": 258.098558,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10292.626763,
+                "ebit_margin": 0.23,
+                "volume": 5827271.364602,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0017662858169815634
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 8312.9088,
+                "ebit_margin": 0.3,
+                "volume": 88.4352,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1509.285676,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1900,
+            "tax_rate": 0.26,
+            "da": 1859.759805,
+            "capex": 2661.482124,
+            "cash_capex": 2011.482124,
+            "financed_capex": 650,
+            "delta_nwc": 258.179543,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.45,
+        "wacc": 0.1,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.15,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10200,
+                "ebit_margin": 0.285,
+                "volume": 4876000.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002091878589007383
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9400,
+                "ebit_margin": 0.385,
+                "volume": 100.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1380,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.24,
+            "da": 3033.3,
+            "capex": 3183.1,
+            "cash_capex": 1993.1,
+            "financed_capex": 1190,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10506.0,
+                "ebit_margin": 0.29,
+                "volume": 5144180.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002042308006329483
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9212.0,
+                "ebit_margin": 0.38,
+                "volume": 98.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1393.8,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2550,
+            "tax_rate": 0.24,
+            "da": 2904.503,
+            "capex": 3005.621,
+            "cash_capex": 2005.621,
+            "financed_capex": 1000,
+            "delta_nwc": 259.226,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 11031.3,
+                "ebit_margin": 0.3,
+                "volume": 5427109.9,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002032628821465362
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9212.0,
+                "ebit_margin": 0.385,
+                "volume": 98.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1407.738,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2450,
+            "tax_rate": 0.24,
+            "da": 2810.33823,
+            "capex": 2906.84861,
+            "cash_capex": 2056.84861,
+            "financed_capex": 850,
+            "delta_nwc": 287.74666,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 11582.865,
+                "ebit_margin": 0.31,
+                "volume": 5725600.9445,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.00202299550951529
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9396.24,
+                "ebit_margin": 0.39,
+                "volume": 99.96,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1421.81538,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2300,
+            "tax_rate": 0.24,
+            "da": 2734.078232,
+            "capex": 2878.087436,
+            "cash_capex": 2128.087436,
+            "financed_capex": 750,
+            "delta_nwc": 302.491767,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 12104.093925,
+                "ebit_margin": 0.315,
+                "volume": 6040508.996447,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002003820196628889
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9631.146,
+                "ebit_margin": 0.4,
+                "volume": 102.45899999999999,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1436.033534,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2150,
+            "tax_rate": 0.24,
+            "da": 2659.558244,
+            "capex": 2851.270979,
+            "cash_capex": 2201.270979,
+            "financed_capex": 650,
+            "delta_nwc": 303.924716,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 12588.257682,
+                "ebit_margin": 0.32,
+                "volume": 6372736.991252,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.001975329862079663
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9871.92465,
+                "ebit_margin": 0.4,
+                "volume": 105.02047499999998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1450.393869,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2050,
+            "tax_rate": 0.24,
+            "da": 2582.398977,
+            "capex": 2921.504739,
+            "cash_capex": 2271.504739,
+            "financed_capex": 650,
+            "delta_nwc": 301.751192,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 13028.846701,
+                "ebit_margin": 0.32,
+                "volume": 6723237.525771,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0019378828504955932
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10069.363143,
+                "ebit_margin": 0.4,
+                "volume": 107.12088449999997,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1464.897808,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2000,
+            "tax_rate": 0.24,
+            "da": 2497.86415,
+            "capex": 2983.495227,
+            "cash_capex": 2333.495227,
+            "financed_capex": 650,
+            "delta_nwc": 295.677202,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 13419.712102,
+                "ebit_margin": 0.32,
+                "volume": 7093015.589688,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018919614559298567
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10270.750406,
+                "ebit_margin": 0.4,
+                "volume": 109.26330218999998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1479.546786,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2000,
+            "tax_rate": 0.24,
+            "da": 2409.45079,
+            "capex": 3041.150883,
+            "cash_capex": 2391.150883,
+            "financed_capex": 650,
+            "delta_nwc": 292.483115,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 13822.303465,
+                "ebit_margin": 0.32,
+                "volume": 7483131.447121,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018471282460656813
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10476.165414,
+                "ebit_margin": 0.4,
+                "volume": 111.44856823379996,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1494.342254,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2000,
+            "tax_rate": 0.24,
+            "da": 2342.388946,
+            "capex": 3100.317058,
+            "cash_capex": 2450.317058,
+            "financed_capex": 650,
+            "delta_nwc": 293.596129,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 14236.972569,
+                "ebit_margin": 0.32,
+                "volume": 7894703.676713,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018033574345538703
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10685.688722,
+                "ebit_margin": 0.4,
+                "volume": 113.67753959847595,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1509.285676,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2000,
+            "tax_rate": 0.24,
+            "da": 2396.715492,
+            "capex": 3161.034962,
+            "cash_capex": 2511.034962,
+            "financed_capex": 650,
+            "delta_nwc": 294.739508,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.095,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.18,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10200,
+                "ebit_margin": 0.285,
+                "volume": 4876000.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002091878589007383
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9400,
+                "ebit_margin": 0.385,
+                "volume": 100.0,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1380,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.23,
+            "da": 3033.3,
+            "capex": 3078.2,
+            "cash_capex": 1888.2,
+            "financed_capex": 1190,
+            "delta_nwc": 250,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 10812.0,
+                "ebit_margin": 0.315,
+                "volume": 5266080.0,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0020531400966183576
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9541.0,
+                "ebit_margin": 0.4,
+                "volume": 101.49999999999999,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1393.8,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2450,
+            "tax_rate": 0.23,
+            "da": 2958.478,
+            "capex": 2957.212,
+            "cash_capex": 1957.212,
+            "financed_capex": 1000,
+            "delta_nwc": 303.676,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 11676.96,
+                "ebit_margin": 0.335,
+                "volume": 5687366.4,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002053140096618357
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 9874.935,
+                "ebit_margin": 0.42,
+                "volume": 105.05249999999997,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1407.738,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2200,
+            "tax_rate": 0.23,
+            "da": 2921.568805,
+            "capex": 2916.36697,
+            "cash_capex": 2066.36697,
+            "financed_capex": 850,
+            "delta_nwc": 334.89831,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 12611.1168,
+                "ebit_margin": 0.345,
+                "volume": 6142355.712,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002053140096618357
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10269.9324,
+                "ebit_margin": 0.435,
+                "volume": 109.25459999999998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1421.81538,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2050,
+            "tax_rate": 0.23,
+            "da": 2895.743489,
+            "capex": 2937.257812,
+            "cash_capex": 2187.257812,
+            "financed_capex": 750,
+            "delta_nwc": 344.026211,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 13493.894976,
+                "ebit_margin": 0.35,
+                "volume": 6633744.16896,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.002034129540168187
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 10680.729696,
+                "ebit_margin": 0.445,
+                "volume": 113.62478399999998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1436.033534,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1900,
+            "tax_rate": 0.23,
+            "da": 2866.905947,
+            "capex": 2954.959239,
+            "cash_capex": 2304.959239,
+            "financed_capex": 650,
+            "delta_nwc": 341.545554,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 14303.528675,
+                "ebit_margin": 0.35,
+                "volume": 7164443.702477,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0019964604746709313
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 11054.555235,
+                "ebit_margin": 0.45,
+                "volume": 117.60165143999998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1450.393869,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1850,
+            "tax_rate": 0.23,
+            "da": 2828.720611,
+            "capex": 3062.763,
+            "cash_capex": 2412.763,
+            "financed_capex": 650,
+            "delta_nwc": 333.84737,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 15018.705108,
+                "ebit_margin": 0.35,
+                "volume": 7737599.198675,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0019410032391664759
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 11386.191892,
+                "ebit_margin": 0.45,
+                "volume": 121.12970098319997,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1464.897808,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1850,
+            "tax_rate": 0.23,
+            "da": 2778.932559,
+            "capex": 3158.281533,
+            "cash_capex": 2508.281533,
+            "financed_capex": 650,
+            "delta_nwc": 324.292192,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 15694.546838,
+                "ebit_margin": 0.35,
+                "volume": 8356607.134569,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018781003564324634
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 11670.84669,
+                "ebit_margin": 0.45,
+                "volume": 124.15794350777998,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1479.546786,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1850,
+            "tax_rate": 0.23,
+            "da": 2721.819927,
+            "capex": 3246.044628,
+            "cash_capex": 2596.044628,
+            "financed_capex": 650,
+            "delta_nwc": 318.260185,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 16322.328712,
+                "ebit_margin": 0.35,
+                "volume": 9025135.705334,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0018085410840251864
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 11962.617857,
+                "ebit_margin": 0.45,
+                "volume": 127.26189209547445,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1494.342254,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1850,
+            "tax_rate": 0.23,
+            "da": 2681.23955,
+            "capex": 3330.135994,
+            "cash_capex": 2680.135994,
+            "financed_capex": 650,
+            "delta_nwc": 315.404396,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Merchant Solutions",
+                "revenue": 16893.610217,
+                "ebit_margin": 0.35,
+                "volume": 9747146.561761,
+                "volume_unit": "USD million merchant gross payment volume",
+                "price": 0.0017331852055323445
+              },
+              {
+                "name": "Financial Solutions",
+                "revenue": 12261.683303,
+                "ebit_margin": 0.45,
+                "volume": 130.44343939786128,
+                "volume_unit": "2026 fee-equivalent account/service index=100 (absolute count undisclosed)",
+                "price": 94
+              },
+              {
+                "name": "Postage pass-through",
+                "revenue": 1509.285676,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "not required for profit capture",
+                "price": null
+              }
+            ],
+            "corporate_cost": 1850,
+            "tax_rate": 0.23,
+            "da": 2756.489232,
+            "capex": 3409.812128,
+            "cash_capex": 2759.812128,
+            "financed_capex": 650,
+            "delta_nwc": 311.970326,
+            "shares_m": 538.566721,
+            "dividend_per_share": 0,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "Merchant volume grows independently from2025primary4.6trGPV; all-in revenueyield explicitly includes software/services and is not a quotedprocessingfee. FinancialSolutionaccount/transactioncounts remainunresolved; its fee-equivalentindex is an operating sensitivity,not a physicalestimate. All forecast values are analyst assumptions."
+          }
+        ]
+      }
+    },
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  }
+]

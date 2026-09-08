@@ -1,0 +1,2114 @@
+[
+  {
+    "ticker": "CMCSA",
+    "company": "Comcast Corporation \u2014 combined current economic claims",
+    "currency": "USD",
+    "valuation_date": "2026-09-08",
+    "price": 26.115,
+    "price_timestamp": "2026-09-08T15:02:00+00:00",
+    "shares_m": 3554.636573,
+    "basic_shares_m": 3548.636573,
+    "balance_date": "2026-06-30",
+    "cash_m": 7661,
+    "minimum_cash_m": 2500,
+    "debt_m": 90381,
+    "senior_claims_m": 7882,
+    "other_assets_m": 4576,
+    "debt_interest_rate": 0.0475,
+    "status": "unconfirmed research candidate; valuation headroom is probability-sensitive and bundled broadband monetization remains unresolved",
+    "accounting_notes": "Combined Comcast+future NBCUniversal/Sky distribution claims; exclude already separated Versant and sold Sky Germany from forward years. July15 basic shares include ClassB, add Q2 6m dilutive proxy. GAAP-like EBIT retains SBC; no SBC addback or assumed future buyback accretion/dilution. Capex includes cash software/intangibles and property; program amortization remains in expense and content investment timing in NWC. Debt includes consolidated Beijing; operating leases remain operating expense, not duplicated debt. Senior claims7882=5097 deferred compensation (Dec2025 latest detailed obligation)+185 redeemableNCI+1500 analyst minority fair-value reserve+1100 unfundedAtairos reserve. Otherassets4576=50% June7828 noncurrent investments+662 Dec2025 life-insurance offset. No Hulu/Versant value. ITV full up-to consideration conservatively charged as2027 reinvestment2167.36 (Massive GBPUSD1.3546 September7 daily close, no speculative earnings credit); no separate claim deduction. Base corporate expense includes 40m Atairos fee, incremental separation/dual-company costs; taxes normalize. Noncommonclaim uncertainty stressed separately. Deferred compensation reserve treated as a present claim; its cash settlement is excluded from future operating NWC to avoid double deduction. Cash reserve is analyst assumption, not legally restricted.",
+    "history": [
+      {
+        "year": 2023,
+        "revenue": 121572,
+        "ebit": 23314,
+        "da": 14336,
+        "capex": 15677,
+        "cfo": 28501,
+        "sbc": 1241,
+        "source_ids": [
+          "C1"
+        ],
+        "notes": "As reported, includes Versant and Sky Germany; not comparable with 2026 forward perimeter. Capex includes property, software/intangibles and Beijing construction. D&A below from cash-flow statement, rounding can differ from income statement."
+      },
+      {
+        "year": 2024,
+        "revenue": 123731,
+        "ebit": 23297,
+        "da": 14802,
+        "capex": 15246,
+        "cfo": 27673,
+        "sbc": 1288,
+        "source_ids": [
+          "C1"
+        ],
+        "notes": "As reported, includes Versant and Sky Germany; not comparable with 2026 forward perimeter. Capex includes property, software/intangibles and Beijing construction. D&A below from cash-flow statement, rounding can differ from income statement."
+      },
+      {
+        "year": 2025,
+        "revenue": 123707,
+        "ebit": 20672,
+        "da": 16210,
+        "capex": 14419,
+        "cfo": 33643,
+        "sbc": 1288,
+        "source_ids": [
+          "C1"
+        ],
+        "notes": "As reported, includes Versant and Sky Germany; not comparable with 2026 forward perimeter. Capex includes property, software/intangibles and Beijing construction. D&A below from cash-flow statement, rounding can differ from income statement."
+      }
+    ],
+    "sources": [
+      {
+        "id": "C1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+        "publication_date": "2026-02-03",
+        "section": "pp.62-65 consolidated statements; Note 2 segments; Note 8 investments/VIE; Note 11 benefits; Note 12 shares",
+        "supports": "2023-25 history, segment economics, deferred compensation, ownership and governance"
+      },
+      {
+        "id": "C2",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+        "publication_date": "2026-07-23",
+        "section": "cover; pp.1-4 statements; Notes 2,3,6,7,9; MD&A capital resources",
+        "supports": "June balance, July15 shares, Q2 dilution, transactions, H1 results and operating drivers"
+      },
+      {
+        "id": "C3",
+        "url": "https://www.cmcsa.com/node/45906",
+        "publication_date": "2026-07-23",
+        "section": "operating highlights; financial tables and reconciliations",
+        "supports": "48m Peacock paid subscribers, first profitable quarter, broadband/wireless and cash flow"
+      },
+      {
+        "id": "C4",
+        "url": "https://www.cmcsa.com/static-files/ced447a4-4823-4904-b398-bab2a392d1c7",
+        "publication_date": "2026-06-29",
+        "section": "separation presentation",
+        "supports": "planned NBCUniversal and Sky separation mid-2027, no completed distribution yet"
+      },
+      {
+        "id": "C5",
+        "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000294/t-2q2026exhibit991.htm",
+        "publication_date": "2026-07-22",
+        "section": "Second-Quarter Highlights; Outlook and Capital Allocation Plan",
+        "supports": "AT&T 38.6m fiber locations, management >40m2026 and >60m2030, $23-24bn annual capital plan and convergence competition"
+      },
+      {
+        "id": "C6",
+        "url": "https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results",
+        "publication_date": "2026-07-24",
+        "section": "operating results, Capital Expenditures, Liquidity and Financing",
+        "supports": "competing cable investment, pressure on EBITDA, debt and Cox integration"
+      },
+      {
+        "id": "C7",
+        "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus06302026ex991.htm",
+        "publication_date": "2026-07-23",
+        "section": "operating highlights; non-GAAP reconciliation",
+        "supports": "wireless/broadband competitive platform; Q2 service revenue19bn, Core EBITDA9.5bn; SBC excluded in that measure"
+      },
+      {
+        "id": "C8",
+        "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/0001628280-26-049360-index.html",
+        "publication_date": "2026-07-23",
+        "section": "Filing Detail",
+        "supports": "filing publication date"
+      },
+      {
+        "id": "C9",
+        "url": "https://api.massive.com/v2/snapshot/locale/us/markets/stocks/tickers/CMCSA",
+        "publication_date": "2026-09-08",
+        "section": "ticker.min.c and ticker.min.t; raw quote_CMCSA.json",
+        "supports": "intraday stock price; market bridge uses earlier latest disclosed June balance, not an intraday balance"
+      },
+      {
+        "id": "C11",
+        "url": "https://www.cmcsa.com/static-files/b269b35e-94ff-43d2-8f05-858c92bb7488",
+        "publication_date": "2026-07-23",
+        "section": "pp.1-3 pro forma revenue/EBITDA; p.6 subscribers/passings; remaining pages capital and notes",
+        "supports": "recast 2024-25 ongoing business comparison: Media EBITDA -123/164m, proforma total EBITDA35118/34454m; Q2 consumer weakness and cohort monetization required"
+      },
+      {
+        "id": "C10",
+        "url": "https://api.massive.com/v2/aggs/ticker/C:GBPUSD/prev",
+        "publication_date": "2026-09-08",
+        "section": "previous forex daily bar; quote_GBPUSD.json",
+        "supports": "GBPUSD1.3546 bar timestamp2026-09-07T23:59:59.999Z; future 2027 transaction FX remains uncertain"
+      }
+    ],
+    "scenarios": {
+      "downside": {
+        "probability": 0.3,
+        "wacc": 0.1,
+        "terminal_growth": 0.005,
+        "terminal_roic": 0.1,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 68467.64,
+                "ebit_margin": 0.2281322096102626,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 10700,
+                "ebit_margin": 0.47644859813084117,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24711.6,
+                "ebit_margin": -0.06846695479046279,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12300,
+                "ebit_margin": 0.027317073170731718,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10300,
+                "ebit_margin": 0.04407766990291259,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5402.32,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2650,
+            "tax_rate": 0.22,
+            "da": 14900,
+            "capex": 15100,
+            "delta_nwc": 950,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 64408.24,
+                "ebit_margin": 0.21805972030907841,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 10900,
+                "ebit_margin": 0.46463302752293584,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 21676.8,
+                "ebit_margin": -0.08806244464127548,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11200,
+                "ebit_margin": -0.008214285714285702,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10000,
+                "ebit_margin": -0.008200000000000013,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4535.36,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3450,
+            "tax_rate": 0.24,
+            "da": 14600,
+            "capex": 17967.36,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 61240.73,
+                "ebit_margin": 0.20740850411156103,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11100,
+                "ebit_margin": 0.4566216216216217,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 22894.4,
+                "ebit_margin": -0.07814906702075619,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11000,
+                "ebit_margin": -0.00909090909090908,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10000,
+                "ebit_margin": -0.006500000000000006,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4698.08,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3300,
+            "tax_rate": 0.255,
+            "da": 14500,
+            "capex": 16000,
+            "delta_nwc": 950,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 58757.8423,
+                "ebit_margin": 0.1918056810435328,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11400,
+                "ebit_margin": 0.4536842105263158,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 20129.712,
+                "ebit_margin": -0.09132854359764314,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11200,
+                "ebit_margin": 0.0023214285714285715,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10200,
+                "ebit_margin": 0.008333333333333331,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4143.5264,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2950,
+            "tax_rate": 0.255,
+            "da": 14500,
+            "capex": 16600,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 56518.1129,
+                "ebit_margin": 0.1863292440532197,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11700,
+                "ebit_margin": 0.45564102564102565,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 21435.2322,
+                "ebit_margin": -0.07630083304868673,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11400,
+                "ebit_margin": 0.00368421052631579,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10600,
+                "ebit_margin": 0.02745283018867925,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4402.1821,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2850,
+            "tax_rate": 0.255,
+            "da": 14500,
+            "capex": 16700,
+            "delta_nwc": 950,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 54393.7518,
+                "ebit_margin": 0.17762955818958134,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12000,
+                "ebit_margin": 0.456,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 18868.6139,
+                "ebit_margin": -0.09046192654755289,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11600,
+                "ebit_margin": 0.008448275862068977,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 11500,
+                "ebit_margin": 0.031217391304347836,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -3885.5612,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2900,
+            "tax_rate": 0.255,
+            "da": 14800,
+            "capex": 16000,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 52538.1693,
+                "ebit_margin": 0.17011624107759782,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12300,
+                "ebit_margin": 0.45682926829268294,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 20301.8429,
+                "ebit_margin": -0.0743227808778871,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 11800,
+                "ebit_margin": 0.008728813559322035,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 12500,
+                "ebit_margin": 0.05600000000000002,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4168.0437,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2960,
+            "tax_rate": 0.255,
+            "da": 15000,
+            "capex": 14638.919703844871,
+            "delta_nwc": 950,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 50764.195,
+                "ebit_margin": 0.162322762275933,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12600,
+                "ebit_margin": 0.45761904761904765,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 17792.0139,
+                "ebit_margin": -0.08650348242172592,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12000,
+                "ebit_margin": 0.009000000000000008,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 12900,
+                "ebit_margin": 0.06968992248062017,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -3661.0315,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3020,
+            "tax_rate": 0.255,
+            "da": 15200,
+            "capex": 14669.707858265598,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 49237.5506,
+                "ebit_margin": 0.15484912627603367,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12900,
+                "ebit_margin": 0.4583720930232558,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 19335.309,
+                "ebit_margin": -0.06814069875026979,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12200,
+                "ebit_margin": 0.009262295081967215,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 13300,
+                "ebit_margin": 0.08315789473684213,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -3963.743,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3080,
+            "tax_rate": 0.255,
+            "da": 15400,
+            "capex": 14651.900936898914,
+            "delta_nwc": 950,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 47822.0931,
+                "ebit_margin": 0.14732292692654336,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 13200,
+                "ebit_margin": 0.4590909090909091,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 16928.1773,
+                "ebit_margin": -0.08331229836620715,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12400,
+                "ebit_margin": 0.00951612903225807,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 13700,
+                "ebit_margin": 0.09642335766423354,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -3475.4503,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3140,
+            "tax_rate": 0.255,
+            "da": 15600,
+            "capex": 15322.275210003892,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 0.9,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          }
+        ]
+      },
+      "base": {
+        "probability": 0.5,
+        "wacc": 0.0875,
+        "terminal_growth": 0.02,
+        "terminal_roic": 0.13,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 68467.64,
+                "ebit_margin": 0.2381322096102626,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 10700,
+                "ebit_margin": 0.47644859813084117,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24711.6,
+                "ebit_margin": -0.050319040450638564,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12300,
+                "ebit_margin": 0.04731707317073171,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10300,
+                "ebit_margin": 0.0540776699029126,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5402.32,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2550,
+            "tax_rate": 0.2,
+            "da": 14900,
+            "capex": 14900,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 66922.94,
+                "ebit_margin": 0.2403399850634177,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11200,
+                "ebit_margin": 0.4833928571428572,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 22620.0,
+                "ebit_margin": -0.037108753315649855,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12300,
+                "ebit_margin": 0.040243902439024384,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 11000,
+                "ebit_margin": 0.089,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -4944.0,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 3050,
+            "tax_rate": 0.22,
+            "da": 14300,
+            "capex": 17267.36,
+            "delta_nwc": 350,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 66062.51,
+                "ebit_margin": 0.24547683928448977,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11760,
+                "ebit_margin": 0.49306122448979584,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24632.0,
+                "ebit_margin": -0.015271516726209813,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12800,
+                "ebit_margin": 0.05390624999999999,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 11700,
+                "ebit_margin": 0.11512820512820512,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5405.6,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2850,
+            "tax_rate": 0.24,
+            "da": 14100,
+            "capex": 15500,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65533.0431,
+                "ebit_margin": 0.24865663451847236,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12350,
+                "ebit_margin": 0.4960121457489878,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 22690.176,
+                "ebit_margin": -0.010753862817106413,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 13000,
+                "ebit_margin": 0.054461538461538464,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 12300,
+                "ebit_margin": 0.128739837398374,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5015.6192,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2550,
+            "tax_rate": 0.25,
+            "da": 14200,
+            "capex": 16100,
+            "delta_nwc": 350,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65220.3469,
+                "ebit_margin": 0.2504989756404916,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12970,
+                "ebit_margin": 0.5029221279876638,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24793.545,
+                "ebit_margin": 0.0065561952460710254,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 13400,
+                "ebit_margin": 0.06007462686567164,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 12900,
+                "ebit_margin": 0.13891472868217056,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5473.8447,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2500,
+            "tax_rate": 0.255,
+            "da": 14500,
+            "capex": 16300,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65127.9377,
+                "ebit_margin": 0.25188293850748505,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 13620,
+                "ebit_margin": 0.5043612334801761,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 22941.1632,
+                "ebit_margin": 0.006986693203258704,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 13700,
+                "ebit_margin": 0.05974452554744525,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 14200,
+                "ebit_margin": 0.13161971830985916,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5120.071,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2550,
+            "tax_rate": 0.255,
+            "da": 14900,
+            "capex": 15600,
+            "delta_nwc": 350,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65030.2762,
+                "ebit_margin": 0.24824598476678192,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 14230,
+                "ebit_margin": 0.5054884047786367,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24968.9246,
+                "ebit_margin": 0.0202760271571384,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 14100,
+                "ebit_margin": 0.0648936170212766,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 15100,
+                "ebit_margin": 0.15274834437086093,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5561.4601,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.255,
+            "da": 15300,
+            "capex": 15088.498453208009,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65079.7849,
+                "ebit_margin": 0.24576476844213632,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 14870,
+                "ebit_margin": 0.5070544720914593,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 22952.7596,
+                "ebit_margin": 0.018764827271310416,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 14500,
+                "ebit_margin": 0.06544827586206897,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 15700,
+                "ebit_margin": 0.16108280254777071,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5193.1806,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2650,
+            "tax_rate": 0.255,
+            "da": 15600,
+            "capex": 16045.825193265562,
+            "delta_nwc": 350,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65214.7072,
+                "ebit_margin": 0.243466380764185,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 15540,
+                "ebit_margin": 0.5086100386100385,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24966.2333,
+                "ebit_margin": 0.028365104977469482,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 14900,
+                "ebit_margin": 0.06597315436241612,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 16300,
+                "ebit_margin": 0.1641717791411043,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5629.9279,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2700,
+            "tax_rate": 0.255,
+            "da": 15900,
+            "capex": 17100.097245706318,
+            "delta_nwc": 650,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 65430.4872,
+                "ebit_margin": 0.2413490378842193,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 16240,
+                "ebit_margin": 0.5101477832512314,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 23008.5439,
+                "ebit_margin": 0.028636589791794523,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 15300,
+                "ebit_margin": 0.06647058823529413,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 16900,
+                "ebit_margin": 0.16704142011834322,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5271.5236,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2750,
+            "tax_rate": 0.255,
+            "da": 16200,
+            "capex": 18809.973410569684,
+            "delta_nwc": 350,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          }
+        ]
+      },
+      "upside": {
+        "probability": 0.2,
+        "wacc": 0.08,
+        "terminal_growth": 0.025,
+        "terminal_roic": 0.16,
+        "years": [
+          {
+            "year": 2026,
+            "period_end": "2026-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 68467.64,
+                "ebit_margin": 0.2531322096102626,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 10700,
+                "ebit_margin": 0.47644859813084117,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24711.6,
+                "ebit_margin": -0.02488709755742244,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 12300,
+                "ebit_margin": 0.05731707317073172,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 10300,
+                "ebit_margin": 0.06407766990291261,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5402.32,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2500,
+            "tax_rate": 0.19,
+            "da": 14900,
+            "capex": 14900,
+            "delta_nwc": 750,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2027,
+            "period_end": "2027-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 68285.32,
+                "ebit_margin": 0.2610871794991954,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 11350,
+                "ebit_margin": 0.4883480176211453,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 23337.6,
+                "ebit_margin": -0.0064592760180995495,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 13000,
+                "ebit_margin": 0.0730769230769231,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 11500,
+                "ebit_margin": 0.1156521739130435,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5227.52,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2800,
+            "tax_rate": 0.2,
+            "da": 14500,
+            "capex": 17367.36,
+            "delta_nwc": 450,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2028,
+            "period_end": "2028-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 69069.03,
+                "ebit_margin": 0.27162567217173894,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12080,
+                "ebit_margin": 0.4974834437086092,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 26118.8,
+                "ebit_margin": 0.026152350031395016,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 13600,
+                "ebit_margin": 0.08558823529411765,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 12600,
+                "ebit_margin": 0.153015873015873,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5862.96,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.22,
+            "da": 14600,
+            "capex": 15600,
+            "delta_nwc": 750,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2029,
+            "period_end": "2029-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 70419.9141,
+                "ebit_margin": 0.2807155602593954,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 12860,
+                "ebit_margin": 0.5050155520995334,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 24967.35,
+                "ebit_margin": 0.04206333471513794,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 14200,
+                "ebit_margin": 0.08661971830985915,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 13600,
+                "ebit_margin": 0.16249999999999998,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -5711.054,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2450,
+            "tax_rate": 0.24,
+            "da": 15000,
+            "capex": 16200,
+            "delta_nwc": 450,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2030,
+            "period_end": "2030-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 71731.3183,
+                "ebit_margin": 0.2839928834227943,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 13690,
+                "ebit_margin": 0.5120672023374726,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 27883.0062,
+                "ebit_margin": 0.06710147376952943,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 14800,
+                "ebit_margin": 0.09216216216216216,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 14600,
+                "ebit_margin": 0.16952054794520546,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -6371.7369,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2500,
+            "tax_rate": 0.25,
+            "da": 15500,
+            "capex": 16500,
+            "delta_nwc": 750,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2031,
+            "period_end": "2031-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 73058.3884,
+                "ebit_margin": 0.28582534732856035,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 14510,
+                "ebit_margin": 0.5130117160578911,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 26865.5311,
+                "ebit_margin": 0.0728174341821446,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 15400,
+                "ebit_margin": 0.09188311688311689,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 16000,
+                "ebit_margin": 0.16287500000000002,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -6244.9446,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2550,
+            "tax_rate": 0.25,
+            "da": 16200,
+            "capex": 16000,
+            "delta_nwc": 450,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2032,
+            "period_end": "2032-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 74400.0274,
+                "ebit_margin": 0.2855484336914296,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 15380,
+                "ebit_margin": 0.5144603381014304,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 29644.6928,
+                "ebit_margin": 0.0825030666122891,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 16000,
+                "ebit_margin": 0.097,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 17400,
+                "ebit_margin": 0.1858620689655172,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -6876.6137,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2600,
+            "tax_rate": 0.25,
+            "da": 16800,
+            "capex": 16552.41179752291,
+            "delta_nwc": 750,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2033,
+            "period_end": "2033-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 75704.8545,
+                "ebit_margin": 0.2862896277206245,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 16230,
+                "ebit_margin": 0.5156746765249538,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 28293.4655,
+                "ebit_margin": 0.08512320679912182,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 16600,
+                "ebit_margin": 0.09710843373493976,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 18500,
+                "ebit_margin": 0.19010810810810808,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -6681.3218,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2650,
+            "tax_rate": 0.25,
+            "da": 17400,
+            "capex": 18221.699909742347,
+            "delta_nwc": 450,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2034,
+            "period_end": "2034-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 77030.7626,
+                "ebit_margin": 0.28487017057608244,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 17120,
+                "ebit_margin": 0.5172663551401868,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 30979.6289,
+                "ebit_margin": 0.09469680108202694,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 17300,
+                "ebit_margin": 0.09791907514450868,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 19400,
+                "ebit_margin": 0.1931443298969072,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -7312.607,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2700,
+            "tax_rate": 0.25,
+            "da": 17900,
+            "capex": 19968.22601692436,
+            "delta_nwc": 750,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          },
+          {
+            "year": 2035,
+            "period_end": "2035-12-31",
+            "segments": [
+              {
+                "name": "Residential Connectivity and Platforms",
+                "revenue": 78375.1979,
+                "ebit_margin": 0.2835298375216443,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Business Services Connectivity",
+                "revenue": 18060,
+                "ebit_margin": 0.5188704318936876,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Media including Peacock",
+                "revenue": 29702.9681,
+                "ebit_margin": 0.09418943739597833,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Studios",
+                "revenue": 18000,
+                "ebit_margin": 0.09866666666666668,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Theme Parks",
+                "revenue": 20200,
+                "ebit_margin": 0.19514851485148513,
+                "volume": null,
+                "volume_unit": "see operating_drivers.json; mixed products",
+                "price": null
+              },
+              {
+                "name": "Other revenue less intersegment eliminations",
+                "revenue": -7150.4085,
+                "ebit_margin": 0,
+                "volume": null,
+                "volume_unit": "USDm reconciliation",
+                "price": null
+              }
+            ],
+            "corporate_cost": 2750,
+            "tax_rate": 0.25,
+            "da": 18400,
+            "capex": 22327.91558366915,
+            "delta_nwc": 450,
+            "shares_m": 3554.636573,
+            "dividend_per_share": 1.32,
+            "net_debt_issuance": 0,
+            "new_equity_issuance": 0,
+            "notes": "All forward figures analyst assumptions. Underlying EBITDA-to-GAAP EBIT allocation deducts total D&A once; GAAP-like cost base retains SBC. 2027 capex includes2167.36 conservative ITV total consideration reserve with no earnings credit. Corporate includes separation/stranded costs. Fiscal2026 full-year forecasts use reportedH1 as anchor; rootengine proratesremainingstub. 2032-35 capex explicitly transitions to NOPAT*g/ROIC net reinvestment, avoiding a terminal cash-flow discontinuity."
+          }
+        ]
+      }
+    },
+    "recast_operating_history": [
+      {
+        "year": 2024,
+        "revenue": 115459,
+        "adjusted_ebitda": 35118,
+        "media_adjusted_ebitda": -123,
+        "peacock_ebitda": -1796,
+        "residential_ebitda": 27060,
+        "source_ids": [
+          "C11"
+        ],
+        "notes": "pro forma removes Versant/Germany; not GAAP EBIT; SBC treatment follows company reconciliation"
+      },
+      {
+        "year": 2025,
+        "revenue": 115552,
+        "adjusted_ebitda": 34454,
+        "media_adjusted_ebitda": 164,
+        "peacock_ebitda": -1085,
+        "residential_ebitda": 26364,
+        "source_ids": [
+          "C11"
+        ],
+        "notes": "pro forma removes Versant/Germany; not GAAP EBIT"
+      }
+    ],
+    "quote_field": "Massive min.c, minute start min.t; delayed snapshot captured2026-09-08T15:18:28Z"
+  }
+]

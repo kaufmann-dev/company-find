@@ -1,0 +1,1276 @@
+ticker,scenario,year,name,revenue,ebit_margin,volume,volume_unit,price
+CF,downside,2026,Ammonia core,2242,0.34915254237288135,3.8,million short tons sold,590
+CF,downside,2026,Granular urea,2227.5,0.5151515151515151,4.5,million short tons sold,495
+CF,downside,2026,UAN,2263,0.4657534246575342,6.2,million short tons sold,365
+CF,downside,2026,Ammonium nitrate,234,-0.07692307692307693,0.6,million short tons sold,390
+CF,downside,2026,DEF nitric acid and other,630,0.36666666666666664,2.1,million short tons sold,300
+CF,downside,2026,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,540
+CF,downside,2026,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,downside,2027,Ammonia core,1701.3359999999998,0.15934065934065925,3.8949999999999996,million short tons sold,436.8
+CF,downside,2027,Granular urea,1578.4439999999997,0.2674418604651162,4.369999999999999,million short tons sold,361.2
+CF,downside,2027,UAN,1736.448,0.22857142857142856,6.46,million short tons sold,268.8
+CF,downside,2027,Ammonium nitrate,287.28,-0.14285714285714302,0.95,million short tons sold,302.4
+CF,downside,2027,DEF nitric acid and other,477.60299999999995,0.16541353383458635,1.9949999999999999,million short tons sold,239.39999999999998
+CF,downside,2027,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,540
+CF,downside,2027,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,downside,2028,Ammonia core,1503.0036000000002,0.003152088258471207,3.948,million short tons sold,380.70000000000005
+CF,downside,2028,Granular urea,1345.3938000000003,0.10656270305393116,4.371,million short tons sold,307.8
+CF,downside,2028,UAN,1497.2931,0.07082521117608834,6.486,million short tons sold,230.85000000000002
+CF,downside,2028,Ammonium nitrate,301.51439999999997,-0.11111111111111106,1.128,million short tons sold,267.3
+CF,downside,2028,DEF nitric acid and other,439.7085000000001,0.08641975308641975,1.974,million short tons sold,222.75000000000003
+CF,downside,2028,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,540
+CF,downside,2028,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,downside,2029,Ammonia core,1577.4527999999998,0.04183884297520658,4.074,million short tons sold,387.2
+CF,downside,2029,Granular urea,1428.9264000000003,0.15347222222222223,4.5105,million short tons sold,316.8
+CF,downside,2029,UAN,1590.2568,0.11666666666666654,6.6930000000000005,million short tons sold,237.6
+CF,downside,2029,Ammonium nitrate,355.0976,0.002485795454545414,1.261,million short tons sold,281.6
+CF,downside,2029,DEF nitric acid and other,501.91679999999997,0.19123376623376626,2.037,million short tons sold,246.4
+CF,downside,2029,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,540
+CF,downside,2029,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,downside,2030,Ammonia core,1685.502,0.10708180708180699,4.116,million short tons sold,409.5
+CF,downside,2030,Granular urea,1513.6075500000002,0.19993978624115616,4.557,million short tons sold,332.15000000000003
+CF,downside,2030,UAN,1692.1905000000002,0.1685914085914086,6.7620000000000005,million short tons sold,250.25
+CF,downside,2030,Ammonium nitrate,376.7855,0.059678782755705755,1.274,million short tons sold,295.75
+CF,downside,2030,DEF nitric acid and other,535.6150799999999,0.2401444709137017,2.058,million short tons sold,260.26
+CF,downside,2030,Blue Point 40% attributable output,81,0.21296296296296297,0.15,million metric tonnes attributable,540
+CF,downside,2030,Blue Point wholly owned infrastructure services,23.611111111111107,0.65,0.27777777777777773,fraction of mature facility operation,85
+CF,downside,2031,Ammonia core,1792.854,0.13500597371565112,4.2,million short tons sold,426.87
+CF,downside,2031,Granular urea,1608.7140000000004,0.2245924384321888,4.65,million short tons sold,345.96000000000004
+CF,downside,2031,UAN,1803.1770000000004,0.1959591321317875,6.9,million short tons sold,261.33000000000004
+CF,downside,2031,Ammonium nitrate,401.388,0.0915273999222697,1.3,million short tons sold,308.76
+CF,downside,2031,DEF nitric acid and other,570.2760000000001,0.2638091029606716,2.1,million short tons sold,271.56
+CF,downside,2031,Blue Point 40% attributable output,220.32,0.2129629629629629,0.4,million metric tonnes attributable,550.8
+CF,downside,2031,Blue Point wholly owned infrastructure services,62.96296296296296,0.65,0.7407407407407407,fraction of mature facility operation,85
+CF,downside,2032,Ammonia core,1867.32,0.16174089068825906,4.2,million short tons sold,444.59999999999997
+CF,downside,2032,Granular urea,1678.65,0.2501939058171745,4.65,million short tons sold,361
+CF,downside,2032,UAN,1881.2849999999999,0.22207958921694476,6.9,million short tons sold,272.65
+CF,downside,2032,Ammonium nitrate,417.42999999999995,0.11613204609156016,1.3,million short tons sold,321.09999999999997
+CF,downside,2032,DEF nitric acid and other,594.51,0.2864712115860119,2.1,million short tons sold,283.09999999999997
+CF,downside,2032,Blue Point 40% attributable output,280.908,0.21296296296296297,0.5,million metric tonnes attributable,561.816
+CF,downside,2032,Blue Point wholly owned infrastructure services,78.7037037037037,0.65,0.9259259259259258,fraction of mature facility operation,85
+CF,downside,2033,Ammonia core,1927.296,0.1784344490934449,4.2,million short tons sold,458.88
+CF,downside,2033,Granular urea,1727.568,0.26248923341946595,4.65,million short tons sold,371.52
+CF,downside,2033,UAN,1940.8319999999999,0.23919226393629117,6.9,million short tons sold,281.28
+CF,downside,2033,Ammonium nitrate,430.56,0.1364734299516908,1.3,million short tons sold,331.2
+CF,downside,2033,DEF nitric acid and other,612.8639999999999,0.3009868421052631,2.1,million short tons sold,291.84
+CF,downside,2033,Blue Point 40% attributable output,303.7177296000001,0.21296296296296305,0.53,million metric tonnes attributable,573.0523200000001
+CF,downside,2033,Blue Point wholly owned infrastructure services,83.42592592592592,0.65,0.9814814814814815,fraction of mature facility operation,85
+CF,downside,2034,Ammonia core,1963.584,0.17864476386036957,4.2,million short tons sold,467.52
+CF,downside,2034,Granular urea,1763.28,0.2642405063291139,4.65,million short tons sold,379.2
+CF,downside,2034,UAN,1980.5759999999998,0.2370401337792641,6.9,million short tons sold,287.03999999999996
+CF,downside,2034,Ammonium nitrate,439.29599999999994,0.1358901515151514,1.3,million short tons sold,337.91999999999996
+CF,downside,2034,DEF nitric acid and other,624.9599999999999,0.3010752688172042,2.1,million short tons sold,297.59999999999997
+CF,downside,2034,Blue Point 40% attributable output,309.792084192,0.212962962962963,0.53,million metric tonnes attributable,584.5133664
+CF,downside,2034,Blue Point wholly owned infrastructure services,83.42592592592592,0.65,0.9814814814814815,fraction of mature facility operation,85
+CF,downside,2035,Ammonia core,2003.904,0.17840375586854462,4.2,million short tons sold,477.12
+CF,downside,2035,Granular urea,1798.9920000000002,0.2633374689826303,4.65,million short tons sold,386.88
+CF,downside,2035,UAN,2020.3200000000002,0.23838797814207655,6.9,million short tons sold,292.8
+CF,downside,2035,Ammonium nitrate,448.032,0.13532961931290619,1.3,million short tons sold,344.64
+CF,downside,2035,DEF nitric acid and other,637.056,0.30116033755274263,2.1,million short tons sold,303.36
+CF,downside,2035,Blue Point 40% attributable output,315.98792587584,0.2129629629629629,0.53,million metric tonnes attributable,596.203633728
+CF,downside,2035,Blue Point wholly owned infrastructure services,83.42592592592592,0.65,0.9814814814814815,fraction of mature facility operation,85
+CF,downside,2036,Ammonia core,2043.98208,0.17840375586854462,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,Granular urea,1834.9718400000002,0.2633374689826303,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,UAN,2060.7264,0.23838797814207655,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,Ammonium nitrate,456.99264,0.13532961931290619,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,DEF nitric acid and other,649.7971200000001,0.30116033755274263,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,Blue Point 40% attributable output,322.3076843933568,0.2129629629629629,,normalized nominal growth; physical split unspecified,
+CF,downside,2036,Blue Point wholly owned infrastructure services,85.09444444444445,0.65,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,Ammonia core,2084.8617216,0.17840375586854462,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,Granular urea,1871.6712768000002,0.2633374689826303,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,UAN,2101.940928,0.23838797814207655,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,Ammonium nitrate,466.13249279999997,0.13532961931290619,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,DEF nitric acid and other,662.7930624,0.30116033755274263,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,Blue Point 40% attributable output,328.75383808122393,0.2129629629629629,,normalized nominal growth; physical split unspecified,
+CF,downside,2037,Blue Point wholly owned infrastructure services,86.79633333333334,0.65,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,Ammonia core,2126.5589560320004,0.17840375586854462,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,Granular urea,1909.1047023360004,0.2633374689826303,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,UAN,2143.9797465600004,0.23838797814207655,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,Ammonium nitrate,475.455142656,0.13532961931290619,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,DEF nitric acid and other,676.0489236480001,0.30116033755274263,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,Blue Point 40% attributable output,335.32891484284846,0.2129629629629629,,normalized nominal growth; physical split unspecified,
+CF,downside,2038,Blue Point wholly owned infrastructure services,88.53226000000001,0.65,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,Ammonia core,2169.09013515264,0.17840375586854462,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,Granular urea,1947.2867963827202,0.2633374689826303,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,UAN,2186.8593414912,0.23838797814207655,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,Ammonium nitrate,484.96424550911996,0.13532961931290619,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,DEF nitric acid and other,689.56990212096,0.30116033755274263,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,Blue Point 40% attributable output,342.0354931397054,0.2129629629629629,,normalized nominal growth; physical split unspecified,
+CF,downside,2039,Blue Point wholly owned infrastructure services,90.3029052,0.65,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,Ammonia core,2212.471937855693,0.17840375586854462,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,Granular urea,1986.2325323103746,0.2633374689826303,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,UAN,2230.5965283210244,0.23838797814207655,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,Ammonium nitrate,494.6635304193024,0.13532961931290619,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,DEF nitric acid and other,703.3613001633793,0.30116033755274263,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,Blue Point 40% attributable output,348.8762030024995,0.2129629629629629,,normalized nominal growth; physical split unspecified,
+CF,downside,2040,Blue Point wholly owned infrastructure services,92.108963304,0.65,,normalized nominal growth; physical split unspecified,
+CF,base,2026,Ammonia core,2242,0.34915254237288135,3.8,million short tons sold,590
+CF,base,2026,Granular urea,2227.5,0.5151515151515151,4.5,million short tons sold,495
+CF,base,2026,UAN,2263,0.4657534246575342,6.2,million short tons sold,365
+CF,base,2026,Ammonium nitrate,234,-0.07692307692307693,0.6,million short tons sold,390
+CF,base,2026,DEF nitric acid and other,630,0.36666666666666664,2.1,million short tons sold,300
+CF,base,2026,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,650
+CF,base,2026,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,base,2027,Ammonia core,2132,0.34615384615384615,4.1,million short tons sold,520
+CF,base,2027,Granular urea,1977.9999999999998,0.43023255813953487,4.6,million short tons sold,430
+CF,base,2027,UAN,2176,0.4,6.8,million short tons sold,320
+CF,base,2027,Ammonium nitrate,360,0.1111111111111111,1,million short tons sold,360
+CF,base,2027,DEF nitric acid and other,598.5,0.3508771929824561,2.1,million short tons sold,285
+CF,base,2027,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,650
+CF,base,2027,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,base,2028,Ammonia core,1974,0.26595744680851063,4.2,million short tons sold,470
+CF,base,2028,Granular urea,1767.0000000000002,0.34210526315789475,4.65,million short tons sold,380
+CF,base,2028,UAN,1966.5,0.3157894736842105,6.9,million short tons sold,285
+CF,base,2028,Ammonium nitrate,396,0.18181818181818182,1.2,million short tons sold,330
+CF,base,2028,DEF nitric acid and other,577.5,0.32727272727272727,2.1,million short tons sold,275
+CF,base,2028,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,650
+CF,base,2028,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,base,2029,Ammonia core,1848,0.20454545454545456,4.2,million short tons sold,440
+CF,base,2029,Granular urea,1674.0000000000002,0.2972222222222222,4.65,million short tons sold,360
+CF,base,2029,UAN,1863,0.26666666666666666,6.9,million short tons sold,270
+CF,base,2029,Ammonium nitrate,416,0.171875,1.3,million short tons sold,320
+CF,base,2029,DEF nitric acid and other,588,0.32857142857142857,2.1,million short tons sold,280
+CF,base,2029,Blue Point 40% attributable output,65,0.38461538461538464,0.1,million metric tonnes attributable,650
+CF,base,2029,Blue Point wholly owned infrastructure services,15.74074074074074,0.65,0.18518518518518517,fraction of mature facility operation,85
+CF,base,2030,Ammonia core,1890,0.2111111111111111,4.2,million short tons sold,450
+CF,base,2030,Granular urea,1697.2500000000002,0.29315068493150687,4.65,million short tons sold,365
+CF,base,2030,UAN,1897.5,0.26545454545454544,6.9,million short tons sold,275
+CF,base,2030,Ammonium nitrate,422.5,0.16923076923076924,1.3,million short tons sold,325
+CF,base,2030,DEF nitric acid and other,600.6,0.32867132867132864,2.1,million short tons sold,286
+CF,base,2030,Blue Point 40% attributable output,292.5,0.38461538461538464,0.45,million metric tonnes attributable,650
+CF,base,2030,Blue Point wholly owned infrastructure services,70.83333333333333,0.65,0.8333333333333333,fraction of mature facility operation,85
+CF,base,2031,Ammonia core,1927.8000000000002,0.2113289760348584,4.2,million short tons sold,459
+CF,base,2031,Granular urea,1729.8000000000002,0.29301075268817206,4.65,million short tons sold,372
+CF,base,2031,UAN,1938.9,0.2669039145907473,6.9,million short tons sold,281
+CF,base,2031,Ammonium nitrate,431.6,0.1716867469879518,1.3,million short tons sold,332
+CF,base,2031,DEF nitric acid and other,613.2,0.3287671232876712,2.1,million short tons sold,292
+CF,base,2031,Blue Point 40% attributable output,351.39000000000004,0.38461538461538464,0.53,million metric tonnes attributable,663
+CF,base,2031,Blue Point wholly owned infrastructure services,83.42592592592592,0.65,0.9814814814814815,fraction of mature facility operation,85
+CF,base,2032,Ammonia core,1965.6000000000001,0.21153846153846154,4.2,million short tons sold,468
+CF,base,2032,Granular urea,1767.0000000000002,0.29473684210526313,4.65,million short tons sold,380
+CF,base,2032,UAN,1980.3000000000002,0.2682926829268293,6.9,million short tons sold,287
+CF,base,2032,Ammonium nitrate,439.40000000000003,0.16863905325443787,1.3,million short tons sold,338
+CF,base,2032,DEF nitric acid and other,625.8000000000001,0.3288590604026846,2.1,million short tons sold,298
+CF,base,2032,Blue Point 40% attributable output,365.1804,0.38461538461538464,0.54,million metric tonnes attributable,676.26
+CF,base,2032,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,base,2033,Ammonia core,2007.6000000000001,0.2112970711297071,4.2,million short tons sold,478
+CF,base,2033,Granular urea,1799.5500000000002,0.29198966408268734,4.65,million short tons sold,387
+CF,base,2033,UAN,2021.7,0.2696245733788396,6.9,million short tons sold,293
+CF,base,2033,Ammonium nitrate,448.5,0.17101449275362318,1.3,million short tons sold,345
+CF,base,2033,DEF nitric acid and other,638.4,0.32894736842105265,2.1,million short tons sold,304
+CF,base,2033,Blue Point 40% attributable output,372.48400800000013,0.38461538461538464,0.54,million metric tonnes attributable,689.7852000000001
+CF,base,2033,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,base,2034,Ammonia core,2045.4,0.21149897330595482,4.2,million short tons sold,487
+CF,base,2034,Granular urea,1836.7500000000002,0.2936708860759494,4.65,million short tons sold,395
+CF,base,2034,UAN,2063.1,0.26755852842809363,6.9,million short tons sold,299
+CF,base,2034,Ammonium nitrate,457.6,0.17045454545454544,1.3,million short tons sold,352
+CF,base,2034,DEF nitric acid and other,651,0.32903225806451614,2.1,million short tons sold,310
+CF,base,2034,Blue Point 40% attributable output,379.93368816000003,0.38461538461538464,0.54,million metric tonnes attributable,703.580904
+CF,base,2034,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,base,2035,Ammonia core,2087.4,0.2112676056338028,4.2,million short tons sold,497
+CF,base,2035,Granular urea,1873.95,0.29280397022332505,4.65,million short tons sold,403
+CF,base,2035,UAN,2104.5,0.26885245901639343,6.9,million short tons sold,305
+CF,base,2035,Ammonium nitrate,466.7,0.16991643454038996,1.3,million short tons sold,359
+CF,base,2035,DEF nitric acid and other,663.6,0.3291139240506329,2.1,million short tons sold,316
+CF,base,2035,Blue Point 40% attributable output,387.5323619232,0.3846153846153847,0.54,million metric tonnes attributable,717.65252208
+CF,base,2035,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,base,2036,Ammonia core,2129.148,0.2112676056338028,,normalized nominal growth; physical split unspecified,
+CF,base,2036,Granular urea,1911.429,0.29280397022332505,,normalized nominal growth; physical split unspecified,
+CF,base,2036,UAN,2146.59,0.26885245901639343,,normalized nominal growth; physical split unspecified,
+CF,base,2036,Ammonium nitrate,476.034,0.16991643454038996,,normalized nominal growth; physical split unspecified,
+CF,base,2036,DEF nitric acid and other,676.8720000000001,0.3291139240506329,,normalized nominal growth; physical split unspecified,
+CF,base,2036,Blue Point 40% attributable output,395.28300916166404,0.3846153846153847,,normalized nominal growth; physical split unspecified,
+CF,base,2036,Blue Point wholly owned infrastructure services,86.7,0.65,,normalized nominal growth; physical split unspecified,
+CF,base,2037,Ammonia core,2171.73096,0.2112676056338028,,normalized nominal growth; physical split unspecified,
+CF,base,2037,Granular urea,1949.65758,0.29280397022332505,,normalized nominal growth; physical split unspecified,
+CF,base,2037,UAN,2189.5218,0.26885245901639343,,normalized nominal growth; physical split unspecified,
+CF,base,2037,Ammonium nitrate,485.55467999999996,0.16991643454038996,,normalized nominal growth; physical split unspecified,
+CF,base,2037,DEF nitric acid and other,690.40944,0.3291139240506329,,normalized nominal growth; physical split unspecified,
+CF,base,2037,Blue Point 40% attributable output,403.1886693448973,0.3846153846153847,,normalized nominal growth; physical split unspecified,
+CF,base,2037,Blue Point wholly owned infrastructure services,88.434,0.65,,normalized nominal growth; physical split unspecified,
+CF,base,2038,Ammonia core,2215.1655792000006,0.2112676056338028,,normalized nominal growth; physical split unspecified,
+CF,base,2038,Granular urea,1988.6507316000004,0.29280397022332505,,normalized nominal growth; physical split unspecified,
+CF,base,2038,UAN,2233.312236,0.26885245901639343,,normalized nominal growth; physical split unspecified,
+CF,base,2038,Ammonium nitrate,495.26577360000005,0.16991643454038996,,normalized nominal growth; physical split unspecified,
+CF,base,2038,DEF nitric acid and other,704.2176288000002,0.3291139240506329,,normalized nominal growth; physical split unspecified,
+CF,base,2038,Blue Point 40% attributable output,411.2524427317953,0.3846153846153847,,normalized nominal growth; physical split unspecified,
+CF,base,2038,Blue Point wholly owned infrastructure services,90.20268000000002,0.65,,normalized nominal growth; physical split unspecified,
+CF,base,2039,Ammonia core,2259.468890784,0.2112676056338028,,normalized nominal growth; physical split unspecified,
+CF,base,2039,Granular urea,2028.423746232,0.29280397022332505,,normalized nominal growth; physical split unspecified,
+CF,base,2039,UAN,2277.97848072,0.26885245901639343,,normalized nominal growth; physical split unspecified,
+CF,base,2039,Ammonium nitrate,505.171089072,0.16991643454038996,,normalized nominal growth; physical split unspecified,
+CF,base,2039,DEF nitric acid and other,718.301981376,0.3291139240506329,,normalized nominal growth; physical split unspecified,
+CF,base,2039,Blue Point 40% attributable output,419.47749158643114,0.3846153846153847,,normalized nominal growth; physical split unspecified,
+CF,base,2039,Blue Point wholly owned infrastructure services,92.0067336,0.65,,normalized nominal growth; physical split unspecified,
+CF,base,2040,Ammonia core,2304.65826859968,0.2112676056338028,,normalized nominal growth; physical split unspecified,
+CF,base,2040,Granular urea,2068.99222115664,0.29280397022332505,,normalized nominal growth; physical split unspecified,
+CF,base,2040,UAN,2323.5380503344,0.26885245901639343,,normalized nominal growth; physical split unspecified,
+CF,base,2040,Ammonium nitrate,515.27451085344,0.16991643454038996,,normalized nominal growth; physical split unspecified,
+CF,base,2040,DEF nitric acid and other,732.66802100352,0.3291139240506329,,normalized nominal growth; physical split unspecified,
+CF,base,2040,Blue Point 40% attributable output,427.8670414181598,0.3846153846153847,,normalized nominal growth; physical split unspecified,
+CF,base,2040,Blue Point wholly owned infrastructure services,93.846868272,0.65,,normalized nominal growth; physical split unspecified,
+CF,upside,2026,Ammonia core,2242,0.3621694915254237,3.8,million short tons sold,590
+CF,upside,2026,Granular urea,2227.5,0.5248484848484849,4.5,million short tons sold,495
+CF,upside,2026,UAN,2263,0.47643835616438357,6.2,million short tons sold,365
+CF,upside,2026,Ammonium nitrate,234,-0.055384615384615296,0.6,million short tons sold,390
+CF,upside,2026,DEF nitric acid and other,630,0.37933333333333336,2.1,million short tons sold,300
+CF,upside,2026,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,800
+CF,upside,2026,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,upside,2027,Ammonia core,2488.5769999999998,0.442809364548495,4.161499999999999,million short tons sold,598
+CF,upside,2027,Granular urea,2308.8204999999994,0.5144590495449949,4.669,million short tons sold,494.49999999999994
+CF,upside,2027,UAN,2539.9359999999997,0.48869565217391303,6.901999999999999,million short tons sold,368
+CF,upside,2027,Ammonium nitrate,420.2099999999999,0.24251207729468582,1.015,million short tons sold,413.99999999999994
+CF,upside,2027,DEF nitric acid and other,698.599125,0.44683447749809313,2.1315,million short tons sold,327.75
+CF,upside,2027,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,800
+CF,upside,2027,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,upside,2028,Ammonia core,2516.8500000000004,0.4245106382978724,4.284000000000001,million short tons sold,587.5
+CF,upside,2028,Granular urea,2252.925,0.4842105263157895,4.743,million short tons sold,475
+CF,upside,2028,UAN,2507.2875,0.4635789473684211,7.038,million short tons sold,356.25
+CF,upside,2028,Ammonium nitrate,504.9,0.3585454545454545,1.224,million short tons sold,412.5
+CF,upside,2028,DEF nitric acid and other,736.3125000000001,0.4725818181818182,2.1420000000000003,million short tons sold,343.75
+CF,upside,2028,Blue Point 40% attributable output,0,0,0,million metric tonnes attributable,800
+CF,upside,2028,Blue Point wholly owned infrastructure services,0,0.65,0,fraction of mature facility operation,85
+CF,upside,2029,Ammonia core,2488.147200000001,0.40943526170798905,4.284000000000001,million short tons sold,580.8000000000001
+CF,upside,2029,Granular urea,2253.8736000000004,0.4782407407407408,4.743,million short tons sold,475.20000000000005
+CF,upside,2029,UAN,2508.3432000000003,0.4555555555555556,7.038,million short tons sold,356.40000000000003
+CF,upside,2029,Ammonium nitrate,560.1024000000001,0.3851799242424243,1.326,million short tons sold,422.40000000000003
+CF,upside,2029,DEF nitric acid and other,791.6832000000002,0.5015151515151515,2.1420000000000003,million short tons sold,369.6
+CF,upside,2029,Blue Point 40% attributable output,80,0.5125,0.1,million metric tonnes attributable,800
+CF,upside,2029,Blue Point wholly owned infrastructure services,15.74074074074074,0.65,0.18518518518518517,fraction of mature facility operation,85
+CF,upside,2030,Ammonia core,2506.1400000000003,0.40529914529914535,4.284000000000001,million short tons sold,585
+CF,upside,2030,Granular urea,2250.5535,0.4671443624868282,4.743,million short tons sold,474.5
+CF,upside,2030,UAN,2516.085,0.44626573426573424,7.038,million short tons sold,357.5
+CF,upside,2030,Ammonium nitrate,560.235,0.3737278106508875,1.326,million short tons sold,422.5
+CF,upside,2030,DEF nitric acid and other,796.3956000000002,0.4939214631522324,2.1420000000000003,million short tons sold,371.8
+CF,upside,2030,Blue Point 40% attributable output,360,0.5125,0.45,million metric tonnes attributable,800
+CF,upside,2030,Blue Point wholly owned infrastructure services,70.83333333333333,0.65,0.8333333333333333,fraction of mature facility operation,85
+CF,upside,2031,Ammonia core,2477.6085600000006,0.3865892035826677,4.284000000000001,million short tons sold,578.34
+CF,upside,2031,Granular urea,2223.13896,0.45011947431302274,4.743,million short tons sold,468.72
+CF,upside,2031,UAN,2491.87428,0.4298141557928035,7.038,million short tons sold,354.06
+CF,upside,2031,Ammonium nitrate,554.69232,0.35575635876840694,1.326,million short tons sold,418.32
+CF,upside,2031,DEF nitric acid and other,788.0846400000001,0.47792998477929993,2.1420000000000003,million short tons sold,367.92
+CF,upside,2031,Blue Point 40% attributable output,432.48,0.5125,0.53,million metric tonnes attributable,816
+CF,upside,2031,Blue Point wholly owned infrastructure services,83.42592592592592,0.65,0.9814814814814815,fraction of mature facility operation,85
+CF,upside,2032,Ammonia core,2466.0417600000005,0.37179487179487175,4.284000000000001,million short tons sold,575.64
+CF,upside,2032,Granular urea,2216.8782,0.43808301240907144,4.743,million short tons sold,467.4
+CF,upside,2032,UAN,2484.48438,0.4170136823319453,7.038,million short tons sold,353.01
+CF,upside,2032,Ammonium nitrate,551.27124,0.33761485543849523,1.326,million short tons sold,415.74
+CF,upside,2032,DEF nitric acid and other,785.1286800000001,0.4652698204834398,2.1420000000000003,million short tons sold,366.54
+CF,upside,2032,Blue Point 40% attributable output,449.45279999999997,0.5125,0.54,million metric tonnes attributable,832.3199999999999
+CF,upside,2032,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,upside,2033,Ammonia core,2457.3024000000005,0.3558926080892609,4.284000000000001,million short tons sold,573.6
+CF,upside,2033,Granular urea,2202.6492,0.42179155900086135,4.743,million short tons sold,464.4
+CF,upside,2033,UAN,2474.5607999999997,0.4035267349260523,7.038,million short tons sold,351.59999999999997
+CF,upside,2033,Ammonium nitrate,548.964,0.32299516908212567,1.326,million short tons sold,414
+CF,upside,2033,DEF nitric acid and other,781.4016000000001,0.45197368421052636,2.1420000000000003,million short tons sold,364.8
+CF,upside,2033,Blue Point 40% attributable output,458.4418560000001,0.5125,0.54,million metric tonnes attributable,848.9664000000001
+CF,upside,2033,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,upside,2034,Ammonia core,2461.84344,0.3451432151185048,4.284000000000001,million short tons sold,574.66
+CF,upside,2034,Granular urea,2210.7123,0.4133876850461274,4.743,million short tons sold,466.09999999999997
+CF,upside,2034,UAN,2483.14716,0.3917011507284167,7.038,million short tons sold,352.82
+CF,upside,2034,Ammonium nitrate,550.7673599999999,0.31105546995377503,1.326,million short tons sold,415.35999999999996
+CF,upside,2034,DEF nitric acid and other,783.5436000000001,0.44275560415527604,2.1420000000000003,million short tons sold,365.79999999999995
+CF,upside,2034,Blue Point 40% attributable output,467.61069312000006,0.5125000000000001,0.54,million metric tonnes attributable,865.945728
+CF,upside,2034,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,upside,2035,Ammonia core,2469.8116800000003,0.33365711510441964,4.284000000000001,million short tons sold,576.52
+CF,upside,2035,Granular urea,2217.25764,0.4025412851886711,4.743,million short tons sold,467.47999999999996
+CF,upside,2035,UAN,2490.0443999999998,0.38230638778971165,7.038,million short tons sold,353.79999999999995
+CF,upside,2035,Ammonium nitrate,552.19944,0.2987225050427432,1.326,million short tons sold,416.44
+CF,upside,2035,DEF nitric acid and other,785.1715200000001,0.43321693583587956,2.1420000000000003,million short tons sold,366.56
+CF,upside,2035,Blue Point 40% attributable output,476.9629069824,0.5125,0.54,million metric tonnes attributable,883.26464256
+CF,upside,2035,Blue Point wholly owned infrastructure services,85,0.65,1,fraction of mature facility operation,85
+CF,upside,2036,Ammonia core,2519.2079136,0.33365711510441964,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,Granular urea,2261.6027928,0.4025412851886711,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,UAN,2539.845288,0.38230638778971165,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,Ammonium nitrate,563.2434288,0.2987225050427432,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,DEF nitric acid and other,800.8749504000001,0.43321693583587956,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,Blue Point 40% attributable output,486.502165122048,0.5125,,normalized nominal growth; physical split unspecified,
+CF,upside,2036,Blue Point wholly owned infrastructure services,86.7,0.65,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,Ammonia core,2569.5920718720004,0.33365711510441964,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,Granular urea,2306.834848656,0.4025412851886711,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,UAN,2590.64219376,0.38230638778971165,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,Ammonium nitrate,574.508297376,0.2987225050427432,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,DEF nitric acid and other,816.8924494080001,0.43321693583587956,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,Blue Point 40% attributable output,496.23220842448893,0.5125,,normalized nominal growth; physical split unspecified,
+CF,upside,2037,Blue Point wholly owned infrastructure services,88.434,0.65,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,Ammonia core,2620.9839133094406,0.33365711510441964,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,Granular urea,2352.97154562912,0.4025412851886711,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,UAN,2642.4550376352,0.38230638778971165,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,Ammonium nitrate,585.99846332352,0.2987225050427432,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,DEF nitric acid and other,833.2302983961603,0.43321693583587956,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,Blue Point 40% attributable output,506.1568525929788,0.5125,,normalized nominal growth; physical split unspecified,
+CF,upside,2038,Blue Point wholly owned infrastructure services,90.20268000000002,0.65,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,Ammonia core,2673.403591575629,0.33365711510441964,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,Granular urea,2400.0309765417023,0.4025412851886711,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,UAN,2695.3041383879035,0.38230638778971165,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,Ammonium nitrate,597.7184325899904,0.2987225050427432,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,DEF nitric acid and other,849.8949043640833,0.43321693583587956,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,Blue Point 40% attributable output,516.2799896448383,0.5125,,normalized nominal growth; physical split unspecified,
+CF,upside,2039,Blue Point wholly owned infrastructure services,92.0067336,0.65,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,Ammonia core,2726.8716634071416,0.33365711510441964,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,Granular urea,2448.031596072536,0.4025412851886711,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,UAN,2749.2102211556617,0.38230638778971165,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,Ammonium nitrate,609.6728012417902,0.2987225050427432,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,DEF nitric acid and other,866.892802451365,0.43321693583587956,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,Blue Point 40% attributable output,526.605589437735,0.5125,,normalized nominal growth; physical split unspecified,
+CF,upside,2040,Blue Point wholly owned infrastructure services,93.846868272,0.65,,normalized nominal growth; physical split unspecified,
+GSL,downside,2026,Existing containership cohort,763.7668799999999,0.49606032008091255,24878.399999999998,operating vessel days,0.0307
+GSL,downside,2026,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,downside,2027,Existing containership cohort,743.1984,0.4803321559895715,24528,operating vessel days,0.0303
+GSL,downside,2027,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,downside,2028,Existing containership cohort,548.89065,0.33319907629689094,22403.7,operating vessel days,0.0245
+GSL,downside,2028,15 contracted newbuild cohort,3.363475,0.5154506871613436,88.5125,operating vessel days,0.038
+GSL,downside,2029,Existing containership cohort,394.2,0.14840763107914767,19710,operating vessel days,0.02
+GSL,downside,2029,15 contracted newbuild cohort,107.6312,0.5154506871613436,2832.4,operating vessel days,0.038
+GSL,downside,2030,Existing containership cohort,333.099,0.11019222265553583,17082,operating vessel days,0.0195
+GSL,downside,2030,15 contracted newbuild cohort,198.445025,0.510024751187388,5222.2375,operating vessel days,0.038
+GSL,downside,2031,Existing containership cohort,285.649,0.12368352968297004,14282.45,operating vessel days,0.02
+GSL,downside,2031,15 contracted newbuild cohort,201.8085,0.5044902964939534,5310.75,operating vessel days,0.038
+GSL,downside,2032,Existing containership cohort,234.05260000000004,0.1361895797897254,11417.2,operating vessel days,0.0205
+GSL,downside,2032,15 contracted newbuild cohort,201.8085,0.4988451527066502,5310.75,operating vessel days,0.038
+GSL,downside,2033,Existing containership cohort,185.33970000000002,0.1477767007924478,8825.7,operating vessel days,0.021
+GSL,downside,2033,15 contracted newbuild cohort,201.8085,0.49308710604360073,5310.75,operating vessel days,0.038
+GSL,downside,2034,Existing containership cohort,147.533,0.15850480271489634,6862,operating vessel days,0.0215
+GSL,downside,2034,15 contracted newbuild cohort,165.48296999999997,0.3790413395698661,5310.75,operating vessel days,0.031159999999999997
+GSL,downside,2035,Existing containership cohort,113.223,0.15993266209629395,5146.5,operating vessel days,0.022
+GSL,downside,2035,15 contracted newbuild cohort,165.48296999999997,0.3717356423159191,5310.75,operating vessel days,0.031159999999999997
+GSL,base,2026,Existing containership cohort,763.7668799999999,0.5137720464652774,24878.399999999998,operating vessel days,0.0307
+GSL,base,2026,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,base,2027,Existing containership cohort,757.9152,0.5079070170383176,24528,operating vessel days,0.0309
+GSL,base,2027,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,base,2028,Existing containership cohort,670.6655999999999,0.46817226125806954,23126.399999999998,operating vessel days,0.029
+GSL,base,2028,15 contracted newbuild cohort,3.363475,0.5154506871613436,88.5125,operating vessel days,0.038
+GSL,base,2029,Existing containership cohort,586.5696,0.42053938477718594,21724.8,operating vessel days,0.027
+GSL,base,2029,15 contracted newbuild cohort,107.6312,0.5154506871613436,2832.4,operating vessel days,0.038
+GSL,base,2030,Existing containership cohort,508.08,0.3649391294343607,20323.2,operating vessel days,0.025
+GSL,base,2030,15 contracted newbuild cohort,198.445025,0.510024751187388,5222.2375,operating vessel days,0.038
+GSL,base,2031,Existing containership cohort,438,0.35269922112561064,17520,operating vessel days,0.025
+GSL,base,2031,15 contracted newbuild cohort,201.8085,0.5044902964939534,5310.75,operating vessel days,0.038
+GSL,base,2032,Existing containership cohort,375.2784,0.35238442702705697,14716.8,operating vessel days,0.0255
+GSL,base,2032,15 contracted newbuild cohort,201.8085,0.4988451527066502,5310.75,operating vessel days,0.038
+GSL,base,2033,Existing containership cohort,318.864,0.35171807388735116,12264,operating vessel days,0.026
+GSL,base,2033,15 contracted newbuild cohort,201.8085,0.49308710604360073,5310.75,operating vessel days,0.038
+GSL,base,2034,Existing containership cohort,259.99679999999995,0.3507093571286317,9811.199999999999,operating vessel days,0.0265
+GSL,base,2034,15 contracted newbuild cohort,201.8085,0.4872138984472904,5310.75,operating vessel days,0.038
+GSL,base,2035,Existing containership cohort,208.13759999999996,0.34936647585301783,7708.799999999999,operating vessel days,0.027
+GSL,base,2035,15 contracted newbuild cohort,201.8085,0.4812232266990539,5310.75,operating vessel days,0.038
+GSL,upside,2026,Existing containership cohort,771.722785,0.5242875433501683,25137.55,operating vessel days,0.0307
+GSL,upside,2026,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,upside,2027,Existing containership cohort,775.72355,0.5243494204217468,24783.5,operating vessel days,0.0313
+GSL,upside,2027,15 contracted newbuild cohort,0,0,0,operating vessel days,0.038
+GSL,upside,2028,Existing containership cohort,770.4127999999998,0.5255448567469284,24075.399999999998,operating vessel days,0.032
+GSL,upside,2028,15 contracted newbuild cohort,3.363475,0.5154506871613436,88.5125,operating vessel days,0.038
+GSL,upside,2029,Existing containership cohort,770.943875,0.5369607740090678,23013.25,operating vessel days,0.0335
+GSL,upside,2029,15 contracted newbuild cohort,107.6312,0.5154506871613436,2832.4,operating vessel days,0.038
+GSL,upside,2030,Existing containership cohort,746.3374,0.5348101164149379,21951.1,operating vessel days,0.034
+GSL,upside,2030,15 contracted newbuild cohort,198.445025,0.510024751187388,5222.2375,operating vessel days,0.038
+GSL,upside,2031,Existing containership cohort,678.07656,0.5286595826835128,19826.8,operating vessel days,0.0342
+GSL,upside,2031,15 contracted newbuild cohort,201.8085,0.5044902964939534,5310.75,operating vessel days,0.038
+GSL,upside,2032,Existing containership cohort,607.19575,0.5210253035141234,17702.5,operating vessel days,0.0343
+GSL,upside,2032,15 contracted newbuild cohort,201.8085,0.4988451527066502,5310.75,operating vessel days,0.038
+GSL,upside,2033,Existing containership cohort,537.4479,0.5144842724282748,15578.199999999999,operating vessel days,0.0345
+GSL,upside,2033,15 contracted newbuild cohort,201.8085,0.49308710604360073,5310.75,operating vessel days,0.038
+GSL,upside,2034,Existing containership cohort,468.19572,0.5090661227489585,13453.9,operating vessel days,0.0348
+GSL,upside,2034,15 contracted newbuild cohort,217.95318,0.5237165726363799,5310.75,operating vessel days,0.04104
+GSL,upside,2035,Existing containership cohort,396.536,0.5021390158496765,11329.6,operating vessel days,0.035
+GSL,upside,2035,15 contracted newbuild cohort,217.95318,0.5181696543509757,5310.75,operating vessel days,0.04104
+IQV,downside,2026,Commercial Solutions,7100,0.17,35500.0,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2
+IQV,downside,2026,R&D Solutions,10250,0.098,51250.0,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.2
+IQV,downside,2027,Commercial Solutions,7029.0,0.15,34287.8049,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.205
+IQV,downside,2027,R&D Solutions,9840.0,0.075,48235.2941,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20400000000000001
+IQV,downside,2028,Commercial Solutions,7169.58,0.15,34120.5473,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.210125
+IQV,downside,2028,R&D Solutions,9840.0,0.08,47289.504,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20808000000000001
+IQV,downside,2029,Commercial Solutions,7348.8195,0.155,34120.5473,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.21537812499999995
+IQV,downside,2029,R&D Solutions,10036.8,0.085,47289.504,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.21224160000000003
+IQV,downside,2030,Commercial Solutions,7569.2841,0.16,34286.989,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.22076257812499991
+IQV,downside,2030,R&D Solutions,10287.72,0.09,47521.3153,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.216486432
+IQV,downside,2031,Commercial Solutions,7796.3626,0.165,34454.2426,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2262816425781249
+IQV,downside,2031,R&D Solutions,10544.913,0.095,47754.263,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22081616064
+IQV,downside,2032,Commercial Solutions,7991.2717,0.17,34454.2426,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.231938683642578
+IQV,downside,2032,R&D Solutions,10808.5358,0.1,47988.3525,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22523248385280004
+IQV,downside,2033,Commercial Solutions,8191.0535,0.175,34454.2426,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.23773715073364246
+IQV,downside,2033,R&D Solutions,11024.7065,0.105,47988.3525,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22973713352985603
+IQV,downside,2034,Commercial Solutions,8354.8745,0.175,34286.1731,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24368057950198346
+IQV,downside,2034,R&D Solutions,11245.2007,0.11,47988.3525,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23433187620045315
+IQV,downside,2035,Commercial Solutions,8521.972,0.175,34118.9235,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24977259398953305
+IQV,downside,2035,R&D Solutions,11470.1047,0.11,47988.3525,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23901851372446223
+IQV,downside,2036,Commercial Solutions,8607.19172,0.175,,normalized nominal growth; physical split unspecified,
+IQV,downside,2036,R&D Solutions,11584.805747,0.11,,normalized nominal growth; physical split unspecified,
+IQV,downside,2037,Commercial Solutions,8693.2636372,0.175,,normalized nominal growth; physical split unspecified,
+IQV,downside,2037,R&D Solutions,11700.65380447,0.11,,normalized nominal growth; physical split unspecified,
+IQV,downside,2038,Commercial Solutions,8780.196273572,0.175,,normalized nominal growth; physical split unspecified,
+IQV,downside,2038,R&D Solutions,11817.660342514702,0.11,,normalized nominal growth; physical split unspecified,
+IQV,downside,2039,Commercial Solutions,8867.99823630772,0.175,,normalized nominal growth; physical split unspecified,
+IQV,downside,2039,R&D Solutions,11935.836945939847,0.11,,normalized nominal growth; physical split unspecified,
+IQV,downside,2040,Commercial Solutions,8956.678218670799,0.175,,normalized nominal growth; physical split unspecified,
+IQV,downside,2040,R&D Solutions,12055.195315399247,0.11,,normalized nominal growth; physical split unspecified,
+IQV,base,2026,Commercial Solutions,7100,0.18,35500.0,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2
+IQV,base,2026,R&D Solutions,10250,0.105,51250.0,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.2
+IQV,base,2027,Commercial Solutions,7561.5,0.185,36885.3659,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.205
+IQV,base,2027,R&D Solutions,10865.0,0.115,53259.8039,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20400000000000001
+IQV,base,2028,Commercial Solutions,8052.9975,0.19,38324.7948,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.210125
+IQV,base,2028,R&D Solutions,11571.225,0.125,55609.5012,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20808000000000001
+IQV,base,2029,Commercial Solutions,8536.1773,0.195,39633.4463,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.21537812499999995
+IQV,base,2029,R&D Solutions,12265.4985,0.13,57790.2659,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.21224160000000003
+IQV,base,2030,Commercial Solutions,9048.348,0.2,40986.7835,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.22076257812499991
+IQV,base,2030,R&D Solutions,12940.1009,0.135,59773.2652,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.216486432
+IQV,base,2031,Commercial Solutions,9500.7654,0.205,41986.4611,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2262816425781249
+IQV,base,2031,R&D Solutions,13587.106,0.14,61531.3024,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22081616064
+IQV,base,2032,Commercial Solutions,9928.2998,0.21,42805.7092,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.231938683642578
+IQV,base,2032,R&D Solutions,14198.5257,0.145,63039.4226,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22523248385280004
+IQV,base,2033,Commercial Solutions,10325.4318,0.21,43432.1342,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.23773715073364246
+IQV,base,2033,R&D Solutions,14766.4668,0.145,64275.4897,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22973713352985603
+IQV,base,2034,Commercial Solutions,10686.8219,0.21,43855.8623,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24368057950198346
+IQV,base,2034,R&D Solutions,15283.2931,0.145,65220.7175,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23433187620045315
+IQV,base,2035,Commercial Solutions,11007.4266,0.21,44069.7933,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24977259398953305
+IQV,base,2035,R&D Solutions,15741.7919,0.145,65860.1363,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23901851372446223
+IQV,base,2036,Commercial Solutions,11282.612265,0.21,,normalized nominal growth; physical split unspecified,
+IQV,base,2036,R&D Solutions,16135.336697499999,0.145,,normalized nominal growth; physical split unspecified,
+IQV,base,2037,Commercial Solutions,11564.677571625,0.21,,normalized nominal growth; physical split unspecified,
+IQV,base,2037,R&D Solutions,16538.7201149375,0.145,,normalized nominal growth; physical split unspecified,
+IQV,base,2038,Commercial Solutions,11853.794510915623,0.21,,normalized nominal growth; physical split unspecified,
+IQV,base,2038,R&D Solutions,16952.188117810932,0.145,,normalized nominal growth; physical split unspecified,
+IQV,base,2039,Commercial Solutions,12150.139373688511,0.21,,normalized nominal growth; physical split unspecified,
+IQV,base,2039,R&D Solutions,17375.992820756204,0.145,,normalized nominal growth; physical split unspecified,
+IQV,base,2040,Commercial Solutions,12453.892858030724,0.21,,normalized nominal growth; physical split unspecified,
+IQV,base,2040,R&D Solutions,17810.392641275106,0.145,,normalized nominal growth; physical split unspecified,
+IQV,upside,2026,Commercial Solutions,7100,0.19,35500.0,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2
+IQV,upside,2026,R&D Solutions,10250,0.115,51250.0,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.2
+IQV,upside,2027,Commercial Solutions,7739.0,0.2,37751.2195,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.205
+IQV,upside,2027,R&D Solutions,11121.25,0.13,54515.9314,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20400000000000001
+IQV,upside,2028,Commercial Solutions,8435.51,0.21,40145.1993,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.210125
+IQV,upside,2028,R&D Solutions,12122.1625,0.14,58257.2208,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.20808000000000001
+IQV,upside,2029,Commercial Solutions,9152.5284,0.22,42495.1622,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.21537812499999995
+IQV,upside,2029,R&D Solutions,13091.9355,0.15,61684.1161,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.21224160000000003
+IQV,upside,2030,Commercial Solutions,9884.7306,0.225,44775.3904,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.22076257812499991
+IQV,upside,2030,R&D Solutions,14073.8307,0.16,65010.2204,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.216486432
+IQV,upside,2031,Commercial Solutions,10576.6618,0.23,46741.1392,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.2262816425781249
+IQV,upside,2031,R&D Solutions,14988.6297,0.165,67878.3184,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22081616064
+IQV,upside,2032,Commercial Solutions,11211.2615,0.23,48337.1781,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.231938683642578
+IQV,upside,2032,R&D Solutions,15813.0043,0.17,70207.4764,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22523248385280004
+IQV,upside,2033,Commercial Solutions,11771.8245,0.23,49516.1337,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.23773715073364246
+IQV,upside,2033,R&D Solutions,16603.6545,0.17,72272.4021,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.22973713352985603
+IQV,upside,2034,Commercial Solutions,12242.6975,0.23,50240.76,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24368057950198346
+IQV,upside,2034,R&D Solutions,17267.8007,0.17,73689.5081,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23433187620045315
+IQV,upside,2035,Commercial Solutions,12671.1919,0.23,50730.9138,"standardized annual commercial-service workload equivalents; modelled, not actual headcount",0.24977259398953305
+IQV,upside,2035,R&D Solutions,17872.1737,0.17,74773.1773,"standardized annual clinical/lab workload equivalents; modelled, not actual headcount",0.23901851372446223
+IQV,upside,2036,Commercial Solutions,13051.327657,0.23,,normalized nominal growth; physical split unspecified,
+IQV,upside,2036,R&D Solutions,18408.338911,0.17,,normalized nominal growth; physical split unspecified,
+IQV,upside,2037,Commercial Solutions,13442.86748671,0.23,,normalized nominal growth; physical split unspecified,
+IQV,upside,2037,R&D Solutions,18960.58907833,0.17,,normalized nominal growth; physical split unspecified,
+IQV,upside,2038,Commercial Solutions,13846.1535113113,0.23,,normalized nominal growth; physical split unspecified,
+IQV,upside,2038,R&D Solutions,19529.4067506799,0.17,,normalized nominal growth; physical split unspecified,
+IQV,upside,2039,Commercial Solutions,14261.538116650641,0.23,,normalized nominal growth; physical split unspecified,
+IQV,upside,2039,R&D Solutions,20115.2889532003,0.17,,normalized nominal growth; physical split unspecified,
+IQV,upside,2040,Commercial Solutions,14689.384260150158,0.23,,normalized nominal growth; physical split unspecified,
+IQV,upside,2040,R&D Solutions,20718.747621796305,0.17,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2026,Residential Connectivity and Platforms,68467.64,0.2281322096102626,,see operating_drivers.json; mixed products,
+CMCSA,downside,2026,Business Services Connectivity,10700,0.47644859813084117,,see operating_drivers.json; mixed products,
+CMCSA,downside,2026,Media including Peacock,24711.6,-0.06846695479046279,,see operating_drivers.json; mixed products,
+CMCSA,downside,2026,Studios,12300,0.027317073170731718,,see operating_drivers.json; mixed products,
+CMCSA,downside,2026,Theme Parks,10300,0.04407766990291259,,see operating_drivers.json; mixed products,
+CMCSA,downside,2026,Other revenue less intersegment eliminations,-5402.32,0,,USDm reconciliation,
+CMCSA,downside,2027,Residential Connectivity and Platforms,64408.24,0.21805972030907841,,see operating_drivers.json; mixed products,
+CMCSA,downside,2027,Business Services Connectivity,10900,0.46463302752293584,,see operating_drivers.json; mixed products,
+CMCSA,downside,2027,Media including Peacock,21676.8,-0.08806244464127548,,see operating_drivers.json; mixed products,
+CMCSA,downside,2027,Studios,11200,-0.008214285714285702,,see operating_drivers.json; mixed products,
+CMCSA,downside,2027,Theme Parks,10000,-0.008200000000000013,,see operating_drivers.json; mixed products,
+CMCSA,downside,2027,Other revenue less intersegment eliminations,-4535.36,0,,USDm reconciliation,
+CMCSA,downside,2028,Residential Connectivity and Platforms,61240.73,0.20740850411156103,,see operating_drivers.json; mixed products,
+CMCSA,downside,2028,Business Services Connectivity,11100,0.4566216216216217,,see operating_drivers.json; mixed products,
+CMCSA,downside,2028,Media including Peacock,22894.4,-0.07814906702075619,,see operating_drivers.json; mixed products,
+CMCSA,downside,2028,Studios,11000,-0.00909090909090908,,see operating_drivers.json; mixed products,
+CMCSA,downside,2028,Theme Parks,10000,-0.006500000000000006,,see operating_drivers.json; mixed products,
+CMCSA,downside,2028,Other revenue less intersegment eliminations,-4698.08,0,,USDm reconciliation,
+CMCSA,downside,2029,Residential Connectivity and Platforms,58757.8423,0.1918056810435328,,see operating_drivers.json; mixed products,
+CMCSA,downside,2029,Business Services Connectivity,11400,0.4536842105263158,,see operating_drivers.json; mixed products,
+CMCSA,downside,2029,Media including Peacock,20129.712,-0.09132854359764314,,see operating_drivers.json; mixed products,
+CMCSA,downside,2029,Studios,11200,0.0023214285714285715,,see operating_drivers.json; mixed products,
+CMCSA,downside,2029,Theme Parks,10200,0.008333333333333331,,see operating_drivers.json; mixed products,
+CMCSA,downside,2029,Other revenue less intersegment eliminations,-4143.5264,0,,USDm reconciliation,
+CMCSA,downside,2030,Residential Connectivity and Platforms,56518.1129,0.1863292440532197,,see operating_drivers.json; mixed products,
+CMCSA,downside,2030,Business Services Connectivity,11700,0.45564102564102565,,see operating_drivers.json; mixed products,
+CMCSA,downside,2030,Media including Peacock,21435.2322,-0.07630083304868673,,see operating_drivers.json; mixed products,
+CMCSA,downside,2030,Studios,11400,0.00368421052631579,,see operating_drivers.json; mixed products,
+CMCSA,downside,2030,Theme Parks,10600,0.02745283018867925,,see operating_drivers.json; mixed products,
+CMCSA,downside,2030,Other revenue less intersegment eliminations,-4402.1821,0,,USDm reconciliation,
+CMCSA,downside,2031,Residential Connectivity and Platforms,54393.7518,0.17762955818958134,,see operating_drivers.json; mixed products,
+CMCSA,downside,2031,Business Services Connectivity,12000,0.456,,see operating_drivers.json; mixed products,
+CMCSA,downside,2031,Media including Peacock,18868.6139,-0.09046192654755289,,see operating_drivers.json; mixed products,
+CMCSA,downside,2031,Studios,11600,0.008448275862068977,,see operating_drivers.json; mixed products,
+CMCSA,downside,2031,Theme Parks,11500,0.031217391304347836,,see operating_drivers.json; mixed products,
+CMCSA,downside,2031,Other revenue less intersegment eliminations,-3885.5612,0,,USDm reconciliation,
+CMCSA,downside,2032,Residential Connectivity and Platforms,52538.1693,0.17011624107759782,,see operating_drivers.json; mixed products,
+CMCSA,downside,2032,Business Services Connectivity,12300,0.45682926829268294,,see operating_drivers.json; mixed products,
+CMCSA,downside,2032,Media including Peacock,20301.8429,-0.0743227808778871,,see operating_drivers.json; mixed products,
+CMCSA,downside,2032,Studios,11800,0.008728813559322035,,see operating_drivers.json; mixed products,
+CMCSA,downside,2032,Theme Parks,12500,0.05600000000000002,,see operating_drivers.json; mixed products,
+CMCSA,downside,2032,Other revenue less intersegment eliminations,-4168.0437,0,,USDm reconciliation,
+CMCSA,downside,2033,Residential Connectivity and Platforms,50764.195,0.162322762275933,,see operating_drivers.json; mixed products,
+CMCSA,downside,2033,Business Services Connectivity,12600,0.45761904761904765,,see operating_drivers.json; mixed products,
+CMCSA,downside,2033,Media including Peacock,17792.0139,-0.08650348242172592,,see operating_drivers.json; mixed products,
+CMCSA,downside,2033,Studios,12000,0.009000000000000008,,see operating_drivers.json; mixed products,
+CMCSA,downside,2033,Theme Parks,12900,0.06968992248062017,,see operating_drivers.json; mixed products,
+CMCSA,downside,2033,Other revenue less intersegment eliminations,-3661.0315,0,,USDm reconciliation,
+CMCSA,downside,2034,Residential Connectivity and Platforms,49237.5506,0.15484912627603367,,see operating_drivers.json; mixed products,
+CMCSA,downside,2034,Business Services Connectivity,12900,0.4583720930232558,,see operating_drivers.json; mixed products,
+CMCSA,downside,2034,Media including Peacock,19335.309,-0.06814069875026979,,see operating_drivers.json; mixed products,
+CMCSA,downside,2034,Studios,12200,0.009262295081967215,,see operating_drivers.json; mixed products,
+CMCSA,downside,2034,Theme Parks,13300,0.08315789473684213,,see operating_drivers.json; mixed products,
+CMCSA,downside,2034,Other revenue less intersegment eliminations,-3963.743,0,,USDm reconciliation,
+CMCSA,downside,2035,Residential Connectivity and Platforms,47822.0931,0.14732292692654336,,see operating_drivers.json; mixed products,
+CMCSA,downside,2035,Business Services Connectivity,13200,0.4590909090909091,,see operating_drivers.json; mixed products,
+CMCSA,downside,2035,Media including Peacock,16928.1773,-0.08331229836620715,,see operating_drivers.json; mixed products,
+CMCSA,downside,2035,Studios,12400,0.00951612903225807,,see operating_drivers.json; mixed products,
+CMCSA,downside,2035,Theme Parks,13700,0.09642335766423354,,see operating_drivers.json; mixed products,
+CMCSA,downside,2035,Other revenue less intersegment eliminations,-3475.4503,0,,USDm reconciliation,
+CMCSA,downside,2036,Residential Connectivity and Platforms,48061.20356549999,0.14732292692654336,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2036,Business Services Connectivity,13265.999999999998,0.4590909090909091,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2036,Media including Peacock,17012.818186499997,-0.08331229836620715,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2036,Studios,12461.999999999998,0.00951612903225807,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2036,Theme Parks,13768.499999999998,0.09642335766423354,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2036,Other revenue less intersegment eliminations,-3492.8275514999996,0,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Residential Connectivity and Platforms,48301.50958332748,0.14732292692654336,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Business Services Connectivity,13332.329999999996,0.4590909090909091,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Media including Peacock,17097.882277432494,-0.08331229836620715,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Studios,12524.309999999996,0.00951612903225807,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Theme Parks,13837.342499999997,0.09642335766423354,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2037,Other revenue less intersegment eliminations,-3510.291689257499,0,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Residential Connectivity and Platforms,48543.017131244116,0.14732292692654336,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Business Services Connectivity,13398.991649999994,0.4590909090909091,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Media including Peacock,17183.371688819654,-0.08331229836620715,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Studios,12586.931549999996,0.00951612903225807,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Theme Parks,13906.529212499994,0.09642335766423354,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2038,Other revenue less intersegment eliminations,-3527.843147703786,0,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Residential Connectivity and Platforms,48785.73221690034,0.14732292692654336,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Business Services Connectivity,13465.986608249994,0.4590909090909091,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Media including Peacock,17269.288547263754,-0.08331229836620715,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Studios,12649.866207749994,0.00951612903225807,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Theme Parks,13976.061858562494,0.09642335766423354,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2039,Other revenue less intersegment eliminations,-3545.482363442305,0,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Residential Connectivity and Platforms,49029.660877984825,0.14732292692654336,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Business Services Connectivity,13533.316541291242,0.4590909090909091,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Media including Peacock,17355.634990000068,-0.08331229836620715,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Studios,12713.115538788743,0.00951612903225807,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Theme Parks,14045.942167855304,0.09642335766423354,,normalized nominal growth; physical split unspecified,
+CMCSA,downside,2040,Other revenue less intersegment eliminations,-3563.209775259516,0,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2026,Residential Connectivity and Platforms,68467.64,0.2381322096102626,,see operating_drivers.json; mixed products,
+CMCSA,base,2026,Business Services Connectivity,10700,0.47644859813084117,,see operating_drivers.json; mixed products,
+CMCSA,base,2026,Media including Peacock,24711.6,-0.050319040450638564,,see operating_drivers.json; mixed products,
+CMCSA,base,2026,Studios,12300,0.04731707317073171,,see operating_drivers.json; mixed products,
+CMCSA,base,2026,Theme Parks,10300,0.0540776699029126,,see operating_drivers.json; mixed products,
+CMCSA,base,2026,Other revenue less intersegment eliminations,-5402.32,0,,USDm reconciliation,
+CMCSA,base,2027,Residential Connectivity and Platforms,66922.94,0.2403399850634177,,see operating_drivers.json; mixed products,
+CMCSA,base,2027,Business Services Connectivity,11200,0.4833928571428572,,see operating_drivers.json; mixed products,
+CMCSA,base,2027,Media including Peacock,22620.0,-0.037108753315649855,,see operating_drivers.json; mixed products,
+CMCSA,base,2027,Studios,12300,0.040243902439024384,,see operating_drivers.json; mixed products,
+CMCSA,base,2027,Theme Parks,11000,0.089,,see operating_drivers.json; mixed products,
+CMCSA,base,2027,Other revenue less intersegment eliminations,-4944.0,0,,USDm reconciliation,
+CMCSA,base,2028,Residential Connectivity and Platforms,66062.51,0.24547683928448977,,see operating_drivers.json; mixed products,
+CMCSA,base,2028,Business Services Connectivity,11760,0.49306122448979584,,see operating_drivers.json; mixed products,
+CMCSA,base,2028,Media including Peacock,24632.0,-0.015271516726209813,,see operating_drivers.json; mixed products,
+CMCSA,base,2028,Studios,12800,0.05390624999999999,,see operating_drivers.json; mixed products,
+CMCSA,base,2028,Theme Parks,11700,0.11512820512820512,,see operating_drivers.json; mixed products,
+CMCSA,base,2028,Other revenue less intersegment eliminations,-5405.6,0,,USDm reconciliation,
+CMCSA,base,2029,Residential Connectivity and Platforms,65533.0431,0.24865663451847236,,see operating_drivers.json; mixed products,
+CMCSA,base,2029,Business Services Connectivity,12350,0.4960121457489878,,see operating_drivers.json; mixed products,
+CMCSA,base,2029,Media including Peacock,22690.176,-0.010753862817106413,,see operating_drivers.json; mixed products,
+CMCSA,base,2029,Studios,13000,0.054461538461538464,,see operating_drivers.json; mixed products,
+CMCSA,base,2029,Theme Parks,12300,0.128739837398374,,see operating_drivers.json; mixed products,
+CMCSA,base,2029,Other revenue less intersegment eliminations,-5015.6192,0,,USDm reconciliation,
+CMCSA,base,2030,Residential Connectivity and Platforms,65220.3469,0.2504989756404916,,see operating_drivers.json; mixed products,
+CMCSA,base,2030,Business Services Connectivity,12970,0.5029221279876638,,see operating_drivers.json; mixed products,
+CMCSA,base,2030,Media including Peacock,24793.545,0.0065561952460710254,,see operating_drivers.json; mixed products,
+CMCSA,base,2030,Studios,13400,0.06007462686567164,,see operating_drivers.json; mixed products,
+CMCSA,base,2030,Theme Parks,12900,0.13891472868217056,,see operating_drivers.json; mixed products,
+CMCSA,base,2030,Other revenue less intersegment eliminations,-5473.8447,0,,USDm reconciliation,
+CMCSA,base,2031,Residential Connectivity and Platforms,65127.9377,0.25188293850748505,,see operating_drivers.json; mixed products,
+CMCSA,base,2031,Business Services Connectivity,13620,0.5043612334801761,,see operating_drivers.json; mixed products,
+CMCSA,base,2031,Media including Peacock,22941.1632,0.006986693203258704,,see operating_drivers.json; mixed products,
+CMCSA,base,2031,Studios,13700,0.05974452554744525,,see operating_drivers.json; mixed products,
+CMCSA,base,2031,Theme Parks,14200,0.13161971830985916,,see operating_drivers.json; mixed products,
+CMCSA,base,2031,Other revenue less intersegment eliminations,-5120.071,0,,USDm reconciliation,
+CMCSA,base,2032,Residential Connectivity and Platforms,65030.2762,0.24824598476678192,,see operating_drivers.json; mixed products,
+CMCSA,base,2032,Business Services Connectivity,14230,0.5054884047786367,,see operating_drivers.json; mixed products,
+CMCSA,base,2032,Media including Peacock,24968.9246,0.0202760271571384,,see operating_drivers.json; mixed products,
+CMCSA,base,2032,Studios,14100,0.0648936170212766,,see operating_drivers.json; mixed products,
+CMCSA,base,2032,Theme Parks,15100,0.15274834437086093,,see operating_drivers.json; mixed products,
+CMCSA,base,2032,Other revenue less intersegment eliminations,-5561.4601,0,,USDm reconciliation,
+CMCSA,base,2033,Residential Connectivity and Platforms,65079.7849,0.24576476844213632,,see operating_drivers.json; mixed products,
+CMCSA,base,2033,Business Services Connectivity,14870,0.5070544720914593,,see operating_drivers.json; mixed products,
+CMCSA,base,2033,Media including Peacock,22952.7596,0.018764827271310416,,see operating_drivers.json; mixed products,
+CMCSA,base,2033,Studios,14500,0.06544827586206897,,see operating_drivers.json; mixed products,
+CMCSA,base,2033,Theme Parks,15700,0.16108280254777071,,see operating_drivers.json; mixed products,
+CMCSA,base,2033,Other revenue less intersegment eliminations,-5193.1806,0,,USDm reconciliation,
+CMCSA,base,2034,Residential Connectivity and Platforms,65214.7072,0.243466380764185,,see operating_drivers.json; mixed products,
+CMCSA,base,2034,Business Services Connectivity,15540,0.5086100386100385,,see operating_drivers.json; mixed products,
+CMCSA,base,2034,Media including Peacock,24966.2333,0.028365104977469482,,see operating_drivers.json; mixed products,
+CMCSA,base,2034,Studios,14900,0.06597315436241612,,see operating_drivers.json; mixed products,
+CMCSA,base,2034,Theme Parks,16300,0.1641717791411043,,see operating_drivers.json; mixed products,
+CMCSA,base,2034,Other revenue less intersegment eliminations,-5629.9279,0,,USDm reconciliation,
+CMCSA,base,2035,Residential Connectivity and Platforms,65430.4872,0.2413490378842193,,see operating_drivers.json; mixed products,
+CMCSA,base,2035,Business Services Connectivity,16240,0.5101477832512314,,see operating_drivers.json; mixed products,
+CMCSA,base,2035,Media including Peacock,23008.5439,0.028636589791794523,,see operating_drivers.json; mixed products,
+CMCSA,base,2035,Studios,15300,0.06647058823529413,,see operating_drivers.json; mixed products,
+CMCSA,base,2035,Theme Parks,16900,0.16704142011834322,,see operating_drivers.json; mixed products,
+CMCSA,base,2035,Other revenue less intersegment eliminations,-5271.5236,0,,USDm reconciliation,
+CMCSA,base,2036,Residential Connectivity and Platforms,66739.096944,0.2413490378842193,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2036,Business Services Connectivity,16564.8,0.5101477832512314,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2036,Media including Peacock,23468.714778,0.028636589791794523,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2036,Studios,15606.0,0.06647058823529413,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2036,Theme Parks,17238.0,0.16704142011834322,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2036,Other revenue less intersegment eliminations,-5376.954072,0,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Residential Connectivity and Platforms,68073.87888288,0.2413490378842193,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Business Services Connectivity,16896.096,0.5101477832512314,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Media including Peacock,23938.08907356,0.028636589791794523,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Studios,15918.119999999999,0.06647058823529413,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Theme Parks,17582.76,0.16704142011834322,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2037,Other revenue less intersegment eliminations,-5484.49315344,0,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Residential Connectivity and Platforms,69435.35646053762,0.2413490378842193,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Business Services Connectivity,17234.017920000002,0.5101477832512314,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Media including Peacock,24416.850855031204,0.028636589791794523,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Studios,16236.482400000003,0.06647058823529413,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Theme Parks,17934.415200000003,0.16704142011834322,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2038,Other revenue less intersegment eliminations,-5594.183016508801,0,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Residential Connectivity and Platforms,70824.06358974836,0.2413490378842193,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Business Services Connectivity,17578.6982784,0.5101477832512314,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Media including Peacock,24905.187872131824,0.028636589791794523,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Studios,16561.212048,0.06647058823529413,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Theme Parks,18293.103504,0.16704142011834322,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2039,Other revenue less intersegment eliminations,-5706.0666768389765,0,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Residential Connectivity and Platforms,72240.54486154333,0.2413490378842193,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Business Services Connectivity,17930.272243968,0.5101477832512314,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Media including Peacock,25403.29162957446,0.028636589791794523,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Studios,16892.43628896,0.06647058823529413,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Theme Parks,18658.96557408,0.16704142011834322,,normalized nominal growth; physical split unspecified,
+CMCSA,base,2040,Other revenue less intersegment eliminations,-5820.188010375756,0,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2026,Residential Connectivity and Platforms,68467.64,0.2531322096102626,,see operating_drivers.json; mixed products,
+CMCSA,upside,2026,Business Services Connectivity,10700,0.47644859813084117,,see operating_drivers.json; mixed products,
+CMCSA,upside,2026,Media including Peacock,24711.6,-0.02488709755742244,,see operating_drivers.json; mixed products,
+CMCSA,upside,2026,Studios,12300,0.05731707317073172,,see operating_drivers.json; mixed products,
+CMCSA,upside,2026,Theme Parks,10300,0.06407766990291261,,see operating_drivers.json; mixed products,
+CMCSA,upside,2026,Other revenue less intersegment eliminations,-5402.32,0,,USDm reconciliation,
+CMCSA,upside,2027,Residential Connectivity and Platforms,68285.32,0.2610871794991954,,see operating_drivers.json; mixed products,
+CMCSA,upside,2027,Business Services Connectivity,11350,0.4883480176211453,,see operating_drivers.json; mixed products,
+CMCSA,upside,2027,Media including Peacock,23337.6,-0.0064592760180995495,,see operating_drivers.json; mixed products,
+CMCSA,upside,2027,Studios,13000,0.0730769230769231,,see operating_drivers.json; mixed products,
+CMCSA,upside,2027,Theme Parks,11500,0.1156521739130435,,see operating_drivers.json; mixed products,
+CMCSA,upside,2027,Other revenue less intersegment eliminations,-5227.52,0,,USDm reconciliation,
+CMCSA,upside,2028,Residential Connectivity and Platforms,69069.03,0.27162567217173894,,see operating_drivers.json; mixed products,
+CMCSA,upside,2028,Business Services Connectivity,12080,0.4974834437086092,,see operating_drivers.json; mixed products,
+CMCSA,upside,2028,Media including Peacock,26118.8,0.026152350031395016,,see operating_drivers.json; mixed products,
+CMCSA,upside,2028,Studios,13600,0.08558823529411765,,see operating_drivers.json; mixed products,
+CMCSA,upside,2028,Theme Parks,12600,0.153015873015873,,see operating_drivers.json; mixed products,
+CMCSA,upside,2028,Other revenue less intersegment eliminations,-5862.96,0,,USDm reconciliation,
+CMCSA,upside,2029,Residential Connectivity and Platforms,70419.9141,0.2807155602593954,,see operating_drivers.json; mixed products,
+CMCSA,upside,2029,Business Services Connectivity,12860,0.5050155520995334,,see operating_drivers.json; mixed products,
+CMCSA,upside,2029,Media including Peacock,24967.35,0.04206333471513794,,see operating_drivers.json; mixed products,
+CMCSA,upside,2029,Studios,14200,0.08661971830985915,,see operating_drivers.json; mixed products,
+CMCSA,upside,2029,Theme Parks,13600,0.16249999999999998,,see operating_drivers.json; mixed products,
+CMCSA,upside,2029,Other revenue less intersegment eliminations,-5711.054,0,,USDm reconciliation,
+CMCSA,upside,2030,Residential Connectivity and Platforms,71731.3183,0.2839928834227943,,see operating_drivers.json; mixed products,
+CMCSA,upside,2030,Business Services Connectivity,13690,0.5120672023374726,,see operating_drivers.json; mixed products,
+CMCSA,upside,2030,Media including Peacock,27883.0062,0.06710147376952943,,see operating_drivers.json; mixed products,
+CMCSA,upside,2030,Studios,14800,0.09216216216216216,,see operating_drivers.json; mixed products,
+CMCSA,upside,2030,Theme Parks,14600,0.16952054794520546,,see operating_drivers.json; mixed products,
+CMCSA,upside,2030,Other revenue less intersegment eliminations,-6371.7369,0,,USDm reconciliation,
+CMCSA,upside,2031,Residential Connectivity and Platforms,73058.3884,0.28582534732856035,,see operating_drivers.json; mixed products,
+CMCSA,upside,2031,Business Services Connectivity,14510,0.5130117160578911,,see operating_drivers.json; mixed products,
+CMCSA,upside,2031,Media including Peacock,26865.5311,0.0728174341821446,,see operating_drivers.json; mixed products,
+CMCSA,upside,2031,Studios,15400,0.09188311688311689,,see operating_drivers.json; mixed products,
+CMCSA,upside,2031,Theme Parks,16000,0.16287500000000002,,see operating_drivers.json; mixed products,
+CMCSA,upside,2031,Other revenue less intersegment eliminations,-6244.9446,0,,USDm reconciliation,
+CMCSA,upside,2032,Residential Connectivity and Platforms,74400.0274,0.2855484336914296,,see operating_drivers.json; mixed products,
+CMCSA,upside,2032,Business Services Connectivity,15380,0.5144603381014304,,see operating_drivers.json; mixed products,
+CMCSA,upside,2032,Media including Peacock,29644.6928,0.0825030666122891,,see operating_drivers.json; mixed products,
+CMCSA,upside,2032,Studios,16000,0.097,,see operating_drivers.json; mixed products,
+CMCSA,upside,2032,Theme Parks,17400,0.1858620689655172,,see operating_drivers.json; mixed products,
+CMCSA,upside,2032,Other revenue less intersegment eliminations,-6876.6137,0,,USDm reconciliation,
+CMCSA,upside,2033,Residential Connectivity and Platforms,75704.8545,0.2862896277206245,,see operating_drivers.json; mixed products,
+CMCSA,upside,2033,Business Services Connectivity,16230,0.5156746765249538,,see operating_drivers.json; mixed products,
+CMCSA,upside,2033,Media including Peacock,28293.4655,0.08512320679912182,,see operating_drivers.json; mixed products,
+CMCSA,upside,2033,Studios,16600,0.09710843373493976,,see operating_drivers.json; mixed products,
+CMCSA,upside,2033,Theme Parks,18500,0.19010810810810808,,see operating_drivers.json; mixed products,
+CMCSA,upside,2033,Other revenue less intersegment eliminations,-6681.3218,0,,USDm reconciliation,
+CMCSA,upside,2034,Residential Connectivity and Platforms,77030.7626,0.28487017057608244,,see operating_drivers.json; mixed products,
+CMCSA,upside,2034,Business Services Connectivity,17120,0.5172663551401868,,see operating_drivers.json; mixed products,
+CMCSA,upside,2034,Media including Peacock,30979.6289,0.09469680108202694,,see operating_drivers.json; mixed products,
+CMCSA,upside,2034,Studios,17300,0.09791907514450868,,see operating_drivers.json; mixed products,
+CMCSA,upside,2034,Theme Parks,19400,0.1931443298969072,,see operating_drivers.json; mixed products,
+CMCSA,upside,2034,Other revenue less intersegment eliminations,-7312.607,0,,USDm reconciliation,
+CMCSA,upside,2035,Residential Connectivity and Platforms,78375.1979,0.2835298375216443,,see operating_drivers.json; mixed products,
+CMCSA,upside,2035,Business Services Connectivity,18060,0.5188704318936876,,see operating_drivers.json; mixed products,
+CMCSA,upside,2035,Media including Peacock,29702.9681,0.09418943739597833,,see operating_drivers.json; mixed products,
+CMCSA,upside,2035,Studios,18000,0.09866666666666668,,see operating_drivers.json; mixed products,
+CMCSA,upside,2035,Theme Parks,20200,0.19514851485148513,,see operating_drivers.json; mixed products,
+CMCSA,upside,2035,Other revenue less intersegment eliminations,-7150.4085,0,,USDm reconciliation,
+CMCSA,upside,2036,Residential Connectivity and Platforms,80334.5778475,0.2835298375216443,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2036,Business Services Connectivity,18511.5,0.5188704318936876,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2036,Media including Peacock,30445.542302499995,0.09418943739597833,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2036,Studios,18450.0,0.09866666666666668,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2036,Theme Parks,20705.0,0.19514851485148513,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2036,Other revenue less intersegment eliminations,-7329.168712499999,0,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Residential Connectivity and Platforms,82342.94229368749,0.2835298375216443,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Business Services Connectivity,18974.2875,0.5188704318936876,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Media including Peacock,31206.680860062497,0.09418943739597833,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Studios,18911.25,0.09866666666666668,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Theme Parks,21222.625,0.19514851485148513,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2037,Other revenue less intersegment eliminations,-7512.397930312499,0,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Residential Connectivity and Platforms,84401.51585102966,0.2835298375216443,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Business Services Connectivity,19448.644687499993,0.5188704318936876,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Media including Peacock,31986.847881564052,0.09418943739597833,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Studios,19384.031249999993,0.09866666666666668,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Theme Parks,21753.190624999992,0.19514851485148513,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2038,Other revenue less intersegment eliminations,-7700.20787857031,0,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Residential Connectivity and Platforms,86511.5537473054,0.2835298375216443,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Business Services Connectivity,19934.86080468749,0.5188704318936876,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Media including Peacock,32786.519078603145,0.09418943739597833,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Studios,19868.632031249992,0.09866666666666668,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Theme Parks,22297.02039062499,0.19514851485148513,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2039,Other revenue less intersegment eliminations,-7892.713075534567,0,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Residential Connectivity and Platforms,88674.34259098802,0.2835298375216443,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Business Services Connectivity,20433.232324804678,0.5188704318936876,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Media including Peacock,33606.18205556822,0.09418943739597833,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Studios,20365.34783203124,0.09866666666666668,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Theme Parks,22854.445900390612,0.19514851485148513,,normalized nominal growth; physical split unspecified,
+CMCSA,upside,2040,Other revenue less intersegment eliminations,-8090.03090242293,0,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2026,Transaction fees,31447.02,0.163,1977800.0,USD million total payment volume,0.0159
+PYPL,downside,2026,Other value added services,3400,0.163,,not disclosed separately,
+PYPL,downside,2027,Transaction fees,30487.393901,0.135,1986990.8366,USD million total payment volume,0.015343500000000001
+PYPL,downside,2027,Other value added services,3366.0,0.135,,not disclosed separately,
+PYPL,downside,2028,Transaction fees,29557.051412,0.12,1996224.383018,USD million total payment volume,0.0148064775
+PYPL,downside,2028,Other value added services,3332.34,0.12,,not disclosed separately,
+PYPL,downside,2029,Transaction fees,28655.098924,0.11,2005500.837726,USD million total payment volume,0.0142882507875
+PYPL,downside,2029,Other value added services,3299.0166,0.11,,not disclosed separately,
+PYPL,downside,2030,Transaction fees,28064.146323,0.105,2035379.791956,USD million total payment volume,0.0137881620099375
+PYPL,downside,2030,Other value added services,3266.026434,0.105,,not disclosed separately,
+PYPL,downside,2031,Transaction fees,27485.380907,0.1,2065703.897787,USD million total payment volume,0.013305576339589687
+PYPL,downside,2031,Other value added services,3233.36617,0.1,,not disclosed separately,
+PYPL,downside,2032,Transaction fees,27190.455899,0.1,2117656.350816,USD million total payment volume,0.012839881167704048
+PYPL,downside,2032,Other value added services,3201.032508,0.1,,not disclosed separately,
+PYPL,downside,2033,Transaction fees,26898.695509,0.1,2170915.408039,USD million total payment volume,0.012390485326834406
+PYPL,downside,2033,Other value added services,3169.022183,0.1,,not disclosed separately,
+PYPL,downside,2034,Transaction fees,26610.065782,0.1,2225513.930551,USD million total payment volume,0.011956818340395203
+PYPL,downside,2034,Other value added services,3137.331961,0.1,,not disclosed separately,
+PYPL,downside,2035,Transaction fees,26324.533123,0.1,2281485.605905,USD million total payment volume,0.01153832969848137
+PYPL,downside,2035,Other value added services,3105.958641,0.1,,not disclosed separately,
+PYPL,downside,2036,Transaction fees,26324.533123,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2036,Other value added services,3105.958641,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2037,Transaction fees,26324.533123,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2037,Other value added services,3105.958641,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2038,Transaction fees,26324.533123,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2038,Other value added services,3105.958641,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2039,Transaction fees,26324.533123,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2039,Other value added services,3105.958641,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2040,Transaction fees,26324.533123,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,downside,2040,Other value added services,3105.958641,0.1,,normalized nominal growth; physical split unspecified,
+PYPL,base,2026,Transaction fees,31447.02,0.163,1977800.0,USD million total payment volume,0.0159
+PYPL,base,2026,Other value added services,3400,0.163,,not disclosed separately,
+PYPL,base,2027,Transaction fees,32955.855315,0.155,2108540.4912,USD million total payment volume,0.0156297
+PYPL,base,2027,Other value added services,3468.0,0.155,,not disclosed separately,
+PYPL,base,2028,Transaction fees,34708.911192,0.16,2259107.150596,USD million total payment volume,0.0153639951
+PYPL,base,2028,Other value added services,3537.36,0.16,,not disclosed separately,
+PYPL,base,2029,Transaction fees,36379.472989,0.163,2408788.813073,USD million total payment volume,0.0151028071833
+PYPL,base,2029,Other value added services,3608.1072,0.163,,not disclosed separately,
+PYPL,base,2030,Transaction fees,37946.234955,0.165,2555980.262284,USD million total payment volume,0.0148460594611839
+PYPL,base,2030,Other value added services,3680.269344,0.165,,not disclosed separately,
+PYPL,base,2031,Transaction fees,39384.530034,0.165,2698739.427874,USD million total payment volume,0.014593676450343774
+PYPL,base,2031,Other value added services,3753.874731,0.165,,not disclosed separately,
+PYPL,base,2032,Transaction fees,40678.907832,0.165,2835639.732201,USD million total payment volume,0.01434558395068793
+PYPL,base,2032,Other value added services,3828.952225,0.165,,not disclosed separately,
+PYPL,base,2033,Transaction fees,42015.825528,0.165,2979484.646716,USD million total payment volume,0.014101709023526235
+PYPL,base,2033,Other value added services,3905.53127,0.165,,not disclosed separately,
+PYPL,base,2034,Transaction fees,43184.990073,0.165,3115355.105576,USD million total payment volume,0.013861979970126288
+PYPL,base,2034,Other value added services,3983.641895,0.165,,not disclosed separately,
+PYPL,base,2035,Transaction fees,44386.688687,0.165,3257421.5291,USD million total payment volume,0.013626326310634141
+PYPL,base,2035,Other value added services,4063.314733,0.165,,not disclosed separately,
+PYPL,base,2036,Transaction fees,45496.355904175,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2036,Other value added services,4164.897601324999,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2037,Transaction fees,46633.764801779376,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2037,Other value added services,4269.020041358125,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2038,Transaction fees,47799.60892182385,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2038,Other value added services,4375.7455423920765,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2039,Transaction fees,48994.59914486944,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2039,Other value added services,4485.139180951878,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2040,Transaction fees,50219.46412349117,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,base,2040,Other value added services,4597.267660475675,0.165,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2026,Transaction fees,31447.02,0.163,1977800.0,USD million total payment volume,0.0159
+PYPL,upside,2026,Other value added services,3400,0.163,,not disclosed separately,
+PYPL,upside,2027,Transaction fees,34165.420536,0.17,2170473.3204,USD million total payment volume,0.015741
+PYPL,upside,2027,Other value added services,3570.0,0.17,,not disclosed separately,
+PYPL,upside,2028,Transaction fees,37301.66128,0.18,2393650.069097,USD million total payment volume,0.015583590000000001
+PYPL,upside,2028,Other value added services,3748.5,0.18,,not disclosed separately,
+PYPL,upside,2029,Transaction fees,40341.590008,0.19,2614871.208483,USD million total payment volume,0.015427754100000001
+PYPL,upside,2029,Other value added services,3935.925,0.19,,not disclosed separately,
+PYPL,upside,2030,Transaction fees,43415.391236,0.195,2842534.970249,USD million total payment volume,0.015273476559000002
+PYPL,upside,2030,Other value added services,4132.72125,0.195,,not disclosed separately,
+PYPL,upside,2031,Transaction fees,46050.441519,0.195,3045514.707405,USD million total payment volume,0.015120741793410001
+PYPL,upside,2031,Other value added services,4339.357313,0.195,,not disclosed separately,
+PYPL,upside,2032,Transaction fees,48610.589566,0.19,3247301.375373,USD million total payment volume,0.0149695343754759
+PYPL,upside,2032,Other value added services,4556.325178,0.19,,not disclosed separately,
+PYPL,upside,2033,Transaction fees,51065.17837,0.19,3445730.973217,USD million total payment volume,0.014819839031721141
+PYPL,upside,2033,Other value added services,4784.141437,0.19,,not disclosed separately,
+PYPL,upside,2034,Transaction fees,53643.711488,0.19,3656285.810066,USD million total payment volume,0.01467164064140393
+PYPL,upside,2034,Other value added services,5023.348509,0.19,,not disclosed separately,
+PYPL,upside,2035,Transaction fees,56078.89191,0.19,3860873.282569,USD million total payment volume,0.01452492423498989
+PYPL,upside,2035,Other value added services,5274.515934,0.19,,not disclosed separately,
+PYPL,upside,2036,Transaction fees,57761.2586673,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2036,Other value added services,5432.75141202,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2037,Transaction fees,59494.096427319,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2037,Other value added services,5595.7339543806,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2038,Transaction fees,61278.91932013857,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2038,Other value added services,5763.605973012018,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2039,Transaction fees,63117.286899742736,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2039,Other value added services,5936.51415220238,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2040,Transaction fees,65010.805506735014,0.19,,normalized nominal growth; physical split unspecified,
+PYPL,upside,2040,Other value added services,6114.60957676845,0.19,,normalized nominal growth; physical split unspecified,
+FISV,downside,2026,Merchant Solutions,10200,0.285,4876000.0,USD million merchant gross payment volume,0.002091878589007383
+FISV,downside,2026,Financial Solutions,9400,0.385,100.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2026,Postage pass-through,1380,0,,not required for profit capture,
+FISV,downside,2027,Merchant Solutions,9894.0,0.245,4973520.0,USD million merchant gross payment volume,0.001989335520918786
+FISV,downside,2027,Financial Solutions,8836.0,0.32,94.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2027,Postage pass-through,1393.8,0,,not required for profit capture,
+FISV,downside,2028,Merchant Solutions,9696.12,0.235,5072990.4,USD million merchant gross payment volume,0.0019113223632356963
+FISV,downside,2028,Financial Solutions,8482.56,0.3,90.24,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2028,Postage pass-through,1407.738,0,,not required for profit capture,
+FISV,downside,2029,Merchant Solutions,9696.12,0.23,5174450.208,USD million merchant gross payment volume,0.0018738454541526433
+FISV,downside,2029,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2029,Postage pass-through,1421.81538,0,,not required for profit capture,
+FISV,downside,2030,Merchant Solutions,9793.0812,0.23,5277939.21216,USD million merchant gross payment volume,0.0018554744202884017
+FISV,downside,2030,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2030,Postage pass-through,1436.033534,0,,not required for profit capture,
+FISV,downside,2031,Merchant Solutions,9891.012012,0.23,5383497.996403,USD million merchant gross payment volume,0.0018372834945992996
+FISV,downside,2031,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2031,Postage pass-through,1450.393869,0,,not required for profit capture,
+FISV,downside,2032,Merchant Solutions,9989.922132,0.23,5491167.956331,USD million merchant gross payment volume,0.001819270911297061
+FISV,downside,2032,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2032,Postage pass-through,1464.897808,0,,not required for profit capture,
+FISV,downside,2033,Merchant Solutions,10089.821353,0.23,5600991.315458,USD million merchant gross payment volume,0.0018014349219134865
+FISV,downside,2033,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2033,Postage pass-through,1479.546786,0,,not required for profit capture,
+FISV,downside,2034,Merchant Solutions,10190.719567,0.23,5713011.141767,USD million merchant gross payment volume,0.0017837737953103287
+FISV,downside,2034,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2034,Postage pass-through,1494.342254,0,,not required for profit capture,
+FISV,downside,2035,Merchant Solutions,10292.626763,0.23,5827271.364602,USD million merchant gross payment volume,0.0017662858169815634
+FISV,downside,2035,Financial Solutions,8312.9088,0.3,88.4352,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,downside,2035,Postage pass-through,1509.285676,0,,not required for profit capture,
+FISV,downside,2036,Merchant Solutions,10292.626763,0.23,,normalized nominal growth; physical split unspecified,
+FISV,downside,2036,Financial Solutions,8312.9088,0.3,,normalized nominal growth; physical split unspecified,
+FISV,downside,2036,Postage pass-through,1509.285676,0,,normalized nominal growth; physical split unspecified,
+FISV,downside,2037,Merchant Solutions,10292.626763,0.23,,normalized nominal growth; physical split unspecified,
+FISV,downside,2037,Financial Solutions,8312.9088,0.3,,normalized nominal growth; physical split unspecified,
+FISV,downside,2037,Postage pass-through,1509.285676,0,,normalized nominal growth; physical split unspecified,
+FISV,downside,2038,Merchant Solutions,10292.626763,0.23,,normalized nominal growth; physical split unspecified,
+FISV,downside,2038,Financial Solutions,8312.9088,0.3,,normalized nominal growth; physical split unspecified,
+FISV,downside,2038,Postage pass-through,1509.285676,0,,normalized nominal growth; physical split unspecified,
+FISV,downside,2039,Merchant Solutions,10292.626763,0.23,,normalized nominal growth; physical split unspecified,
+FISV,downside,2039,Financial Solutions,8312.9088,0.3,,normalized nominal growth; physical split unspecified,
+FISV,downside,2039,Postage pass-through,1509.285676,0,,normalized nominal growth; physical split unspecified,
+FISV,downside,2040,Merchant Solutions,10292.626763,0.23,,normalized nominal growth; physical split unspecified,
+FISV,downside,2040,Financial Solutions,8312.9088,0.3,,normalized nominal growth; physical split unspecified,
+FISV,downside,2040,Postage pass-through,1509.285676,0,,normalized nominal growth; physical split unspecified,
+FISV,base,2026,Merchant Solutions,10200,0.285,4876000.0,USD million merchant gross payment volume,0.002091878589007383
+FISV,base,2026,Financial Solutions,9400,0.385,100.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2026,Postage pass-through,1380,0,,not required for profit capture,
+FISV,base,2027,Merchant Solutions,10506.0,0.29,5144180.0,USD million merchant gross payment volume,0.002042308006329483
+FISV,base,2027,Financial Solutions,9212.0,0.38,98.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2027,Postage pass-through,1393.8,0,,not required for profit capture,
+FISV,base,2028,Merchant Solutions,11031.3,0.3,5427109.9,USD million merchant gross payment volume,0.002032628821465362
+FISV,base,2028,Financial Solutions,9212.0,0.385,98.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2028,Postage pass-through,1407.738,0,,not required for profit capture,
+FISV,base,2029,Merchant Solutions,11582.865,0.31,5725600.9445,USD million merchant gross payment volume,0.00202299550951529
+FISV,base,2029,Financial Solutions,9396.24,0.39,99.96,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2029,Postage pass-through,1421.81538,0,,not required for profit capture,
+FISV,base,2030,Merchant Solutions,12104.093925,0.315,6040508.996447,USD million merchant gross payment volume,0.002003820196628889
+FISV,base,2030,Financial Solutions,9631.146,0.4,102.45899999999999,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2030,Postage pass-through,1436.033534,0,,not required for profit capture,
+FISV,base,2031,Merchant Solutions,12588.257682,0.32,6372736.991252,USD million merchant gross payment volume,0.001975329862079663
+FISV,base,2031,Financial Solutions,9871.92465,0.4,105.02047499999998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2031,Postage pass-through,1450.393869,0,,not required for profit capture,
+FISV,base,2032,Merchant Solutions,13028.846701,0.32,6723237.525771,USD million merchant gross payment volume,0.0019378828504955932
+FISV,base,2032,Financial Solutions,10069.363143,0.4,107.12088449999997,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2032,Postage pass-through,1464.897808,0,,not required for profit capture,
+FISV,base,2033,Merchant Solutions,13419.712102,0.32,7093015.589688,USD million merchant gross payment volume,0.0018919614559298567
+FISV,base,2033,Financial Solutions,10270.750406,0.4,109.26330218999998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2033,Postage pass-through,1479.546786,0,,not required for profit capture,
+FISV,base,2034,Merchant Solutions,13822.303465,0.32,7483131.447121,USD million merchant gross payment volume,0.0018471282460656813
+FISV,base,2034,Financial Solutions,10476.165414,0.4,111.44856823379996,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2034,Postage pass-through,1494.342254,0,,not required for profit capture,
+FISV,base,2035,Merchant Solutions,14236.972569,0.32,7894703.676713,USD million merchant gross payment volume,0.0018033574345538703
+FISV,base,2035,Financial Solutions,10685.688722,0.4,113.67753959847595,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,base,2035,Postage pass-through,1509.285676,0,,not required for profit capture,
+FISV,base,2036,Merchant Solutions,14521.71202038,0.32,,normalized nominal growth; physical split unspecified,
+FISV,base,2036,Financial Solutions,10899.402496440001,0.4,,normalized nominal growth; physical split unspecified,
+FISV,base,2036,Postage pass-through,1539.47138952,0,,normalized nominal growth; physical split unspecified,
+FISV,base,2037,Merchant Solutions,14812.1462607876,0.32,,normalized nominal growth; physical split unspecified,
+FISV,base,2037,Financial Solutions,11117.3905463688,0.4,,normalized nominal growth; physical split unspecified,
+FISV,base,2037,Postage pass-through,1570.2608173104,0,,normalized nominal growth; physical split unspecified,
+FISV,base,2038,Merchant Solutions,15108.389186003355,0.32,,normalized nominal growth; physical split unspecified,
+FISV,base,2038,Financial Solutions,11339.738357296179,0.4,,normalized nominal growth; physical split unspecified,
+FISV,base,2038,Postage pass-through,1601.6660336566083,0,,normalized nominal growth; physical split unspecified,
+FISV,base,2039,Merchant Solutions,15410.556969723419,0.32,,normalized nominal growth; physical split unspecified,
+FISV,base,2039,Financial Solutions,11566.5331244421,0.4,,normalized nominal growth; physical split unspecified,
+FISV,base,2039,Postage pass-through,1633.6993543297401,0,,normalized nominal growth; physical split unspecified,
+FISV,base,2040,Merchant Solutions,15718.768109117887,0.32,,normalized nominal growth; physical split unspecified,
+FISV,base,2040,Financial Solutions,11797.863786930942,0.4,,normalized nominal growth; physical split unspecified,
+FISV,base,2040,Postage pass-through,1666.373341416335,0,,normalized nominal growth; physical split unspecified,
+FISV,upside,2026,Merchant Solutions,10200,0.285,4876000.0,USD million merchant gross payment volume,0.002091878589007383
+FISV,upside,2026,Financial Solutions,9400,0.385,100.0,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2026,Postage pass-through,1380,0,,not required for profit capture,
+FISV,upside,2027,Merchant Solutions,10812.0,0.315,5266080.0,USD million merchant gross payment volume,0.0020531400966183576
+FISV,upside,2027,Financial Solutions,9541.0,0.4,101.49999999999999,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2027,Postage pass-through,1393.8,0,,not required for profit capture,
+FISV,upside,2028,Merchant Solutions,11676.96,0.335,5687366.4,USD million merchant gross payment volume,0.002053140096618357
+FISV,upside,2028,Financial Solutions,9874.935,0.42,105.05249999999997,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2028,Postage pass-through,1407.738,0,,not required for profit capture,
+FISV,upside,2029,Merchant Solutions,12611.1168,0.345,6142355.712,USD million merchant gross payment volume,0.002053140096618357
+FISV,upside,2029,Financial Solutions,10269.9324,0.435,109.25459999999998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2029,Postage pass-through,1421.81538,0,,not required for profit capture,
+FISV,upside,2030,Merchant Solutions,13493.894976,0.35,6633744.16896,USD million merchant gross payment volume,0.002034129540168187
+FISV,upside,2030,Financial Solutions,10680.729696,0.445,113.62478399999998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2030,Postage pass-through,1436.033534,0,,not required for profit capture,
+FISV,upside,2031,Merchant Solutions,14303.528675,0.35,7164443.702477,USD million merchant gross payment volume,0.0019964604746709313
+FISV,upside,2031,Financial Solutions,11054.555235,0.45,117.60165143999998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2031,Postage pass-through,1450.393869,0,,not required for profit capture,
+FISV,upside,2032,Merchant Solutions,15018.705108,0.35,7737599.198675,USD million merchant gross payment volume,0.0019410032391664759
+FISV,upside,2032,Financial Solutions,11386.191892,0.45,121.12970098319997,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2032,Postage pass-through,1464.897808,0,,not required for profit capture,
+FISV,upside,2033,Merchant Solutions,15694.546838,0.35,8356607.134569,USD million merchant gross payment volume,0.0018781003564324634
+FISV,upside,2033,Financial Solutions,11670.84669,0.45,124.15794350777998,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2033,Postage pass-through,1479.546786,0,,not required for profit capture,
+FISV,upside,2034,Merchant Solutions,16322.328712,0.35,9025135.705334,USD million merchant gross payment volume,0.0018085410840251864
+FISV,upside,2034,Financial Solutions,11962.617857,0.45,127.26189209547445,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2034,Postage pass-through,1494.342254,0,,not required for profit capture,
+FISV,upside,2035,Merchant Solutions,16893.610217,0.35,9747146.561761,USD million merchant gross payment volume,0.0017331852055323445
+FISV,upside,2035,Financial Solutions,12261.683303,0.45,130.44343939786128,2026 fee-equivalent account/service index=100 (absolute count undisclosed),94
+FISV,upside,2035,Postage pass-through,1509.285676,0,,not required for profit capture,
+FISV,upside,2036,Merchant Solutions,17315.950472425,0.35,,normalized nominal growth; physical split unspecified,
+FISV,upside,2036,Financial Solutions,12568.225385574999,0.45,,normalized nominal growth; physical split unspecified,
+FISV,upside,2036,Postage pass-through,1547.0178178999997,0,,normalized nominal growth; physical split unspecified,
+FISV,upside,2037,Merchant Solutions,17748.849234235626,0.35,,normalized nominal growth; physical split unspecified,
+FISV,upside,2037,Financial Solutions,12882.431020214373,0.45,,normalized nominal growth; physical split unspecified,
+FISV,upside,2037,Postage pass-through,1585.6932633474999,0,,normalized nominal growth; physical split unspecified,
+FISV,upside,2038,Merchant Solutions,18192.57046509151,0.35,,normalized nominal growth; physical split unspecified,
+FISV,upside,2038,Financial Solutions,13204.49179571973,0.45,,normalized nominal growth; physical split unspecified,
+FISV,upside,2038,Postage pass-through,1625.335594931187,0,,normalized nominal growth; physical split unspecified,
+FISV,upside,2039,Merchant Solutions,18647.384726718796,0.35,,normalized nominal growth; physical split unspecified,
+FISV,upside,2039,Financial Solutions,13534.604090612722,0.45,,normalized nominal growth; physical split unspecified,
+FISV,upside,2039,Postage pass-through,1665.9689848044666,0,,normalized nominal growth; physical split unspecified,
+FISV,upside,2040,Merchant Solutions,19113.569344886764,0.35,,normalized nominal growth; physical split unspecified,
+FISV,upside,2040,Financial Solutions,13872.96919287804,0.45,,normalized nominal growth; physical split unspecified,
+FISV,upside,2040,Postage pass-through,1707.618209424578,0,,normalized nominal growth; physical split unspecified,
+POWL,downside,2026,oil and gas excluding petrochemical,425,0.19,425,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,downside,2026,electric utility,320,0.19,320,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,downside,2026,commercial and other industrial,245,0.19,245,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,downside,2026,petrochemical,98,0.19,98,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,downside,2026,rail and other,74,0.19,74,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,downside,2027,oil and gas excluding petrochemical,445,0.18,436.27450980392155,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,downside,2027,electric utility,340,0.18,333.3333333333333,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,downside,2027,commercial and other industrial,360,0.18,352.94117647058823,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,downside,2027,petrochemical,110,0.18,107.84313725490196,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,downside,2027,rail and other,76,0.18,74.50980392156863,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,downside,2028,oil and gas excluding petrochemical,415,0.15,398.88504421376393,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,downside,2028,electric utility,345,0.15,331.603229527105,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,downside,2028,commercial and other industrial,410,0.15,394.079200307574,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,downside,2028,petrochemical,95,0.15,91.31103421760861,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,downside,2028,rail and other,75,0.15,72.08765859284891,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,downside,2029,oil and gas excluding petrochemical,395,0.13,372.21732214608255,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,downside,2029,electric utility,348,0.13,327.92817242237146,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,downside,2029,commercial and other industrial,370,0.13,348.6592637824064,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,downside,2029,petrochemical,90,0.13,84.809010109234,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,downside,2029,rail and other,76,0.13,71.61649742557537,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,downside,2030,oil and gas excluding petrochemical,390,0.13,360.29971615034054,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,downside,2030,electric utility,350,0.13,323.34589910927997,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,downside,2030,commercial and other industrial,365,0.13,337.2035804996777,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,downside,2030,petrochemical,90,0.13,83.14608834238628,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,downside,2030,rail and other,77,0.13,71.1360978040416,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,downside,2031,oil and gas excluding petrochemical,400,0.135,362.29232393196634,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,downside,2031,electric utility,360,0.135,326.0630915387697,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,downside,2031,commercial and other industrial,380,0.135,344.177707735368,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,downside,2031,petrochemical,93,0.135,84.23296531418218,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,downside,2031,rail and other,79,0.135,71.55273397656336,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,downside,2032,oil and gas excluding petrochemical,412,0.14,365.8442094607111,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,downside,2032,electric utility,371,0.14,329.43738279107725,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,downside,2032,commercial and other industrial,398,0.14,353.4126101101044,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,downside,2032,petrochemical,96,0.14,85.24525268987443,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,downside,2032,rail and other,81,0.14,71.92568195708155,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,downside,2033,oil and gas excluding petrochemical,425,0.14,369.9880759109133,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,downside,2033,electric utility,382,0.14,332.5539882305151,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,downside,2033,commercial and other industrial,418,0.14,363.8941546606159,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,downside,2033,petrochemical,99,0.14,86.18545768277747,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,downside,2033,rail and other,83,0.14,72.25649482495484,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,downside,2034,oil and gas excluding petrochemical,438,0.14,373.8287825812688,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,downside,2034,electric utility,393,0.14,335.4217158777138,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,downside,2034,commercial and other industrial,439,0.14,374.6822729524589,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,downside,2034,petrochemical,102,0.14,87.05601786139137,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,downside,2034,rail and other,85,0.14,72.54668155115947,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,downside,2035,oil and gas excluding petrochemical,450,0.14,376.5398696426962,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,downside,2035,electric utility,405,0.14,338.8858826784266,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,downside,2035,commercial and other industrial,461,0.14,385.7441775672955,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,downside,2035,petrochemical,105,0.14,87.85930291662912,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,downside,2035,rail and other,88,0.14,73.63446339679393,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,downside,2036,oil and gas excluding petrochemical,456.74999999999994,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2036,electric utility,411.075,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2036,commercial and other industrial,467.91499999999996,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2036,petrochemical,106.57499999999999,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2036,rail and other,89.32,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2037,oil and gas excluding petrochemical,463.6012499999999,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2037,electric utility,417.2411249999999,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2037,commercial and other industrial,474.93372499999987,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2037,petrochemical,108.17362499999997,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2037,rail and other,90.65979999999998,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2038,oil and gas excluding petrochemical,470.5552687499998,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2038,electric utility,423.4997418749998,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2038,commercial and other industrial,482.05773087499983,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2038,petrochemical,109.79622937499995,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2038,rail and other,92.01969699999997,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2039,oil and gas excluding petrochemical,477.61359778124984,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2039,electric utility,429.85223800312485,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2039,commercial and other industrial,489.2885968381248,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2039,petrochemical,111.44317281562496,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2039,rail and other,93.39999245499997,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2040,oil and gas excluding petrochemical,484.7778017479685,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2040,electric utility,436.30002157317165,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2040,commercial and other industrial,496.6279257906966,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2040,petrochemical,113.11482040785933,0.14,,normalized nominal growth; physical split unspecified,
+POWL,downside,2040,rail and other,94.80099234182495,0.14,,normalized nominal growth; physical split unspecified,
+POWL,base,2026,oil and gas excluding petrochemical,430,0.2,430,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,base,2026,electric utility,325,0.2,325,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,base,2026,commercial and other industrial,250,0.2,250,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,base,2026,petrochemical,100,0.2,100,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,base,2026,rail and other,75,0.2,75,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,base,2027,oil and gas excluding petrochemical,480,0.205,470.5882352941176,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,base,2027,electric utility,365,0.205,357.84313725490193,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,base,2027,commercial and other industrial,450,0.205,441.1764705882353,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,base,2027,petrochemical,120,0.205,117.6470588235294,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,base,2027,rail and other,80,0.205,78.43137254901961,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,base,2028,oil and gas excluding petrochemical,510,0.205,490.19607843137254,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,base,2028,electric utility,400,0.205,384.46751249519417,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,base,2028,commercial and other industrial,620,0.205,595.924644367551,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,base,2028,petrochemical,140,0.205,134.56362937331795,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,base,2028,rail and other,85,0.205,81.69934640522875,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,base,2029,oil and gas excluding petrochemical,535,0.2,504.1424489826687,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,base,2029,electric utility,430,0.2,405.19860385522907,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,base,2029,commercial and other industrial,750,0.2,706.7417509102833,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,base,2029,petrochemical,150,0.2,141.34835018205666,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,base,2029,rail and other,90,0.2,84.809010109234,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,base,2030,oil and gas excluding petrochemical,560,0.195,517.3534385748479,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,base,2030,electric utility,460,0.195,424.96889597219655,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,base,2030,commercial and other industrial,850,0.195,785.2686121225371,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,base,2030,petrochemical,155,0.195,143.1960410341097,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,base,2030,rail and other,94,0.195,86.84147004649233,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,base,2031,oil and gas excluding petrochemical,582,0.19,527.135331321011,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,base,2031,electric utility,485,0.19,439.2794427675092,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,base,2031,commercial and other industrial,935,0.19,846.8583071909713,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,base,2031,petrochemical,160,0.19,144.91692957278653,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,base,2031,rail and other,98,0.19,88.76161936333176,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,base,2032,oil and gas excluding petrochemical,605,0.185,537.2226862226462,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,base,2032,electric utility,509,0.185,451.9774335327717,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,base,2032,commercial and other industrial,1010,0.185,896.8510960080539,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,base,2032,petrochemical,165,0.185,146.51527806072167,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,base,2032,rail and other,102,0.185,90.57308098299158,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,base,2033,oil and gas excluding petrochemical,629,0.18,547.5823523481517,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,base,2033,electric utility,534,0.18,464.87913537982996,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,base,2033,commercial and other industrial,1070,0.18,931.4993911168878,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,base,2033,petrochemical,170,0.18,147.99523036436534,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,base,2033,rail and other,106,0.18,92.27937893307485,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,base,2034,oil and gas excluding petrochemical,654,0.18,558.1827027583329,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,base,2034,electric utility,561,0.18,478.80809823765253,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,base,2034,commercial and other industrial,1124,0.18,959.3231772176853,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,base,2034,petrochemical,175,0.18,149.36081495826951,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,base,2034,rail and other,110,0.18,93.88394083091227,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,base,2035,oil and gas excluding petrochemical,680,0.18,568.9935807934077,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,base,2035,electric utility,589,0.18,492.84885159899574,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,base,2035,commercial and other industrial,1180,0.18,987.3712137297367,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,base,2035,petrochemical,180,0.18,150.61594785707848,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,base,2035,rail and other,115,0.18,96.2268555753557,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,base,2036,oil and gas excluding petrochemical,696.9999999999999,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2036,electric utility,603.7249999999999,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2036,commercial and other industrial,1209.5,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2036,petrochemical,184.49999999999997,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2036,rail and other,117.87499999999999,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2037,oil and gas excluding petrochemical,714.425,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2037,electric utility,618.818125,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2037,commercial and other industrial,1239.7375,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2037,petrochemical,189.11249999999998,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2037,rail and other,120.82187499999999,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2038,oil and gas excluding petrochemical,732.2856249999998,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2038,electric utility,634.2885781249998,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2038,commercial and other industrial,1270.7309374999995,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2038,petrochemical,193.84031249999992,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2038,rail and other,123.84242187499996,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2039,oil and gas excluding petrochemical,750.5927656249997,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2039,electric utility,650.1457925781248,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2039,commercial and other industrial,1302.4992109374994,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2039,petrochemical,198.68632031249993,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2039,rail and other,126.93848242187495,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2040,oil and gas excluding petrochemical,769.3575847656247,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2040,electric utility,666.3994373925777,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2040,commercial and other industrial,1335.061691210937,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2040,petrochemical,203.6534783203124,0.18,,normalized nominal growth; physical split unspecified,
+POWL,base,2040,rail and other,130.11194448242182,0.18,,normalized nominal growth; physical split unspecified,
+POWL,upside,2026,oil and gas excluding petrochemical,440,0.205,440,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,upside,2026,electric utility,330,0.205,330,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,upside,2026,commercial and other industrial,260,0.205,260,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,upside,2026,petrochemical,105,0.205,105,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,upside,2026,rail and other,77,0.205,77,"million USD of 2026-price equivalent custom project workload, not physical units",1
+POWL,upside,2027,oil and gas excluding petrochemical,495,0.215,485.29411764705884,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,upside,2027,electric utility,385,0.215,377.45098039215685,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,upside,2027,commercial and other industrial,490,0.215,480.3921568627451,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,upside,2027,petrochemical,130,0.215,127.45098039215686,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,upside,2027,rail and other,84,0.215,82.35294117647058,"million USD of 2026-price equivalent custom project workload, not physical units",1.02
+POWL,upside,2028,oil and gas excluding petrochemical,555,0.22,533.4486735870819,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,upside,2028,electric utility,450,0.22,432.52595155709344,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,upside,2028,commercial and other industrial,740,0.22,711.2648981161092,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,upside,2028,petrochemical,160,0.22,153.78700499807766,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,upside,2028,rail and other,93,0.22,89.38869665513265,"million USD of 2026-price equivalent custom project workload, not physical units",1.0404
+POWL,upside,2029,oil and gas excluding petrochemical,610,0.225,574.8166240736971,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,upside,2029,electric utility,520,0.225,490.0076139644631,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,upside,2029,commercial and other industrial,1020,0.225,961.1687812379853,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,upside,2029,petrochemical,180,0.225,169.618020218468,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,upside,2029,rail and other,102,0.225,96.11687812379853,"million USD of 2026-price equivalent custom project workload, not physical units",1.0612080000000002
+POWL,upside,2030,oil and gas excluding petrochemical,660,0.225,609.7379811774994,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,upside,2030,electric utility,590,0.225,545.0688013556434,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,upside,2030,commercial and other industrial,1280,0.225,1182.5221453139382,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,upside,2030,petrochemical,195,0.225,180.14985807517027,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,upside,2030,rail and other,110,0.225,101.62299686291657,"million USD of 2026-price equivalent custom project workload, not physical units",1.08243216
+POWL,upside,2031,oil and gas excluding petrochemical,713,0.22,645.78606740873,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,upside,2031,electric utility,655,0.22,593.2536804385949,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,upside,2031,commercial and other industrial,1498,0.22,1356.784753125214,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,upside,2031,petrochemical,209,0.22,189.2977392544524,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,upside,2031,rail and other,118,0.22,106.87623555993008,"million USD of 2026-price equivalent custom project workload, not physical units",1.1040808032
+POWL,upside,2032,oil and gas excluding petrochemical,770,0.215,683.7379642833679,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,upside,2032,electric utility,721,0.215,640.2273665562444,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,upside,2032,commercial and other industrial,1678,0.215,1490.0159793084301,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,upside,2032,petrochemical,224,0.215,198.90558960970702,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,upside,2032,rail and other,126,0.215,111.88439415546019,"million USD of 2026-price equivalent custom project workload, not physical units",1.126162419264
+POWL,upside,2033,oil and gas excluding petrochemical,832,0.21,724.3060686067762,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,upside,2033,electric utility,779,0.21,678.1663791402389,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,upside,2033,commercial and other industrial,1846,0.21,1607.0540897212848,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,upside,2033,petrochemical,238,0.21,207.19332251011147,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,upside,2033,rail and other,134,0.21,116.65506393426445,"million USD of 2026-price equivalent custom project workload, not physical units",1.14868566764928
+POWL,upside,2034,oil and gas excluding petrochemical,882,0.21,752.7785073896783,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,upside,2034,electric utility,834,0.21,711.810969572553,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,upside,2034,commercial and other industrial,1994,0.21,1701.8598001530822,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,upside,2034,petrochemical,250,0.21,213.37259279752786,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,upside,2034,rail and other,142,0.21,121.19563270899583,"million USD of 2026-price equivalent custom project workload, not physical units",1.1716593810022657
+POWL,upside,2035,oil and gas excluding petrochemical,935,0.21,782.3661735909355,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,upside,2035,electric utility,892,0.21,746.3856971584112,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,upside,2035,commercial and other industrial,2114,0.21,1768.9006320547996,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,upside,2035,petrochemical,263,0.21,220.06663492450912,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,upside,2035,rail and other,151,0.21,126.35004514677141,"million USD of 2026-price equivalent custom project workload, not physical units",1.195092568622311
+POWL,upside,2036,oil and gas excluding petrochemical,963.0500000000001,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2036,electric utility,918.76,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2036,commercial and other industrial,2177.42,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2036,petrochemical,270.89,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2036,rail and other,155.53,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2037,oil and gas excluding petrochemical,991.9414999999999,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2037,electric utility,946.3227999999999,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2037,commercial and other industrial,2242.7426,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2037,petrochemical,279.0167,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2037,rail and other,160.1959,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2038,oil and gas excluding petrochemical,1021.699745,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2038,electric utility,974.712484,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2038,commercial and other industrial,2310.024878,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2038,petrochemical,287.387201,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2038,rail and other,165.001777,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2039,oil and gas excluding petrochemical,1052.3507373500001,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2039,electric utility,1003.9538585200002,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2039,commercial and other industrial,2379.32562434,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2039,petrochemical,296.00881703000005,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2039,rail and other,169.95183031000002,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2040,oil and gas excluding petrochemical,1083.9212594705,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2040,electric utility,1034.0724742756001,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2040,commercial and other industrial,2450.7053930702,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2040,petrochemical,304.8890815409,0.21,,normalized nominal growth; physical split unspecified,
+POWL,upside,2040,rail and other,175.0503852193,0.21,,normalized nominal growth; physical split unspecified,
+MWA,downside,2026,Water Flow Solutions,835,0.26,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,downside,2026,Water Management Solutions,630,0.2,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,downside,2027,Water Flow Solutions,810,0.245,94.63998831605083,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,downside,2027,Water Management Solutions,620,0.18,96.01238869531554,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,downside,2028,Water Flow Solutions,790,0.23,90.05190095715767,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,downside,2028,Water Management Solutions,600,0.16,90.64899011359452,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,downside,2029,Water Flow Solutions,800,0.235,88.96760823183224,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,downside,2029,Water Management Solutions,610,0.165,89.91200645413443,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,downside,2030,Water Flow Solutions,820,0.24,88.96760823183226,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,downside,2030,Water Management Solutions,630,0.17,90.59506447997552,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,downside,2031,Water Flow Solutions,845,0.24,89.44393688982541,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,downside,2031,Water Management Solutions,649,0.175,91.05102105691694,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,downside,2032,Water Flow Solutions,870,0.24,89.84410459708253,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,downside,2032,Water Management Solutions,669,0.18,91.56771481390122,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,downside,2033,Water Flow Solutions,896,0.24,90.27229348919086,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,downside,2033,Water Management Solutions,689,0.18,92.0050392019803,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,downside,2034,Water Flow Solutions,923,0.24,90.72444130065678,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,downside,2034,Water Management Solutions,710,0.18,92.49683575830086,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,downside,2035,Water Flow Solutions,951,0.24,91.19672719068213,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,downside,2035,Water Management Solutions,731,0.18,92.90990991318164,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,downside,2036,Water Flow Solutions,965.2649999999999,0.24,,normalized nominal growth; physical split unspecified,
+MWA,downside,2036,Water Management Solutions,741.9649999999999,0.18,,normalized nominal growth; physical split unspecified,
+MWA,downside,2037,Water Flow Solutions,979.7439749999998,0.24,,normalized nominal growth; physical split unspecified,
+MWA,downside,2037,Water Management Solutions,753.0944749999998,0.18,,normalized nominal growth; physical split unspecified,
+MWA,downside,2038,Water Flow Solutions,994.4401346249996,0.24,,normalized nominal growth; physical split unspecified,
+MWA,downside,2038,Water Management Solutions,764.3908921249997,0.18,,normalized nominal growth; physical split unspecified,
+MWA,downside,2039,Water Flow Solutions,1009.3567366443747,0.24,,normalized nominal growth; physical split unspecified,
+MWA,downside,2039,Water Management Solutions,775.8567555068747,0.18,,normalized nominal growth; physical split unspecified,
+MWA,downside,2040,Water Flow Solutions,1024.4970876940401,0.24,,normalized nominal growth; physical split unspecified,
+MWA,downside,2040,Water Management Solutions,787.4946068394778,0.18,,normalized nominal growth; physical split unspecified,
+MWA,base,2026,Water Flow Solutions,838,0.285,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,base,2026,Water Management Solutions,637,0.225,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,base,2027,Water Flow Solutions,872,0.29,101.51929681587987,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,base,2027,Water Management Solutions,675,0.23,103.38093961787342,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,base,2028,Water Flow Solutions,915,0.29,103.92722822390922,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,base,2028,Water Management Solutions,716,0.235,106.98573118901156,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,base,2029,Water Flow Solutions,957,0.285,106.04649597257755,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,base,2029,Water Management Solutions,759,0.24,110.64473357740808,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,base,2030,Water Flow Solutions,1000,0.28,108.1086688305197,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,base,2030,Water Management Solutions,805,0.24,114.48826829887017,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,base,2031,Water Flow Solutions,1040,0.275,109.69074691096635,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,base,2031,Water Management Solutions,845,0.24,117.24597692779311,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,base,2032,Water Flow Solutions,1082,0.27,111.33713710850432,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,base,2032,Water Management Solutions,887,0.24,120.07179279544235,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,base,2033,Water Flow Solutions,1125,0.27,112.93835196525616,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,base,2033,Water Management Solutions,931,0.24,122.95414974296128,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,base,2034,Water Flow Solutions,1170,0.27,114.59110833547946,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,base,2034,Water Management Solutions,978,0.24,126.01101197098966,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,base,2035,Water Flow Solutions,1217,0.27,116.28716184638607,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,base,2035,Water Management Solutions,1027,0.24,129.09702159130768,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,base,2036,Water Flow Solutions,1247.425,0.27,,normalized nominal growth; physical split unspecified,
+MWA,base,2036,Water Management Solutions,1052.675,0.24,,normalized nominal growth; physical split unspecified,
+MWA,base,2037,Water Flow Solutions,1278.6106249999998,0.27,,normalized nominal growth; physical split unspecified,
+MWA,base,2037,Water Management Solutions,1078.991875,0.24,,normalized nominal growth; physical split unspecified,
+MWA,base,2038,Water Flow Solutions,1310.5758906249996,0.27,,normalized nominal growth; physical split unspecified,
+MWA,base,2038,Water Management Solutions,1105.9666718749997,0.24,,normalized nominal growth; physical split unspecified,
+MWA,base,2039,Water Flow Solutions,1343.3402878906245,0.27,,normalized nominal growth; physical split unspecified,
+MWA,base,2039,Water Management Solutions,1133.6158386718746,0.24,,normalized nominal growth; physical split unspecified,
+MWA,base,2040,Water Flow Solutions,1376.9237950878899,0.27,,normalized nominal growth; physical split unspecified,
+MWA,base,2040,Water Management Solutions,1161.9562346386713,0.24,,normalized nominal growth; physical split unspecified,
+MWA,upside,2026,Water Flow Solutions,842,0.29,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,upside,2026,Water Management Solutions,638,0.23,100,mix-adjusted shipment volume index; FY2026=100,1
+MWA,upside,2027,Water Flow Solutions,901,0.3,104.3971959909623,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,upside,2027,Water Management Solutions,689,0.245,105.35973698294978,mix-adjusted shipment volume index; FY2026=100,1.025
+MWA,upside,2028,Water Flow Solutions,973,0.305,109.98995338426822,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,upside,2028,Water Management Solutions,751,0.255,112.03959428538396,mix-adjusted shipment volume index; FY2026=100,1.050625
+MWA,upside,2029,Water Flow Solutions,1051,0.305,115.90949891646748,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,upside,2029,Water Management Solutions,819,0.265,119.20421905066998,mix-adjusted shipment volume index; FY2026=100,1.0768906249999997
+MWA,upside,2030,Water Flow Solutions,1135,0.3,122.12042539759172,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,upside,2030,Water Management Solutions,893,0.27,126.80469056523218,mix-adjusted shipment volume index; FY2026=100,1.1038128906249995
+MWA,upside,2031,Water Flow Solutions,1220,0.3,128.06439796717473,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,upside,2031,Water Management Solutions,965,0.27,133.68642437980944,mix-adjusted shipment volume index; FY2026=100,1.1314082128906244
+MWA,upside,2032,Water Flow Solutions,1305,0.295,133.64577316846305,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,upside,2032,Water Management Solutions,1042,0.27,140.8328110236436,mix-adjusted shipment volume index; FY2026=100,1.15969341821289
+MWA,upside,2033,Water Flow Solutions,1383,0.29,138.179313553488,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,upside,2033,Water Management Solutions,1115,0.27,147.02362650752548,mix-adjusted shipment volume index; FY2026=100,1.1886857536682123
+MWA,upside,2034,Water Flow Solutions,1466,0.29,142.89958109406095,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,upside,2034,Water Management Solutions,1193,0.27,153.47189012226002,mix-adjusted shipment volume index; FY2026=100,1.2184028975099173
+MWA,upside,2035,Water Flow Solutions,1554,0.29,147.78288292028796,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,upside,2035,Water Management Solutions,1277,0.27,160.2711783665905,mix-adjusted shipment volume index; FY2026=100,1.2488629699476652
+MWA,upside,2036,Water Flow Solutions,1600.6200000000001,0.29,,normalized nominal growth; physical split unspecified,
+MWA,upside,2036,Water Management Solutions,1315.31,0.27,,normalized nominal growth; physical split unspecified,
+MWA,upside,2037,Water Flow Solutions,1648.6386,0.29,,normalized nominal growth; physical split unspecified,
+MWA,upside,2037,Water Management Solutions,1354.7693,0.27,,normalized nominal growth; physical split unspecified,
+MWA,upside,2038,Water Flow Solutions,1698.097758,0.29,,normalized nominal growth; physical split unspecified,
+MWA,upside,2038,Water Management Solutions,1395.412379,0.27,,normalized nominal growth; physical split unspecified,
+MWA,upside,2039,Water Flow Solutions,1749.0406907400002,0.29,,normalized nominal growth; physical split unspecified,
+MWA,upside,2039,Water Management Solutions,1437.2747503700002,0.27,,normalized nominal growth; physical split unspecified,
+MWA,upside,2040,Water Flow Solutions,1801.5119114622,0.29,,normalized nominal growth; physical split unspecified,
+MWA,upside,2040,Water Management Solutions,1480.3929928811,0.27,,normalized nominal growth; physical split unspecified,

@@ -1,0 +1,145 @@
+[
+  {
+    "ticker": "CF",
+    "company": "CF Industries",
+    "listing": "US/NYSE",
+    "value_chain": "nitrogen fertilizer",
+    "role": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+    "mechanism": "Low-cost natural gas converted to nitrogen; fertilizer affordability and geographical gas-cost spread determine cash margin.",
+    "source_ids": [
+      "AT1"
+    ],
+    "source_date": "2026-08-05",
+    "decision": "Advanced for complete operating/DCF comparison; reject at 135.84 because weighted fair value 66.53 requires normalization rather than permanent 2026 rents."
+  },
+  {
+    "ticker": "NTR",
+    "company": "Nutrien",
+    "listing": "Canada/TSX & NYSE",
+    "value_chain": "crop input distribution / potash",
+    "role": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+    "mechanism": "Low-cost Saskatchewan potash and farmer retail distribution; share-gain volumes and proprietary-product mix can offset lower commodity prices.",
+    "source_ids": [
+      "AT13"
+    ],
+    "source_date": "2026-08-05",
+    "decision": "Reject from deep shortlist: $81.47 and mine additions elsewhere leave uncertain gap; retail working capital and fertilizer cross-budget affordability limit simple potash thesis."
+  },
+  {
+    "ticker": "MOS",
+    "company": "Mosaic",
+    "listing": "US/NYSE",
+    "value_chain": "phosphate and potash",
+    "role": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+    "mechanism": "Sulfur/ammonia convert mined rock into phosphate; a sulfur shortage raises costs and constrains phosphate output even at higher selling prices.",
+    "source_ids": [
+      "AT12"
+    ],
+    "source_date": "2026-08-04",
+    "decision": "Unconfirmed research candidate: $26.64 looks cyclical-value-like, but Q2negativeFCF and $705/longton sulfur contracts make normalization economically decisive. No recommendation without sulfur supply/model and Maaden asset valuation."
+  },
+  {
+    "ticker": "YAR.OL",
+    "company": "Yara International",
+    "listing": "Norway/Oslo",
+    "value_chain": "nitrogen fertilizer",
+    "role": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+    "mechanism": "Global nitrogen distribution and upstream ammonia; Gulf Coast investment lowers gas exposure but global supply recovery reduces fertilizer prices.",
+    "source_ids": [
+      "AT14"
+    ],
+    "source_date": "2026-07-17",
+    "decision": "Reject from deep shortlist: current primary listing price unavailable from installed US-market feed, and European gas exposure versus CF adds dependence on input-price normalization. Role screened, not valued."
+  },
+  {
+    "ticker": "ICL",
+    "company": "ICL Group",
+    "listing": "Israel/NYSE & TASE",
+    "value_chain": "specialty minerals and crop nutrition",
+    "role": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+    "mechanism": "Bromine price recovery plus potash; differentiated industrial products create value beyond fertilizer volumes.",
+    "source_ids": [
+      "AT15"
+    ],
+    "source_date": "2026-08-05",
+    "decision": "Unconfirmed: industrial segment Q2sales414m of2135m total, ~19%; cannot assign bromine upside to wholecompany. Netdebt2635m and geopolitical/concession economics need deeper work."
+  },
+  {
+    "ticker": "GSL",
+    "company": "Global Ship Lease",
+    "listing": "Marshall Islands/NYSE; Greek operations",
+    "value_chain": "containership leasing",
+    "role": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+    "mechanism": "Hub-and-spoke trade and less-interchangeable midsize ships; contract repricing and financed newbuild renewals capture charter margin.",
+    "source_ids": [
+      "AT8"
+    ],
+    "source_date": "2026-08-05",
+    "decision": "Advanced for complete cohort/DCF comparison; reject at 45.36 because weighted finite-life fair value 26.41 incorporates newbuild capex, refinancing, and old-fleet depletion."
+  },
+  {
+    "ticker": "STNG",
+    "company": "Scorpio Tankers",
+    "listing": "Marshall Islands/NYSE; Monaco operations",
+    "value_chain": "refined-product shipping",
+    "role": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+    "mechanism": "Refinery migration and route disruption increase tonne-miles; vessel sale proceeds and constrained tanker availability support cash.",
+    "source_ids": [
+      "AT16"
+    ],
+    "source_date": "2026-07-30",
+    "decision": "Reject from deep shortlist: current ~$81.44 already reflects record2026conditions; newconvertible dilution (basic vs dilutedEPS) and fleet disposals complicate sustainableper-sharecash. Cannot capitalize vesselsalegains."
+  },
+  {
+    "ticker": "TNK",
+    "company": "Teekay Tankers",
+    "listing": "Marshall Islands/NYSE",
+    "value_chain": "crude oil shipping",
+    "role": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+    "mechanism": "Atlantic-Asia crude trade and inefficiency increase Suezmax/Aframax hire; flexible spot exposure transmits immediately to cash.",
+    "source_ids": [
+      "AT17"
+    ],
+    "source_date": "2026-07-29",
+    "decision": "Reject from deep shortlist: ~$92.07 price, predominantly spot exposure and record-disruption backdrop; persistent scarcity not evidenced through fiveyears."
+  },
+  {
+    "ticker": "FLNG",
+    "company": "Flex LNG",
+    "listing": "Bermuda/NYSE & Oslo",
+    "value_chain": "LNG shipping",
+    "role": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+    "mechanism": "Liquefaction growth raises ship-days but large newbuild orderbook can dominate cargo growth; termcharters defer normalization.",
+    "source_ids": [
+      "AT18"
+    ],
+    "source_date": "2026-08-19",
+    "decision": "Reject: $31.10 against $3annualdividend is not a self-sufficient valuation; 2026higherquarters driven by twospotships, whilecapacitygrowth risk survivesLNGdemandgrowth."
+  },
+  {
+    "ticker": "LNG",
+    "company": "Cheniere Energy",
+    "listing": "US/NYSE",
+    "value_chain": "LNG liquefaction infrastructure",
+    "role": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+    "mechanism": "Customer take-or-pay capacity contracts and newtrains monetize exportarbitrage even when gaspricesnormalize.",
+    "source_ids": [
+      "AT19"
+    ],
+    "source_date": "2026-08-06",
+    "decision": "Reserve comparison: at ~$279.63, requires complete NCI/growthcapex reconciliation; reported distributablecash is not FCFF. Contractedbusiness strongerthan shipping but not provencheap."
+  },
+  {
+    "ticker": "MAERSK-B.CO",
+    "company": "A.P. Moller-Maersk",
+    "listing": "Denmark/Copenhagen",
+    "value_chain": "container liner and logistics",
+    "role": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+    "mechanism": "Liner customers capture increased spotfreight when congestion absorbs capacity, but charter hire and fuel also consume upside.",
+    "source_ids": [
+      "AT11"
+    ],
+    "source_date": "2026-08-13",
+    "decision": "Leader/customer comparison; reject from recommendation: current localprice unavailable and customer earnings showvisible2026windfall, no independent valuationgap established."
+  }
+]
